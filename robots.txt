@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://musanglu-trendnow.github.io/trendnow/sitemap.xml
