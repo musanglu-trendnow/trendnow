@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>실검 이력 - 시간대별 실시간 검색어 기록 | 트렌드나우</title>
+<meta name="description" content="최근 7일간 1시간 단위 실시간 검색어 순위 기록과 가장 오래 머문 키워드를 확인하세요.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-root="./" data-page="history">
+<div class="wrap grid">
+<main>
+  <div class="ad-slot" data-slot="top"></div>
+  <section class="card">
+    <div class="head-row"><div><h1>실검 이력</h1><div class="sub">최근 7일 · 1시간 단위 기록</div></div>
+      <select id="sel" style="font:inherit;padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--text)"></select></div>
+    <div id="snap"><p class="sub">불러오는 중…</p></div>
+  </section>
+  <div class="ad-slot" data-slot="middle"></div>
+  <section class="card">
+    <h2>최근 7일 가장 오래 머문 키워드</h2>
+    <p class="sub" style="margin-bottom:10px">순위에 등장한 시간 수 기준</p>
+    <table class="t" id="top"></table>
+  </section>
+</main>
+<aside class="side"></aside>
+</div>
+<script src="assets/config.js"></script><script src="assets/common.js"></script>
+<script>
+fetch("data/history.json?" + Date.now()).then(r => r.json()).then(h => {
+  if (!h.length) { snap.innerHTML = '<p class="sub">아직 기록이 없습니다.</p>'; return; }
+  sel.innerHTML = h.map((s, i) => `<option value="${i}">${s.t}</option>`).join("");
+  const show = i => snap.innerHTML = '<ol class="rank">' + h[i].keywords.map((k, n) =>
+    `<li><span class="num">${n + 1}</span><a class="kw" href="k/${k.s}.html">${esc(k.k)}</a><span class="traffic">${esc(k.v)}</span></li>`).join("") + "</ol>";
+  sel.onchange = () => show(sel.value); show(0);
+  const cnt = {};
+  h.forEach(s => s.keywords.forEach(k => { (cnt[k.k] ||= { n: 0, s: k.s }).n++; }));
+  const rows = Object.entries(cnt).sort((a, b) => b[1].n - a[1].n).slice(0, 20);
+  top.innerHTML = "<tr><th>#</th><th>키워드</th><th>등장 시간</th></tr>" +
+    rows.map(([k, v], i) => `<tr><td>${i + 1}</td><td><a href="k/${v.s}.html">${esc(k)}</a></td><td>${v.n}시간</td></tr>`).join("");
+}).catch(() => snap.innerHTML = '<p class="sub">기록을 불러오지 못했습니다.</p>');
+</script>
+</body></html>
