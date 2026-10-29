@@ -15,9 +15,9 @@ window.SITE_CONFIG = {
 
   // 2) 쿠팡 파트너스 — 파트너스에서 발급받은 링크/배너 코드
   coupang: {
-    enabled: false,
+    enabled: true,
     // 다이나믹 배너 iframe 코드 그대로 붙여넣기 (파트너스 > 배너 > 다이나믹 배너)
-    bannerHtml: "",
+    bannerHtml: '<iframe src="https://ads-partners.coupang.com/widgets.html?id=1044542&template=carousel&trackingCode=AF6720578&subId=&width=268&height=400&tsource=" width="268" height="400" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" style="max-width:100%"></iframe>',
     // 또는 간단 링크 목록 (상품 링크 생성 기능으로 만든 link.coupang.com 주소)
     links: [
       // { title: "오늘의 특가 모아보기", url: "https://link.coupang.com/a/xxxxx" }
