@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>글자수 세기 - 공백 포함·제외, 바이트 계산기 | 트렌드나우</title>
+<meta name="description" content="블로그·자기소개서 글자수를 공백 포함/제외, 바이트, 단어, 문단 수까지 실시간으로 세어주는 무료 글자수 세기 도구.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-root="../" data-page="count">
+<div class="wrap grid"><main>
+  <div class="ad-slot" data-slot="top"></div>
+  <section class="card">
+    <h1>글자수 세기</h1><p class="sub">입력하는 즉시 계산됩니다. 글은 서버로 전송되지 않습니다.</p>
+    <div class="stats">
+      <div class="stat"><b id="a">0</b><span>공백 포함</span></div>
+      <div class="stat"><b id="b">0</b><span>공백 제외</span></div>
+      <div class="stat"><b id="c">0</b><span>바이트 (UTF-8)</span></div>
+      <div class="stat"><b id="c2">0</b><span>바이트 (한글 2byte)</span></div>
+      <div class="stat"><b id="d">0</b><span>단어</span></div>
+      <div class="stat"><b id="e">0</b><span>문단</span></div>
+    </div>
+    <textarea id="t" placeholder="여기에 글을 붙여넣으세요"></textarea>
+    <div class="row"><button class="btn ghost" onclick="t.value='';t.oninput()">지우기</button>
+      <button class="btn ghost" onclick="navigator.clipboard.writeText(t.value)">복사</button>
+      <span class="sub" id="tip"></span></div>
+  </section>
+  <div class="ad-slot" data-slot="middle"></div>
+  <section class="card prose"><h2>블로그 글자수, 얼마가 적당할까?</h2>
+    <p>검색 노출용 블로그 글은 공백 제외 1,500~2,500자가 무난합니다. 자기소개서는 기업이 제시한 기준이 "공백 포함"인지 "바이트"인지 먼저 확인하세요.</p></section>
+</main><aside class="side"></aside></div>
+<script src="../assets/config.js"></script><script src="../assets/common.js"></script>
+<script>
+t.oninput = () => {
+  const v = t.value, nb = v.replace(/\s/g, "");
+  a.textContent = [...v].length.toLocaleString();
+  b.textContent = [...nb].length.toLocaleString();
+  c.textContent = new TextEncoder().encode(v).length.toLocaleString();
+  c2.textContent = [...v].reduce((s, ch) => s + (ch.charCodeAt(0) > 127 ? 2 : 1), 0).toLocaleString();
+  d.textContent = (v.trim() ? v.trim().split(/\s+/).length : 0).toLocaleString();
+  e.textContent = (v.trim() ? v.trim().split(/\n\s*\n/).length : 0).toLocaleString();
+  const n = [...nb].length;
+  tip.textContent = !n ? "" : n < 1000 ? "블로그 글로는 조금 짧아요" : n <= 3000 ? "블로그에 적당한 분량이에요 👍" : "긴 글이에요. 소제목으로 나눠보세요";
+};
+</script>
+</body></html>

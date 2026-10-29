@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>블로그 제목 생성기 - 클릭되는 제목 만들기 | 트렌드나우</title>
+<meta name="description" content="키워드만 넣으면 검증된 패턴으로 블로그·유튜브 제목 후보를 여러 개 만들어주는 무료 제목 생성기.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-root="../" data-page="title">
+<div class="wrap grid"><main>
+  <div class="ad-slot" data-slot="top"></div>
+  <section class="card">
+    <h1>블로그 제목 생성기</h1><p class="sub">키워드를 넣고 생성을 누르세요. 마음에 드는 제목을 누르면 복사됩니다.</p>
+    <div class="row"><input type="text" id="kw" placeholder="키워드 (예: 제주도 여행)" style="flex:1;min-width:200px">
+      <button class="btn" onclick="gen()">생성</button></div>
+    <div id="out"></div>
+  </section>
+  <div class="ad-slot" data-slot="middle"></div>
+  <section class="card prose"><h2>좋은 제목의 조건</h2>
+    <p>핵심 키워드를 제목 앞쪽에 두고, 숫자·기간·대상처럼 구체적인 정보를 더하면 클릭률이 올라갑니다. 제목은 30자 안팎이 검색 결과에서 잘리지 않습니다.</p></section>
+</main><aside class="side"></aside></div>
+<script src="../assets/config.js"></script><script src="../assets/common.js"></script>
+<script>
+const Y = new Date().getFullYear();
+const P = [
+  k => `${k} 총정리 (${Y}년 최신)`, k => `${k} 완벽 가이드, 이것만 알면 끝`, k => `${k} 하기 전 꼭 알아야 할 5가지`,
+  k => `${k} 후기 | 직접 해보고 느낀 장단점`, k => `${k} 추천 TOP 7 비교 정리`, k => `초보도 쉽게 하는 ${k} 방법`,
+  k => `${k} 비용, 실제로 얼마 들까?`, k => `${k} 실패하지 않는 꿀팁 3가지`, k => `${Y} ${k} 트렌드 한눈에 보기`,
+  k => `${k} 자주 묻는 질문 10가지`, k => `${k}, 이렇게 하면 시간 절반으로 줄어요`, k => `${k} 솔직 리뷰 (광고 아님)`,
+  k => `${k} vs 대안, 뭐가 더 나을까?`, k => `요즘 난리 난 ${k}, 이유가 뭘까`, k => `${k} 체크리스트 (저장 필수)`
+];
+function gen() {
+  const k = kw.value.trim(); if (!k) return kw.focus();
+  out.innerHTML = '<div class="tool-list" style="margin-top:10px">' + P.map(f => f(k)).map(s =>
+    `<a href="#" onclick="navigator.clipboard.writeText(this.dataset.t);this.querySelector('small').textContent='복사됨 ✓';return false" data-t="${esc(s)}">${esc(s)}<small>${[...s].length}자 · 눌러서 복사</small></a>`).join("") + "</div>";
+}
+kw.onkeydown = e => e.key === "Enter" && gen();
+const q = new URLSearchParams(location.search).get("q"); if (q) { kw.value = q; gen(); }
+</script>
+</body></html>

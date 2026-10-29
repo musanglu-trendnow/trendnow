@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>키워드 밀도 분석 - 블로그 반복 단어 체크 | 트렌드나우</title>
+<meta name="description" content="블로그 글에서 많이 반복된 단어와 목표 키워드의 등장 횟수·비중을 분석하는 무료 키워드 밀도 분석기.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-root="../" data-page="density">
+<div class="wrap grid"><main>
+  <div class="ad-slot" data-slot="top"></div>
+  <section class="card">
+    <h1>키워드 밀도 분석</h1><p class="sub">조사(은/는/이/가/을/를 등)를 떼고 단어를 셉니다.</p>
+    <div class="row"><input type="text" id="kw" placeholder="목표 키워드 (예: 판교 맛집)" style="flex:1;min-width:200px"></div>
+    <textarea id="t" placeholder="분석할 글을 붙여넣으세요"></textarea>
+    <div class="stats" id="sum"></div>
+    <table class="t" id="tb"></table>
+  </section>
+  <div class="ad-slot" data-slot="middle"></div>
+  <section class="card prose"><h2>적정 키워드 반복 횟수</h2>
+    <p>목표 키워드는 본문에 자연스럽게 4~7회, 제목과 첫 문단에 한 번씩 넣는 것이 일반적입니다. 같은 단어를 지나치게 반복하면 오히려 품질이 낮은 글로 판단될 수 있습니다.</p></section>
+</main><aside class="side"></aside></div>
+<script src="../assets/config.js"></script><script src="../assets/common.js"></script>
+<script>
+const JOSA = /(으로써|으로서|에게서|이라는|라는|에서|에게|으로|로서|부터|까지|처럼|보다|하고|이랑|랑|은|는|이|가|을|를|의|에|와|과|도|만|로|요|죠)$/;
+const STOP = new Set(["그리고","그래서","하지만","그런데","정말","너무","이번","오늘","있는","있습니다","합니다","했습니다","입니다","것","수","등","더","좀","잘","또"]);
+function go() {
+  const v = t.value, words = (v.match(/[가-힣A-Za-z0-9]+/g) || []).map(w => w.length > 2 ? w.replace(JOSA, "") : w).filter(w => w.length > 1 && !STOP.has(w));
+  const cnt = {}; words.forEach(w => cnt[w] = (cnt[w] || 0) + 1);
+  const total = words.length || 1, k = kw.value.trim();
+  const kc = k ? v.split(k).length - 1 : 0;
+  sum.innerHTML = `<div class="stat"><b>${[...v.replace(/\s/g,"")].length.toLocaleString()}</b><span>글자수(공백 제외)</span></div>
+    <div class="stat"><b>${words.length}</b><span>분석 단어 수</span></div>
+    ${k ? `<div class="stat"><b>${kc}회</b><span>‘${esc(k)}’ 등장 ${kc < 3 ? "· 부족" : kc > 10 ? "· 과다" : "· 적정"}</span></div>` : ""}`;
+  const rows = Object.entries(cnt).sort((a, b) => b[1] - a[1]).slice(0, 30);
+  tb.innerHTML = rows.length ? "<tr><th>#</th><th>단어</th><th>횟수</th><th>비중</th></tr>" +
+    rows.map(([w, n], i) => `<tr><td>${i + 1}</td><td>${esc(w)}</td><td>${n}</td><td>${(n / total * 100).toFixed(1)}%</td></tr>`).join("") : "";
+}
+t.oninput = kw.oninput = go;
+</script>
+</body></html>

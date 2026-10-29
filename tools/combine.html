@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>세부키워드 조합기 - 롱테일 키워드 자동 생성 | 트렌드나우</title>
+<meta name="description" content="지역, 메인 키워드, 수식어를 조합해 블로그 세부키워드(롱테일 키워드)를 한 번에 만들어주는 무료 도구.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-root="../" data-page="combine">
+<div class="wrap grid"><main>
+  <div class="ad-slot" data-slot="top"></div>
+  <section class="card">
+    <h1>세부키워드 조합기</h1><p class="sub">각 칸에 한 줄에 하나씩 입력하세요. 빈 칸은 건너뜁니다.</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-top:12px">
+      <div><b>앞 (지역 등)</b><textarea id="c1" style="min-height:140px">강남
+홍대
+판교</textarea></div>
+      <div><b>메인 키워드</b><textarea id="c2" style="min-height:140px">맛집
+카페</textarea></div>
+      <div><b>뒤 (수식어)</b><textarea id="c3" style="min-height:140px">추천
+데이트
+주차</textarea></div>
+    </div>
+    <div class="row">
+      <label><input type="checkbox" id="sp" checked> 띄어쓰기</label>
+      <label><input type="checkbox" id="partial" checked> 부분 조합 포함 (앞+메인, 메인+뒤)</label>
+      <button class="btn" onclick="run()">조합하기</button>
+      <button class="btn ghost" onclick="navigator.clipboard.writeText(out.value)">결과 복사</button>
+      <span class="sub" id="cnt"></span>
+    </div>
+    <textarea id="out" readonly placeholder="결과가 여기에 표시됩니다"></textarea>
+  </section>
+  <div class="ad-slot" data-slot="middle"></div>
+  <section class="card prose"><h2>세부키워드가 중요한 이유</h2>
+    <p>‘맛집’ 같은 대표 키워드는 경쟁이 치열합니다. ‘판교 맛집 주차’처럼 구체적인 롱테일 키워드는 검색량은 적어도 상위 노출이 쉽고 구매·방문 의도가 뚜렷합니다.</p></section>
+</main><aside class="side"></aside></div>
+<script src="../assets/config.js"></script><script src="../assets/common.js"></script>
+<script>
+const lines = el => el.value.split("\n").map(s => s.trim()).filter(Boolean);
+function run() {
+  const A = lines(c1), B = lines(c2), C = lines(c3), j = sp.checked ? " " : "", set = new Set();
+  const mainList = B.length ? B : [""];
+  mainList.forEach(b => {
+    (A.length ? A : [""]).forEach(a => (C.length ? C : [""]).forEach(c => set.add([a, b, c].filter(Boolean).join(j))));
+    if (partial.checked) { A.forEach(a => set.add([a, b].filter(Boolean).join(j))); C.forEach(c => set.add([b, c].filter(Boolean).join(j))); }
+  });
+  set.delete("");
+  out.value = [...set].join("\n");
+  cnt.textContent = set.size + "개 생성";
+}
+run();
+</script>
+</body></html>
