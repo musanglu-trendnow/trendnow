@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-30 23:55",
+ "updated": "2026-10-31 00:50",
  "items": [
+  {
+   "keyword": "원자력",
+   "traffic": "1000+",
+   "pubDate": "Fri, 30 Oct 2026 07:00:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_xhac-6lnjEnWbf_RfuV3KiE6uwVGjx3x2DfiLI5MZlGfk57GX9UEQWUFw4U",
+   "news": [
+    {
+     "title": "원안위원장, UAE·베트남 기관장 면담…협력 논의",
+     "url": "https://www.yna.co.kr/view/AKR20261030169600017",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_xhac-6lnjEnWbf_RfuV3KiE6uwVGjx3x2DfiLI5MZlGfk57GX9UEQWUFw4U"
+    },
+    {
+     "title": "농축·재처리부터 美 원전 8기까지…경주에 모인 원자력계",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374104",
+     "source": "전기신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_ivvHm16t8naPzKXjGqqQEz01nbTh8ORC6q13cAkTGXj_tDzKJtIhLE2GLi0"
+    },
+    {
+     "title": "IAEA 원자력 장관회의 폐막…62개국, SMR 상용화·안전 규제 협력 논의",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8698875",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoVmKnxYCwHRREm-Z6r5hU6K3m72KcIg4oHHR7FfBPOCXRZmvLvLEqiNQRjrk"
+    }
+   ]
+  },
   {
    "keyword": "박현경",
    "traffic": "1000+",
@@ -20,10 +46,62 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTJLqlhWHJAByOyCYpRPb0QrrqQV10xJaHpsq9hh-AjMaoKMpZ1zS-hKLpPuU"
     },
     {
-     "title": "이예원, KLPGA 투어 에쓰오일 챔피언십 2라운드서 1위에 올라…시즌 2승 향해 시동 걸어",
-     "url": "https://www.viva100.com/article/20261030500933",
-     "source": "브릿지경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4UFBoek3dWCQoMLqCwXlPS8cnIxhZ3S5gjQas6LwETV2GuSFaKQWxA53X3ts"
+     "title": "'통산 11승 도전' 이예원, KLPGA 투어 S-OIL 챔피언십 2R 단독 선두",
+     "url": "https://www.newsis.com/view/NISX20261030_0003848794",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRujIAYAFlp_CX2fPvpKQSkvEV2NQIjZoXetsVwfrMe8lWg6jjpTEqp6FHfwtU"
+    }
+   ]
+  },
+  {
+   "keyword": "김민",
+   "traffic": "500+",
+   "pubDate": "Fri, 30 Oct 2026 07:10:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEilhTUDNUrrjE1HBUG8bZlqY_jGA0UQM27KG9WVOSMmv2j6GEyvsvtB0vLAo",
+   "news": [
+    {
+     "title": "김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6335823",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEilhTUDNUrrjE1HBUG8bZlqY_jGA0UQM27KG9WVOSMmv2j6GEyvsvtB0vLAo"
+    },
+    {
+     "title": "김민, 동두천 주민 1500명 모인 운동회 참석…주민들과 완벽 동화된 '찐친 케미'",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/HBSGMM3DMY3DKMZRGIZGGZJYGI/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbd9LYfLEoQ7Wcw8mcevfrlcFL_eVGVqHQSu9uCqg7OsxNTLTSIIVyVfzun5E"
+    },
+    {
+     "title": "김민 \"알몸 달리기 하다가 아나콘다 맨손으로 제압해\"",
+     "url": "https://www.newsis.com/view/NISX20261029_0003846194",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM9ixvL8jLw-HGC9bN3Vo4essoJpaHzS_n8wTh_MPGZrjqjMprSPdfCDHBaV0"
+    }
+   ]
+  },
+  {
+   "keyword": "은마아파트",
+   "traffic": "500+",
+   "pubDate": "Fri, 30 Oct 2026 07:00:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDHLj5On2pUAzlCIL7ui5rzVWi9RR74z-pkkoMbFOuwLR-MmLFuo5SxxzYezE",
+   "news": [
+    {
+     "title": "한보家와 소송 8건 얽힌 은마 … 분담금 '4억+α'로 늘어나나",
+     "url": "https://www.mk.co.kr/news/society/12191747",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDHLj5On2pUAzlCIL7ui5rzVWi9RR74z-pkkoMbFOuwLR-MmLFuo5SxxzYezE"
+    },
+    {
+     "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
+     "url": "https://www.yna.co.kr/view/AKR20261030179300004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_yelledZnp9axaarph41qNemXIA_Uzf2Oy5ArxRpb2xtumfiVs4VddiHAgK4"
+    },
+    {
+     "title": "법원 \"은마 땅 240평 정태수 상속인에\"…조합 \"토지 매입 전제로 사업 준비\"",
+     "url": "https://view.asiae.co.kr/article/2026103022070429604",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcoCNh3wlbgiMlgo3BuYCBCNIpZLVUwHov8g6u4N1J8Gz_mAA5grSa2tLSRI"
     }
    ]
   },
@@ -54,80 +132,80 @@
    ]
   },
   {
-   "keyword": "혈당",
-   "traffic": "500+",
-   "pubDate": "Fri, 30 Oct 2026 06:10:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjxw-nJRM6-9OYzgQVPv2hoh2jCoXVaKPBOCTmO1k2fesbMf-H5el6w8Da0F4",
+   "keyword": "한화시스템",
+   "traffic": "200+",
+   "pubDate": "Fri, 30 Oct 2026 07:30:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS7lRGCUMdqbfhc2JbQhtbnUjHldey6_h8cOkG0S_vwO4sEwsdb_UOBFybRxU",
    "news": [
     {
-     "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
-     "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjxw-nJRM6-9OYzgQVPv2hoh2jCoXVaKPBOCTmO1k2fesbMf-H5el6w8Da0F4"
+     "title": "\"K-위성 경쟁력 높인다\"…한화, 초소형 군집위성 수주",
+     "url": "https://www.hankyung.com/article/202610306396i",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS7lRGCUMdqbfhc2JbQhtbnUjHldey6_h8cOkG0S_vwO4sEwsdb_UOBFybRxU"
     },
     {
-     "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
-     "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12",
-     "source": "로이슈",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC-xysFPd-wezE2jMfDaL7YEATci1MjOTkmdRzI9KF0wj99JsLRn0qqlnslSA"
+     "title": "한화시스템, 초소형 SAR 군집위성 수주…\"K위성 가격 경쟁력 ↑\"",
+     "url": "https://www.yna.co.kr/view/AKR20261030122800003",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgRYInUispAqksAvpMWFDMcSFLe3DUdem-pzQCQUDrPw10IV44Sw8FOGQbaM"
     },
     {
-     "title": "HLB라이프케어, 코리아 러닝 엑스포서 '혈당 관리 체험 프로그램' 운영",
-     "url": "https://www.newspim.com/news/view/20261030000375",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOf4U1vOF2NFnMLR8uGAsvWEGIXk0BS_jJbUzuheEzrg6k2PC-YZ8PxGVgtl8"
+     "title": "KAI보다 900억 낮춘 ‘가격 승부수’…한화시스템, 軍 군집위성 따냈다",
+     "url": "https://www.sedaily.com/article/20108408",
+     "source": "서울경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvX9Y1E7UodSekA5CuSzqSdKjYYS24XJVsnMysbleQVFD_1MFbkWhqClIw9-w"
     }
    ]
   },
   {
-   "keyword": "김태형",
-   "traffic": "500+",
-   "pubDate": "Fri, 30 Oct 2026 05:30:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjzNNE1wwC8QgHUJL5h-H19KCYe4iHsAfFQRhvQ3atZJWyN0groRul7m27LF0",
+   "keyword": "intc",
+   "traffic": "200+",
+   "pubDate": "Fri, 30 Oct 2026 07:10:00 -0700",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28qNOKDNAq1BUQqzcCr3pBMaki-xDRtASKWVcP5Ayyqqeq5bFgJ5xYLTttLk",
    "news": [
     {
-     "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
-     "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjzNNE1wwC8QgHUJL5h-H19KCYe4iHsAfFQRhvQ3atZJWyN0groRul7m27LF0"
+     "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
+     "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html",
+     "source": "Yahoo Finance",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28qNOKDNAq1BUQqzcCr3pBMaki-xDRtASKWVcP5Ayyqqeq5bFgJ5xYLTttLk"
     },
     {
-     "title": "[영상] 롯데, 이렇게까지 바뀐다고? 내년 시즌은 다를까?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8698708",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YmIWU9MuczbEuVgfjwvqj42AvpJiXI9Ok-CDEcOnIk9wjylezACxeOlhYMU"
+     "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+     "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+     "source": "CNBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgoU8cbBf3y_H1GyASAwkjHddcNsr-8zwS7Doc4bL72B_3hm1-qk30HuOrc1w"
     },
     {
-     "title": "NC 첫 해 FA 선물은 양의지였는데…지갑 닫았던 롯데, 이동욱호 첫 해 FA 선물 준비할까",
-     "url": "https://www.osen.co.kr/article/G1112900968",
-     "source": "OSEN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt0MflSLIchg4v40dcTd_pgouKFNFL0yWVb9VZejZji4FoO24-LAMRVF9ZVIc"
+     "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
+     "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand",
+     "source": "Seoul Economic Daily",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqFpfDowTLf-18_oPdTFC3xN7jBJrGpJPey9Pv7Qt2doCFx22mfh1wMp37v6o"
     }
    ]
   },
   {
-   "keyword": "kbo 리그",
-   "traffic": "500+",
-   "pubDate": "Fri, 30 Oct 2026 05:30:00 -0700",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7o19LVbAcfPwelIz3-NbqDruIbQrrRhoWqskkd9nmqeBPOXFzfQ2xArdO6Q",
+   "keyword": "에릭남",
+   "traffic": "200+",
+   "pubDate": "Fri, 30 Oct 2026 07:00:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6KcHSkA9T96xr9LZrx6KvSg96MBn6C93luapIMJynYAPQJNLf1HXnjejvaaM",
    "news": [
     {
-     "title": "제2의 강민호 양의지 키운다! KBO 중3 대상 포수 캠프 개최…이만수 이성우 강성우 차일목 초호화 지도자 총출동",
-     "url": "https://biz.chosun.com/sports/baseball/2026/10/30/MY4DSMTBGJSTGMBRMI3WMYJRMQ/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7o19LVbAcfPwelIz3-NbqDruIbQrrRhoWqskkd9nmqeBPOXFzfQ2xArdO6Q"
+     "title": "에릭남 (ERIC NAM) - Psycho | KBS 261030 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026167494-01-000_MFSC15&program_code=T2022-1011&program_id=PS-2026167494-01-000&section_code=04&broadcast_complete_yn=N&section_id=16480",
+     "source": "대한민국 대표 공영미디어 KBS",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6KcHSkA9T96xr9LZrx6KvSg96MBn6C93luapIMJynYAPQJNLf1HXnjejvaaM"
     },
     {
-     "title": "'헐크' 이만수·강성우·차일목·이성우 총출동! 미래 안방마님 40명 키운다... KBO 포수 특화 캠프 개최 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/10/30/2026103013291861932",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_U6srnerfpp3E7hn4ZU4ex9AZLjgptS_oPwgCDgVedOMOTvmWZdRFbqXbO8M"
+     "title": "에릭남, 3년 만 본업 컴백…'더 시즌즈'서 'Psycho' 첫 무대",
+     "url": "https://www.etnews.com/20261030000148",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMFycavUEd6fC_6k2ORvsGkSIRsGaT8XEs3okKPlSlffBjKFLQsyw-y73viOc"
     },
     {
-     "title": "[프로야구] KBO, 차기 국가대표 포수 키우기 위한 캠프 개최",
-     "url": "https://www.newspim.com/news/view/20261030001279",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk2Mi5igc_Uo2GfKaofPm_Srk582-1FiSuKtWxY8LYocp3I49dIjzP9KT3cpI"
+     "title": "에릭남, 오늘(30일) '더 시즌즈' 출격…성시경 만난다",
+     "url": "https://www.chosun.com/entertainments/music/2026/10/30/MMYDCMJSGE2WCOBVMNSDAZRVGA/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReZ_XF-sOawrQItJ6Mdplb7cMHXhVjVR61Nwev9AMVLWQa_J1FKmT75SNrGmY"
     }
    ]
   },
@@ -158,87 +236,28 @@
    ]
   },
   {
-   "keyword": "gs25",
-   "traffic": "200+",
-   "pubDate": "Fri, 30 Oct 2026 06:10:00 -0700",
-   "img": "",
-   "news": []
-  },
-  {
-   "keyword": "현대",
-   "traffic": "200+",
-   "pubDate": "Fri, 30 Oct 2026 06:00:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJGRyqQehe3sE0NOmIiJieHDezJnl1ozHsb6EyxvfXoNqYIqTfun_rNAs4cM",
-   "news": [
-    {
-     "title": "[컨콜] 현대제철 “美서 H형강 가격 주 단위로 매주 인상 중” By 투데이코리아",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2150560",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJGRyqQehe3sE0NOmIiJieHDezJnl1ozHsb6EyxvfXoNqYIqTfun_rNAs4cM"
-    },
-    {
-     "title": "자동차강판이 밀고 AI·반도체 강재가 끈다⋯ 현대제철, 3분기 영업익 51% ‘껑충’",
-     "url": "https://www.viva100.com/article/20261030500999",
-     "source": "브릿지경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYMbcLdNmvsorsCMcUhZpseQPb72X5vE17npd2-3oznghwC_9QWkSeLr1ldo0"
-    },
-    {
-     "title": "현대제철, 주주환원 발표 연기…자회사 美 공장 설립은 '무근'(종합)",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442256",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_M1UaR-uI4XY11CU6q37RmfVibnarh5_tbsubY42UDEzdpVYKWrm-F75TWNw"
-    }
-   ]
-  },
-  {
-   "keyword": "기아",
-   "traffic": "200+",
-   "pubDate": "Fri, 30 Oct 2026 05:30:00 -0700",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnth3Noi2H9aablZjNWkToQY2ss4Tdg_XGo7JstruKk2zGifM3zsBzRv_pHDk",
-   "news": [
-    {
-     "title": "기아, 3분기 최대 매출에도 ‘어닝 쇼크’…주가 11% 급락",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374163",
-     "source": "전기신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnth3Noi2H9aablZjNWkToQY2ss4Tdg_XGo7JstruKk2zGifM3zsBzRv_pHDk"
-    },
-    {
-     "title": "\"역대 최대 실적인데, 왜?\"...현대차그룹 주가 '주르륵'",
-     "url": "https://www.hankyung.com/article/202610306070i",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxcO7uoM7SP9-FtXVrphNsoD56VVTMP0wWWrR6VbfdROVx066eDL9kLHpD-3k"
-    },
-    {
-     "title": "기아, 3분기 매출 역대 최대에도 영업익 기대 이하…주가 11%대 급락",
-     "url": "https://www.chosun.com/economy/industry-company/2026/10/30/KSDYK6CS6RE5ZNSDWIB3ZPTYNQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXtKTGxex3s3xwPkRCnP25M2TqdsLTGggufw9rYE8whrLraWhZvawA9ftHoas"
-    }
-   ]
-  },
-  {
-   "keyword": "김은지",
+   "keyword": "경기도교육감",
    "traffic": "100+",
-   "pubDate": "Fri, 30 Oct 2026 05:30:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsgehUnOd5qCYWtt3s3YzX2Aa1VFsabr5ijtG8oStkQJ_8f62sC95W7XG9Z-w",
+   "pubDate": "Fri, 30 Oct 2026 07:10:00 -0700",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3GuPYwZAjMoMOwPuEa1mWrSU9NlpqHQL94pUWXQq-YHo6R8axw3Fr-GlAVo",
    "news": [
     {
-     "title": "바둑 김은지, 스미레 3-0 완파…수협은행배 초대 챔피언 등극",
-     "url": "https://www.donga.com/news/Culture/article/all/20261030/134941615/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsgehUnOd5qCYWtt3s3YzX2Aa1VFsabr5ijtG8oStkQJ_8f62sC95W7XG9Z-w"
+     "title": "안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549",
+     "source": "인천일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3GuPYwZAjMoMOwPuEa1mWrSU9NlpqHQL94pUWXQq-YHo6R8axw3Fr-GlAVo"
     },
     {
-     "title": "김은지, 스미레 꺾고 수협은행배 여자바둑 초대 우승",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823871&plink=RSSLINK&cooper=GSTAND",
-     "source": "news.sbs.co.kr",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazodKD4qFjoYX3Vj6YrwP1Tn6bHWFFURvdoYLZFUZd1KPaRKHtuyPOIsYHjM"
+     "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947",
+     "source": "중부일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMuNLoS-XCPq-xO_o9aozb4DQaUEBSODp6ByhGXnrHeZtpZ4N-zONRuJAl5fo"
     },
     {
-     "title": "김은지, 스미레 꺾고 수협은행배 여자바둑 최강전 초대 챔피언 등극",
-     "url": "https://www.newspim.com/news/view/20261030001317",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUZqGOuACb8IQNf4yugwUuHx1xv0upGOUn7zhX2RQ_wm-qodGX_C4BK3PUVEQ"
+     "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258",
+     "source": "SBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGCuQdd2KAltoMTwK4jOw_3WJSZPTNqeqjUj8U48c9ndtBLEt88QpssGQaUrA"
     }
    ]
   }
