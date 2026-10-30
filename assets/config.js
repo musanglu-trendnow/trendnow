@@ -3,7 +3,7 @@
 // =============================================
 window.SITE_CONFIG = {
   siteName: "트렌드나우",
-  siteUrl: "https://musanglu-trendnow.github.io/trendnow", // 배포 후 실제 주소로 변경
+  siteUrl: "https://silgeom.kr", // 배포 후 실제 주소로 변경
 
   // 1) 구글 애드센스 — 승인 후 'ca-pub-...' 값을 넣으면 모든 광고 자리에 자동 표시
   adsenseClient: "",          // 예: "ca-pub-1234567890123456"
