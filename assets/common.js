@@ -17,7 +17,7 @@
 
   const header = document.createElement("header");
   header.className = "top";
-  header.innerHTML = `<div class="wrap"><a class="logo" href="${R}index.html"><b>●</b> ${esc(C.siteName || "트렌드나우")}</a>
+  header.innerHTML = `<div class="wrap"><a class="logo" href="${R}index.html"><b>●</b> ${esc(C.siteName || "실시간 검색어 순위")}</a>
     <nav class="menu">${MENU.map(([k, h, t]) => `<a href="${R}${h}" class="${k === page ? "on" : ""}">${t}</a>`).join("")}</nav></div>`;
   document.body.prepend(header);
 
