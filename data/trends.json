@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-31 10:55",
+ "updated": "2026-10-31 11:46",
  "items": [
   {
    "keyword": "주식",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "pubDate": "Fri, 30 Oct 2026 16:50:00 -0700",
    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi_whaP7aRNFgIxvHaqMeOkz2GOMmkJX3WilOydTIgN8ODAkKLCJ3h7SjmYTg",
    "news": [
@@ -14,10 +14,10 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi_whaP7aRNFgIxvHaqMeOkz2GOMmkJX3WilOydTIgN8ODAkKLCJ3h7SjmYTg"
     },
     {
-     "title": "“은행도 증권사도 뚫렸다”…해킹 공포에 보안주 '들썩'",
-     "url": "https://magazine.hankyung.com/business/article/202610306530b",
-     "source": "한경매거진",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKI5oHlNciUOJCDHpmpFjWd0I3TvSAEE8pZr-4okReb84QZuHQwOD-XDeOtYM"
+     "title": "[특징주] 곳곳으로 번지는 해킹에…보안주 강세",
+     "url": "https://biz.chosun.com/stock/stock_general/2026/10/30/6PNXOHIYDBCOFB4TAJ4SJYBZEA/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs7pFtarby6CIjtKgGJsbE2tFKNTevj9tfqgaOB13op0QdqPFQ_wnrAzqcRik"
     },
     {
      "title": "[장중수급포착] 지니언스, 외국인/기관 동시 순매수… 주가 +11.20%",
@@ -28,54 +28,80 @@
    ]
   },
   {
-   "keyword": "필라데피아 대 뉴욕",
-   "traffic": "1000+",
-   "pubDate": "Fri, 30 Oct 2026 16:30:00 -0700",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7KTlIzhEqIx7KtXqpi1db0-pIAEOQoOcONriFoM0DTKQcD29DO8eByRWcBk",
+   "keyword": "골든 스테이트 대 la 레이커스",
+   "traffic": "2000+",
+   "pubDate": "Fri, 30 Oct 2026 18:20:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcnzXr8z9wbtkQ0y5zTnMxpweTxeCHLeGa9HoLiTKq3Dc7IYl7CYXOX2RfDOw",
    "news": [
     {
-     "title": "Live updates: Sixers take a nine-point lead over the Knicks into the fourth quarter",
-     "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-knicks-nba-cup-lebron-james-joel-embiid-tyrese-maxey-live-updates/762913/",
-     "source": "NBC Sports Philadelphia",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7KTlIzhEqIx7KtXqpi1db0-pIAEOQoOcONriFoM0DTKQcD29DO8eByRWcBk"
+     "title": "LAL: Dončić, Reaves, Thybulle, LaRavia, Kessler",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/lal-doncic-reaves-thybulle-laravia-kessler",
+     "source": "NBC Sports",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcnzXr8z9wbtkQ0y5zTnMxpweTxeCHLeGa9HoLiTKq3Dc7IYl7CYXOX2RfDOw"
     },
     {
-     "title": "New York Knicks vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
-     "url": "https://bleacherreport.com/liveblogs/25527369-new-york-knicks-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights",
-     "source": "Bleacher Report",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jCnKZqdlvPRAwXw9PZQ92VpI_feaGoLN-EgwZSQ_hgSCMsULvFy9BJdbdr0"
+     "title": "Matisse Thybulle, Ziaire Williams are flirting with being summer steals for the Lakers",
+     "url": "https://lakeshowlife.com/matisse-thybulle-ziaire-williams-flirting-with-being-summer-steals-for-lakers",
+     "source": "Lake Show Life",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnvl4gqmJnXcPMXFo3NaE754V313LIsGmFLRc-HniIgkKQDSBeP45YSCTak1g"
     },
     {
-     "title": "Sixers-Knicks: Game Discussion Thread",
-     "url": "https://www.libertyballers.com/76ers-discussion-threads/99542/sixers-new-york-knicks-game-discussion-thread-philadelphia-76ers-nba-cup",
-     "source": "Liberty Ballers",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPTfBlX7a76-Drv5tia2kUXV8Zx2kjbgb3QA_qOx3LCb34p0VoPxNeNDyrTyI"
+     "title": "Lakers Reveal Starting Lineup Vs Warriors After Luka Doncic News",
+     "url": "https://heavy.com/sports/nba/los-angeles-lakers/starting-lineup-vs-warriors-luka-doncic-news/",
+     "source": "Heavy.com",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6tiN7sbdGQQepCtxLAVDycXq6sxIYtvflkUWJ89QdC4ewLjK_pxWFrDwHsE"
     }
    ]
   },
   {
-   "keyword": "테슬라",
+   "keyword": "김강민",
    "traffic": "1000+",
-   "pubDate": "Fri, 30 Oct 2026 15:30:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKLWxg1x0R47a-U0Dkxj_aECLK_uc5X8-nAehJ2MSyV9JBNnHfX4Jsy-QN6kU",
+   "pubDate": "Fri, 30 Oct 2026 18:20:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFYpijSDDkY9Q2NATR_dmKNuLQAt2_IjMbk-8JY3k_lMC7LJfaay9p1qbQaXs",
    "news": [
     {
-     "title": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html",
-     "source": "인베스트조선",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKLWxg1x0R47a-U0Dkxj_aECLK_uc5X8-nAehJ2MSyV9JBNnHfX4Jsy-QN6kU"
+     "title": "프로야구 NC, 김강민 외야 코디네이터 영입…KBO리그 최초",
+     "url": "https://www.yna.co.kr/view/AKR20261031022000007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFYpijSDDkY9Q2NATR_dmKNuLQAt2_IjMbk-8JY3k_lMC7LJfaay9p1qbQaXs"
     },
     {
-     "title": "테슬라·스페이스X 합병 추진…머스크의 진짜 노림수와 최대 걸림돌",
-     "url": "https://www.newsis.com/view/NISX20261027_0003842966",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDQCPj-07AR3mpXQRf-57eDW8SV0dzxedmcJAsWvg0Y6z7POXmYStMVm2u9KI"
+     "title": "SK 왕조 인연인가, NC가 짐승을 품었다...\"외야 수비 경쟁력 강화\" NC 김강민 외야 코디네이터 영입 [공식발표]",
+     "url": "https://www.chosun.com/sports/baseball/2026/10/31/GA2DAZJTMU2GMN3BHFTGMMLCGY/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqgKNg8yYcP5XqnIxAMdXaIJedIybWQXLQgrbf7oKjEuJ4UUSmvCxwQ7KMMMs"
     },
     {
-     "title": "베이징이 SpaceX-테슬라 합병을 막을 수 있는 이유",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2151560",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1wOPqeyacWOIMMjlv2KrN09j5N7uNYxT71KaD1T2MpntN8cZQ4fqQx0krNeE"
+     "title": "'말년은 한화-지도자는 NC서' 김강민, 외야 코디네이터로 창원행 \"외야 수비 경쟁력 높이겠다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/31/2026103110050732499",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbEsH266dwoBlfvDoQb-WaXXl2rigWUrMSL0e73EUa1__lWhYXaRQelnQjsl4"
+    }
+   ]
+  },
+  {
+   "keyword": "필라데피아 대 뉴욕",
+   "traffic": "1000+",
+   "pubDate": "Fri, 30 Oct 2026 16:30:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsj5SGjANIuiRz42IargNo1aRbG9vfh54Si1kbrwDHzBG4_qsVrnmSQxqCOu8",
+   "news": [
+    {
+     "title": "76ers 98-93 Knicks (Oct 30, 2026) Game Recap",
+     "url": "https://www.espn.com/nba/recap?gameId=401909280",
+     "source": "ESPN",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsj5SGjANIuiRz42IargNo1aRbG9vfh54Si1kbrwDHzBG4_qsVrnmSQxqCOu8"
+    },
+    {
+     "title": "Defense, LeBron’s power, Simons’ heater off the bench lead Sixers to win vs. Knicks in Cup matchup",
+     "url": "https://www.libertyballers.com/76ers-scores-results/100426/sixers-knicks-recap-nba-cup-lebron-james-tyrese-maxey-joel-embiid-anfernee-simons",
+     "source": "Liberty Ballers",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnQIAYrS7dufubG4a8Gg9jZ0yF_stuf6TFnAWq83eeQD2qYqiPdNcauwdfgx0"
+    },
+    {
+     "title": "Live updates: Maxey and James help Sixers outlast the Knicks in their NBA Cup opener.",
+     "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-knicks-nba-cup-lebron-james-joel-embiid-tyrese-maxey-live-updates/762913/",
+     "source": "NBC Sports Philadelphia",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfRojBNFTEBFYa8y5ENKX5UPWAXJxGPYc4LhU50UUMlBE5lA_VyM_w-q06VY"
     }
    ]
   },
@@ -107,15 +133,15 @@
   },
   {
    "keyword": "sk 사장단 인사",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Fri, 30 Oct 2026 16:00:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFsZMRD_A7PmVGWwm4fSohB2m5MpL65WuzZqm-E7Eh8GjQX6IsqgjAqluZV0g",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhWi9AnvkICDRDmxpWLGB2MbTM-kxZqFVDOtUXxBmS_MfmoxyosAoBkhU291I",
    "news": [
     {
-     "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
-     "url": "https://www.yna.co.kr/view/MYH20261030015100038",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFsZMRD_A7PmVGWwm4fSohB2m5MpL65WuzZqm-E7Eh8GjQX6IsqgjAqluZV0g"
+     "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhWi9AnvkICDRDmxpWLGB2MbTM-kxZqFVDOtUXxBmS_MfmoxyosAoBkhU291I"
     },
     {
      "title": "SK 사장단 인사…곽노정 유임·정승일 발탁",
@@ -124,10 +150,50 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUpxn7cnc1Sod_N9G2XHnskiai7gFOB5eWUCZ5Xnl5P_IjOisLougq3N1mXc"
     },
     {
-     "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhWi9AnvkICDRDmxpWLGB2MbTM-kxZqFVDOtUXxBmS_MfmoxyosAoBkhU291I"
+     "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
+     "url": "https://www.yna.co.kr/view/MYH20261030015100038",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFsZMRD_A7PmVGWwm4fSohB2m5MpL65WuzZqm-E7Eh8GjQX6IsqgjAqluZV0g"
+    }
+   ]
+  },
+  {
+   "keyword": "sco vs sl",
+   "traffic": "200+",
+   "pubDate": "Fri, 30 Oct 2026 18:40:00 -0700",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmSkBb8xz2jJE2u_M_ptyqb6LSwcSm5VA5cUpZzTlXDlkTGXXR9MqjoYPkthY",
+   "news": [
+    {
+     "title": "SCO:124/3 (5.1) | Live Cricket Score | SCO vs SL | hk sixes 2026 | Cricket Scoreboard",
+     "url": "https://sports.ndtv.com/cricket/sco-vs-sl-scorecard-live-cricket-score-hong-kong-sixes-2026-match-11-scsl10312026275382",
+     "source": "NDTV Sports",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmSkBb8xz2jJE2u_M_ptyqb6LSwcSm5VA5cUpZzTlXDlkTGXXR9MqjoYPkthY"
+    }
+   ]
+  },
+  {
+   "keyword": "oman vs afghanistan",
+   "traffic": "200+",
+   "pubDate": "Fri, 30 Oct 2026 18:20:00 -0700",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvtCISw8VdIBh9iRZ1AdZ5k9AXfQ9Jk7uWDEGTsOd3uvutuHu18TeYfoh0cLw",
+   "news": [
+    {
+     "title": "Live Cricket Score: Full Scorecard & Commentary",
+     "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275420.html",
+     "source": "Firstpost",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvtCISw8VdIBh9iRZ1AdZ5k9AXfQ9Jk7uWDEGTsOd3uvutuHu18TeYfoh0cLw"
+    },
+    {
+     "title": "Afghanistan Under-19s tour of Oman - ODI -",
+     "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010703/afghanistan-under-19s-tour-of-oman-1",
+     "source": "Cricketnmore",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8wYI2DNtd_peFxLeQWbDU2YjteSs1Q7U2QqxmnR1q30-JD7prRKpwm4GS1GE"
+    },
+    {
+     "title": "Live Cricket Score: Full Scorecard & Commentary",
+     "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275419.html",
+     "source": "Firstpost",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvtCISw8VdIBh9iRZ1AdZ5k9AXfQ9Jk7uWDEGTsOd3uvutuHu18TeYfoh0cLw"
     }
    ]
   },
@@ -158,106 +224,28 @@
    ]
   },
   {
-   "keyword": "우주선",
-   "traffic": "200+",
-   "pubDate": "Fri, 30 Oct 2026 15:50:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzJBDE1hbYpmCAjtPtoP6d29XOXC6hXAziX-AJEzv1KTmB47WJZihsjEJZtrc",
-   "news": [
-    {
-     "title": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
-     "url": "https://www.yna.co.kr/view/AKR20261030000200071",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzJBDE1hbYpmCAjtPtoP6d29XOXC6hXAziX-AJEzv1KTmB47WJZihsjEJZtrc"
-    },
-    {
-     "title": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
-     "url": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTVf9hMQKNEjoy_QhijXOGe1NBDsBV2ty2iGG9WpR6cfkhrqEPADZJKjyp-m4"
-    },
-    {
-     "title": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
-     "url": "https://zdnet.co.kr/view/?no=20261030083348",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDSyUMxQzPkkEPSTlfGPE0Gta7iGU-ye-JVqEk2iF0Q8ustNGrrPvzr4z72KQ"
-    }
-   ]
-  },
-  {
-   "keyword": "샌디스크",
-   "traffic": "200+",
-   "pubDate": "Fri, 30 Oct 2026 15:50:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp1QMkbXXEtp7-udIi855ZJxQeTbk38LeIoXWgAS3G9YnyZbphHKwLZqa3r-E",
-   "news": [
-    {
-     "title": "키옥시아 NAND 가격 경고에 샌디스크 주가 11% 급락",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2151922",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp1QMkbXXEtp7-udIi855ZJxQeTbk38LeIoXWgAS3G9YnyZbphHKwLZqa3r-E"
-    },
-    {
-     "title": "샌디스크, AI 데이터센터 수요 급증에 실적 호조…매출 378% 증가",
-     "url": "https://biz.chosun.com/it-science/ict/2026/10/30/2GIME5GVQ5EWJKSOYBEHRNUQGU/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6s0J1pZaJv3wQS6CkPK4j2amRKdkTIjTkl59AZCGbPkriPBn3voaRjNzHTfY"
-    },
-    {
-     "title": "샌디스크, 로블록스, 트윌리오",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01649846645618496",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q"
-    }
-   ]
-  },
-  {
-   "keyword": "직장폐쇄",
-   "traffic": "200+",
-   "pubDate": "Fri, 30 Oct 2026 15:30:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIT4Sxfaa_tbadCIj46TlMqO31SUUJRQmaCpDtO-q0GWnVs-Q9np66pva2WyA",
-   "news": [
-    {
-     "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
-     "url": "https://www.munhwa.com/article/11627545",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIT4Sxfaa_tbadCIj46TlMqO31SUUJRQmaCpDtO-q0GWnVs-Q9np66pva2WyA"
-    },
-    {
-     "title": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
-     "url": "https://www.radiokorea.com/news/article.php?uid=508309",
-     "source": "라디오코리아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBTZz_CUqcT1w4dSnxBL5NxL5eezf1LjZRVop4HqMEjF8pHwjy0ZwgdXO6Ka0"
-    },
-    {
-     "title": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF7TJRaRBHkbqDhRR16VAi2EWgkWnj6dw-5aHdw3MqV7b2FOQQ-qhBgya6B0"
-    }
-   ]
-  },
-  {
-   "keyword": "lcs",
+   "keyword": "어벤져스 둠스데이",
    "traffic": "100+",
-   "pubDate": "Fri, 30 Oct 2026 15:40:00 -0700",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuU9q2yBP_S4EiDlhbYv2-leUbHiGSn0n7BPdtyeQyZfdzBv0qCzsV8bT-YXE",
+   "pubDate": "Fri, 30 Oct 2026 18:40:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pemXrtvC5MHp-P3Ow-pdA_Q2g3otO9ZzhxR186XBvIOJn3Of7W0NsglKJsI",
    "news": [
     {
-     "title": "Anyone's Legend vs. Team Liquid: Game 2 First Blood",
-     "url": "https://www.coinbase.com/en-nl/predictions/event/KXLOLFBLOOD-26OCT261800ALTL-2",
-     "source": "Coinbase",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuU9q2yBP_S4EiDlhbYv2-leUbHiGSn0n7BPdtyeQyZfdzBv0qCzsV8bT-YXE"
+     "title": "‘프로페서 X’와 ‘국민 아버지’…시대의 얼굴들이 떠났다 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699902",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pemXrtvC5MHp-P3Ow-pdA_Q2g3otO9ZzhxR186XBvIOJn3Of7W0NsglKJsI"
     },
     {
-     "title": "TL CoreJJ: \"Nothing makes us more humble than losing to CFO\"",
-     "url": "https://www.sheepesports.com/en/articles/tl-corejj-nothing-makes-us-more-humble-than-losing-to-cfo/en",
-     "source": "Sheep Esports",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROqm7im4G98Id3kcjI_5pA02aqhGklKD2DTSCQbA8AHbOp4vat2j-Nk13xvWk"
+     "title": "'엑스맨' 시리즈 패트릭 스튜어트, 86세로 별세…할리우드 추모 열기",
+     "url": "https://www.ytn.co.kr/_sn/0117_202610300813399772",
+     "source": "YTN",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhvFpkUTL3coODgXM8M8pcpH7_QuMF57bSuLjLq_v0BygiLWQwFyInxDMyH-0"
     },
     {
-     "title": "TLAW Yeon: \"I Can Keep My Dream Going For Another Day.\"",
-     "url": "https://www.hotspawn.com/league-of-legends/news/tlaw-yeon-worlds-2026-interview",
-     "source": "Hotspawn",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbO1y3EV0MCix5f83V6-omrKBHUgUI4iqiEUtXuUIUgqvbsooiRng_ZGiF2zg"
+     "title": "'엑스맨' 프로페서X 하늘나라로…배우 패트릭 스튜어트 별세",
+     "url": "https://www.yna.co.kr/view/AKR20261030010200075",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbIDNJ02LE3HiXuf1_ZNmoaRsDbb4Hyi0yegS_XshqGZAMCnl-bJQ1MkBUjEk"
     }
    ]
   }
