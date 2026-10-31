@@ -1,35 +1,9 @@
 {
- "updated": "2026-11-01 01:37",
+ "updated": "2026-11-01 02:33",
  "items": [
   {
-   "keyword": "맨 시티 대 브라이턴",
-   "traffic": "5000+",
-   "pubDate": "Sat, 31 Oct 2026 07:40:00 -0700",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKluzQZZGGCTVLgQuSjo_zQ5CbT4InycX-RT0m3Kfdflp9TuZ82rbxSq0HidE",
-   "news": [
-    {
-     "title": "Man City vs Brighton LIVE! Premier League match updates, news and score",
-     "url": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score",
-     "source": "Sky Sports",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKluzQZZGGCTVLgQuSjo_zQ5CbT4InycX-RT0m3Kfdflp9TuZ82rbxSq0HidE"
-    },
-    {
-     "title": "City only missing Semenyo ahead of Brighton clash",
-     "url": "https://www.mancity.com/news/mens/enzo-maresca-brighton-squad-update-63928963",
-     "source": "Manchester City FC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOtwo1AcOAOcfZm8zHjIGfqncTpd4m9hwYkkgbXwLu5nPdJtiVPm-U49edtfU"
-    },
-    {
-     "title": "Man City vs. Brighton: Preview, Predictions and Lineups",
-     "url": "https://www.si.com/soccer/man-city-vs-brighton-preview-predictions-lineups-10-31-26",
-     "source": "Sports Illustrated",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPO4_lVeIqVyFgEPdjsBfVqdE9c31VbLfI3ZiwS1ZkzM113DXYj6z1sZqUc_c"
-    }
-   ]
-  },
-  {
    "keyword": "맨시티",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWa2UDXaCjYpeXkr_1DDyXNQ0sstdQi6dWRl-bTUskn3CDLV_Z_p1T_zOor0A",
    "news": [
@@ -50,6 +24,32 @@
      "url": "https://www.newsis.com/view/NISI20261029_0002276922",
      "source": "뉴시스",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuUltrM8_BiMOYrhfRCIKd2JFJVa2NTfKZmhZga5-mBReCfaR3LMd2bNphZLA"
+    }
+   ]
+  },
+  {
+   "keyword": "조현아",
+   "traffic": "500+",
+   "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7uG4e-EcDAMuI9C5Jb10hY8bFVXAlZEngtkjhQ1mLa8-jqBhZ0295cZorNg",
+   "news": [
+    {
+     "title": "‘17kg 감량’ 조현아, 턱선부터 다른 사람 됐네..운동복 셀카도 당당 “예뻐”",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJSGGNZYGYYTAMDDMFSWCOLGMY/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7uG4e-EcDAMuI9C5Jb10hY8bFVXAlZEngtkjhQ1mLa8-jqBhZ0295cZorNg"
+    },
+    {
+     "title": "어반자카파 조현아, 야외 결혼식장에서 전한 단정 미소",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264671",
+     "source": "톱스타뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-1jB9jeQ7tQ1LCC0HQ0KOzFkwtz74ZsSCMPk8zf1oUzrY9ZtOUYzA0UvqzA"
+    },
+    {
+     "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
+     "url": "https://www.sportschosun.com/entertainment/2026-10-31/202610310100199670014206",
+     "source": "스포츠조선",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPPaEm8DcFgdxprOiM5sIv5hHjqW9CkdopLac-v0V2gcVPQ8TBbTBJ_nIZue8"
     }
    ]
   },
@@ -80,32 +80,6 @@
    ]
   },
   {
-   "keyword": "man city vs brighton",
-   "traffic": "500+",
-   "pubDate": "Sat, 31 Oct 2026 08:00:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUOlruoCYzFRKwboTfw6z3D2UqqO-dp8uUY4t983_RKM4kVIJ48WY5lzc1liE",
-   "news": [
-    {
-     "title": "Premier League: Brighton lead Man City, Coventry 3-1 up, Hull come from behind to lead",
-     "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt",
-     "source": "BBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUOlruoCYzFRKwboTfw6z3D2UqqO-dp8uUY4t983_RKM4kVIJ48WY5lzc1liE"
-    },
-    {
-     "title": "Manchester City vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c6x2v4k8e0y9t",
-     "source": "BBC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoI0y-8btyZsQBhiP2W9VzYFji78uqsTJy7fLQVwf8xaw9aPiLdcTo6aRqf84"
-    },
-    {
-     "title": "Preview: Hull City vs. Ipswich Town - prediction, team news, lineups",
-     "url": "https://www.sportsmole.co.uk/football/hull-city/preview/hull-city-vs-ipswich-prediction-team-news-lineups_607868.html",
-     "source": "Sports Mole",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfQnbRIlnQKI-daHTopblDcLl36EnMlsP4JX3BOut9XrGPNthjHSNJ9UNkGxU"
-    }
-   ]
-  },
-  {
    "keyword": "카를로스 알카라스",
    "traffic": "500+",
    "pubDate": "Sat, 31 Oct 2026 07:50:00 -0700",
@@ -124,62 +98,36 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_qguhRlYTk2KeQQ69OvOh4MH1mxUgEwoQjPgAhwAz9n45oD2cCoQtUVYH_Y"
     },
     {
-     "title": "알카라즈는 비엔나 오픈에 참가하고, 조코비치는 바젤 오픈에 참가할 예정이다.",
-     "url": "https://www.vietnam.vn/ko/alcaraz-tham-du-vienna-open-djokovic-gop-mat-o-basel-open",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOWsoCg3tDZV8t4iC0pCXDsyPuUgMov3xrzaL3v8xxK70xHBRMC3pM-kWKxyc"
+     "title": "[비엔나 오픈] 라켓 던지는 토미 폴",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738150",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_rR57WuDuJbrjDvygaAtSbg5KxW1FLQYIbbIzymHRtcW8IPQaFlPYY_DMje8"
     }
    ]
   },
   {
-   "keyword": "고소",
-   "traffic": "500+",
-   "pubDate": "Sat, 31 Oct 2026 07:40:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqUbb0xCU0tKUKjRz6B23vOx8S71YSrUgoyHFhG86zuPVgl4a0sF8SJ1mtfOg",
-   "news": [
-    {
-     "title": "김정철 \"중수청·공소청 출범, 지금 완전히 카오스\"",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280052",
-     "source": "OhmyNews",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqUbb0xCU0tKUKjRz6B23vOx8S71YSrUgoyHFhG86zuPVgl4a0sF8SJ1mtfOg"
-    },
-    {
-     "title": "[영역:young域]미제 사건 18만건의 행방",
-     "url": "https://view.asiae.co.kr/article/2026103008444444470",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0e_R6RmImxsS32VhTtI_YoGt9VR5ZNp7BdsP953Afo3aHPRwGIbaA-RZttRU"
-    },
-    {
-     "title": "공소청 검사, '0심 판사' 되나…검사 출신 변호사 '덩달아 주목'",
-     "url": "https://www.nocutnews.co.kr/news/6598070",
-     "source": "노컷뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfuSZrvCO7FglfIzRhzxVGPZCdq9oucabQK6PXFTPgxpNJdY1BaIs43JvCtw"
-    }
-   ]
-  },
-  {
-   "keyword": "조현아",
+   "keyword": "크리스타 파이크",
    "traffic": "200+",
-   "pubDate": "Sat, 31 Oct 2026 08:30:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7uG4e-EcDAMuI9C5Jb10hY8bFVXAlZEngtkjhQ1mLa8-jqBhZ0295cZorNg",
+   "pubDate": "Sat, 31 Oct 2026 09:10:00 -0700",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmx8PEMdpEO-WgKlmok_S0tD9Kezl0GB2R28bK2ppsMHZmpxeKGflipuJNXSQ",
    "news": [
     {
-     "title": "‘17kg 감량’ 조현아, 턱선부터 다른 사람 됐네..운동복 셀카도 당당 “예뻐”",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJSGGNZYGYYTAMDDMFSWCOLGMY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7uG4e-EcDAMuI9C5Jb10hY8bFVXAlZEngtkjhQ1mLa8-jqBhZ0295cZorNg"
+     "title": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부",
+     "url": "https://www.yna.co.kr/view/AKR20261031047700009",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmx8PEMdpEO-WgKlmok_S0tD9Kezl0GB2R28bK2ppsMHZmpxeKGflipuJNXSQ"
     },
     {
-     "title": "어반자카파 조현아, 야외 결혼식장에서 전한 단정 미소",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264671",
-     "source": "톱스타뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-1jB9jeQ7tQ1LCC0HQ0KOzFkwtz74ZsSCMPk8zf1oUzrY9ZtOUYzA0UvqzA"
+     "title": "독극물 주입에도 살아남은 美 사형수…“몸·영혼에 깊은 상처”",
+     "url": "https://www.kyeonggi.com/article/20261031580092",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjLtUUTcJY5Ut2hfmHDexuXu8jRjEn5msVzxTM1f2eTJ0iDEgUqPS7wqk4"
     },
     {
-     "title": "“17kg 빼더니 확 달라졌네”…조현아, 결혼식장서 포착된 슬림한 근황",
-     "url": "https://www.sportsseoul.com/news/read/1645712",
-     "source": "스포츠서울",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4xom_05qBDFOxOnuAmlFqwgv8QXmxd4GH1Y-eNA6GzG_PkMBTzXV3FXmxeaI"
+     "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
+     "url": "https://www.munhwa.com/article/11627774",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Qf9ncFrgfjHGkkmV246PC81Tx0vQwv75A5nUsN42E2ghq3RkkSa-VKDwGuQ"
     }
    ]
   },
@@ -213,13 +161,13 @@
    "keyword": "스완지 시티 대 블랙번",
    "traffic": "200+",
    "pubDate": "Sat, 31 Oct 2026 08:10:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxWJe3pztcslOQJhsRnFo4wF1JnA5HdtYIH6Wk2hMXmigUdncS-dsGaT7B9Xg",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyacVqGF7KvO2PnxKywJoZaxI0sxL0rl2lUamJBvPGT2eYlbcbQS1IckDPDEw",
    "news": [
     {
-     "title": "Swansea City v Blackburn Rovers: Championship stats & head-to-head",
+     "title": "Swansea City 4-0 Blackburn Rovers: Eustaquio, Opoku, Lissah and Stewart strike in emphatic win",
      "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt",
      "source": "BBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxWJe3pztcslOQJhsRnFo4wF1JnA5HdtYIH6Wk2hMXmigUdncS-dsGaT7B9Xg"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyacVqGF7KvO2PnxKywJoZaxI0sxL0rl2lUamJBvPGT2eYlbcbQS1IckDPDEw"
     },
     {
      "title": "Mowbray expects Swans to be wounded animal",
@@ -228,10 +176,62 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4n8PBTfYcgDzyRnLpKPHhtanhcowhxeM3nRsP8Vq3SnmtHUjiRBuq_Vymwnk"
     },
     {
-     "title": "Swansea City : Vitor displays frustration, the squad faces up to their emotions",
-     "url": "https://www.fansnetwork.co.uk/football/swanseacity/news/67133/swansea-city-vitor-displays-frustration-the-squad-faces-up-to-their-emotions",
-     "source": "FansNetwork.co.uk",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLiKfjfdws7fi2XvS2iYv3CcJnkjADTeVxB9Si0FPjDA0OdjQk2LTlDTMbR_A"
+     "title": "Swansea City v Blackburn Rovers | How to watch or listen",
+     "url": "https://www.swanseacity.com/news/swansea-city-v-blackburn-rovers-how-watch-or-listen-2",
+     "source": "Swansea City",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_2LnrJAZYs5TSxcNakOjgxdk-NuX3djpJDuPq3YCcvdLQXRUGlCLIPRrJQvg"
+    }
+   ]
+  },
+  {
+   "keyword": "헐 시티 대 입스위치",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 09:20:00 -0700",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQtMg_A1EsGhW2hPicCf74eaP0rKRc7ublFvtydOzPzVGPpofwytahfFDlPs",
+   "news": [
+    {
+     "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
+     "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t",
+     "source": "BBC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQtMg_A1EsGhW2hPicCf74eaP0rKRc7ublFvtydOzPzVGPpofwytahfFDlPs"
+    },
+    {
+     "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
+     "url": "https://www.espn.com/soccer/report/_/gameId/401878763",
+     "source": "ESPN",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwzuV7Ubq1oMWHIHg1dsoOsYCZo3v4wIFwtbUydkU4N-s3VuPrT_4gjb3_69w"
+    },
+    {
+     "title": "Hull City vs Ipswich LIVE! Premier League match updates, news and score",
+     "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score",
+     "source": "Sky Sports",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjqeyNLdnC3Gpz2CaspAb4Nk5nU5nEe3_ge-9C7MVNJZ_c3x_kawQuBJPkYg"
+    }
+   ]
+  },
+  {
+   "keyword": "npl",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 09:10:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1A1kEwGGNcsNM9yPuRG7fy2RDV2zAbnQ1No2ngRIXVLxaUNdSEsYz-GsSvLM",
+   "news": [
+    {
+     "title": "Waterlogged TU cricket ground (photos)",
+     "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html",
+     "source": "OnlineKhabar English News",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1A1kEwGGNcsNM9yPuRG7fy2RDV2zAbnQ1No2ngRIXVLxaUNdSEsYz-GsSvLM"
+    },
+    {
+     "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
+     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm",
+     "source": "Cricket World",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0o4OPammSE4nqlywmyqO-mEzBVJaKzrx5aoZv4GLi4xnoPorU22u6c0PZLlI"
+    },
+    {
+     "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
+     "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs",
+     "source": "Ratopati",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJ1p1xs6n2YSiKDmhUHMa6StPtsqeHp2lxt214MxyxX_D0n-GOfiunYpYI6YA"
     }
    ]
   },
@@ -239,25 +239,25 @@
    "keyword": "ali",
    "traffic": "100+",
    "pubDate": "Sat, 31 Oct 2026 07:50:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6z9yiU7vCEEerhmMECpduSCOyhdnnjNC75tgU0yjCEQOElGmPlgwVpx5MSZU",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTID1crMndUShvgiCDeV1aFSGe7B8xGek-9koBcRHI6k0V06gfDA2kXI_7Jjk",
    "news": [
     {
-     "title": "Michael B. Jordan, Omari Hardwick and More Stars’ Shoes at ‘The Greatest’ Premiere",
-     "url": "https://wwd.com/footwear-news/shoe-trends/gallery/michael-b-jordan-the-greatest-premiere-photos-1239389533/",
-     "source": "WWD",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6z9yiU7vCEEerhmMECpduSCOyhdnnjNC75tgU0yjCEQOElGmPlgwVpx5MSZU"
+     "title": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age",
+     "url": "https://www.nytimes.com/2026/10/28/movies/ali-g-who-iz-i-review.html",
+     "source": "The New York Times",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTID1crMndUShvgiCDeV1aFSGe7B8xGek-9koBcRHI6k0V06gfDA2kXI_7Jjk"
     },
     {
-     "title": "The Greatest review: Prime Video series about Cassius Clay is a knockout",
-     "url": "https://www.rogerebert.com/reviews/the-greatest-muhammad-ali-prime-video-tv-review-2026",
-     "source": "Roger Ebert",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsVZ5ZneJdSwbSRp55ZQ2Z4dz6SmX8qj_6-kcxHcNITA0K3g9bQIb6JMtrdiA"
+     "title": "A Generation of Men Once Revered Him. His New Movie Is the Worst I’ve Seen in Some Time.",
+     "url": "https://slate.com/culture/2026/10/sacha-baron-cohen-ali-g-movie-nathan-fielder-you-can-see-everything.html",
+     "source": "Slate",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfAohzA5xzp1jJKRbZspsZUMwDavMysGzLjFYvcKN8Qdnm17rrz0UY1WpeO0"
     },
     {
-     "title": "Jaalen Best Wanted to Be a Pro Athlete. Now He’s Playing ‘The Greatest’ Boxer Onscreen",
-     "url": "https://www.hollywoodreporter.com/tv/tv-features/jaalen-best-the-greatest-muhammad-ali-career-interview-1236737670/",
+     "title": "‘Ali G: Who Iz I?’ Extends Theatrical Run as Amazon MGM Says Movie “Delivered Against Our Goals” (Exclusive)",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-theatrical-run-amazon-mgm-sacha-baron-cohen-1236742135/",
      "source": "The Hollywood Reporter",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5rDKHB8iFJoRpPcAnUuTSVT5ipJzxvrlyKKmVKm5FEYyEIfupbCuW8Tkm10"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt7rtVBKU8bJRVhGO_R4oMort8KAujtm_wiOOCzVcuUcVVf8RgWhkFI9H2Bfo"
     }
    ]
   }
