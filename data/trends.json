@@ -1,29 +1,55 @@
 {
- "updated": "2026-11-01 06:36",
+ "updated": "2026-11-01 07:36",
  "items": [
   {
    "keyword": "삼성전자",
-   "traffic": "5000+",
+   "traffic": "20000+",
    "pubDate": "Sat, 31 Oct 2026 13:30:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw0DOJFHuksGvyB_1CUl2L-tC0beE0Ba0dsWkib09JTWhdlsciAkk7mdPqJQ",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSNfcLrODb3MB0kDIZicbPTshOy4leK8rEzfZFXtpU1sdID4MTwW6ra5QySc",
    "news": [
     {
-     "title": "올트먼이 삼성 사장단에 선물한 30만원짜리 키보드는?",
-     "url": "https://www.chosun.com/economy/industry-company/2026/10/31/REMJCRLSNJERXM6CUDKHFEH6MU/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw0DOJFHuksGvyB_1CUl2L-tC0beE0Ba0dsWkib09JTWhdlsciAkk7mdPqJQ"
+     "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
+     "url": "https://www.donga.com/news/It/article/all/20261031/134942839/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSNfcLrODb3MB0kDIZicbPTshOy4leK8rEzfZFXtpU1sdID4MTwW6ra5QySc"
+    },
+    {
+     "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845821",
+     "source": "제민일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Bl3sP2HJPM8en-2W6mCfgoa3CUNrA_Oc_kSH80A_solxKh9mScuzSVha6jA"
     },
     {
      "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
      "url": "https://www.etnews.com/20261031000056",
      "source": "전자신문",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFMnw7ckjz4igZXILSD8bmLBKAgl_79cdHB64cJUhn5UlBhiGr2XdSr5ncfcc"
+    }
+   ]
+  },
+  {
+   "keyword": "태풍",
+   "traffic": "5000+",
+   "pubDate": "Sat, 31 Oct 2026 14:00:00 -0700",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1uCnU74YTfv0WlYLQ4jMZrWcVAZT_ZJXpmZH522b4mPEdZSfSgBlwd-r6yKw",
+   "news": [
+    {
+     "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1uCnU74YTfv0WlYLQ4jMZrWcVAZT_ZJXpmZH522b4mPEdZSfSgBlwd-r6yKw"
     },
     {
-     "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 주목",
-     "url": "https://www.yna.co.kr/view/AKR20261031034400003",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa_9J18LKnx4HU7zCuCpGHC2_lNnBYHIANwYvlyn33qQknyDzm0h60LlTin6o"
+     "title": "31호 태풍 ’인파’ 북상…10월 태풍 어디로?",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030052801FCT",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTIunFdUNF_CxNjR5tGRtA5QlvJI7RVr9BsQAW5eVauxEx7mLtNtLjAg8KIN4"
+    },
+    {
+     "title": "\"사람 날아갈 정도\" 31호 태풍 '인파' 북상 중…한반도 영향은? - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/10/30/2026103009425625443",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPBlXgZcxHW1DytVsSr-ip2_O_stP6IXQoxJ12XzadQ1FXMHBPqGNcw-T878g"
     }
    ]
   },
@@ -31,8 +57,14 @@
    "keyword": "김민재",
    "traffic": "2000+",
    "pubDate": "Sat, 31 Oct 2026 13:00:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6pctyjhFsbeq_ALshQz6uEztOPbUamuyQmW-ci0prMyes_hvYi5Ki3mW5hQ",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6SrTyw8FoPxlmLbuxHVPxbdMHfFUQOR8wcSHbLnMl89rSD1Gru-Fji1tvt7o",
    "news": [
+    {
+     "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+     "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6SrTyw8FoPxlmLbuxHVPxbdMHfFUQOR8wcSHbLnMl89rSD1Gru-Fji1tvt7o"
+    },
     {
      "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
      "url": "https://www.osen.co.kr/article/G1112901786",
@@ -44,12 +76,6 @@
      "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O",
      "source": "머니투데이",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjclE9ZCn_QPVi94l7SPLUKHYJ89WzvvfNjjFQtNcgM-IXa830loUCfLWm3vc"
-    },
-    {
-     "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
-     "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6SrTyw8FoPxlmLbuxHVPxbdMHfFUQOR8wcSHbLnMl89rSD1Gru-Fji1tvt7o"
     }
    ]
   },
@@ -57,13 +83,13 @@
    "keyword": "바르셀로나 대 알라베스",
    "traffic": "2000+",
    "pubDate": "Sat, 31 Oct 2026 12:10:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREeT7hqSLtJOy-aWMrSDM9UUc1LXS_X76Xms40uYIV0hPTQ8tAp6_kh2LyEQI",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_rNg3QwPP-sT-6PPVuvHn8w7TqerPN9oJwGMV6sAYckCmYDgjWaRm0Uwled0",
    "news": [
     {
-     "title": "바르셀로나 vs 알라베스 예측: 원정팀은 부진을 끝내기 위해 필사적으로 노력할 것이다.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-alaves-khach-quyet-chan-da-sa-sut",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREeT7hqSLtJOy-aWMrSDM9UUc1LXS_X76Xms40uYIV0hPTQ8tAp6_kh2LyEQI"
+     "title": "[laliga.review] '야말-하피냐 나란히 멀티골 폭발!' 바르셀로나, 알라베스 6-1 대파…라리가 선두 탈환!",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100139",
+     "source": "포포투",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_rNg3QwPP-sT-6PPVuvHn8w7TqerPN9oJwGMV6sAYckCmYDgjWaRm0Uwled0"
     },
     {
      "title": "라리가 바르셀로나 대 알라베스 축구 예측",
@@ -72,42 +98,42 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSRimopSV0sxSRgEj2BNTx6dRW4pgRAurL6NYH8egmezVZSWhIj2xU9WpR1pY"
     },
     {
-     "title": "‘공격력은 막강한데 수비가 문제’ 바르셀로나, 겨울에 즉시전력감 CB 영입 나선다...주요 타겟은 4명!",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100055",
-     "source": "포포투",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGnjX1YiTMdrYn7xGpOBR8ZnOuEeiXzdaTbX0S9pjQCgqYo-zF2GQ77n_rNqE"
+     "title": "바르셀로나, 엘클라시코 패배 이어 수비진 비상⋯에스파르트 7주 결장",
+     "url": "https://www.etoday.co.kr/news/view/2640429",
+     "source": "이투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_U4r2WKVbIO0eswag1zCAqjtDTMabdD08QvKiviMk_MCg81Xj7fGu8Irg07A"
     }
    ]
   },
   {
-   "keyword": "토트넘",
+   "keyword": "สภาพอากาศ",
    "traffic": "1000+",
-   "pubDate": "Sat, 31 Oct 2026 11:00:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxHu0OuoW99u9iUFVR0UQvk9Fmijeq0vEbpKbo__rcDRr_vEhCxVUqBwIR4vg",
+   "pubDate": "Sat, 31 Oct 2026 14:30:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT1y2R0MLGYk8TNHC2yjIQjTCCiFRzLZ7pMxHWyTTd3PUdD5zzpU1oxGz8CmI",
    "news": [
     {
-     "title": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
-     "url": "https://sports.khan.co.kr/article/202611010606003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxHu0OuoW99u9iUFVR0UQvk9Fmijeq0vEbpKbo__rcDRr_vEhCxVUqBwIR4vg"
+     "title": "สภาพอากาศวันนี้ -6 พ.ย.ไทยฝนฟ้าคะนอง ลมกระโชกแรง ฝนหนักบางแห่ง",
+     "url": "https://www.thansettakij.com/general-news/672676",
+     "source": "thansettakij",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT1y2R0MLGYk8TNHC2yjIQjTCCiFRzLZ7pMxHWyTTd3PUdD5zzpU1oxGz8CmI"
     },
     {
-     "title": "프리미어 리그 토트넘 대 크리스탈 팰리스 점수 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-tottenham-vs-crystal-palace-tai-premier-league-1792160.ldo",
-     "source": "Laodong.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyri9_f3fxw_vFF6dFhBOG6O_56Zq3HBwp7EaIoZ4A1gBZEQknkilt6uuSEmU"
+     "title": "ปักหมุดรับลมหนาว! กรมอุตุฯ เผย 7-12 พ.ย. มีสัญญาณชัด มวลอากาศเย็นแผ่ลงมาแรงขึ้น",
+     "url": "https://www.thaipost.net/general-news/1099128/",
+     "source": "Thaipost.net",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo4fNyblUoge9T8B8R_6II765HswhWXc_aoXUaz1N15BDc-6fnFSmqnaSilIY"
     },
     {
-     "title": "“지금도 토트넘 그립다” 손흥민 친정 사랑 여전하네…토트넘 시절 회상하며 ‘3연승 기원’",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100127",
-     "source": "포포투",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnz1vdbTcLJCnm8cgqnXZUXhq-dtTebOg_mUoHZ4r3-v7zAHLtv5ay3E7Djlo"
+     "title": "สงขลา | ฝนจ่อเพิ่มกำลัง เรดาร์พบกลุ่มฝนฟ้าคะนอง ปกคลุมสงขลา–อ่าวไทย เตือนชาวเรือระวังคลื่นสูง ลมกระโชกแรง",
+     "url": "https://www.hatyaifocus.com/news-detail/32019/",
+     "source": "HATYAI FOCUS",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCKH6duesPbvwADoe1xPmMP6BDZ-WY3JPguTJA6ubN4sgZYF3LLsmx6T3UTFA"
     }
    ]
   },
   {
    "keyword": "barcelona vs alavés",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Sat, 31 Oct 2026 12:50:00 -0700",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHbvPWh5s6VhSZQxrE-vqjTItNsLhtEM1yLkOw2kx9jR9faEbcn2sthKL-1yc",
    "news": [
@@ -124,94 +150,16 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrdhJT8dEhRhFPhN3UChkxnc8BY-AdD4JrKF6PsFzLcpWWUklfco482vUerm4"
     },
     {
-     "title": "Vídeo: Lamine Yamal responde a la decepción del Balón de Oro con un gol de misil",
-     "url": "https://www.goal.com/es-mx/noticias/video-lamine-yamal-responde-a-la-decepcion-del-balon-de-oro-con-un-gol-de-misil/bltfd7c2f69ac76cc13",
+     "title": "El Clásico se convierte en una pesadilla para una estrella del Madrid: ladrones irrumpen en su casa y roban objetos de valor",
+     "url": "https://www.goal.com/es-mx/noticias/el-clasico-se-convierte-en-una-pesadilla-para-una-estrella-del-madrid-ladrones-irrumpen-en-su-casa-y-roban-objetos-de-valor/blt9c20898a68c2ff8f",
      "source": "Goal.com",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOEldU4kt_QZ7yC_T4aR_GfTrO3kG9cNdKI6wXSjqzHfnPxdzPO01eASf1Wtw"
-    }
-   ]
-  },
-  {
-   "keyword": "lcs",
-   "traffic": "200+",
-   "pubDate": "Sat, 31 Oct 2026 12:50:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy63FoNJ2K5O1MqGldUq1woZt1-eclgZ87NQi0YR1Qa6M11CctLZVowPlaaGQ",
-   "news": [
-    {
-     "title": "Hanwha Lifee Sports Faces Bilibili in Quarterfinals Decider",
-     "url": "https://www.chosun.com/english/sports-en/2026/10/31/JCTWETKKN5CAJIBSYU3RXP2NYQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy63FoNJ2K5O1MqGldUq1woZt1-eclgZ87NQi0YR1Qa6M11CctLZVowPlaaGQ"
-    },
-    {
-     "title": "October 31, 2026: Bilibili Gaming vs. Hanwha Life Esports Esports Prediction Market",
-     "url": "https://robinhood.com/us/en/prediction-markets/esports/events/bilibili-gaming-vs-hanwha-life-esports-oct-31-2026/",
-     "source": "Robinhood",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC4wnxBgJuImuefDrgluf8wTU64iymSOM41WGI-lLjUiwt5uT0Zaq4A_41yzk"
-    },
-    {
-     "title": "Worlds 2026: LOS and HLE advance to the 2-2 bracket",
-     "url": "https://www.sheepesports.com/en/articles/worlds-2026-los-and-hle-advance-to-the-2-2-bracket/en",
-     "source": "Sheep Esports",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNgJlk7u0e9-M2S4BSlnYV9UsKaP2UAgmQWYTQnINlHk8LG4IhzZ5M-aCrSg"
-    }
-   ]
-  },
-  {
-   "keyword": "spurs vs palace",
-   "traffic": "200+",
-   "pubDate": "Sat, 31 Oct 2026 11:20:00 -0700",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-di5YGL6l5JD5i3peGz1d6NQiCm78yVdUSMz5MQRoUb1z_yRtTDrIDhb78bg",
-   "news": [
-    {
-     "title": "Tottenham 2-0 Crystal Palace: Spurs pile pressure on Sage as 10-man Palace are beaten",
-     "url": "https://www.bbc.com/sport/football/live/c9gkv231djj2t",
-     "source": "BBC",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-di5YGL6l5JD5i3peGz1d6NQiCm78yVdUSMz5MQRoUb1z_yRtTDrIDhb78bg"
-    },
-    {
-     "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Arsenal, Tottenham vs Crystal Palace and much more",
-     "url": "https://www.skysports.com/football/news/13604412/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-     "source": "Sky Sports",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_JQYqDGye4DBPE_DPjuC0xb42DnCvIzzm7sm14wt4mQFkKPnOyZWwMe0GFHw"
-    },
-    {
-     "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-     "url": "https://www.firstpost.com/football-news/live-score/stats/bet-vs-mag-191496/",
-     "source": "Firstpost",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfNa4YqZNRq19QOKhVVuhcJ7zvxmJd-NKfVp8CojHglM5HxIqppJuDtdj21S0"
-    }
-   ]
-  },
-  {
-   "keyword": "트위치",
-   "traffic": "200+",
-   "pubDate": "Sat, 31 Oct 2026 10:40:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
-   "news": [
-    {
-     "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
-     "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk"
-    },
-    {
-     "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
-     "url": "https://news.mtn.co.kr/article/2026103016220346703",
-     "source": "MTN 머니투데이방송",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwVcbzMx1z9R2I1Zogw4bY5GCinhrUvG67LETe_2y2Batpf8GSJyb6XQoMy0"
-    },
-    {
-     "title": "\"덜어낼수록 더 모였다\"…K- MMORPG 시장, 공식을 바꾸니 흥행한다",
-     "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88512",
-     "source": "인더스트리뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNYbWL3AELHExGukAzcvGANOE1JrfLZJAsAwxvUrAx_HGKA9ceXW91SeY8wYE"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-bCCgAWK83s0kQPVqATRZrJbbGyWr25Q4v-9HjXrlTIE9WmQz7qJdnV46KFA"
     }
    ]
   },
   {
    "keyword": "레알 베티스 대 말라가",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Sat, 31 Oct 2026 11:30:00 -0700",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
    "news": [
@@ -236,28 +184,80 @@
    ]
   },
   {
-   "keyword": "mkoi",
+   "keyword": "최민정",
    "traffic": "100+",
-   "pubDate": "Sat, 31 Oct 2026 11:30:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3wTiZry95uA2_vmifBsSFvfczcdk4rs2x0jLxuSh3BXvCCso7oqhzkqchzSM",
+   "pubDate": "Sat, 31 Oct 2026 14:10:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJMefsbFO5YZkwGxfhDoRySWjQmw-VCVOgRXNE-R2JhB2WnZVmaGPxE7O75A",
    "news": [
     {
-     "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
-     "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2",
-     "source": "Coinbase",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3wTiZry95uA2_vmifBsSFvfczcdk4rs2x0jLxuSh3BXvCCso7oqhzkqchzSM"
+     "title": "최민정, 쇼트트랙 2차 월드투어 첫날 전 종목 조 1위 예선 통과",
+     "url": "https://www.yna.co.kr/view/AKR20261031018100007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJMefsbFO5YZkwGxfhDoRySWjQmw-VCVOgRXNE-R2JhB2WnZVmaGPxE7O75A"
     },
     {
-     "title": "Europe's Survivor Is KC! Defeats MKOI to Advance to Quarterfinals",
-     "url": "https://www.invenglobal.com/articles/27979/europes-survivor-is-kc-defeats-mkoi-to-advance-to-quarterfinals",
-     "source": "Inven Global",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4J4Vezq3BR2GFYd_ZkL3ONkZECBT_60Y9yRCb8ojaKF1NgkWPr3txpBwIe1o"
+     "title": "쇼트트랙 최민정, 2차 월드투어 전 종목 예선 통과…김길리는 연속 충돌",
+     "url": "https://www.newsis.com/view/NISX20261031_0003849166",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRInYCdU1RKHX7Jk01QSeHyWwvjaDeSkjlzTdUiUWS5FNFw1E7Fmn5CClJkQR0"
     },
     {
-     "title": "Karmine Corp sweep CTBC Flying Oyster to eliminate last LCP team at Worlds 2026",
-     "url": "https://www.ginx.tv/en/karmine-corp-sweep-ctbc-flying-oyster-to-eliminate-last-lcp-team-at-worlds-2026",
-     "source": "GINX TV",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdtDoJzXn2C2hVxVZEEC5UXW-KMwLED8Jr6zeE9xXd7W7ozrXmZLUuTxWhWk8"
+     "title": "\"제발 은퇴 안 하면 안 돼요?\" 마지막 질주하는 최민정, 여전히 기량 미쳤다! 월드투어 첫날 전 종목 조 1위 질주",
+     "url": "https://www.chosun.com/sports/sports_general/2026/10/31/G5SDMN3EGNRDEOBUHEZTSNBQMQ/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjTs5ekhG76t5Q7q8v32HNrlG8sAMR2Yv4O-mPgoMjIF8i3NIwT8ecqd3Shr4"
+    }
+   ]
+  },
+  {
+   "keyword": "알렉산더 즈베레프",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 13:50:00 -0700",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ12wK75ZbUq00oANbMkRD7931zi2F5lhCRBA3ZmNyxXwdpy1p8SRaYSiyXng",
+   "news": [
+    {
+     "title": "\"세계 1위까지 딱 1점 남았는데\" 츠베레프 스매시에 광고판 먹통→심판 두드리고 상대는 발로 '쾅'... 결국 수건 덮고 역사 썼다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/31/2026103109290489614",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ12wK75ZbUq00oANbMkRD7931zi2F5lhCRBA3ZmNyxXwdpy1p8SRaYSiyXng"
+    },
+    {
+     "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
+     "url": "https://www.yna.co.kr/view/AKR20261030093200007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGDH9Ru6bbWzt9qfad-n2zLiOFQURfOiG3xqU9_xG2jzhAtvKGJ2YVc0lBL_s"
+    },
+    {
+     "title": "츠베레프, 생애 첫 테니스 랭킹 1위 등극 예고…신네르·알카라스 제쳐",
+     "url": "https://www.newspim.com/news/view/20261030000798",
+     "source": "뉴스핌",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLX0Nx1Hg_t0VYYxSQeL0-1ABYwLFEZsXX26EpuV3hx22tdv5VcyJtcPlTvI4"
+    }
+   ]
+  },
+  {
+   "keyword": "sports",
+   "traffic": "100+",
+   "pubDate": "Sat, 31 Oct 2026 13:30:00 -0700",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzToAieJdYNJcaXfRWBy6iQk9tu8vK35A6vK6-zECbgI7H9otfVZ-m3ViO294",
+   "news": [
+    {
+     "title": "Heat unveil updated Dwyane Wade statue after original's face was panned",
+     "url": "https://www.espn.com/nba/story/_/id/50328871/heat-unveil-updated-dwyane-wade-statue-original-face-was-panned",
+     "source": "ESPN",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzToAieJdYNJcaXfRWBy6iQk9tu8vK35A6vK6-zECbgI7H9otfVZ-m3ViO294"
+    },
+    {
+     "title": "\"I think it looks amazing,\" Spoelstra said",
+     "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/30/i-think-it-looks-amazing-spoelstra-said/92523533007/",
+     "source": "HoopsHype",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM17WbXx1MKe55jlALVlc26DpJL2HfnMIvtEZj14xL3QXCCu1ziFyjqRi3QKA"
+    },
+    {
+     "title": "#TSRSports: Okay, upgrade! 🔥🏀 After the original received criticism, the Miami Heat unveiled a new statue of #DwyaneWade! 👀 Wade reflected on the backlash in a Substack article, admitting the criticism initially got to him before realizing the statue belongs to",
+     "url": "https://www.instagram.com/p/DfImjFYAVxy/",
+     "source": "Instagram",
+     "img": ""
     }
    ]
   }
