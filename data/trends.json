@@ -1,32 +1,6 @@
 {
- "updated": "2026-11-01 10:59",
+ "updated": "2026-11-01 11:48",
  "items": [
-  {
-   "keyword": "사랑 이 온다",
-   "traffic": "2000+",
-   "pubDate": "Sat, 31 Oct 2026 17:00:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHP2biKQ1qkDr7fS78y2HRBnfQOcAzAs8nsz7WC7FFdhi9vDwdrLWeFDizIrg",
-   "news": [
-    {
-     "title": "'사랑이 온다' 안희연, 하석진에 고백…27화 예고",
-     "url": "https://www.bntnews.co.kr/article/view/bnt202610310150",
-     "source": "BNT뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHP2biKQ1qkDr7fS78y2HRBnfQOcAzAs8nsz7WC7FFdhi9vDwdrLWeFDizIrg"
-    },
-    {
-     "title": "민진웅, '사랑이 온다' 단짠 매력남",
-     "url": "https://www.starnewskorea.com/broadcast-drama/2026/10/23/2026102309435214946",
-     "source": "스타뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokn9Vva_iQnBbSGl3eSewhWUGsmSqJX_Z-kMZh9N1Nb8vPcj5ZAG5wOCTlg"
-    },
-    {
-     "title": "시청률 20% 육박 ‘닥터X’ 없는 곳에선 ‘사랑이 온다’ 시청률 1위",
-     "url": "https://m.newsen.com/news_view.php?uid=202610260900011910",
-     "source": "뉴스엔",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjpgoufA246uog6NkTTcJPBq-bLq9a0B4VqSeutoZb_fjUgN_-irzQ-sEaMwE"
-    }
-   ]
-  },
   {
    "keyword": "한화생명 e스포츠",
    "traffic": "1000+",
@@ -40,16 +14,16 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ8M0vUPwaAysblsimHupwcHohrpgPDjs2eEVO_T9rqujCYeyaHRA9RsRk47c"
     },
     {
-     "title": "[롤드컵] ‘LCK 4팀 8강’은 끝내 없었다!…BLG, 한화생명 떨어뜨리고 8강 막차 합류!, MSI 결승 복...",
-     "url": "https://sports.khan.co.kr/article/202611010854003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuqNLhz4dVcRw5inShPXZGCJvWMlfaM-BT52eRyTm5nYheAfCyLYCeY-pvXf8"
-    },
-    {
      "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
      "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/",
      "source": "조선일보",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy63FoNJ2K5O1MqGldUq1woZt1-eclgZ87NQi0YR1Qa6M11CctLZVowPlaaGQ"
+    },
+    {
+     "title": "[롤드컵] 젠지는 LYON, T1은 KC, DK는 BLG…롤드컵 8강 대진 확정",
+     "url": "https://sports.khan.co.kr/article/202611010923003",
+     "source": "스포츠경향",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF94N3Cl7FZzyVZE4Oicx01e28pXxg0WSyCtmIKlsQ9i2sZjgDzgFhSlwCbCo"
     }
    ]
   },
@@ -57,8 +31,14 @@
    "keyword": "화재",
    "traffic": "1000+",
    "pubDate": "Sat, 31 Oct 2026 16:50:00 -0700",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9L1Zty0516StXvIADO35q3RJjuNgbEaFOGPqtE8pihWPpJJhuggFz1-rj2IA",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNizG4gAxKoCVreec-BIpqnvxx9EoCKnpb74s84ufUbahp_X-TT0DBB6ehV1g",
    "news": [
+    {
+     "title": "서울시, 겨울철 화재 안전 강화…취약주택에 자동소화기 보급",
+     "url": "https://www.yna.co.kr/view/AKR20261031030800004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNizG4gAxKoCVreec-BIpqnvxx9EoCKnpb74s84ufUbahp_X-TT0DBB6ehV1g"
+    },
     {
      "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
      "url": "https://www.newsis.com/view/NISX20261031_0003849162",
@@ -70,38 +50,104 @@
      "url": "https://www.imaeil.com/page/view/2026102216372069216",
      "source": "매일신문",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoBi0D-y5So4WWVYOOqDYoD7qOO3bVzthhPRS9naK5rOkIcTjeVyxTXrM-js0"
-    },
-    {
-     "title": "대전 5년간 겨울철 화재 1188건·89명 사상…봄 다음으로 빈번",
-     "url": "https://www.news1.kr/local/daejeon-chungnam/6338502",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeFQIXhiCHyToKppO0u--iNMkrJxJoOBnGmeV6HgZpwVLzYTf_VUSFqIteecQ"
     }
    ]
   },
   {
-   "keyword": "이찬원",
+   "keyword": "이경실",
    "traffic": "500+",
-   "pubDate": "Sat, 31 Oct 2026 16:30:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwprwdRjEaeZZ4QPXWUg9F4KeDGCZQ8PX03V-BeJ7uwPs-FNSaL1Zxa1J5hZ4",
+   "pubDate": "Sat, 31 Oct 2026 18:30:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLmYWOiOZOB-9HgPXyFf49R_l-tmnskBbA5FM4vE1Rq3JM2z33Q5MlQMnvcXI",
    "news": [
     {
-     "title": "이찬원 팬클럽, 생일 맞아 청각장애인 위해 3,445만원 후원",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737647",
-     "source": "국제뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwprwdRjEaeZZ4QPXWUg9F4KeDGCZQ8PX03V-BeJ7uwPs-FNSaL1Zxa1J5hZ4"
+     "title": "이경실, 아파트 경매 위기서 ‘1억’ 빌려준 김지선에 무한 감사..“1년 걸려 갚아”",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/G4ZTIOJZMRRDEMZVMI2GGNTEGM/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLmYWOiOZOB-9HgPXyFf49R_l-tmnskBbA5FM4vE1Rq3JM2z33Q5MlQMnvcXI"
     },
     {
-     "title": "가수 이찬원 팬클럽 ‘합심대도 Chan’s’, 경남발달장애인복지협회에 후원금 200만 원 전달",
-     "url": "https://www.idomin.com/news/articleView.html?idxno=2018268",
-     "source": "경남도민일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiCyh_6ngBMI5h2U_ujCLeTeGU-LQuK5qyGQHap45n2FFacfhAG4_HPrsVKJ8"
+     "title": "이경실 \"89평 아파트 경매 위기, 김지선 1억 선뜻 빌려줘\"",
+     "url": "https://www.segye.com/newsView/20261101503632",
+     "source": "세계일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyyX81UmzTkuqxdIMOBftehHUw4xNJvfTYHxqpcKpcZORA3BMLwRX1PFmSJSU"
     },
     {
-     "title": "이찬원, 29번째 생일 포스터 공개…연말 콘서트로 팬 사랑 잇는다",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264788",
-     "source": "톱스타뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLoUlYJDyVyHRa6b3ZCAbBoEnaYQK5WKd9au7OrqCxfymkFyPeTU6L9-9Gxw"
+     "title": "이경실, 과부 정선희 위해 3억 5천 모은 이유 “지금도 한우 옥돔 보내”(지식인사이드)",
+     "url": "https://m.newsen.com/news_view.php?uid=202611010800582310",
+     "source": "뉴스엔",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6vNXVNHiy-jibMiFeUtKzXhfKb5iIfHijIYWwG-oPWudgT8EF_GvFjgtK1w"
+    }
+   ]
+  },
+  {
+   "keyword": "적금",
+   "traffic": "500+",
+   "pubDate": "Sat, 31 Oct 2026 18:10:00 -0700",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuL1zTWPxVihDmxNTvw0CDSr6L4gAb1M6nAfcN1gRv2d0yFtNOKFHPROk4xo",
+   "news": [
+    {
+     "title": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-11월 1주]",
+     "url": "https://www.fntimes.com/html/view.php?ud=2026103015240148661b5a221379_18",
+     "source": "금융신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuL1zTWPxVihDmxNTvw0CDSr6L4gAb1M6nAfcN1gRv2d0yFtNOKFHPROk4xo"
+    },
+    {
+     "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
+     "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469",
+     "source": "https://www.diarypoint.com/",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfBBhJIRPhvdBaPS2621z2_faeisyaRY00vG1pvQ4837r1dOURPOz08WrLY_A"
+    },
+    {
+     "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
+     "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
+     "source": "금융신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuO5SP7ZgW77s_N4TURIT9jMQ-oMIu2c-MCCcLKJYOKxv8EhEv1a4YUwcsk4"
+    }
+   ]
+  },
+  {
+   "keyword": "bangladesh vs india",
+   "traffic": "200+",
+   "pubDate": "Sat, 31 Oct 2026 18:40:00 -0700",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U9XHCb7_IerMLyJo10x10K7Emkf51vrjuuAG0koBc4WdLxAkgaMQuOV5yno",
+   "news": [
+    {
+     "title": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/175190/ban-vs-ind-11th12th-bowl-play-off-hong-kong-sixes-2026",
+     "source": "Cricbuzz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U9XHCb7_IerMLyJo10x10K7Emkf51vrjuuAG0koBc4WdLxAkgaMQuOV5yno"
+    },
+    {
+     "title": "India vs Bangladesh Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+     "url": "https://www.ndtvprofit.com/sports/india-vs-bangladesh-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12265078",
+     "source": "NDTV Profit",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-vk8DmQC3HKNNU0jPgdBsAy6GoxNZ-Ihle4DcH4PqWpXpu0VH1zdX9OdQdQs"
+    }
+   ]
+  },
+  {
+   "keyword": "ban vs ind",
+   "traffic": "200+",
+   "pubDate": "Sat, 31 Oct 2026 18:40:00 -0700",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbFcB5WuCwGTUv_wdLmJRi0pigWdcCJ358B3vWPb7SgdU015nb1DN9xrWGLHo",
+   "news": [
+    {
+     "title": "India face tricky WTC final road after South Africa's Cape Town Test win: Here's how",
+     "url": "https://www.indiatoday.in/sports/cricket/story/india-wtc-final-qualification-scenarios-south-africa-australia-series-win-3029501-2026-10-31",
+     "source": "India Today",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbFcB5WuCwGTUv_wdLmJRi0pigWdcCJ358B3vWPb7SgdU015nb1DN9xrWGLHo"
+    },
+    {
+     "title": "WTC points table after BAN vs WI 1st Test: India move up to fourth as Bangladesh drop to fifth after eight-wicket defeat",
+     "url": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
+     "source": "Livemint",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhI0UTjC7YhW5OYeIOtVVUrgtDl3edCChNxyVlVitgsIIa9Bz5ZKE5tFC-ro"
+    },
+    {
+     "title": "How Can India Qualify For WTC 2025-27 Final? Check Scenario After South Africa Vs Australia Test Series",
+     "url": "https://www.outlookindia.com/sports/cricket/india-qualification-scenario-world-test-championship-2025-27-explained",
+     "source": "Outlook India",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjqBjhIGhadLbJu8z-XrUY3LZ8F2UAMMdeYQsVnkqz4sOXoectTiMjZORnDUc"
     }
    ]
   },
@@ -168,14 +214,8 @@
    "keyword": "lyon",
    "traffic": "100+",
    "pubDate": "Sat, 31 Oct 2026 17:10:00 -0700",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqZG-XqNy7vd901B7s496ILciSzeO2WlsofW-v8qh76xgxLrxgiukMLb_jccg",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw7HdYtU2LaJTNbHqXbwC7vpfuwodlZgaxNn77t6oL6Dji1wOGA-YvlY8D-MA",
    "news": [
-    {
-     "title": "Lyon OU - RC Vannes. Les tops et flops du match : Nicolàs Roger soigne sa première, une fin de match cauchemardesque",
-     "url": "https://www.ouest-france.fr/sport/rugby/rugby-club-vannes/lyon-ou-rc-vannes-les-tops-et-flops-du-match-roger-soigne-sa-premiere-une-fin-de-match-cauchemardesque-564bd64e-d53e-11f1-84f3-5611f158a658",
-     "source": "Ouest-France",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqZG-XqNy7vd901B7s496ILciSzeO2WlsofW-v8qh76xgxLrxgiukMLb_jccg"
-    },
     {
      "title": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier",
      "url": "https://www.rugbyrama.fr/2026/10/31/top-14-on-a-le-sentiment-que-nos-leaders-grandissent-ethan-dumortier-lyon-revient-sur-la-victoire-du-lou-qui-a-pris-du-temps-a-se-dessiner-13630025.php",
@@ -183,62 +223,16 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw7HdYtU2LaJTNbHqXbwC7vpfuwodlZgaxNn77t6oL6Dji1wOGA-YvlY8D-MA"
     },
     {
+     "title": "Les Vannetais ont longtemps résisté mais s’inclinent à Lyon",
+     "url": "https://www.rugbyclubvannes.bzh/les-vannetais-ont-longtemps-resiste-mais-sinclinent-a-lyon/",
+     "source": "Rugby Club Vannes",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIqfvsVUm5bwFw15jXbeM1nyqh6EdZCc3377O1PvDrqkb5PlxoxntF_YkE-og"
+    },
+    {
      "title": "Matias Alemanno victime d’une commotion cérébrale lors de la défaite du RC Vannes à Lyon",
      "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/matias-alemanno-victime-dune-commotion-cerebrale-lors-de-la-defaite-du-rc-vannes-a-lyon-7149830.php",
      "source": "Le Télégramme",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-K7ClmzuMMmlJ-3gnqdL_FDzodqfUjG4FROlXGrq2jGZr6wHUZSbZH6AULls"
-    }
-   ]
-  },
-  {
-   "keyword": "gs건설",
-   "traffic": "100+",
-   "pubDate": "Sat, 31 Oct 2026 16:30:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJiZzTyP53Ga4h3WjUKucTgeKL04Tmy5Wb41pRIsc7LwkIPpaECOi0kh8omIY",
-   "news": [
-    {
-     "title": "역대 최대 영업이익 질주하던 에이피알…원화 강세에 꺾였다",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442178",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJiZzTyP53Ga4h3WjUKucTgeKL04Tmy5Wb41pRIsc7LwkIPpaECOi0kh8omIY"
-    },
-    {
-     "title": "에이피알, 3분기 영업이익 1,606억 원…누적 매출 2조 돌파",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120707dbE",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8--08x6l_mp6A5KKtc2TuZ5VJ_GZf27QzrFkjUbhnLuhnBweDqLmWd3oRo6M"
-    },
-    {
-     "title": "에이피알·GS건설·티에프이",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01728566645618496",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt6pbfkZEtElCkiCEzqwqYePCsS57EjEkX7K9FPPI-FJd-WEpFpZrOeXVpjQ"
-    }
-   ]
-  },
-  {
-   "keyword": "테일러 프리츠",
-   "traffic": "100+",
-   "pubDate": "Sat, 31 Oct 2026 16:20:00 -0700",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9V-DTN-7MRWScaDERLNIIdp13iljqKYvmAVcmQ0M9sASjeBM3z-kweE8vSQ",
-   "news": [
-    {
-     "title": "Olivia Jade Reportedly Has a New Man in the Picture, & It’s Not Taylor Fritz",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-jade-reportedly-man-picture-190624887.html",
-     "source": "Yahoo",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9V-DTN-7MRWScaDERLNIIdp13iljqKYvmAVcmQ0M9sASjeBM3z-kweE8vSQ"
-    },
-    {
-     "title": "OLIVIA JADE’S RELATIONSHIP REVEALED: Mystery man uncovered",
-     "url": "https://www.deuxmoi.world/news/olivia-jades-relationship-revealed",
-     "source": "DeuxMoi.world",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh_LCNnm03gx6VOtVY-9wmP7l8OTXh18h3kcjI59PQeU6MVF-5acDMHLC0Y_s"
-    },
-    {
-     "title": "Olivia Jade Holds Hands With Businessman PC Valmorbida During NYC Outing a Year After Jacob Elordi Split",
-     "url": "https://www.eonline.com/news/1437509/is-olivia-jade-dating-pc-valmorbida-see-nyc-photo-after-jacob-elordi-split",
-     "source": "E! News",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0_2Jp5SeQD6fKeRQGzqq_5ETZvEYfyebwlUi1nv8hqwV86_hzAMZNY93s40"
     }
    ]
   }
