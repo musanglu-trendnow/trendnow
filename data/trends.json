@@ -1,29 +1,107 @@
 {
- "updated": "2026-11-03 16:04",
+ "updated": "2026-11-03 17:17",
  "items": [
+  {
+   "keyword": "삼성",
+   "traffic": "20000+",
+   "pubDate": "Mon, 2 Nov 2026 22:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb-wT7YGj5F-9p7zebG3D6Q4pzosZyYet9qNndbwVGdZ2DnYIgOl4nUKJ_fJs",
+   "news": [
+    {
+     "title": "45세 슈퍼모델 김자연, 70세 '삼성전자 전 사장' 손영권과 결혼",
+     "url": "https://www.news1.kr/society/general-society/6341628",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb-wT7YGj5F-9p7zebG3D6Q4pzosZyYet9qNndbwVGdZ2DnYIgOl4nUKJ_fJs"
+    },
+    {
+     "title": "모델 김자연, 70세 손영권 삼성전자 고문과 결혼…25세 차 극복 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/03/2026110316313869096",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnHWsZMT8IDocnCI-Em6k9a_cXedgb6-8e2xXHtp7fJ9V-jFDW_68cscfA2QM"
+    },
+    {
+     "title": "45세 슈퍼모델 김자연, 70세 삼성전자 전 사장과 결혼",
+     "url": "https://www.newsis.com/view/NISX20261103_0003853011",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOOLtpyD0XmTdyf7HwaAPiuCdVwVhzf5B1XwWuCLXkB-WCrzL-zJuIbhBoXAo"
+    }
+   ]
+  },
+  {
+   "keyword": "전투기",
+   "traffic": "2000+",
+   "pubDate": "Mon, 2 Nov 2026 22:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayaSsAetDk4dE2PjlvZAmhbqgGlCS5VaFrVvtatXVP-_ZQNFNyvl1WCRDgq0",
+   "news": [
+    {
+     "title": "[영상] 우크라 \"러 Su-57 전투기, 지상에서 엔진 시동 중 폭발\"",
+     "url": "https://www.yna.co.kr/view/AKR20261103109200704",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayaSsAetDk4dE2PjlvZAmhbqgGlCS5VaFrVvtatXVP-_ZQNFNyvl1WCRDgq0"
+    },
+    {
+     "title": "우크라이나 “러, 수호이 전투기 시동 중 폭발” [자막뉴스]",
+     "url": "https://ichannela.com/news/detail/000000558172.do",
+     "source": "채널A",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_Hl7s4fulOzLnoVr5x3qhIZvp6F0Ah6MuFlNhyVSRNdSBHvjL-SHd-csGsk8"
+    },
+    {
+     "title": "Su-57 전투기는 여전히 현대화 잠재력이 매우 높습니다.",
+     "url": "https://www.vietnam.vn/ko/tiem-nang-hien-dai-hoa-cua-tiem-kich-su-57-con-rat-cao",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6ntSKbMPdDjrhUr1HPXuA0B_Z3O3xY6gbM7JfxU8QVy88pKv10mcq14dqbfE"
+    }
+   ]
+  },
   {
    "keyword": "어린이",
    "traffic": "2000+",
    "pubDate": "Mon, 2 Nov 2026 21:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8-mcOOgt6ndGF69jsxJ0gkqC8IQCVbj1kMpiO1QCO7NOPNmIVXh6hRXGqQ9U",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPa40hcrpEb5dlxG0hF8SYLK6GvAWnkpiYxQkH9Z772YBfUIai245bTwo6zCI",
    "news": [
     {
-     "title": "경기북부 겨울철 화재 연평균 678건…부주의가 41.9%",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335810",
-     "source": "인천일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8-mcOOgt6ndGF69jsxJ0gkqC8IQCVbj1kMpiO1QCO7NOPNmIVXh6hRXGqQ9U"
+     "title": "수원대학교 운영 화성시 어린이·사회복지급식관리지원센터, 어린이 식생활 체험관 프로그램 성료",
+     "url": "https://www.veritas-a.com/news/articleView.html?idxno=634895",
+     "source": "베리타스알파",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPa40hcrpEb5dlxG0hF8SYLK6GvAWnkpiYxQkH9Z772YBfUIai245bTwo6zCI"
     },
     {
-     "title": "“불조심 강조의 달” 소방청, 국민과 함께 화재예방 나선다",
-     "url": "https://view.asiae.co.kr/article/2026110311090546993",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7CSOy0ZkNEWvrH67GQ0U79AU8efA4o_5PAjbn2S-s-yJUEYUEjo6ke2-h_18"
+     "title": "광주특별시 남구 어린이·사회복지급식센터, 조리종사자 집합교육",
+     "url": "http://newstoktok.com/article.php?aid=27042736682",
+     "source": "톡톡뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTIyvCf_i1JStoGJPGdWSqncRej5iiZ14P_k0pw46eSC4_LRIytAYginY2dU"
     },
     {
-     "title": "강원소방, 11월 '불조심 강조의 달' 운영…18개 소방서 캠페인",
-     "url": "https://www.yna.co.kr/view/AKR20261102156200062",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5YX7O9zorSYzGZ2w6IBY9hF7_yhmYMuJNpXAhOjZpWKR7t_tgxhDK15HVZgQ"
+     "title": "콩·두부와 친해지는 오감 식생활교육",
+     "url": "https://www.fsnews.co.kr/news/articleView.html?idxno=62533",
+     "source": "대한급식신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4tiIgnY7yM5Fx5i516zuihJuA1GKJRr1iLtv1gy2FNDuAx-3oUaH5num5Sx8"
+    }
+   ]
+  },
+  {
+   "keyword": "우량주",
+   "traffic": "2000+",
+   "pubDate": "Mon, 2 Nov 2026 21:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ",
+   "news": [
+    {
+     "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html",
+     "source": "뉴데일리",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ"
+    },
+    {
+     "title": "미 중간선거 우려 속 AI 주가 급락과 증시 향방",
+     "url": "https://story.pay.naver.com/content/3860_39_C9",
+     "source": "네이버페이 머니스토리",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7uo06To2mLdp8wgUv9KKo7tfwdVNigmzE_L3oivYVU0-x9cl7PBHPqswN_w"
+    },
+    {
+     "title": "코스피 개장 때 美 선거결과 우르르…증권가 관전포인트는 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/03/2026110315280671067",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8VA31zGPg2eg6UBPt6i4DKZxXYljbTv2R0Fkq_rE1vht0y4ZLb2640ISH7ic"
     }
    ]
   },
@@ -46,68 +124,16 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzX5fNX7vdl802-SSI--eE5HNXWAodZ69EIqHDokdD0PLmDhQiA6Xckxsslo"
     },
     {
-     "title": "“방귀 냄새 맡아도 돼?” 남친 체취 집착녀 논란… 생리학적 이유 있었다",
-     "url": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110202001.html",
-     "source": "헬스조선",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_Dvqvdd3_qLlTLoim-0oNh4S2pQwBrAhauXeDFmf3MaZxRLjv7oqLAOWt67M"
-    }
-   ]
-  },
-  {
-   "keyword": "유언",
-   "traffic": "2000+",
-   "pubDate": "Mon, 2 Nov 2026 20:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbRedOcZE2QZr-DdFoBTTb8eVpKUMR8QbCEewwLPJRljx9h8B_gvgPXzqnA3I",
-   "news": [
-    {
-     "title": "\"15억 전재산 동거녀에게 다 준다는 아버지 유언, 친자녀 몫은 0원?\"",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110202845.html",
-     "source": "땅집고",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbRedOcZE2QZr-DdFoBTTb8eVpKUMR8QbCEewwLPJRljx9h8B_gvgPXzqnA3I"
-    },
-    {
-     "title": "27년 부양한 자녀의 유류분, 대법원 판결",
-     "url": "https://www.lawtalk.co.kr/posts/202511",
-     "source": "로톡",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF5Int6JJR9ng7Cz9IRw2Ni7Wis1U5E6fg_BI_npF9fOxMBChIbub47duTb3g"
-    },
-    {
-     "title": "[이슈브리핑] 내용증명, 제대로 알고 활용하기",
-     "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113094",
-     "source": "아파트관리신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_2i-gseNrDis6JhVThdQYEsUUattc8XNlsKQGpW-43MiAKmPDr98iyqkyEvg"
-    }
-   ]
-  },
-  {
-   "keyword": "우량주",
-   "traffic": "1000+",
-   "pubDate": "Mon, 2 Nov 2026 21:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ",
-   "news": [
-    {
-     "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
-     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html",
-     "source": "뉴데일리",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ"
-    },
-    {
-     "title": "[베트남 증시] 유동성 늘었지만 外人 '팔자' 지속에 하락...은행 등 대형주 ↓",
-     "url": "https://www.newspim.com/news/view/20261102001612",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7IUhSQrX8AkjKMBSdGB_sdl41sHYWjRGKEvZkwSj3iXQjgnJXOgT3IRC7t4"
-    },
-    {
-     "title": "VN 지수가 급락하면서 증권사들은 시장이 바닥을 찾기 위한 노력을 계속하고 있다고 전망했다.",
-     "url": "https://www.vietnam.vn/ko/vn-index-lui-sau-ctck-du-bao-thi-truong-tiep-tuc-do-day",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHAxNNF_9Kywf8KJN433cQ9Qf208dtubTMHoKrHb3MxcyuCzWvfafvCerHWE"
+     "title": "이효리 “나도 정신과 간다” 고백… 술 문제 커플에 치료 권유",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/4V45FWPOIJE6BEVXZO7GTRRF2Q/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHwOu1AUH6uM8Qwlawwxzw9ooF23942AtgVYu2lnhzm1ZvXs-I_Z8ejdVK-0"
     }
    ]
   },
   {
    "keyword": "담배",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Mon, 2 Nov 2026 20:50:00 -0800",
    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyBg8pkLtoKAGEED0DLvDr8hGIvIVaSGtHp7kbba0axAei0WQIwk0llo7KHt8",
    "news": [
@@ -118,42 +144,94 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyBg8pkLtoKAGEED0DLvDr8hGIvIVaSGtHp7kbba0axAei0WQIwk0llo7KHt8"
     },
     {
+     "title": "'무니코틴'이라더니 유사니코틴?…정부, 유사니코틴 독성 연구 추진",
+     "url": "https://www.etnews.com/20261103000181",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyozstPSXU44uXiXEg-wRtKCHSGrEswAKbDIvW5JpWFY83rddgZB63__rmJK0"
+    },
+    {
      "title": "전자담배도 ‘발암물질’…비연소 키웠던 담배업계, 규제 변수 촉각",
      "url": "https://www.asiatime.co.kr/article/20261103500302",
      "source": "아시아타임즈",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNw90csUFOwiyNKcLveNfCfzvJwnr-d72hoqPrz7BPTLqmGDSayfURFct6gVo"
-    },
-    {
-     "title": "‘무니코틴’ 광고하지만…규제 밖 유사담배 급증",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8700570",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMhVT_LMI-fVSrTcLUZYu5tV-lXlBdafxFS-zJ_MeKBTxXZGg2JfsbjauQ02s"
     }
    ]
   },
   {
-   "keyword": "손영권",
+   "keyword": "월악산",
    "traffic": "500+",
-   "pubDate": "Mon, 2 Nov 2026 20:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOOLtpyD0XmTdyf7HwaAPiuCdVwVhzf5B1XwWuCLXkB-WCrzL-zJuIbhBoXAo",
+   "pubDate": "Mon, 2 Nov 2026 21:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg",
    "news": [
     {
-     "title": "45세 슈퍼모델 김자연, 70세 삼성전자 전 사장과 결혼",
-     "url": "https://www.newsis.com/view/NISX20261103_0003853011",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOOLtpyD0XmTdyf7HwaAPiuCdVwVhzf5B1XwWuCLXkB-WCrzL-zJuIbhBoXAo"
+     "title": "월악산 야영장에 ‘자율주행 배송로봇’ 떴다…배송에 안전, 환경까지",
+     "url": "https://m.segye.com/view/20261102519013",
+     "source": "세계일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg"
     },
     {
-     "title": "45살 `슈퍼모델` 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 로맨틱 결혼식[MD이슈]",
-     "url": "https://mydaily.co.kr/page/view/2026110314433231918",
-     "source": "마이데일리",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm-m43Et5zwwWm26qwZce_fI_zOtXgbGHdmtEuCeJ2gDTHrAVW5ueFdoQh2CI"
+     "title": "국립공원 최초, ‘자율주행무인배송로봇’ 월악산 닷돈재야영장서 실증 성공",
+     "url": "http://m.mgnews.kr/view.php?idx=76944",
+     "source": "문경시민신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzuef6_lVIQjbWiIYPsbxU9f6d5XwBTjXaqv_xcTusdk3hy6kybzCVFdXRIU8"
     },
     {
-     "title": "25살 차이 극복…슈퍼모델 김자연, 전 삼성전자 사장 손영권과 결혼 [자막뉴스]",
-     "url": "https://ichannela.com/news/detail/000000558186.do",
-     "source": "채널A",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMEJ8nMEXpBYqJY5RVFRpmxBpmzi3WqAgC6-XsKklIntZ45XX07EJcdd9auHY"
+     "title": "월악산 닷돈재 야영장 '친환경 스마트 탐방' 도입…로봇이 짐 운반",
+     "url": "https://www.news1.kr/local/sejong-chungbuk/6336134",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBngJoMTIeJc1aZrvGzW2WB3-Fvl1rxlKk7jP4rQBUm0cpQkQr4DMcruxorl0"
+    }
+   ]
+  },
+  {
+   "keyword": "아시안컵",
+   "traffic": "200+",
+   "pubDate": "Mon, 2 Nov 2026 23:00:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5rQcTyan2f3KQY-eXQ5tF39iGRtLjMQpGBPuPZ6j2x0x7CQJaA-0F5uhGKaA",
+   "news": [
+    {
+     "title": "[속보]사우디 아시안컵, 내년 1월→12월 연기…모레노 감독 거취는?",
+     "url": "https://www.donga.com/news/Inter/article/all/20261103/134958276/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5rQcTyan2f3KQY-eXQ5tF39iGRtLjMQpGBPuPZ6j2x0x7CQJaA-0F5uhGKaA"
+    },
+    {
+     "title": "아시안컵 축구, 2027년 12월 개최…중동 정세 불안 탓 일정 변경",
+     "url": "https://www.yna.co.kr/view/AKR20261103133600007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFv-2k4VCwhUZ0SVsT577DAkkr3dXg2aQ1_Cwh3zsYo52ANWVxipeO_G0_Erc"
+    },
+    {
+     "title": "'아시안컵' 내년 1월→12월 연기…'임시 감독' 모레노 어쩌나 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/03/2026110316160155617",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnIqyR_OOi53mgY4j6qYhZViLmqvImKSRmxRhsYKEzpHzj_Wl_KWnWQRGiR9k"
+    }
+   ]
+  },
+  {
+   "keyword": "where to vote",
+   "traffic": "200+",
+   "pubDate": "Mon, 2 Nov 2026 22:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3Ahz25iGjmYz9zQWoXmLURLoNObKZ8FsRUJDJMXq9SgUZm2MS4HTteHcwTc",
+   "news": [
+    {
+     "title": "It’s Election Day in Florida",
+     "url": "https://www.newsfromthestates.com/article/its-election-day-florida",
+     "source": "News From The States",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3Ahz25iGjmYz9zQWoXmLURLoNObKZ8FsRUJDJMXq9SgUZm2MS4HTteHcwTc"
+    },
+    {
+     "title": "The ultimate voter guide for Tallahassee, Florida elections",
+     "url": "https://www.fsunews.com/story/news/2026/11/02/tallahassee-want-to-know-more-about-who-youre-voting-for-look-here/92563316007/",
+     "source": "FSView & Florida Flambeau",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlYIPSc4Wov2SjQIt7T8gLqSzoB-3Kd5bzDYGhGcrgd97RxcmEtrNjrnBelHE"
+    },
+    {
+     "title": "Broward County voters prepare to make their voices heard on Election Day",
+     "url": "https://www.cbsnews.com/miami/video/broward-county-voters-prepare-to-make-their-voices-heard-on-election-day/",
+     "source": "CBS News",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4eh1jg7ZPEJp5eLVyjnfCR4ZHOQXLoIKMeUNKLkAudnDl_QcjrCVULmGJN2o"
     }
    ]
   },
@@ -180,84 +258,6 @@
      "url": "https://www.chosun.com/sports/basketball/2026/11/01/HBRWKZRTGBTDCMDBMVRDKYRZGA/",
      "source": "조선일보",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AzemuRV9stZxiUvWAH4OegJ-POapUvppoBD9iqHiJczLQHwloKKHmtwGGvU"
-    }
-   ]
-  },
-  {
-   "keyword": "월악산",
-   "traffic": "200+",
-   "pubDate": "Mon, 2 Nov 2026 21:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg",
-   "news": [
-    {
-     "title": "월악산 야영장에 ‘자율주행 배송로봇’ 떴다…배송에 안전, 환경까지",
-     "url": "https://m.segye.com/view/20261102519013",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg"
-    },
-    {
-     "title": "국립공원 최초, ‘자율주행무인배송로봇’ 월악산 닷돈재야영장서 실증 성공",
-     "url": "http://m.mgnews.kr/view.php?idx=76944",
-     "source": "문경시민신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzuef6_lVIQjbWiIYPsbxU9f6d5XwBTjXaqv_xcTusdk3hy6kybzCVFdXRIU8"
-    },
-    {
-     "title": "월악산 닷돈재 야영장 '친환경 스마트 탐방' 도입…로봇이 짐 운반",
-     "url": "https://www.news1.kr/local/sejong-chungbuk/6336134",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBngJoMTIeJc1aZrvGzW2WB3-Fvl1rxlKk7jP4rQBUm0cpQkQr4DMcruxorl0"
-    }
-   ]
-  },
-  {
-   "keyword": "김원훈",
-   "traffic": "200+",
-   "pubDate": "Mon, 2 Nov 2026 20:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqZwkvU237XGId_p8ssGYOWpOAkknO6sWy4E1sX7pnH1VlOhkmRWzZjO-MBE",
-   "news": [
-    {
-     "title": "지예은, 청첩장 공개…신동엽 앞에서 \"사회는 유재석\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110223195918105",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqZwkvU237XGId_p8ssGYOWpOAkknO6sWy4E1sX7pnH1VlOhkmRWzZjO-MBE"
-    },
-    {
-     "title": "유재석, 김종국에 아직도 서운…\"내 결혼식 때 부탁한 축가 거절\"",
-     "url": "https://www.newsis.com/view/NISX20261103_0003852089",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3kRI9YHWdEzCY8tZV9l_HZGOD6ulMDsnUYy_1MctGH8_Y2FSg1WmVNc5-YBA"
-    },
-    {
-     "title": "'바타와 12월 결혼' 지예은, 유재석·신동엽·김종국·양세찬에 직접 청첩장 전달",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6341099",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRY0W0l092JIiwNpA-n9xwxg9XTTnJxZ1t56WCT5gt3BEefYY34n0IlOcRTzFA"
-    }
-   ]
-  },
-  {
-   "keyword": "버추얼 아이돌",
-   "traffic": "200+",
-   "pubDate": "Mon, 2 Nov 2026 20:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWu5puWR_4K0OSL4YQ7FGPE2xLPZpVqbqxoJFbfh41kqsVCzkVmhz18--j36U",
-   "news": [
-    {
-     "title": "점심시간💜",
-     "url": "https://weverse.io/plave/live/1-181334450",
-     "source": "Weverse",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWu5puWR_4K0OSL4YQ7FGPE2xLPZpVqbqxoJFbfh41kqsVCzkVmhz18--j36U"
-    },
-    {
-     "title": "인간 아이돌 제쳤다… 올해 데뷔 4명 중 1명은 ‘버추얼’",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/03/5XLTRHNKH5BQ7ALFLH4BLRZSSM/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrSqrVkn3EZXtb_r9GOTji04_rWkoiDDDAlawyCB_-wkbzcM_QHBiQbqTkObE"
-    },
-    {
-     "title": "플레이브, '팬앤스타' 글로벌 핫스타 107주 연속 1위…빌보드 자체 최고 기록 '경신'",
-     "url": "https://news.tf.co.kr/stars/read/starwars/2384280.htm",
-     "source": "더팩트",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToZ1jH8Ybk_FH9hxELtOrcRfRDBICc_bWo8PE7hlowF8RCPKnt2DQ51NV5fcE"
     }
    ]
   }
