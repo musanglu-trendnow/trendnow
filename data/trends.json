@@ -1,166 +1,237 @@
 {
- "updated": "2026-11-04 14:57",
+ "updated": "2026-11-04 16:09",
  "items": [
   {
-   "keyword": "골프",
-   "traffic": "2000+",
-   "pubDate": "Tue, 3 Nov 2026 20:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr74lLVjDgccPXcewS5YDEQuWu659nIfLVGp1mREZyyF8YuLNFvHpYTsYNCs",
+   "keyword": "헤지펀드",
+   "traffic": "5000+",
+   "pubDate": "Tue, 3 Nov 2026 21:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3Po0N2L7y4mUE_2qqpdBf7Yiq3CAY5kTKzMxo9I4JhKJRNBwFbNeTCsati1g",
    "news": [
     {
-     "title": "\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이",
-     "url": "https://www.mt.co.kr/living/2026/11/04/2026110409194480467",
+     "title": "美 대형 헤지펀드의 '대폭락' 경고…\"주식 시장 망가졌다\"",
+     "url": "https://www.hankyung.com/article/202611045349i",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3Po0N2L7y4mUE_2qqpdBf7Yiq3CAY5kTKzMxo9I4JhKJRNBwFbNeTCsati1g"
+    },
+    {
+     "title": "빌 애크먼 \"주식시장 망가졌다…레버리지 투기 거래에 주가 급등락\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442832",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWJK9eJFTBCQOyKzRwLnfd5_i_tgAKnudxu_7DqNS0QTXk97ZPmRLqzOBTuc"
+    },
+    {
+     "title": "\"대공황 직전 광란과 비슷\"…헤지펀드 운용사의 섬뜩한 경고 [지금이뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0545_202611041020013501",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhIUyR4uZRohjl0hNxPg6MQJ_CvGWdU9lhNyhEjD_vhByWsWyomnWCnJ0Uvo"
+    }
+   ]
+  },
+  {
+   "keyword": "비상식량",
+   "traffic": "2000+",
+   "pubDate": "Tue, 3 Nov 2026 21:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyOh_6RpkovhYee0ZuzbQylUE_yWtJsOSqZyAANJs6gLmNXsM7SNBT5eMVVA",
+   "news": [
+    {
+     "title": "일본 방재상 \"재해 틈탄 타국 공격 등에 대비해야\"",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611041402334345",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyOh_6RpkovhYee0ZuzbQylUE_yWtJsOSqZyAANJs6gLmNXsM7SNBT5eMVVA"
+    },
+    {
+     "title": "日방재상, 재해시 타국 공격 대비 언급해 주목…\"대응할 수 있을까\"",
+     "url": "https://www.newsis.com/view/NISX20261104_0003854502",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFprDJoc2cUQu8c_MOsnmxgoxUbwpw24C1b-Zx16LwTTO48_TFtUFDTEHGF0"
+    },
+    {
+     "title": "전 세계 33개국, 시민들에 ‘식량·의약품 비상 비축’ 권고… 인니 단체 “선제적 대응책 촉구”",
+     "url": "https://haninpost.com/archives/132536",
+     "source": "한인포스트",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnmys-QJMRSe3qPkXg49C0MXHHXbyoQEN262RCuVacPnExBfS0tIOnZjLdOM"
+    }
+   ]
+  },
+  {
+   "keyword": "부정승차",
+   "traffic": "1000+",
+   "pubDate": "Tue, 3 Nov 2026 21:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOFaWUNsOIdnBGabf0ed_a7xWZ6QyWOxhTmVdxZ5AWLKRmpgFOThnitUmjKfU",
+   "news": [
+    {
+     "title": "어머니 경로카드로 지하철 탔다가…65만원 토해낸 50대 男",
+     "url": "https://www.hankyung.com/article/202611044653i",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOFaWUNsOIdnBGabf0ed_a7xWZ6QyWOxhTmVdxZ5AWLKRmpgFOThnitUmjKfU"
+    },
+    {
+     "title": "서울 지하철 부정승차 9개월간 3.1만건 적발…부가금 16.5억원 징수 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/04/2026110411174640984",
      "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr74lLVjDgccPXcewS5YDEQuWu659nIfLVGp1mREZyyF8YuLNFvHpYTsYNCs"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQML4wPLz74OG7WqOx1Uxx29ABd85iJDWlfR9jHUIL3kW4_PZ-on4_ptIaXHXY"
     },
     {
-     "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
-     "url": "https://www.etnews.com/20261103000225",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSraesYEQsfOIp9Osm8_DWsYHZvi9ylaivnXRW1ScqIirP4mTskImIJPRwWhGI"
-    },
-    {
-     "title": "권광석이 돌아왔다…1.8조 골프존카운티 인수전 전면에",
-     "url": "https://dealsite.co.kr/articles/171915",
-     "source": "딜사이트",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWT89wwpfpG2GR0BbQV1fKQmYEGI1EagNnPL_zeFh1ED9S333NzW7A-ZloLnE"
+     "title": "9개월간 서울 지하철 부정승차 3만건···‘우대권 부정 사용’이 최다",
+     "url": "https://www.khan.co.kr/article/202611041403001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJI0cNEU9zzGCEGrfNGG3OvNj3qTRCP021HkBIAY1lrmRMvVBw9hwKPdvJgA"
     }
    ]
   },
   {
-   "keyword": "소득세",
-   "traffic": "2000+",
-   "pubDate": "Tue, 3 Nov 2026 20:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE",
+   "keyword": "물김치",
+   "traffic": "1000+",
+   "pubDate": "Tue, 3 Nov 2026 21:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AOtyyTeAb3le8gqWO4HvVIVVB6xBb2qspxvrxNxQnPhkiJYCTrD7thyTfh0",
    "news": [
     {
-     "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
-     "url": "https://www.yna.co.kr/view/AKR20261103075200002",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE"
+     "title": "\"할머니 마지막 음식이었습니다\"…'공짜 물김치' 건넨 식당 울린 청년의 보은",
+     "url": "https://www.newsis.com/view/NISX20261104_0003853791",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AOtyyTeAb3le8gqWO4HvVIVVB6xBb2qspxvrxNxQnPhkiJYCTrD7thyTfh0"
     },
     {
-     "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcDLIKgoRvV30rqJV6mqOVbRWL-1wOb0-9UHSOhBxy31ShxOHNQtW39Mn5_p8"
+     "title": "\"할머니가 이것만 드셔\"…맨발 청년에 물김치 건넨 가게[오따뉴] - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/04/2026110413412885090",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHz62sCoz0MsSAbgsSFtjWm7Cj9kJrue5a4EwiUNWeTrBx-I2OQkvKP_W2bq4"
     },
     {
-     "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
-     "url": "https://www.munhwa.com/article/11628518",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYhAIvKPdeF2G0PIrqcH128CBd9eoD28SgUB4nXF4qWNKRe-gaGhqNGBzLTg"
+     "title": "\"할머니가 이것만 드세요\"…심야에 건넨 물김치 한 그릇이 만든 기적 [따뜻했슈]",
+     "url": "https://www.fnnews.com/news/202611040651310348",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJL5wvxE1aVR4ENu-NxGapguJhvejQ_kZj66amcgJIT2kOqbkImczdnc5-_Jw"
     }
    ]
-  },
-  {
-   "keyword": "지민",
-   "traffic": "500+",
-   "pubDate": "Tue, 3 Nov 2026 20:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvHuU-RreHvrsbFo8Q1b9IvJew8fM60rAL-kxhQD9myOCK1Yr6bSkbPrUpMcI",
-   "news": [
-    {
-     "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvHuU-RreHvrsbFo8Q1b9IvJew8fM60rAL-kxhQD9myOCK1Yr6bSkbPrUpMcI"
-    },
-    {
-     "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
-     "url": "https://www.munhwa.com/article/11628280",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtah-zrD1rWzPse7oPfwAdQbCBUbG8LYoi2CzVucXNEs0qGOJ_5_9_er11HRc"
-    },
-    {
-     "title": "'아미 성지였는데' 방탄소년단 지민 父 카페, 돌연 폐업..\"365일 남았다\"[Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/MJQTCNDBHAZDEYRYGIZTKMDEMY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo_5O7pVl2Ox5ONry8p3CoaXTqaGMqUK16HZxxYawfusAr8lCDj0StvVaFaUk"
-    }
-   ]
-  },
-  {
-   "keyword": "이수민",
-   "traffic": "500+",
-   "pubDate": "Tue, 3 Nov 2026 20:10:00 -0800",
-   "img": "",
-   "news": []
   },
   {
    "keyword": "국채",
-   "traffic": "200+",
+   "traffic": "1000+",
    "pubDate": "Tue, 3 Nov 2026 20:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY5aFLTnZZPv801dbqbpi_fuwUdfaOqVD8R3GWvNFHQj5C_aA3LMvitYbsSHQ",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2S3Jj63b0-Bzl-tjNm8MRPoXp0c3suH8XQV8mgZqYqIg3dABixRjrgvKmLg",
    "news": [
     {
-     "title": "'블루웨이브' 현실화?…AI 규제 강화 우려에 나스닥 선물 급락 - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/04/2026110411132486111",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY5aFLTnZZPv801dbqbpi_fuwUdfaOqVD8R3GWvNFHQj5C_aA3LMvitYbsSHQ"
+     "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56845",
+     "source": "주간조선",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2S3Jj63b0-Bzl-tjNm8MRPoXp0c3suH8XQV8mgZqYqIg3dABixRjrgvKmLg"
     },
     {
-     "title": "美 국채가, 이란 종전 협상 진전에 하락폭 축소",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442835",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuefNJ4U1rXiYB7JU4ZFBAQ6rBrsNLmBaq_6tCwOsswcPEAMlW_TnacoFMJvg"
-    },
-    {
-     "title": "유가 급락에 美 국채금리 하락세 지속",
-     "url": "https://www.yna.co.kr/view/AKR20261103023300009",
+     "title": "미 중간선거 결과에 나스닥선물·亞증시 출렁(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261104123351009",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKNpNsvJkzjGnL5VhdevTVs390zqhp7NiDOXUhHkrWt2fspQ-zAnnMy9O0APo"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1kh1xUYbJDbxtHJaVHsQZIOjSL7WFumTLyr6mU7Wvb4FdxRalfpmpbLB7C0"
+    },
+    {
+     "title": "누가 이겨도 '반도체·조선·바이오' 수혜…'블루스윕'이면 이차전지·태양광 뜬다",
+     "url": "https://www.news1.kr/finance/market-exr/6341939",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9x-jpoWjpcaMbSaEAnPU0hN4-NGKzoWssoUx6vHtmUfiwcxTcRZEheFeiT8k"
     }
    ]
   },
   {
-   "keyword": "마이크로소프트",
-   "traffic": "200+",
-   "pubDate": "Tue, 3 Nov 2026 20:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldydL3KoZGAfQh7egeZkO3Q-M-adMbOi_-HJ9QjPu8NukTCkKHNvil9AT6SI",
+   "keyword": "가덕도신공항",
+   "traffic": "500+",
+   "pubDate": "Tue, 3 Nov 2026 21:50:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8_vyGsszv7k-pnesdbccnabg4LT_c2XJ8IVoUPRjcWSmKNBzvcvsLKQ9cJfM",
    "news": [
     {
-     "title": "Xbox Game Pass: 2025년 12월 구독 포함 게임 목록",
-     "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/noleum/articles/281796-xbox-game-pass-2026nyeon-11wol-singyu-geim-konsol-pc-mich-keullaudeu",
-     "source": "Sortir à Paris",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldydL3KoZGAfQh7egeZkO3Q-M-adMbOi_-HJ9QjPu8NukTCkKHNvil9AT6SI"
+     "title": "가덕도공항, 6200억 공사비 매듭…대우건설 컨소, 착공 ‘카운트다운’",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031009404680338",
+     "source": "대한경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8_vyGsszv7k-pnesdbccnabg4LT_c2XJ8IVoUPRjcWSmKNBzvcvsLKQ9cJfM"
     },
     {
-     "title": "MS 게임패스, 11월 1차 신규 라인업 공개···〈FM27〉 등 출격",
-     "url": "https://www.globale.co.kr/news/articleView.html?idxno=41414",
-     "source": "글로벌E",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJTdfsb54ioQbUz-BA7fqLElOD1ArDJZ7o4oEoXnXh7ypF5o9KqtQi7VbCnhM"
+     "title": "\"가덕도신공항 올해 예산집행률 고작 0.03%…정상화 시급\"",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261104.99099001194",
+     "source": "국제신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJeHtFHpqShus3TxL4mi7LSGH2PghyqT1KxXvsRFaiPPaT_yQ1QP7BDV73VN0"
     },
     {
-     "title": "11월 중순에 구독이 시작됩니다. Xbox Game Pass 14경기를 남겨두고 떠날 것입니다",
-     "url": "https://ko.gamegpu.com/news/igry/v-seredine-noyabrya-podpisku-xbox-game-pass-pokinut-14-igr",
-     "source": "GameGPU",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxaudMIUleJxIQNuOQwvdH0ATNDlkNvAL2Liv_UXFgGxa5bBbruj_FPqdtMVU"
+     "title": "“신공항·LCC·도시철도 비상”… 김재운 시의원, 시정 무기력 질타",
+     "url": "https://sports.donga.com/region/article/all/20261104/134962585/1",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Mv_iIs6110d9xLGdpnp-LV7ai_SjEe4ODjcmVncEmIK5sdCshLXJ5-MEt8s"
     }
    ]
   },
   {
-   "keyword": "주한 미군",
-   "traffic": "100+",
-   "pubDate": "Tue, 3 Nov 2026 20:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_61rlnk5UgYiSnSVUUESgbaONtmFCL19cE9c4GQhc-1aPAFETCigYlxGnAPk",
+   "keyword": "윤석열",
+   "traffic": "500+",
+   "pubDate": "Tue, 3 Nov 2026 21:20:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2X5mNUI3P8pZU2uUn5wyCGV7qMGJ78AAdQoXoRQc1RfUsg3SaUiOGhO7WGVY",
    "news": [
     {
-     "title": "군사우편으로 대마 밀수한 주한미군 구속",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6863066_36932.html",
+     "title": "윤석열 선거법 2심도 당선 무효형…확정시 국힘 397억 반환",
+     "url": "https://news.jtbc.co.kr/article/NB12326412",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2X5mNUI3P8pZU2uUn5wyCGV7qMGJ78AAdQoXoRQc1RfUsg3SaUiOGhO7WGVY"
+    },
+    {
+     "title": "[속보] 2심 재판부 \"변호사 소개·건진법사 발언, 중요 정보‥허위사실 공표로 선거인 선택 침해\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6863151_36918.html",
      "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_61rlnk5UgYiSnSVUUESgbaONtmFCL19cE9c4GQhc-1aPAFETCigYlxGnAPk"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzbJli772PqGMHp8Uq_WdelYjf_m232U18KDw8oowgrhQ3r6-VODri_3YhEG0"
     },
     {
-     "title": "보충제 통에 숨긴 '합성대마'...평택세관, 군사우편 밀수 주한미군 구속",
-     "url": "https://www.newspim.com/news/view/20261104000486",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTkGzHtjQo8CuhykIHXpCyG1zHT9iJALdoSnpra4ry5TYfqCWrP4wSlTMcPE"
+     "title": "'국힘 397억 반환' 걸린 윤석열 2심 곧 선고...YTN 생중계",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611041405446453",
+     "source": "YTN",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG_JIrNB8pBee-zaK-tgje2e6QowAlzlTUSdxoB38gkyPfH2mKNEhwhyNt9IM"
+    }
+   ]
+  },
+  {
+   "keyword": "해병대 제2사단",
+   "traffic": "500+",
+   "pubDate": "Tue, 3 Nov 2026 21:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe8zM2D7K-CSxwUWw27JZ35d_jRqxX5-GXY47PB_6zBRaXsNZM0JWI1Z4plbw",
+   "news": [
+    {
+     "title": "CU '우리 부대 응원전' 1위는 제2해병사단…정동원 팬덤도 한몫",
+     "url": "https://www.yna.co.kr/view/AKR20261104031400030",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe8zM2D7K-CSxwUWw27JZ35d_jRqxX5-GXY47PB_6zBRaXsNZM0JWI1Z4plbw"
     },
     {
-     "title": "‘주한미군이 美 군사우편으로 액상대마 밀수’…평택세관, 주한미군·공범 적발",
-     "url": "https://www.munhwa.com/article/11628768",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjmSxMYTPE6l40kP-IogIOwDQYZ_-SlP4kG02IqVRmGXKKNeRiaoqEfj3e4f4"
+     "title": "하나은행·하나카드, CU와 군부대에 간식차 릴레이 지원",
+     "url": "https://www.newsis.com/view/NISX20261104_0003854679",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKTZ6qv7amNMHpvJbt9UWPLm1vaGPG5w-5hmstxnwnYpyzBso1LJd5XOdFjnc"
+    },
+    {
+     "title": "하나은행·하나카드·CU, 국민 응원 모아 군 장병 간식 지원",
+     "url": "https://www.viva100.com/article/20261104500527",
+     "source": "브릿지경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7cFQZGxhxGjPd55AuIvTVV9tByjSYz2aVonIn9BVj-_JLOmlMkc2QhAgHw_A"
+    }
+   ]
+  },
+  {
+   "keyword": "약국",
+   "traffic": "200+",
+   "pubDate": "Tue, 3 Nov 2026 21:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIQiN87kjANe2Q7SkETu0881JnWrnH2qBJO9WsZYFMwtDLBhORJZ1celW670",
+   "news": [
+    {
+     "title": "약통 속 3천만 원...약국 직원·경찰 덕에 주인 찾아",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611040527084127",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIQiN87kjANe2Q7SkETu0881JnWrnH2qBJO9WsZYFMwtDLBhORJZ1celW670"
+    },
+    {
+     "title": "숨진 남편 약상자마다 5만원권이…약국 덕분에 3천만원 찾아",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1285700.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUGzKFWNFIBExMCJ2nhJbOYuksGjnEb-A9tzGACqJLg9bFrWA-BI7x8FP8_E"
+    },
+    {
+     "title": "약 봉지마다 현금 다발이…숨진 남편 약 상자 버리려던 60대, 돌아온 3000만원",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56836",
+     "source": "주간조선",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgMrjo0p_GN8VApE-Xqs5jp7siCUiKmAy_XaReRvYLoCIbX-KQA5nZJ7GNSAQ"
     }
    ]
   },
@@ -183,62 +254,10 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrYXtfWka5PUgBOryMCrsbr_MszgZv5QoVD7_fbJWGUJxq8XsKZaPLQbk69lU"
     },
     {
-     "title": "강남구, 중소기업 인사·노무 실무교육 5일 개강",
-     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488219",
-     "source": "이뉴스투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQg1X8bRKM7n9Mfzv2SwSi1peyhSDIuBwmtKhmdZhUnaEOkR27h7T7Ap0hM5g"
-    }
-   ]
-  },
-  {
-   "keyword": "greg abbott",
-   "traffic": "100+",
-   "pubDate": "Tue, 3 Nov 2026 20:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTztl2vDkc_zeuEfusKD3Q5JGeGk_I1HAHzcTG37RE_mKqZE8UWtj0T6s47wuk",
-   "news": [
-    {
-     "title": "Texas U.S. Senate Election Live Results 2026",
-     "url": "https://apnews.com/projects/elections-2026/texas-us-senate-results/",
-     "source": "AP News",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTztl2vDkc_zeuEfusKD3Q5JGeGk_I1HAHzcTG37RE_mKqZE8UWtj0T6s47wuk"
-    },
-    {
-     "title": "Texas Governor 2026: Live Election Results, Abbott vs. Hinojosa",
-     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-governor.html",
-     "source": "The New York Times",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTj2hscOh8QPuiBJuHW6itUlkU8W1ikvEin-xh758WtCKoiEcZ17kw9RM1C8XI"
-    },
-    {
-     "title": "Democrat Elected Texas Governor for First Time in 36 Years in Conservative Stronghold",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830378",
-     "source": "news.sbs.co.kr",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTF8DDzBHohBdMtaxz3IUUIbg0vMLMZKfSqOjZB7VmX22uXZiKLloX8Y2UyzE"
-    }
-   ]
-  },
-  {
-   "keyword": "nyt",
-   "traffic": "100+",
-   "pubDate": "Tue, 3 Nov 2026 20:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2b4YTbuk9FO8KWp4QhAxny_xoyH0Zd1d-aUnaaL5OSBbRaxXNWptUyJq9hRI",
-   "news": [
-    {
-     "title": "EVA: Työllisyyden parantaminen ykköstoive seuraavalle hallitukselle",
-     "url": "https://www.sttinfo.fi/tiedote/72464694/eva-tyollisyyden-parantaminen-ykkostoive-seuraavalle-hallitukselle?publisherId=3848&lang=fi",
-     "source": "STT Info",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2b4YTbuk9FO8KWp4QhAxny_xoyH0Zd1d-aUnaaL5OSBbRaxXNWptUyJq9hRI"
-    },
-    {
-     "title": "Suomalaisten ykköstoiveena työllisyyden parantaminen, kertoo Evan kysely",
-     "url": "https://www.karjalainen.fi/uutissuomalainen/9924815",
-     "source": "Karjalainen",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIp4wdtQgsgMggk2tqBigTr2zUItowKQZpp-vOzL0ZgjHtTFkIxZcXWWR_mFs"
-    },
-    {
-     "title": "Suomalaisten toiveet seuraavalle hallitukselle muuttuivat rajusti – yksi asia nousi ykköseksi",
-     "url": "https://www.is.fi/politiikka/art-2000012383770.html",
-     "source": "Ilta-Sanomat",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsmsT8qyGrSsmx8i-uHuAqXLzb7Gt0qu9a5KrDeaaLOXhsNMqGNAdZX5P80-Q"
+     "title": "강남구, 중소기업 노무 실무 과정 11월 5일 개강",
+     "url": "http://www.mediaissue.net/3603889",
+     "source": "미디어이슈",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aF5ncRjLLnC3A079hpNcf9im5kx3sdP6xsYvWbcM7AkTEldNXGjX_XcMYl0"
     }
    ]
   }
