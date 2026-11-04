@@ -1,244 +1,244 @@
 {
- "updated": "2026-11-05 07:47",
+ "updated": "2026-11-05 08:42",
  "items": [
   {
-   "keyword": "날씨",
-   "traffic": "100000+",
-   "pubDate": "Wed, 4 Nov 2026 13:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGX5pEZwco9wcrDWXAwmC5m8tvukdg5xq0KgOd0SKYI7KOlcyYPGOtMmgegzk",
+   "keyword": "보이스 피싱",
+   "traffic": "2000+",
+   "pubDate": "Wed, 4 Nov 2026 14:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF0B-QHgwBk1cMrggilnfnyw0o-qMssLnOggxR9fOxQL70Hmyg3gL2iusTRIw",
    "news": [
     {
-     "title": "[날씨] 오후까지 곳곳 가을비...이후 찬 바람 불며 기온 '뚝'",
-     "url": "https://www.ytn.co.kr/_ln/0108_202611050652270870",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGX5pEZwco9wcrDWXAwmC5m8tvukdg5xq0KgOd0SKYI7KOlcyYPGOtMmgegzk"
+     "title": "피싱에 5000만원 잃고 목숨 끊은 母子…카자흐스탄 한인 조직 소행이었다",
+     "url": "https://www.donga.com/news/Society/article/all/20261105/134969025/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF0B-QHgwBk1cMrggilnfnyw0o-qMssLnOggxR9fOxQL70Hmyg3gL2iusTRIw"
     },
     {
-     "title": "전국 흐리고 곳곳 비…출근길 우산 챙기세요",
-     "url": "https://www.khan.co.kr/article/202611050635001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0wOTqpLS4aGKE071BY0c7ycCHLwuaZUzJ7ULVGv9ehwmAaCii1261boqmDbo"
+     "title": "[단독] ‘충북 모자 사망’ 부른 피싱…카자흐스탄 한인들 짓이었다",
+     "url": "https://www.joongang.co.kr/article/25475795",
+     "source": "중앙일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcNXwHcdVYZy9dWv6HfWMUqqu7WHN2tt3jCOY9TrZ_zbW0p4SUdYbelMaMjLY"
     },
     {
-     "title": "목요일 전국에 겨울 재촉하는 비…입동엔 영하권 추위",
-     "url": "https://www.yna.co.kr/view/AKR20261104155100530",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuvqym382sKfxD4hYAbS8DfTIN-4ksjyEcl4K6bYz8AKkHXM9U55oTh9GDYWQ"
-    }
-   ]
-  },
-  {
-   "keyword": "thời tiết",
-   "traffic": "1000+",
-   "pubDate": "Wed, 4 Nov 2026 13:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH8ZAAi7s2v7uep3YajyorJZIBtOEItmkod7ZrW58Y7-HFgqa8PjRc9ScPy4g",
-   "news": [
-    {
-     "title": "Thời tiết hôm nay 5-11: Nam Bộ có nơi 34 độ C, đêm nay Bắc Bộ đón không khí lạnh",
-     "url": "https://tuoitre.vn/thoi-tiet-hom-nay-5-11-nam-bo-co-noi-34-do-c-du-mua-mua-moi-chom-het-dem-nay-bac-bo-don-khong-khi-lanh-10026110416362873.htm",
-     "source": "Tuổi Trẻ",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH8ZAAi7s2v7uep3YajyorJZIBtOEItmkod7ZrW58Y7-HFgqa8PjRc9ScPy4g"
-    },
-    {
-     "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 5/11: Bắc Bộ ngày nắng, cảnh báo dông lốc trên biển",
-     "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-511-bac-bo-ngay-nang-canh-bao-dong-loc-tren-bien-post1000194.html",
-     "source": "Báo Nhân Dân điện tử",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8q2EZfNI_xh7Y-QuSPOFNlYVEepKjB3BF7lifZZsfJ1Ue1xsnsGcFRkV4zbE"
-    },
-    {
-     "title": "Dự báo thời tiết ngày 05/11/2026: Mưa rào và dông rải rác, phổ biến 25-32 độ",
-     "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-05-11-2026-mua-rao-va-dong-rai-rac-pho-bien-25-32-do-103875.html",
-     "source": "moitruong.net.vn",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLeopD3WXwj4ZdRYmmIuAaZKM3vXk0Juiwv3rQGkUH3orgxbsWaX2PLwDmH_8"
-    }
-   ]
-  },
-  {
-   "keyword": "สภาพอากาศ",
-   "traffic": "1000+",
-   "pubDate": "Wed, 4 Nov 2026 13:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPoGunDIStrqnzqwcMC-y-cGSqqel5-9SmrZqFWDSiJRSt6u6SSZQvIcUiw-U",
-   "news": [
-    {
-     "title": "พยากรณ์อากาศ (5 พ.ย.) มีฝนตกหนักบางแห่ง ภาคกลางตอนล่าง ภาคตะวันออก ภาคใต้ กทม.และปริมณฑล",
-     "url": "https://www.prachachat.net/economic/news-2091308",
-     "source": "ประชาชาติธุรกิจ",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPoGunDIStrqnzqwcMC-y-cGSqqel5-9SmrZqFWDSiJRSt6u6SSZQvIcUiw-U"
-    },
-    {
-     "title": "เช็กลิสต์ปริมาณน้ำในอ่างเก็บน้ำ ล่าสุด รับมือสภาพอากาศแปรปรวน",
-     "url": "https://www.bangkokbiznews.com/news/news-update/1259344",
-     "source": "bangkokbiznews",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVmJdFFb0oZpQ7Css26dKRBD9-ibQQ-jKoVv3CLH4IrSqMgl6M0KO2-NE2TlM"
-    },
-    {
-     "title": "ปภ. แจ้งเตือน 61 จังหวัด และ กทม. เตรียมรับมือฝนฟ้าคะนอง-ลมแรง",
-     "url": "https://www.komchadluek.net/news/general-news/625156",
-     "source": "komchadluek",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqqTzdhehCJt5nIO4MjxTdZ5ImM_JBoATiBqbP2x5xYZ7Rx4gPENin1tzGC0"
-    }
-   ]
-  },
-  {
-   "keyword": "погода",
-   "traffic": "1000+",
-   "pubDate": "Wed, 4 Nov 2026 13:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpt8p9SFVp16GI8CvG0_P91bEx9sf05oqh20J4BAHbDR6OUvXZXShxvqlZMQ",
-   "news": [
-    {
-     "title": "Жителей Беларуси предупреждают о гололедице на дорогах 5 ноября",
-     "url": "https://www.gismeteo.by/news/klimat/zhitelej-belarusi-preduprezhdajut-o-gololedice-na-dorogah-5-nojabrja/",
-     "source": "Gismeteo",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpt8p9SFVp16GI8CvG0_P91bEx9sf05oqh20J4BAHbDR6OUvXZXShxvqlZMQ"
-    },
-    {
-     "title": "В Беларуси ночью и утром 5 ноября ожидается гололедица",
-     "url": "https://belta.by/society/view/v-belarusi-nochjju-i-utrom-5-nojabrja-ozhidaetsja-gololeditsa-809291-2026/",
-     "source": "Новости Беларуси | БелТА",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRms9Z4xRvLVizJF53IOAI6BFgEJDzK_tyU4f6qZOD_dvlBDD9CoLBDzywnGQA"
-    },
-    {
-     "title": "От +8°С до резких -7°С. Эту область Беларуси могут накрыть первые ноябрьские морозы",
-     "url": "https://smartpress.by/news/ot-8-do-rezkikh-7-s-etu-oblast-belarusi-mogut-nakryt-pervye-noyabrskie-morozy/",
-     "source": "Smartpress.by",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqb2kfsuyWSB0ct8chpQv9dwiroP4ZZsmyvXPOfi4ouALAKqefdv4TAl2JaXk"
-    }
-   ]
-  },
-  {
-   "keyword": "天气",
-   "traffic": "500+",
-   "pubDate": "Wed, 4 Nov 2026 13:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8zUDcjEcNAq-yklPbaeDd_brZGFAC_q6Rx34uP4gz99lnl56Zwn3Q9CffiD0",
-   "news": [
-    {
-     "title": "Winter Weather Advisory: Up to 10 inches of snow and flood warnings hit Colorado",
-     "url": "https://www.9news.com/article/weather/weather-colorado/winter-weather-advisory-up-to-10-inches-of-snow-and-flood-warnings-hit-colorado/73-b8eba437-a6dc-421d-9a8e-04afd49ffbe6",
-     "source": "9News",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8zUDcjEcNAq-yklPbaeDd_brZGFAC_q6Rx34uP4gz99lnl56Zwn3Q9CffiD0"
-    },
-    {
-     "title": "Colorado weather: Up to 10 inches of snow forecast for mountains",
-     "url": "https://www.denverpost.com/2026/11/04/colorado-weather-forecast-snow-mountains-wednesday/",
-     "source": "The Denver Post",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbZ5Kmj8Miuq0dAP54KPJqoaXoSPJdsB_xT57GlE1Up9NvkIuAjkKaKUzV_sk"
-    },
-    {
-     "title": "Winter weather advisory issued for Summit County as back-to-back storms approach Colorado mountains",
-     "url": "https://www.summitdaily.com/news/winter-weather-advisory-issued-for-summit-county-as-back-to-back-storms-approach-colorado-mountains/",
-     "source": "SummitDaily.com",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMjmQFFdFBtPoyjo0PiJu3u8tovtzVbf4wQ8dVGyzopbs6azU9yrguI5F_J00"
-    }
-   ]
-  },
-  {
-   "keyword": "lens vs como",
-   "traffic": "200+",
-   "pubDate": "Wed, 4 Nov 2026 13:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ8zYAVJCzkLuQglC25EeE0Is7bYNqSOnC9IlGZ0O3fs7aZgVW-X_-1jZ7-Y8",
-   "news": [
-    {
-     "title": "Show histórico de Cesc y Nico Paz",
-     "url": "https://as.com/futbol/champions/show-historico-de-cesc-y-nico-paz-f202611-n/",
-     "source": "Diario AS",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ8zYAVJCzkLuQglC25EeE0Is7bYNqSOnC9IlGZ0O3fs7aZgVW-X_-1jZ7-Y8"
-    },
-    {
-     "title": "😱 ¿Rumbo a una goleada récord? ¡El debutante de Champions se desata!",
-     "url": "https://onefootball.com/es/noticias/rumbo-a-una-goleada-record-el-debutante-de-champions-se-desata-43727087",
-     "source": "OneFootball",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA7Lh6_gkHxYN4jwo0-MEjHE9IVRfsUCNHJgdAJqI9kiBfnwKRmTh_wrTUioE"
-    },
-    {
-     "title": "1-9. El Como firma una noche histórica",
-     "url": "https://www.infobae.com/america/agencias/2026/11/04/1-9-el-como-firma-una-noche-historica/",
-     "source": "Infobae",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
-    }
-   ]
-  },
-  {
-   "keyword": "서인영",
-   "traffic": "200+",
-   "pubDate": "Wed, 4 Nov 2026 13:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4I_LBUsYmTIX39OElWB6XyrOrktthZNROCVXNIHBBEd_on-8b9rG3o2IJUXw",
-   "news": [
-    {
-     "title": "서인영, 12월 26일 재혼 깜짝 발표…신랑은 NP 최지훈 대표",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12197068",
+     "title": "“검사 말 믿고 모텔 갔다가 5000만원 날렸다”…모자 숨진 사건 배후에 카자흐스탄 한인 조직",
+     "url": "https://www.mk.co.kr/news/society/12196894",
      "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4I_LBUsYmTIX39OElWB6XyrOrktthZNROCVXNIHBBEd_on-8b9rG3o2IJUXw"
-    },
-    {
-     "title": "'12월 결혼' 서인영, 사회자로 '대세' 이재율에 러브콜",
-     "url": "https://www.newsis.com/view/NISX20261105_0003855427",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZ_yLgwIA3d-G72DYRSavn3kJkEiKQTulc_F8_MbeH2LxveVzh0SHbE0uLpN0"
-    },
-    {
-     "title": "서인영, 12월 26일 재혼…\"교회에서 스몰웨딩\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110422094748321",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6LbtIZFx0CHNvLgUeftYP1VWm_les3Be-Ksoun1sqP-tIGP3iJikqVYfTJm8"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSv0qpuNn1Z-KmHte4U82Tf5xil6HlIldQmcl_Bp4msfBAdshk5kOLwMPODqQU"
     }
    ]
   },
   {
-   "keyword": "klasemen aek athens vs real madrid",
+   "keyword": "s&p 500",
+   "traffic": "2000+",
+   "pubDate": "Wed, 4 Nov 2026 14:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTllRA-k6TVEpXIjRKlfnA5TJ8vjGtJEYPnxqiniWxfERlW26gol6OZZqVGBgU",
+   "news": [
+    {
+     "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
+     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+     "source": "CNBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTllRA-k6TVEpXIjRKlfnA5TJ8vjGtJEYPnxqiniWxfERlW26gol6OZZqVGBgU"
+    },
+    {
+     "title": "Dow posts biggest gain of the year after Democrats take control of Congress",
+     "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+     "source": "CBS News",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GFsaSxGMEFrQN3vwaqIZInKmsdIRKIxEyu1rdHioY1KQsRc1awt_n8SX_zk"
+    },
+    {
+     "title": "[New York Stocks] Surge as Democrats Sweep House and Senate; Oil Falls 8% on Hopes of War's End",
+     "url": "https://www.asiae.co.kr/en/article/2026110506453161006",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTa6oLcEd6fJSZdIZbp4i6DSu1dc2dKr8fB-dlHGX4T2nhMBR3dQp-mOO_EzE"
+    }
+   ]
+  },
+  {
+   "keyword": "피겨스케이팅",
+   "traffic": "500+",
+   "pubDate": "Wed, 4 Nov 2026 14:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcCndF3MEY-39AL0pIMlWMkHD61i1zx3761E7YYO3EHqzWssKB7u966trxack",
+   "news": [
+    {
+     "title": "은반 위의 시…캐나다에서 열린 국제빙상경기연맹 피겨 스케이팅 대회",
+     "url": "https://www.yna.co.kr/view/IPT20261102000010365",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcCndF3MEY-39AL0pIMlWMkHD61i1zx3761E7YYO3EHqzWssKB7u966trxack"
+    },
+    {
+     "title": "'세계가 놀랐다' 피겨 여제 김연아 뛰어넘는 역대 최고의 피겨 유망주 등장! 日 천재 시마다 마오, 시니어 그랑프리 데뷔전서 압도적 우승",
+     "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553667279",
+     "source": "스포탈코리아",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpVROFZrlevJwvT9wV6FcSTeSv4EZhXwdsAQJbhCHM8culcV2xfAY5g_VOfM4"
+    },
+    {
+     "title": "김유재, 그랑프리 2차 최종 7위로 마감",
+     "url": "https://www.newsis.com/view/NISI20261102_0002280316",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjRFp2PcrPIt9i05mf-EUSeA2GL0apoaFhyIR96PMAhvQeSgyrlafX8L1p6-I"
+    }
+   ]
+  },
+  {
+   "keyword": "vix",
+   "traffic": "500+",
+   "pubDate": "Wed, 4 Nov 2026 14:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT6tcSSRKR9L9x5qdSE_NZtdV6hXGLlB0_yx5UGuJbFz9cgqRWTwmPEQBI8rw",
+   "news": [
+    {
+     "title": "Investor Fear Spikes Ahead Of Midterms. It May Not Be So Bad For Stocks.",
+     "url": "https://www.investors.com/news/vix-stock-market-fear-gauge-sp-500/",
+     "source": "Investor's Business Daily",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT6tcSSRKR9L9x5qdSE_NZtdV6hXGLlB0_yx5UGuJbFz9cgqRWTwmPEQBI8rw"
+    },
+    {
+     "title": "CBOE Volatility Index Falls to One-Week Low of 16.97",
+     "url": "https://en.bloomingbit.io/feed/news/123660",
+     "source": "bloomingbit",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6FqOwutd6aqlppQPmxh7PLH5jSCtRSn16n8N5EAxoTYntEn_aGItS7kClcnM"
+    },
+    {
+     "title": "Volatility Index drops over 11%, breaks below 19 after U.S. midterm elections",
+     "url": "https://www.tradingview.com/news/seekingalpha:d4a357e85094b:0-volatility-index-drops-over-11-breaks-below-19-after-u-s-midterm-elections/",
+     "source": "TradingView",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY"
+    }
+   ]
+  },
+  {
+   "keyword": "에코프로비엠",
    "traffic": "200+",
-   "pubDate": "Wed, 4 Nov 2026 13:10:00 -0800",
+   "pubDate": "Wed, 4 Nov 2026 14:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-Iwb23lZ_6lZagik2YFmPt6vQ3UHjA-VuKO8vE4l6r5JLup_z-NpuREB-_90",
+   "news": [
+    {
+     "title": "에코프로머티 에코프로 측 지분 45.36%로 하락",
+     "url": "https://www.vegannews.co.kr/news/article.html?no=400192",
+     "source": "비건뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-Iwb23lZ_6lZagik2YFmPt6vQ3UHjA-VuKO8vE4l6r5JLup_z-NpuREB-_90"
+    },
+    {
+     "title": "에코프로비엠 1.2조 유상증자…키움證 실적 전망 : 한국증시",
+     "url": "https://news.jkn.co.kr/post/1071035",
+     "source": "재경일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-2hTyD4W6ltgp3AFat9RcGc-BkuTXKPKxkSguIjpEmLamueZjnPnQlORGJA"
+    },
+    {
+     "title": "이동채 등, 에코프로 지분 25.53% 유지·담보주식 6.23%로 확대",
+     "url": "https://www.datatooza.com/article/20261030153114907652ef32306d_80",
+     "source": "데이터투자",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQafBHUxlap-8LMAr2LOqSCoL22F86OwNw5jsMPrwfdpMScLZUhZo3wI7Bn-qE"
+    }
+   ]
+  },
+  {
+   "keyword": "전기 요금",
+   "traffic": "200+",
+   "pubDate": "Wed, 4 Nov 2026 14:10:00 -0800",
    "img": "",
    "news": []
   },
   {
-   "keyword": "홍창기",
-   "traffic": "100+",
-   "pubDate": "Wed, 4 Nov 2026 13:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqvBX6k6sLV5ihlmlm9_GzMpPLtR_E5mjBrHuKwzETk4cdTkODmXw0p2A89po",
+   "keyword": "schd",
+   "traffic": "200+",
+   "pubDate": "Wed, 4 Nov 2026 14:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfyZ_mCrL94x108sLutiJSLnPBIMtdYZ_nNrDx4YuApK3feSIcKg9k4bup2bw",
    "news": [
     {
-     "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까”",
-     "url": "https://www.osen.co.kr/article/G1112903112",
-     "source": "OSEN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqvBX6k6sLV5ihlmlm9_GzMpPLtR_E5mjBrHuKwzETk4cdTkODmXw0p2A89po"
+     "title": "Dividend ETF SCHD Crushed SPY This Year, But The Rise Has A Cost For New Buyers",
+     "url": "https://www.benzinga.com/opinion/26/11/62832070/dividend-etf-schd-crushed-spy-this-year-but-the-rise-has-a-cost-for-new-buyers",
+     "source": "Benzinga",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfyZ_mCrL94x108sLutiJSLnPBIMtdYZ_nNrDx4YuApK3feSIcKg9k4bup2bw"
     },
     {
-     "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
-     "url": "https://v.daum.net/v/3HNTpTd8BQ",
-     "source": "Daum",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQz81rdDy5COQcBdXrHg6FtnyBirXB2jLW6sSQQVFnjQDKrbZmELfjnRUmOJQ"
+     "title": "If I Only Had $500 to Invest Right Now, I'd Buy and Hold This ETF for the Next 25 Years",
+     "url": "https://www.aol.com/articles/only-had-500-invest-now-124500000.html",
+     "source": "AOL.com",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcerZcaji3M9mM_9NTJnNIQvYwl1g0BeHObg6aXHN3cgwLPHYPZOlzQkmbmik"
     },
     {
-     "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까” - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/04/202611031549775965O",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8S2nyIxNUyEk6kWupdF7lsbcwBDgiDLrets8cXrV_LoFJaD5GSQqUNeG8GEI"
+     "title": "SCHD Into Midterms: Healthcare A Concern (NYSEARCA:SCHD)",
+     "url": "https://seekingalpha.com/article/4960886-schd-into-midterms-healthcare-a-concern",
+     "source": "Seeking Alpha",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRivDY4WEgZCK0mFvTWhr86GNn8Tphkt7Z3Um2E1Cmpwh60zUXRflnNtWeBOmQ"
     }
    ]
   },
   {
-   "keyword": "sk에코플랜트",
-   "traffic": "100+",
-   "pubDate": "Wed, 4 Nov 2026 13:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBlfWmHDjUXllfruhKvchYo0_FeXtJuIKTSTVqK4eszo1h7_7nkeyuz8hmMdA",
+   "keyword": "다우 존스 산업평균지수",
+   "traffic": "200+",
+   "pubDate": "Wed, 4 Nov 2026 14:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47XMjC_yz0Qt--sNRs8_xacY1BD7JqAzAIhMvd8FerFoN3lr1w2f5p5ZuURo",
    "news": [
     {
-     "title": "SK㈜, SK에코플랜트 잔여 지분 전량 인수…1조4462억원 투입해 완전자회사 편입 추진",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/04/2026110480207.html",
-     "source": "인베스트조선",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBlfWmHDjUXllfruhKvchYo0_FeXtJuIKTSTVqK4eszo1h7_7nkeyuz8hmMdA"
+     "title": "중간선거 끝나자 다우 3% 급등…정치 불확실성 걷히고 유가도 급락",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/05/NL2CYCLOANHIVKRTU43CIHL6DM/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47XMjC_yz0Qt--sNRs8_xacY1BD7JqAzAIhMvd8FerFoN3lr1w2f5p5ZuURo"
     },
     {
-     "title": "SK㈜, SK에코플랜트 주식 공개매수…상장 대신 완전자회사 편입",
-     "url": "https://stock.mk.co.kr/news/view/1189136",
-     "source": "매일경제 마켓",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BHjHhGXgH7cEv2ghNkXfaf2gA7mi30hqatF3VAWu7qDB3AkKjYg4z7dzmtk"
+     "title": "전쟁 종식 기대·불확실성 완화에 뉴욕증시 급등",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105082757hfn",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxTrtcknKKobj8fg1FOuDB8e_LQ_VJzcVCKPt-koI5Hee0cH_7TTHHdKjFb5g"
     },
     {
-     "title": "SK㈜, SK에코플랜트 IPO 대신 '완전 자회사' 선택",
-     "url": "https://v.daum.net/v/7y56De1yQK",
-     "source": "Daum",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl-rkc4pEmoyy5NhZnGSPyJ0okIGDibNNVahOxDRTIyclRYr02DpPOIukpo5c"
+     "title": "韓 주식 떨었는데 美는 왜…블루웨이브 효과 3가지",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443088",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68RV0JeDtoXBrG6H9sgnglOGgrkMOrY24wDLwHomhfN457iDkiqNJnjpWuZk"
+    }
+   ]
+  },
+  {
+   "keyword": "홍수",
+   "traffic": "100+",
+   "pubDate": "Wed, 4 Nov 2026 14:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuVxHjkhAbgIuQ3ZUotwZax7XlpqHqhtQvs4jgdj5EuRztUQndayp9Imq6SmM",
+   "news": [
+    {
+     "title": "(해외환경뉴스) 기후 변화는 극한 강수보다 홍수를 더 크게 증폭시킨다.",
+     "url": "https://www.newsje.com/news/articleView.html?idxno=409729",
+     "source": "제주환경일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuVxHjkhAbgIuQ3ZUotwZax7XlpqHqhtQvs4jgdj5EuRztUQndayp9Imq6SmM"
+    },
+    {
+     "title": "기후부, 올여름 집중호우 선제 대응…“홍수 피해 최소화”",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374274",
+     "source": "전기신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPY7R6xgxOiRZaXxQ5ZGcKX80PQyDJr2cusapw1XdguqkodA8Z36-kyUiFOzI"
+    },
+    {
+     "title": "큰비 오기 전에 비웠다…‘물그릇’ 10억4000만톤 늘려 하류 부담 완화",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010001208",
+     "source": "아시아투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodNJOgTJFoijIQSZud2Xb9YU961JDr_lgDIrxdIf77ZQIIucWS3c2KqaROMM"
+    }
+   ]
+  },
+  {
+   "keyword": "블리자드",
+   "traffic": "100+",
+   "pubDate": "Wed, 4 Nov 2026 14:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGleoXSVIU7aUQ1MzHPFuMUrgmctpaeDUHdiRmBHnsCJFzR_83BNRi_zLtC8I",
+   "news": [
+    {
+     "title": "[클릭! e 게임]넥슨 PC ‘오버워치’, ‘어둠의 신조’ 업데이트",
+     "url": "https://www.munhwa.com/article/11628663",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGleoXSVIU7aUQ1MzHPFuMUrgmctpaeDUHdiRmBHnsCJFzR_83BNRi_zLtC8I"
+    },
+    {
+     "title": "탈론의 지배 - 5시즌 중간 패치로 결전의 막이 오릅니다 - 새소식 - 오버워치",
+     "url": "https://overwatch.blizzard.com/ko-kr/news/24303010/",
+     "source": "Blizzard Entertainment",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNZM4B9oNiOVq2WC1wWETp5Vk57ik-764h5CyneZ-r5LgJixdHLs33yPxCEhg"
+    },
+    {
+     "title": "오버워치, '스텔라 블레이드'와 두 번째 협업…신규 스킨 5종 추가",
+     "url": "https://www.dailygame.co.kr/view.php?ud=20261104114226758143da15d9d2_26",
+     "source": "데일리게임",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbg9il4yHdR-mUhyWOXYxXbLiFSofd_HITOlVzwI4MRHR1lBA1W64y4I68uOM"
     }
    ]
   }
