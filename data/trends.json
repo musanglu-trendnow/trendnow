@@ -1,185 +1,114 @@
 {
- "updated": "2026-11-06 10:00",
+ "updated": "2026-11-06 11:10",
  "items": [
   {
-   "keyword": "서킷브레이커",
-   "traffic": "20000+",
-   "pubDate": "Thu, 5 Nov 2026 15:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8NWkm25khGnQpHmfntFUkVyLq37jVCHwLCIH5nSA9Lxn5gb94BgdaZ_cvDU",
-   "news": [
-    {
-     "title": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴",
-     "url": "https://www.khan.co.kr/article/202611060908001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8NWkm25khGnQpHmfntFUkVyLq37jVCHwLCIH5nSA9Lxn5gb94BgdaZ_cvDU"
-    },
-    {
-     "title": "미국발 AI 아마겟돈에 코스피 5000선 붕괴",
-     "url": "https://www.chosun.com/economy/stock-finance/2026/11/06/QOXV3PAN2VEX3BHBNURUN54KOI/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD_dOme7d_AF5HN9lWdphvBB8QExIAgpGTyhfpBDgDf3Zg1TwUTdRnjXbLcg0"
-    },
-    {
-     "title": "[속보] 삼전닉스 프리장 10% 폭락 … 美 증시도 투매 쇼크",
-     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600023.html",
-     "source": "뉴데일리",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBuRFuujJgoQ9d8GzZeaoIVQWfXK1YlciEkS_6_T4tbddFYWyRNyJLd0HZ5sA"
-    }
-   ]
-  },
-  {
-   "keyword": "삼전주가",
+   "keyword": "창신동",
    "traffic": "2000+",
-   "pubDate": "Thu, 5 Nov 2026 15:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC9TEnP6YWHVHzRHCIXuF1NDCOPFkrN2riMM55Wop8n2c9gO0wFipECCU2U20",
+   "pubDate": "Thu, 5 Nov 2026 16:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSidIjOPucsKnunw6LexlIzo-tsBoiIrTJ9jBE4U9a4xc0-WL_tk-LF1BrYQ-Y",
    "news": [
     {
-     "title": "라이프운용, 삼성전자에 주주서한…\"주주환원 유보, 독립 검토 필요\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443127",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC9TEnP6YWHVHzRHCIXuF1NDCOPFkrN2riMM55Wop8n2c9gO0wFipECCU2U20"
-    },
-    {
-     "title": "삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2160533",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPF4RhPjof6lLLyH82xJQlTZqJATztFGat0ojAAFeA1WByMr46JiOmqGZqbfc"
-    },
-    {
-     "title": "“주가 1만원 내리면 이재용 증여세 650억↓”…75조 주주환원 이래서 미뤘나",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645642768",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPotLmRpKioKp1a5d-KhHj7AAtnjeScIYvR4WQD63P6H8dMI1pNinUh0y9rFg"
-    }
-   ]
-  },
-  {
-   "keyword": "장윤정",
-   "traffic": "2000+",
-   "pubDate": "Thu, 5 Nov 2026 15:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0on0zz9fyr1crp0WHKsqBXx-GuidxbkhOVTgBWNWi-nma72rJA2s9__XE-Ok",
-   "news": [
-    {
-     "title": "“벌써 이렇게 컸어” 장윤정, 연우·하영 남매 자랑에 ‘광대 승천’",
-     "url": "https://sports.khan.co.kr/article/202611052015013",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0on0zz9fyr1crp0WHKsqBXx-GuidxbkhOVTgBWNWi-nma72rJA2s9__XE-Ok"
-    },
-    {
-     "title": "장윤정, 가족 위해 차린 특별한 집밥…건강 식단 공개하며 연말 신곡 예고",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=846288",
-     "source": "제민일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoaq8bRbu4rXjcKKP8eRkaVCZftv-cpJXN5NIk9T37qyFsZ-Y1OYKXGmONkJI"
-    },
-    {
-     "title": "장윤정, 주당이어도 살 안 찌는 이유 \"저당 감바스+자체 월남쌈 소스 제조\"('장공장장윤정')",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GI2TGOLEHE2GMMRTMFQTKMDFMU/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAp3bGz1qiAWo2mfQHFrYieBAbzJIjtBlGg8FtEt65BzAfdkcxH_HGCr5sXc"
-    }
-   ]
-  },
-  {
-   "keyword": "최원태",
-   "traffic": "1000+",
-   "pubDate": "Thu, 5 Nov 2026 15:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT32BWC6Sp0_6-_g2nJMZStr1bVNgQlSfttDyyf1KgaYHrPiCy3dmr2q5kJ8I",
-   "news": [
-    {
-     "title": "“한국시리즈만 기다렸다” kt, 뜨거운 방망이로 기선제압",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8703094",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT32BWC6Sp0_6-_g2nJMZStr1bVNgQlSfttDyyf1KgaYHrPiCy3dmr2q5kJ8I"
-    },
-    {
-     "title": "'70억 투자' 이대로 퇴장하나…충격의 선발 박탈, 명예회복 기회 찾아올까 [KS]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/06/MU2TGNDDG5TGKYTCHFSGKODEMY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReZMnHoWNqBJceNKUC8lm5V1vquReNc1GDknWNkrHYGvTzoOsdfuKB9jJa4Gk"
-    },
-    {
-     "title": "[KS2] '수원서 1승 1패' 박진만 감독의 목표 달성…살아난 삼성, 대구서 반격 노린다",
-     "url": "https://www.newspim.com/news/view/20261105000005",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6h_yEcEmoJU-RksO2gTMX1xzKUgZgFEJGCHo6BCkrFv59iQGZDoISDyzjJxk"
-    }
-   ]
-  },
-  {
-   "keyword": "군함",
-   "traffic": "1000+",
-   "pubDate": "Thu, 5 Nov 2026 15:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj0f-IPyo-J5VG-w9-OO-G8VtcBAl8xSPgLtGt192ESF0kRastK6UKBtzjKdE",
-   "news": [
-    {
-     "title": "“전투기에 조기경보기·공중급유기까지 총동원”…대만 주변 하늘을 집어삼킨 중국의 무력시위 [밀리터리노트]",
-     "url": "https://www.seoul.co.kr/news/international/china/2026/11/05/20261105500075",
-     "source": "서울신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj0f-IPyo-J5VG-w9-OO-G8VtcBAl8xSPgLtGt192ESF0kRastK6UKBtzjKdE"
-    },
-    {
-     "title": "中군용기 14대 대만 주변 출현…12대 대만해협 중간선 넘어",
-     "url": "https://www.news1.kr/world/northeast-asia/6343813",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYk6UR7_XiR8dZgky0h0j4yBv8DbXzJ0Na2trar0as0qHySVPwZ4o5h150bU8"
-    },
-    {
-     "title": "\"中 육군병력 104만명, 해군작전함은 474척\"…대만 국방부 공개",
-     "url": "https://www.yna.co.kr/view/AKR20261104106400009",
+     "title": "여의도 목화아파트 416세대로…창신동 정비사업도 통과",
+     "url": "https://www.yna.co.kr/view/AKR20261105162800004",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjnURQoUl_zqMunaJmj3kr67hqjC9mUi9wFMhEmJH55SdgdWei1MfrfoYTLe0"
-    }
-   ]
-  },
-  {
-   "keyword": "하이닉스 주가",
-   "traffic": "1000+",
-   "pubDate": "Thu, 5 Nov 2026 15:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-1SVFlSXgZoTUtBOtvQ7x9cT4u09tx1CiIeS4IxvMuJB8xNuP_Jy-2ga5QdE",
-   "news": [
-    {
-     "title": "SK하이닉스 주가가 오늘 급락한 이유는?",
-     "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2160717",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-1SVFlSXgZoTUtBOtvQ7x9cT4u09tx1CiIeS4IxvMuJB8xNuP_Jy-2ga5QdE"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSidIjOPucsKnunw6LexlIzo-tsBoiIrTJ9jBE4U9a4xc0-WL_tk-LF1BrYQ-Y"
     },
     {
-     "title": "10% 폭락한 SK하이닉스",
-     "url": "https://www.newsis.com/view/NISI20261106_0021521477",
+     "title": "동대문역 앞 창신1구역 3지구, 43층·291가구 주거복합시설로 - 머니투데이",
+     "url": "https://www.mt.co.kr/estate/2026/11/06/2026110609082394633",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQRXXg-2pvta17EOXXH8WMsMrzKI0OYex4KJJfBvaoZI2u-zQYg9Nx4PbBME"
+    },
+    {
+     "title": "창신1구역 3지구, 291가구 주거복합시설로 재개발",
+     "url": "https://www.newsis.com/view/NISX20261105_0003856944",
      "source": "뉴시스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV8ffNpYV8KWEd-CTl6ddDpBkxtjzufOtRxjhSapAOSy6p00Bue-xf72Z-bN0"
-    },
-    {
-     "title": "SK하이닉스 ADR 13% 폭락…반도체 수요 '절벽' 공포",
-     "url": "https://www.g-enews.com/article/Securities/2026/11/202611060734169368e250e8e188_1",
-     "source": "글로벌이코노믹",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREVodZSrhkAIWcMxMTxqR8e6sqYUlAu8NreVQV8xupprEhqtWzRsGUD2Ei2E"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQYjUbpOBypa3cntEMI6VvGdoa_FfXOBHnFcL_STpjiDlUhZpB0b7Emu5fa1M"
     }
    ]
   },
   {
-   "keyword": "나스닥 선물",
-   "traffic": "1000+",
-   "pubDate": "Thu, 5 Nov 2026 15:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmhlejT1F0vvE--IhP2Dc8qKm3WfuEda07mOFeJONenVwhVAsgd_WWLC55Aho",
+   "keyword": "amd",
+   "traffic": "500+",
+   "pubDate": "Thu, 5 Nov 2026 16:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gOFkqYt9mfjRaG0p01bXUhASSSK3hTiskF74kCNbPBAozyhnic8NiKT5lrM",
    "news": [
     {
-     "title": "트럼프는 충성심 따졌지만, 슈머는 인재 찾아 삼고초려…엇갈린 선거 성적표",
-     "url": "https://www.khan.co.kr/article/202611060600091",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmhlejT1F0vvE--IhP2Dc8qKm3WfuEda07mOFeJONenVwhVAsgd_WWLC55Aho"
+     "title": "AMD Data Center Revenue Surges 97% as Intel Stumbles",
+     "url": "https://en.sedaily.com/finance/2026/11/06/amd-data-center-revenue-surges-97-percent-as-intel-stumbles",
+     "source": "Seoul Economic Daily",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gOFkqYt9mfjRaG0p01bXUhASSSK3hTiskF74kCNbPBAozyhnic8NiKT5lrM"
     },
     {
-     "title": "“이란전 끝내라”…‘중간선거 참패’ 트럼프, 민주당 압박에 어찌하오리까",
-     "url": "https://www.mk.co.kr/news/world/12200091",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDGBy80NQt1Rv4SKQjzkfJCWkzVubtUIklcg7qFwKDvtGFWiQZ6AEhtRnaJcM"
+     "title": "AMD rides AI chip boom, projects 80%+ revenue surge next year",
+     "url": "https://biz.chosun.com/en/en-it/2026/11/04/3VFKK7PQA5GNFJDGVY3HW3BO5A/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU89C1-qUxPTFHcz51YoIr3wx7VZFhrLVM5r6gmL6zCgoOugWulIE7SkUMgxc"
     },
     {
-     "title": "\"우리 편인 줄 알았는데\"‥등 돌린 히스패닉·무당층",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863500_37004.html",
+     "title": "Nvidia Competitor AMD Posts Record Q3 Revenue of KRW 18 Trillion",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008829540",
+     "source": "news.sbs.co.kr",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfIqn2M4u2rfpU2H5E2Ah_k-r8ET4wfZZzphWXtJ0H7FxLK9p3oFL8xdIvl1s"
+    }
+   ]
+  },
+  {
+   "keyword": "여객기",
+   "traffic": "200+",
+   "pubDate": "Thu, 5 Nov 2026 17:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Vn2968yNropRw-cr34aXENMyMRrXbXRkjl2--4uGh5QOhwXfoUfLI-srZkw",
+   "news": [
+    {
+     "title": "유럽 여객기 27편에 폭탄 위협, 비상착륙·전투기 출동 ‘대란’",
+     "url": "https://www.chosun.com/international/international_general/2026/11/06/NDVQFW6ZWNC3HLTHBQOYWLX7IA/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Vn2968yNropRw-cr34aXENMyMRrXbXRkjl2--4uGh5QOhwXfoUfLI-srZkw"
+    },
+    {
+     "title": "유럽 항공기 수십대 '테러 협박'...배후는 러시아? [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611060834213454",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1uYcE0HbapunOKAubGD4fDoCrDIg6hzPpoV6iTYvH74llo5Tm3Mn6AV2dTA"
+    },
+    {
+     "title": "또 여객기 폭파 신고‥혈액원·은행까지 해킹",
+     "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6863551_36989.html",
      "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGk1jPVir0cORk2GtW5yS1wyraQ3un9j8qTLs2hB5P1t9XAAi1eOIYW-6e38"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNmPy7cZrBTuC90OY8yRvOKeG4gKVwEom_DWtbjkmBs_6ONdSYuZFXHktaaRE"
+    }
+   ]
+  },
+  {
+   "keyword": "토스",
+   "traffic": "200+",
+   "pubDate": "Thu, 5 Nov 2026 16:00:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "달러 환율",
+   "traffic": "200+",
+   "pubDate": "Thu, 5 Nov 2026 16:00:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTZEfb7shongsg2PVKfHSRFh5_3prJoDvyZ1oDxBdfu8qjM_mtqPkt_ebf84M",
+   "news": [
+    {
+     "title": "'블루쓰나미'에 외환시장도 요동…원/달러 환율, 15원가량 급등 - 머니투데이",
+     "url": "https://www.mt.co.kr/economy/2026/11/06/2026110608332315358",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTZEfb7shongsg2PVKfHSRFh5_3prJoDvyZ1oDxBdfu8qjM_mtqPkt_ebf84M"
+    },
+    {
+     "title": "[신윤우의 외환분석] '반도체 쇼크'에 감전된 원화",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443427",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaRMHw3po3k500qcMqMYDa5dluedpGdHcz7N6g6wFDEqvYF666gD5CyX58Fk"
+    },
+    {
+     "title": "반도체 수출 호황이어도 다른 수출기업은 웃지 못하는 이유",
+     "url": "https://weekly.donga.com/List/article/all/11/6445999/1",
+     "source": "주간동아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm0zuAMcHCUxMKsSGbuXbJ1T25y1l2ECB40C43hRHR5pRA7wVnukR_d30MBGI"
     }
    ]
   },
@@ -202,62 +131,114 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToCa2KAqA5hAby2Zq6oP8G8Inb87leX7FqRrS0U-BIrmuxNXWd0q8_bECac4Q"
     },
     {
-     "title": "[뉴욕 금가격] 美 AI 규제 우려 기술주 투매 속 1% 상승",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443337",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDpgdxPRbdEkt36bR5uDaAA2abx3sJvlcT_B_pwszrkmw0erGzYvrTxi2Pzo4"
+     "title": "[금복이의 금 이야기] 국채금리 동반 하락에 금값 이틀연속 상승",
+     "url": "https://zdnet.co.kr/view/?no=20261106104240",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKAfXevo8k3AJCArMQnMiujGtw8y-04i5zq6uiNw3Dq5fjIEDY9nXl2FhrkEc"
     }
    ]
   },
   {
-   "keyword": "kospi",
-   "traffic": "200+",
-   "pubDate": "Thu, 5 Nov 2026 15:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4mI5fupp97_uBvE8Ao_wieSj-OZlKsUTWdlUh8byMDn0WFtPyFVWmW5xVDgw",
+   "keyword": "쇼메이커",
+   "traffic": "100+",
+   "pubDate": "Thu, 5 Nov 2026 16:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGeO6wjg07Mr0p6GFQBx98MR64lyG23noPnqVp4JEKKlYdkqaDT1b5B161iwE",
    "news": [
     {
-     "title": "KOSPI, KOSDAQ Trigger Circuit Breakers Amid U.S. Election AI Regulation Fears",
-     "url": "https://www.chosun.com/english/market-money-en/2026/11/05/7UVZ7O6FPBF4XLJN5XFH2PJTLQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4mI5fupp97_uBvE8Ao_wieSj-OZlKsUTWdlUh8byMDn0WFtPyFVWmW5xVDgw"
+     "title": "라이엇게임즈, '와일드 리프트' 글로벌 커뮤니티 행사 21일 개최",
+     "url": "https://zdnet.co.kr/view/?no=20261105182032",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGeO6wjg07Mr0p6GFQBx98MR64lyG23noPnqVp4JEKKlYdkqaDT1b5B161iwE"
     },
     {
-     "title": "[Photo] Floor Leader Jeong Jeomsik Speaks",
-     "url": "https://www.asiae.co.kr/en/article/2026110609162004790",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_XJBYsQTfmYtzmuB8_oL67JgcPk_b9gJtCnGPjQYjQvWMS_uirRCyWDil1g"
+     "title": "'와일드 리프트' 글로벌 팬들 성수에 모인다…쇼메이커 vs 스매쉬",
+     "url": "https://www.newsis.com/view/NISX20261105_0003856841",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtF9_y0ZwvgCLsaRXjs4OmMRmCAIgxP_iLK7OwdqvCznzm7YJwQStvTiN-o-s"
     },
     {
-     "title": "Foreigners dump 20.6 trillion won in Samsung and SK hynix shares as 'blue wave' hits KOSPI",
-     "url": "https://www.mt.co.kr/en/stock/2026/11/05/2026110517110160047",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJD5Ymr_SRm81K9N-Vmr_aV9EMe7BPZB9JOkty7fBuPRC7ep8F9w_zvj8Gnk"
+     "title": "‘와일드 리프트’ 글로벌 커뮤니티 ‘스매쉬’ 韓서 첫 진행",
+     "url": "https://game.mk.co.kr/news/it/12198147",
+     "source": "매경 게임진",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxRgbCa6Ws_nJCoFByQg0y3McNrIWnK2fXlibqa83HHIcoXQWo5JYVMyqFxAw"
     }
    ]
   },
   {
-   "keyword": "바이퍼",
-   "traffic": "200+",
-   "pubDate": "Thu, 5 Nov 2026 15:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9eO818x_gr3MsGG-Sn1uja6lPOxryyUF4Yp23Aget78JZmYkhli-LBER5a6A",
+   "keyword": "삼성전기 주가",
+   "traffic": "100+",
+   "pubDate": "Thu, 5 Nov 2026 16:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOsjGfsyMj3s8HcuzgHNGHzN0XwkN-FFd3VIycOxXFm8ETJrpeEN6PNzd_4",
    "news": [
     {
-     "title": "LCK 챔피언의 압도적 경기력…젠지, 라이언 꺾고 월즈 4강 진출",
-     "url": "https://www.yna.co.kr/view/AKR20261105048100017",
+     "title": "[특징주] 삼성전기, 美 AI 투자 둔화 우려에 12%대 급락",
+     "url": "https://www.viva100.com/article/20261106500162",
+     "source": "브릿지경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOsjGfsyMj3s8HcuzgHNGHzN0XwkN-FFd3VIycOxXFm8ETJrpeEN6PNzd_4"
+    },
+    {
+     "title": "삼성전기, 美 데이터센터 규제·AI 피크아웃 공포에 10%대 급락",
+     "url": "https://biz.chosun.com/stock/stock_general/2026/11/06/QRRCK5LBIVCXDOLD3AB3NZRGVQ/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT08yPz2tpmfZcRLnw_CwbRvHsd4guIUkW3svaIRh6KRXqr-7EVJn5-Gkq0xbo"
+    },
+    {
+     "title": "AI 반도체 밸류체인株도 급락…두산·한솔테크닉스 10%대↓[특징주]",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04359126645643096&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5kEqqEODdpr7gaalMeS2aaNP0ogioC-ijQVzYi5hGIQAlTo1U5AZ2_cDMxQ"
+    }
+   ]
+  },
+  {
+   "keyword": "현대차 주가",
+   "traffic": "100+",
+   "pubDate": "Thu, 5 Nov 2026 16:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8",
+   "news": [
+    {
+     "title": "[리포트 브리핑]현대차, '투자기 진입' 목표가 380,000원 - 메리츠증권",
+     "url": "https://www.newspim.com/news/view/20261105000955",
+     "source": "뉴스핌",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8"
+    },
+    {
+     "title": "\"현대차 내년 영업익 8% 급감\" 목표주가 '줄줄줄'…SK텔레콤, AI DC·앤트로픽 지분가치 낮춰 목표가↓ [株토피아]",
+     "url": "https://www.fnnews.com/news/202611051012424021",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPAC0d-Eevk4i02707kOqxh31tWyvRNorQnaDITMlfH0ZVj8oQfa-iwZw4b-8"
+    },
+    {
+     "title": "북미서 웃고 韓·유럽서 울었다… 2년차 무뇨스 엇갈린 성적표",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001259",
+     "source": "아시아투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBJuh2uRCCpPWbIPU6HjP9wOH5WYRwwrGRnAcZeiSR6qA2A-_MVw-2gkvR4s"
+    }
+   ]
+  },
+  {
+   "keyword": "서초구",
+   "traffic": "100+",
+   "pubDate": "Thu, 5 Nov 2026 16:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQOBE5Av002V3rfVzssn6X_NWy2mfMsFxfB1Tgi6etHU04P__QKqlVevU0QVE",
+   "news": [
+    {
+     "title": "“가구당 평균 2.2억”…서초구, 내주 반포현대 재초환 사전통지",
+     "url": "https://www.mk.co.kr/news/economy/12200143",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQOBE5Av002V3rfVzssn6X_NWy2mfMsFxfB1Tgi6etHU04P__QKqlVevU0QVE"
+    },
+    {
+     "title": "[단독] '최대 7억' 고지서 나간다…\"퇴직금 썼는데\" 반발",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832894",
+     "source": "SBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO-BwBfeQSbMEWjSEAQXZA4wS9d2dFhij2Kxz4rakrIWtemeEJCXA2PsR8tzg"
+    },
+    {
+     "title": "서초구, 국토부에 '재초환 폐지' 건의문·주민 탄원서 전달",
+     "url": "https://www.yna.co.kr/view/AKR20261105097200004",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9eO818x_gr3MsGG-Sn1uja6lPOxryyUF4Yp23Aget78JZmYkhli-LBER5a6A"
-    },
-    {
-     "title": "[롤드컵] DK, '바이퍼' 앞세운 中 BLG 공세에 2세트도 패배...0-2 벼랑 끝 내몰려",
-     "url": "https://www.osen.co.kr/article/G1112905081",
-     "source": "OSEN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwAF4ob8Ny9-S1psh7Dp3c8mhiRPX_7JiL3s75ekd7GsvrZ15yvUNN-tix1mM"
-    },
-    {
-     "title": "[롤드컵] “뉴욕에서 결승전을 치르면…” 아이디 ‘콘크리트 정글’에 새긴 ‘캐니언’ 김건부의 꿈",
-     "url": "https://sports.khan.co.kr/article/202611051106003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxxK72a6dwtNOxJHpF0K3rUQnhiR2qWWLE__6Zjvhu51aPIrtRuAbNgBLRHoc"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQQ4keteEab43dEv5FLbA-3mWcdDzTZUulAP2kJMETJFmEs17kPE3HU1Hkqc"
     }
    ]
   }
