@@ -1,69 +1,43 @@
 {
- "updated": "2026-11-07 10:56",
+ "updated": "2026-11-07 11:48",
  "items": [
   {
-   "keyword": "매일경제신문",
-   "traffic": "20000+",
-   "pubDate": "Fri, 6 Nov 2026 15:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp40LRISQcJPDFE6FeE97bvqdFM9r8YWLPClTKooQDfiY2UXJVL-NGunOmuaU",
+   "keyword": "보험",
+   "traffic": "1000+",
+   "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTipqdrNB2bLlZbY8S5P1ZlvTBPH9LkUpedzdJl9w6tz92ZYL9D2rZJb1Otkbc",
    "news": [
     {
-     "title": "개장 3분만에 서킷브레이커… 이틀간 삼전 13%-하이닉스 17% 빠져",
-     "url": "https://www.donga.com/news/Economy/article/all/20261107/134982636/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp40LRISQcJPDFE6FeE97bvqdFM9r8YWLPClTKooQDfiY2UXJVL-NGunOmuaU"
+     "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
+     "url": "https://www.mk.co.kr/news/economy/12201283",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTipqdrNB2bLlZbY8S5P1ZlvTBPH9LkUpedzdJl9w6tz92ZYL9D2rZJb1Otkbc"
     },
     {
-     "title": "美 중간선거발 AI 규제 악재…개인·기관 2.3조 방어선 무너뜨린 외인",
-     "url": "https://www.sedaily.com/article/20111426",
-     "source": "서울경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gOFkqYt9mfjRaG0p01bXUhASSSK3hTiskF74kCNbPBAozyhnic8NiKT5lrM"
+     "title": "4년 새 60% 폭증…소득보다 2.7배 더 뛴 60세 이상 1인 가구 보험료",
+     "url": "https://www.segye.com/newsView/20261107503545?OutUrl=google",
+     "source": "세계일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrebjb34yT-1xUuOuL_njmS4aZFpIq8K6fsU-VtLB0xVBWHBwkVDvcp5_5UKA"
     },
     {
-     "title": "[사설] 4개월새 시총 3270조 증발, ‘증시의 정치화’가 부른 참사",
-     "url": "https://www.chosun.com/opinion/editorial/2026/11/07/L5MCDPRGRZFPZNYV4QEDY7LESI/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL318FlPzsrtR6WNbvATqpl9EdgLneIOezEYqHmlhvvz3L3fEFooRV5UtjiGg"
-    }
-   ]
-  },
-  {
-   "keyword": "국민연금",
-   "traffic": "10000+",
-   "pubDate": "Fri, 6 Nov 2026 15:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhamccil_E-F7VoV7bldF52b6AqIKTyWs692TV2jvyrxSVsd07nw_6pb4riHU",
-   "news": [
-    {
-     "title": "국민연금 한 달 49만원 받는 80세, 나이 들어 가장 큰 후회는…",
-     "url": "https://www.chosun.com/economy/startup_story/2026/11/07/MFMQSRXGTJCIFD6JADMYWW4E64/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhamccil_E-F7VoV7bldF52b6AqIKTyWs692TV2jvyrxSVsd07nw_6pb4riHU"
-    },
-    {
-     "title": "국민연금에도 세금을 뗀다구요?ㅣ연금 로드맵 360",
-     "url": "https://story.pay.naver.com/content/3859",
-     "source": "네이버페이 머니스토리",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ef9tXjkObzU-3U-LrZ5WY4E8c7FpWLGHYubjlJJNT2hSI8g7axfcLSzZMUI"
-    },
-    {
-     "title": "“10년 꼬박 냈는데 기초연금보다 적다고?”…국민연금에 무슨 일이? [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8703258",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRte6Q8DcbqbhiUVn_9bKVhbGJxvicvCFR7fnCAqPw63IIzwx7IEAHUYta-wDc"
+     "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
+     "url": "https://www.mk.co.kr/news/economy/view/2026/11/605557/",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7dgHBy3VvGquGxH1aFO-efzIpfUG9UJNtIqLiUnFXjnBEhPE6hRy7aHXJQ0c"
     }
    ]
   },
   {
    "keyword": "클리블랜드 대 필라데피아",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Fri, 6 Nov 2026 16:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9-nWcBVCulv6tQnifMCi_Wd2D7MgHBbkQyzk9xEZHzXsIVWTB9t0zN4Et60Q",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT55gzQUTR_eZ2z4g4YcHT4YLTwsMZpEuFXBOT_ABZXuUgpSgdV65QVqwjBduk",
    "news": [
     {
-     "title": "Boston Celtics vs Charlotte Hornets Nov 6, 2026 Box Scores",
-     "url": "https://www.nba.com/game/bos-vs-cha-0022600026/box-score",
+     "title": "Washington Wizards vs Atlanta Hawks Nov 6, 2026 Box Scores",
+     "url": "https://www.nba.com/game/was-vs-atl-0022600025/box-score",
      "source": "NBA.com",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9-nWcBVCulv6tQnifMCi_Wd2D7MgHBbkQyzk9xEZHzXsIVWTB9t0zN4Et60Q"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT55gzQUTR_eZ2z4g4YcHT4YLTwsMZpEuFXBOT_ABZXuUgpSgdV65QVqwjBduk"
     },
     {
      "title": "Thunder 124-116 Cavaliers (Nov 4, 2026) Game Recap",
@@ -106,6 +80,32 @@
    ]
   },
   {
+   "keyword": "신세계백화점",
+   "traffic": "500+",
+   "pubDate": "Fri, 6 Nov 2026 16:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZOzLviDX1VWaXz9Q5ZvvnVuFqu9tiSg-D3EPjC8ZhpsaaEh0HOjuK6qzT2HQ",
+   "news": [
+    {
+     "title": "11월 초에 크리스마스 경쟁...백화점, 연말 대목 총력전",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611062049127981",
+     "source": "YTN",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZOzLviDX1VWaXz9Q5ZvvnVuFqu9tiSg-D3EPjC8ZhpsaaEh0HOjuK6qzT2HQ"
+    },
+    {
+     "title": "명동 신세계 크리스마스 영상 오늘 공개…매일 오후 5시 불 밝힌다",
+     "url": "https://www.segye.com/newsView/20261106503368",
+     "source": "세계일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSABUC-8U_1HReROMiDEK-EqkoHu1o-SOiwCZF5L1cARq5Y6hXaqMEFyJ4SgM"
+    },
+    {
+     "title": "신세계 '황금볼 트리'·더현대 '뉴욕의 크리스마스'·롯데 '크리스마스 빌리지'",
+     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6345103",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShwHLwp7js0TcU4yVzEpfU-_vxE8p1KoZe_sDpFAMXtKBi3tcmWdsQXgjZnUo"
+    }
+   ]
+  },
+  {
    "keyword": "집",
    "traffic": "500+",
    "pubDate": "Fri, 6 Nov 2026 16:20:00 -0800",
@@ -118,10 +118,10 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDIKfyTo50SlXizqMmKLMuMiDx54qLffHIn5KufsPpTzCt2HDhLvUAHpz0Vpg"
     },
     {
-     "title": "[부동산캘린더] 내주 광교 자연앤 센트레빌 등 12곳서 5천215가구 청약",
-     "url": "https://www.yna.co.kr/view/AKR20261106175000003",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkUqmcSCneEI9QsGGDNNM7HUSl_G8lFC8nQzgONw4vQMq5R-dQqJbmHBJ66VQ"
+     "title": "지분적립형 '전국 1호' 어디…국토부 '첫 분양' 발표에 반박 나선 GH",
+     "url": "https://view.asiae.co.kr/article/2026110710554077610",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRplhnu2hpm7qXytbINofxLkmHXNF-nIEpXlU7DDm0EhE8Ezf1S7Cp5XV81Lrs"
     },
     {
      "title": "처음엔 분양가 25%로 입주, 내 집 지분은 차근차근! - 전체 | 카드/한컷 | 멀티미디어",
@@ -132,86 +132,60 @@
    ]
   },
   {
-   "keyword": "요즘 남자 라이프 - 신랑수업",
-   "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 15:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLJycXLCtd9-9aGAkzukdOeJ8mAZkQBsayLNxGLbDADI_g2NDAVEMlXolTu54",
+   "keyword": "기뢰",
+   "traffic": "200+",
+   "pubDate": "Fri, 6 Nov 2026 17:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_h6Szk-CQ_H-mgqogVX0a0KPO909QL8GTrp_uOHp39QuCsQwbeS8CHOyoRrM",
    "news": [
     {
-     "title": "송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GYZDCYTFGQ4DMY3BME4TCMRYMY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLJycXLCtd9-9aGAkzukdOeJ8mAZkQBsayLNxGLbDADI_g2NDAVEMlXolTu54"
+     "title": "이란 연계 선박 4척, '공격 위협' 후 해저케이블 주변 포착",
+     "url": "https://www.yna.co.kr/view/AKR20261107023800009",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_h6Szk-CQ_H-mgqogVX0a0KPO909QL8GTrp_uOHp39QuCsQwbeS8CHOyoRrM"
     },
     {
-     "title": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
-     "url": "https://ichannela.com/program/clip/000000558837.do",
-     "source": "채널A",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEQO2Om6gERV53-Uz2lkv1E8nxrcWrYXrwaYOfwpkYO7vWKGJG2STywzJjFRI"
+     "title": "이란 연계 선박들, 호르무즈 오만만 해저 케이블 위 '수상한 배회'",
+     "url": "https://www.news1.kr/world/middleeast-africa/6346328",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWotdpsIlXrYDjkm9QgmYP3N20-SoygbgoigQJk-N0blpucmFiHnFJSGvLjnw"
     },
     {
-     "title": "‘39세’ 송해나, 드디어 사랑 찾나…184cm 훈남 변호사와 소개팅 “번호 주세요”",
-     "url": "https://sports.khan.co.kr/article/202611070944003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwetsPxM_i3NkBv_jrUND7rp4AFoamEypAsAxVDhaGKnkxpCClpMM1fDeA7Z0"
+     "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰 충돌‥미 드론도 격추\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6863853_36925.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMtD1dyjwkWSuLZLwDdDsCuw2yNUikiv1SradRnfuWZkEHlXaQSPFGmhPr244"
     }
    ]
   },
   {
-   "keyword": "신세계백화점",
+   "keyword": "지스타",
    "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 16:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DjwUi1YLSwEFGgxIXlS8_7klf666DsmDuK3C1Kcjo9j4g2nlSjkiqaC3onk",
+   "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqFsvdbLiyWeT80X5lDQMbkO87HPGPHmi_omWxuQkTdy2LaCE5JIzv3SAYXg",
    "news": [
     {
-     "title": "[기업] 신세계, 백화점부문장에 '77세' 이석구 선임",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611061852361877",
-     "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DjwUi1YLSwEFGgxIXlS8_7klf666DsmDuK3C1Kcjo9j4g2nlSjkiqaC3onk"
+     "title": "[유미's 픽] \"게임쇼까지 파고든 AI\"…뤼튼·NC AI, 지스타서 존재감 키운다",
+     "url": "https://zdnet.co.kr/view/?no=20261106170036",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqFsvdbLiyWeT80X5lDQMbkO87HPGPHmi_omWxuQkTdy2LaCE5JIzv3SAYXg"
     },
     {
-     "title": "신세계그룹, 백화점 부문장에 이석구 신세계디에프 대표이사 임명…겸직 업무수행",
-     "url": "https://www.donga.com/news/Economy/article/all/20261106/134980155/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmfAwusEoWWlsnq5ExYVARRmjiRMpPUKRbHdf2zOJTULTXary5bskRf7Ll5FQ"
+     "title": "엔씨 AI, 지스타서 '바르코' 체험 카페 운영…3D·사운드 제작 AI 선보인다",
+     "url": "https://www.etnews.com/20261105000289",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRs6VtPJq3zc9SGboFWQP5GX4hj7_yLspBID6lM3fxZjbfhNz9U7SWddqTrMY"
     },
     {
-     "title": "신세계, 백화점부문 부문장에 이석구 사장 선임…감사기능 강화",
-     "url": "https://www.yna.co.kr/view/AKR20261106081700030",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEIZsfsLOtBZ0dV8cxqkTphDGxojixs-P_0OqW4K7-D20Y-T8BJx5bGYH6-Bw"
-    }
-   ]
-  },
-  {
-   "keyword": "주차장",
-   "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 16:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHGuTzbJFX4v-A2YgpgOkTVGVJOP5Tlw0fM7_55cjHUX9AaI5wH2OKKzgFl8c",
-   "news": [
-    {
-     "title": "[현장 속 의정활동] 수원 일월호수공영주차장 준공…180면 확보해 주차난 해소 기대",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336154",
-     "source": "인천일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHGuTzbJFX4v-A2YgpgOkTVGVJOP5Tlw0fM7_55cjHUX9AaI5wH2OKKzgFl8c"
-    },
-    {
-     "title": "수원시, 180대 주차할 수 있는 '일월호수공영주차장' 준공…23일부터 시범운영",
-     "url": "https://www.yna.co.kr/view/RPR20261106007900353",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYEkK3nAPCVSg9AicFSAHjxmgwP6LNf4o7d2DfCFnepUkZTzh4kgBVLopE_xI"
-    },
-    {
-     "title": "수원특례시의회 유재광 부의장, 일월호수공영주차장 준공식 참석",
-     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=801961",
-     "source": "일간투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJBMXvdVYT3CwMySwTS96ceFT2tnLG-AFb4ysYGPQb0io43_tFauy6jw9W1Qc"
+     "title": "‘아이온2’ 만든 AI 기술… 개인 창작자에 개방",
+     "url": "https://dbr.donga.com/kfocus/view/article_no/3844",
+     "source": "동아비즈니스리뷰",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4u7yr5DL4_AgOyoB7xSnOsvDgQH1T1_-hSbLY4oIZVytxdiTsxrCGiIMs3u0"
     }
    ]
   },
   {
    "keyword": "수도권제2순환고속도로",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Fri, 6 Nov 2026 16:50:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFrnx81jAUl2RGwfdvbbHo0jRHuxBvLwoDCS3Hv0VDmnEbPbIF4l1CWr2VZM",
    "news": [
@@ -232,6 +206,32 @@
      "url": "https://www.busan.com/view/busan/view.php?code=2026110622223148541",
      "source": "부산일보",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCMvse_JNLAjiLL8R_866WM5LwlJm7zVMkZxFOdss94Z0XNTmgeje5h4oHZck"
+    }
+   ]
+  },
+  {
+   "keyword": "이주승",
+   "traffic": "100+",
+   "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTY0KHfBEfxmTn32aDkzTj8R1EBdc9raVp1aU7nJxYfxqBZtE68Uzh6k07T0",
+   "news": [
+    {
+     "title": "이주승, 영화감독으로 승승장구 \"상금 1억 우승 이어 영화제 심사위원\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110705363964338",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTY0KHfBEfxmTn32aDkzTj8R1EBdc9raVp1aU7nJxYfxqBZtE68Uzh6k07T0"
+    },
+    {
+     "title": "기안84, 이주승 AI 여친에 눈독..\"조심해, 바로 넘어온다\"",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GQ4DCNTBGUZDQMTDGQ4GCYZZGQ/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLDWvh_iZIN--0iwt05C0KLerBjnBu82N486ueTuYLIqrzjs7epz29Rm4Iz8"
+    },
+    {
+     "title": "‘이감독’ 이주승, 의문의 남자 만났다…누구? (나 혼자 산다)",
+     "url": "https://m.imbc.com/enews/view/523914",
+     "source": "MBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA9R9nkhRtLIrZMy1bHJFFyeYAqSwTSdMHurOcK0vfNsCOke6pPJYbTBwxJVA"
     }
    ]
   },
