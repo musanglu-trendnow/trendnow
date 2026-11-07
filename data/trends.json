@@ -1,9 +1,35 @@
 {
- "updated": "2026-11-07 11:48",
+ "updated": "2026-11-07 12:48",
  "items": [
   {
+   "keyword": "잠수함",
+   "traffic": "5000+",
+   "pubDate": "Fri, 6 Nov 2026 17:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDwC4ZgDHrSgypEVVGXci_sZJLVMlWiShXypyuwH0DoLwNLMyXdGO2xTnB3Rc",
+   "news": [
+    {
+     "title": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]",
+     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261106601014",
+     "source": "나우뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDwC4ZgDHrSgypEVVGXci_sZJLVMlWiShXypyuwH0DoLwNLMyXdGO2xTnB3Rc"
+    },
+    {
+     "title": "\"정보 47만 건·10억 원 유출\"...금융당국, 전 금융권 대책 회의",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061059592785",
+     "source": "YTN 사이언스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKX6MAcb-1euXgLnpEmcWNdJh2wO3eAD1-AW49H7F5q1PSO6glBgYmaKEwpcU"
+    },
+    {
+     "title": "한화에어로스페이스 잠수함용 리튬배터리 상용화, 이부환 전기 추진 선박용 배터리 사업 진출 타진",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451404",
+     "source": "비즈니스포스트",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8x_HgPajc9rrT5xYGmjvp9K37QLeFvbl1ZbWB_KrTw1JzjN7KDjqzkUKBc9s"
+    }
+   ]
+  },
+  {
    "keyword": "보험",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTipqdrNB2bLlZbY8S5P1ZlvTBPH9LkUpedzdJl9w6tz92ZYL9D2rZJb1Otkbc",
    "news": [
@@ -28,112 +54,60 @@
    ]
   },
   {
-   "keyword": "클리블랜드 대 필라데피아",
+   "keyword": "유언",
    "traffic": "1000+",
-   "pubDate": "Fri, 6 Nov 2026 16:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT55gzQUTR_eZ2z4g4YcHT4YLTwsMZpEuFXBOT_ABZXuUgpSgdV65QVqwjBduk",
+   "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizp1YoDoa2BMtZVQgs8Et5kHjG82frJr7luHlIFTJkkQ141F2m_GVuKzo6cM",
    "news": [
     {
-     "title": "Washington Wizards vs Atlanta Hawks Nov 6, 2026 Box Scores",
-     "url": "https://www.nba.com/game/was-vs-atl-0022600025/box-score",
-     "source": "NBA.com",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT55gzQUTR_eZ2z4g4YcHT4YLTwsMZpEuFXBOT_ABZXuUgpSgdV65QVqwjBduk"
-    },
-    {
-     "title": "Thunder 124-116 Cavaliers (Nov 4, 2026) Game Recap",
-     "url": "https://www.espn.com/nba/recap/_/gameId/401909929",
-     "source": "ESPN",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_YxxmnotZyN14dJRtHtg9BHyj9m3aSCmp3fZQWzBNMFhO5PpAgRDgGsNEYrk"
-    },
-    {
-     "title": "Cavs rolled by Thunder, 124-116, in wire-to-wire loss",
-     "url": "https://www.cleveland.com/cavs/2026/11/cavs-rolled-by-thunder-124-116-in-wire-to-wire-loss.html",
-     "source": "Cleveland.com",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpJL5BWK0Q3zczSWxvuk6UShOoT-8d6tuMj-M_9jN2jQg4Opg8GqH3yvm4V_E"
-    }
-   ]
-  },
-  {
-   "keyword": "조명우",
-   "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 16:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg8j-qMK39GQjuY4URuDWORcIgHIwNZ6-Wum4nWY1uPQJfUhXVTm1AuKQaZmQ",
-   "news": [
-    {
-     "title": "‘세계1위’ 조명우, ‘베트남1번’ 트란퀴옛치엔과 16강서 격돌…허정한-호프만, 김행직-레가즈피[양구3쿠션월드컵]",
-     "url": "https://mkbn.mk.co.kr/news/sports/12201029",
-     "source": "mkbn.mk.co.kr",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg8j-qMK39GQjuY4URuDWORcIgHIwNZ6-Wum4nWY1uPQJfUhXVTm1AuKQaZmQ"
-    },
-    {
-     "title": "역시는 역시...조명우, 32강 A조 3전 전승으로 16강 진출 (양구 3쿠션 월드컵) [포커스]",
-     "url": "https://www.xportsnews.com/article/2216587",
-     "source": "www.xportsnews.com",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMwRxDL1VFxYDnnI-upBZ5X7tNqQntk4Q4SLcaNt308BZhl2-WaFNDGZCZig"
-    },
-    {
-     "title": "조명우 시즌 4승 도전…양구 3쿠션당구월드컵 8일까지 열전",
-     "url": "https://www.fnnews.com/news/202611030814217039",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLfuvtreFJDiaEJOXNxIc3xZwRv_Y_KnYnq4IxrAHq_rea7s241SyLpjZkopc"
-    }
-   ]
-  },
-  {
-   "keyword": "신세계백화점",
-   "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 16:30:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZOzLviDX1VWaXz9Q5ZvvnVuFqu9tiSg-D3EPjC8ZhpsaaEh0HOjuK6qzT2HQ",
-   "news": [
-    {
-     "title": "11월 초에 크리스마스 경쟁...백화점, 연말 대목 총력전",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611062049127981",
-     "source": "YTN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZOzLviDX1VWaXz9Q5ZvvnVuFqu9tiSg-D3EPjC8ZhpsaaEh0HOjuK6qzT2HQ"
-    },
-    {
-     "title": "명동 신세계 크리스마스 영상 오늘 공개…매일 오후 5시 불 밝힌다",
-     "url": "https://www.segye.com/newsView/20261106503368",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSABUC-8U_1HReROMiDEK-EqkoHu1o-SOiwCZF5L1cARq5Y6hXaqMEFyJ4SgM"
-    },
-    {
-     "title": "신세계 '황금볼 트리'·더현대 '뉴욕의 크리스마스'·롯데 '크리스마스 빌리지'",
-     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6345103",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShwHLwp7js0TcU4yVzEpfU-_vxE8p1KoZe_sDpFAMXtKBi3tcmWdsQXgjZnUo"
-    }
-   ]
-  },
-  {
-   "keyword": "집",
-   "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 16:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDIKfyTo50SlXizqMmKLMuMiDx54qLffHIn5KufsPpTzCt2HDhLvUAHpz0Vpg",
-   "news": [
-    {
-     "title": "5억짜리 집, 8천만 원에 '내 집'으로...가능하다",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=04450966645642768&mediaCodeNo=257",
+     "title": "삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=06064726645642768&mediaCodeNo=257",
      "source": "이데일리",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDIKfyTo50SlXizqMmKLMuMiDx54qLffHIn5KufsPpTzCt2HDhLvUAHpz0Vpg"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizp1YoDoa2BMtZVQgs8Et5kHjG82frJr7luHlIFTJkkQ141F2m_GVuKzo6cM"
     },
     {
-     "title": "지분적립형 '전국 1호' 어디…국토부 '첫 분양' 발표에 반박 나선 GH",
-     "url": "https://view.asiae.co.kr/article/2026110710554077610",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRplhnu2hpm7qXytbINofxLkmHXNF-nIEpXlU7DDm0EhE8Ezf1S7Cp5XV81Lrs"
+     "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
+     "url": "https://www.koreadaily.com/article/20261106130047620",
+     "source": "미주중앙일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP7kOChaAeM7BiyV3n1rFYKQtORt9dSMbqQWePxuoksuCrFqBgDEoul1mqqxw"
     },
     {
-     "title": "처음엔 분양가 25%로 입주, 내 집 지분은 차근차근! - 전체 | 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975096",
-     "source": "대한민국 정책브리핑",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzaBvnvxjr3MR3aA4tYF9PBzpE3F1P39ULPWXy3Ayxu_3ctUQuqeuyiCusS-M"
+     "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
+     "url": "https://www.munhwa.com/article/11629202",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRICI5VmP3l8iRrlojamO_CFLvn5c-Nizpb-X6o_6P37rjF--uxt58nCHWQMEM"
+    }
+   ]
+  },
+  {
+   "keyword": "nz vs ind",
+   "traffic": "500+",
+   "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbO4URjZ_YxdOrNhhTOFxi7Ml09Yc80rznaH71k5EC9iazQbIWb3Ugkd1gFw",
+   "news": [
+    {
+     "title": "Hnry Stadium, Wellington pitch report, ODI records and average scores ahead of New Zealand vs. India 2nd match",
+     "url": "https://sports.yahoo.com/articles/hnry-stadium-wellington-pitch-report-140001670.html",
+     "source": "Yahoo Sports",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbO4URjZ_YxdOrNhhTOFxi7Ml09Yc80rznaH71k5EC9iazQbIWb3Ugkd1gFw"
+    },
+    {
+     "title": "Why Wellington's Weather Could Test India's Cricket Superstars",
+     "url": "https://timesofindia.indiatimes.com/short-videos/briefs/why-wellingtons-weather-could-test-indias-cricket-superstars/videoshow/135618131.cms",
+     "source": "The Times of India",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpxWtJK98OXtqHhL_7I25ajw21h0GSLGl7yFHW2oZKKmYfCUPjuDnUk_iBCs"
+    },
+    {
+     "title": "NZ vs Ind, 2nd ODI, Live Blog - India bowl first in rain-interrupted game",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog",
+     "source": "Cricinfo",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR71TkiqBSs41KS0tzMeXKltxQfaszcKoWHSyKatsMoPi5gg6M856qmDXixY"
     }
    ]
   },
   {
    "keyword": "기뢰",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Fri, 6 Nov 2026 17:40:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_h6Szk-CQ_H-mgqogVX0a0KPO909QL8GTrp_uOHp39QuCsQwbeS8CHOyoRrM",
    "news": [
@@ -144,10 +118,10 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_h6Szk-CQ_H-mgqogVX0a0KPO909QL8GTrp_uOHp39QuCsQwbeS8CHOyoRrM"
     },
     {
-     "title": "이란 연계 선박들, 호르무즈 오만만 해저 케이블 위 '수상한 배회'",
-     "url": "https://www.news1.kr/world/middleeast-africa/6346328",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWotdpsIlXrYDjkm9QgmYP3N20-SoygbgoigQJk-N0blpucmFiHnFJSGvLjnw"
+     "title": "“해저 케이블에 기뢰 심기?” 이란 선박들 ‘수상한 조짐’ 포착 [지금뉴스]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706663",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_XmI9AjO5sTk5f-PAWbg-VaqN-GCyf2KS3nSWQti2dyGeuq9m6aQwSJAdRM"
     },
     {
      "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰 충돌‥미 드론도 격추\"",
@@ -158,106 +132,132 @@
    ]
   },
   {
-   "keyword": "지스타",
+   "keyword": "사건반장",
    "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqFsvdbLiyWeT80X5lDQMbkO87HPGPHmi_omWxuQkTdy2LaCE5JIzv3SAYXg",
+   "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH1whn2wck4_djJ58R2WoS2qCAk1IejyJJs_HZNvO5lsHReDX-tiuGcE8fE2M",
    "news": [
     {
-     "title": "[유미's 픽] \"게임쇼까지 파고든 AI\"…뤼튼·NC AI, 지스타서 존재감 키운다",
-     "url": "https://zdnet.co.kr/view/?no=20261106170036",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqFsvdbLiyWeT80X5lDQMbkO87HPGPHmi_omWxuQkTdy2LaCE5JIzv3SAYXg"
+     "title": "조개구이 리필까지 하고 먹튀…무단횡단도 했다",
+     "url": "https://news.jtbc.co.kr/article/NB12326939",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH1whn2wck4_djJ58R2WoS2qCAk1IejyJJs_HZNvO5lsHReDX-tiuGcE8fE2M"
     },
     {
-     "title": "엔씨 AI, 지스타서 '바르코' 체험 카페 운영…3D·사운드 제작 AI 선보인다",
-     "url": "https://www.etnews.com/20261105000289",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRs6VtPJq3zc9SGboFWQP5GX4hj7_yLspBID6lM3fxZjbfhNz9U7SWddqTrMY"
-    },
-    {
-     "title": "‘아이온2’ 만든 AI 기술… 개인 창작자에 개방",
-     "url": "https://dbr.donga.com/kfocus/view/article_no/3844",
-     "source": "동아비즈니스리뷰",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4u7yr5DL4_AgOyoB7xSnOsvDgQH1T1_-hSbLY4oIZVytxdiTsxrCGiIMs3u0"
-    }
-   ]
-  },
-  {
-   "keyword": "수도권제2순환고속도로",
-   "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 16:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFrnx81jAUl2RGwfdvbbHo0jRHuxBvLwoDCS3Hv0VDmnEbPbIF4l1CWr2VZM",
-   "news": [
-    {
-     "title": "한강 아래 첫 도로터널 김포방향 굴진…국내 최대 TBM 적용",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374468",
-     "source": "전기신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFrnx81jAUl2RGwfdvbbHo0jRHuxBvLwoDCS3Hv0VDmnEbPbIF4l1CWr2VZM"
-    },
-    {
-     "title": "2029년 개통, 김포~파주 고속도로 한강터널 김포방향 굴착 본격화",
-     "url": "https://www.khan.co.kr/article/202611061408001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_zF2RniQvNcD0p70YkWyeqdyyy62HR5IFUwQiiMKAPpbJrmTFCMDhV6e62s"
-    },
-    {
-     "title": "수도권 제2순환고속도로 한강터널 굴진 완료…한강 아래 첫 도로터널",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026110622223148541",
-     "source": "부산일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCMvse_JNLAjiLL8R_866WM5LwlJm7zVMkZxFOdss94Z0XNTmgeje5h4oHZck"
-    }
-   ]
-  },
-  {
-   "keyword": "이주승",
-   "traffic": "100+",
-   "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTY0KHfBEfxmTn32aDkzTj8R1EBdc9raVp1aU7nJxYfxqBZtE68Uzh6k07T0",
-   "news": [
-    {
-     "title": "이주승, 영화감독으로 승승장구 \"상금 1억 우승 이어 영화제 심사위원\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110705363964338",
+     "title": "'무전취식' 방송에 식당 수십곳 당했다…\"나 뜨면 경찰 긴장\" 조롱까지 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/04/2026110409234736027",
      "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTY0KHfBEfxmTn32aDkzTj8R1EBdc9raVp1aU7nJxYfxqBZtE68Uzh6k07T0"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF1FbEU6HCXePh6cidvhlw6r7S9mnNghDOZFvYrykwAWR1fWoNuCPcUVBmtEE"
     },
     {
-     "title": "기안84, 이주승 AI 여친에 눈독..\"조심해, 바로 넘어온다\"",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GQ4DCNTBGUZDQMTDGQ4GCYZZGQ/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrLDWvh_iZIN--0iwt05C0KLerBjnBu82N486ueTuYLIqrzjs7epz29Rm4Iz8"
-    },
-    {
-     "title": "‘이감독’ 이주승, 의문의 남자 만났다…누구? (나 혼자 산다)",
-     "url": "https://m.imbc.com/enews/view/523914",
-     "source": "MBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA9R9nkhRtLIrZMy1bHJFFyeYAqSwTSdMHurOcK0vfNsCOke6pPJYbTBwxJVA"
+     "title": "성북구 보문동 식당가, 인터넷 방송 켠 '무전취식' 남성에 피해 호소",
+     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=481484",
+     "source": "스페셜타임스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0qM57nmP_iq0mbl-4-NPik9MB9g35mwedGMmaRsvGwoxVWEZanG70bSeMRvM"
     }
    ]
   },
   {
-   "keyword": "폭탄",
-   "traffic": "100+",
-   "pubDate": "Fri, 6 Nov 2026 16:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gmQDo1qBtU5RGLK0y1DUhRxrou__srIkHBzj0lH_meEMxxEHWrooHAQXhMA",
+   "keyword": "미래에셋",
+   "traffic": "200+",
+   "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj434HNTV1cdR_idl-n9Ls-X8DmuOu-ZujIx54sMnDbIxu57rmXhjHwKzAgYc",
    "news": [
     {
-     "title": "여객기 다음은 방송국?…연쇄 폭탄 협박에 유럽 언론사까지 대피",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706563",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gmQDo1qBtU5RGLK0y1DUhRxrou__srIkHBzj0lH_meEMxxEHWrooHAQXhMA"
+     "title": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj434HNTV1cdR_idl-n9Ls-X8DmuOu-ZujIx54sMnDbIxu57rmXhjHwKzAgYc"
     },
     {
-     "title": "유럽 곳곳 폭파 위협…여객기·방송사까지 협박",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107101227KjU",
+     "title": "미래에셋증권, 해킹으로 3만 9천여 명 정보 유출",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835139&plink=PLAY&cooper=ATOM&autoplay=Y",
+     "source": "SBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG02C5lZAa79fTLinogD3ZBHGyhruKzkWj6Z0ImkHf2QV4BYhVW2aZXuYNvPQ"
+    },
+    {
+     "title": "미래에셋증권도 뚫렸다…고객·임직원 3만9000명 정보 유출",
+     "url": "https://news.jtbc.co.kr/article/NB12326943",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzBlIgqan16RzlOZowkiZcxNKkfmo8RnqNjnsPiebR9fOTPX-4R_R9XAU6NV0"
+    }
+   ]
+  },
+  {
+   "keyword": "blg",
+   "traffic": "200+",
+   "pubDate": "Fri, 6 Nov 2026 17:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X7R8CpmLMlnG52iCMBayOXy7ZMGSvuG8yNhGKy5iRFWQNvD4Lolyb1ZLPJ4",
+   "news": [
+    {
+     "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
+     "url": "https://theloadout.com/karmine-corp-vs-t1",
+     "source": "The Loadout",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X7R8CpmLMlnG52iCMBayOXy7ZMGSvuG8yNhGKy5iRFWQNvD4Lolyb1ZLPJ4"
+    },
+    {
+     "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
+     "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends",
+     "source": "The Sporting Tribune",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMCJFyMzd7tiolFTtWRm-VZy4tAW2lB4R_blYHpQ-coDKLm4ZqiU9YnrV_i4"
+    },
+    {
+     "title": "T1 became the final Worlds 2026 semifinalist after beating Karmine Corp",
+     "url": "https://www.sheepesports.com/de/articles/t1-become-the-final-worlds-2026-semifinalist-after-beating-karmine-corp/en",
+     "source": "Sheep Esports",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXVOzp6s14cvOX-ng4A054ctAl7wzmiyg63meCk2jUSqFR5C9P5r1foBFl5U"
+    }
+   ]
+  },
+  {
+   "keyword": "타릭 스쿠발",
+   "traffic": "100+",
+   "pubDate": "Fri, 6 Nov 2026 18:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjotIzjwa0YgiBoix9x4i9rEo9rA8wUoP-1pSAm6LExZ9A_Dce3wQHD0rYrdc",
+   "news": [
+    {
+     "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjotIzjwa0YgiBoix9x4i9rEo9rA8wUoP-1pSAm6LExZ9A_Dce3wQHD0rYrdc"
+    },
+    {
+     "title": "\"설득 끝냈다\" 스쿠발과 형-동생하더니…양대리그 CY 수상자 핵폭탄급 의미심장 한마디 \"잔류 가능성 있어\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018048",
+     "source": "SPOTV NEWS",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIllKsGKZN-Lxqjw3lcb0oCyPlJNaGuVaZio680nuVbuqFg7x0IfPxHjiOT_g"
+    },
+    {
+     "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
+     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg",
+     "source": "네이버 프리미엄콘텐츠",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGbtlOot-9j9P-tNWzzZgxa8eM4N-9itDXGIzjvTDiIJ2nF8AyE7UDwQXO0nY"
+    }
+   ]
+  },
+  {
+   "keyword": "오일 머니",
+   "traffic": "100+",
+   "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg8OmTLstP4zRk990oLK71QAWkSP1Zyt2FyMWRMkTlUWcPw6T_mNK8obbXkRA",
+   "news": [
+    {
+     "title": "새로운 골프? ‘오일 머니’ 끊기니 1년도 못 버텼다",
+     "url": "https://www.chosun.com/international/international_general/2026/11/07/VBSXSSMMDREP5MG74E7LKRKLCY/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg8OmTLstP4zRk990oLK71QAWkSP1Zyt2FyMWRMkTlUWcPw6T_mNK8obbXkRA"
+    },
+    {
+     "title": "DP월드투어, 디섐보에게 출전권 제안…LIV 선수들 어디로?",
+     "url": "https://www.yna.co.kr/view/AKR20261106039500007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXD6NuKayhOECg5KVyZ5JgqFr9z3mcQiMw4L1mcyWS5S2KLX75uTa__DI5F6o"
+    },
+    {
+     "title": "LIV 골프, 자금난 끝 5년 만에 해산",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611070904125ZS",
      "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6-WvOGzPZrJG6-F93-Rft9gbMe6YhdYRDu71-aQhzM7p-MIRuchUpA7ZltIE"
-    },
-    {
-     "title": "유럽 항공기 수십대 '테러 협박'...배후는 러시아? [자막뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611060834213454",
-     "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1uYcE0HbapunOKAubGD4fDoCrDIg6hzPpoV6iTYvH74llo5Tm3Mn6AV2dTA"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVY8N5UqbrPvUiqEaqZUlbn_W-tazQfv7XyocE-hkgoE8MjKdqRrIW3XQbK0M"
     }
    ]
   }
