@@ -1,81 +1,55 @@
 {
- "updated": "2026-11-07 22:49",
+ "updated": "2026-11-07 23:40",
  "items": [
   {
    "keyword": "내일 날씨",
    "traffic": "200000+",
    "pubDate": "Sat, 7 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRqm3TYIHWu1CouP8bor8OGWltlZytSX7WuLKsPbHQMqTciYlDLW1S90C4TaE",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGZHXGgJozTSdHvA0ytMkPpV0OqsLsy201yyk4rkF9_d6jZdyYPX7iinOExds",
    "news": [
     {
-     "title": "[날씨] '입동 추위' 곳곳 영하권...서울 첫 얼음 관측",
-     "url": "https://www.ytn.co.kr/_ln/0108_202611072153282334",
+     "title": "[날씨] 충청권 올가을 첫 영하권...주말 나들이 옷차림 두툼",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611071646040743",
      "source": "YTN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRqm3TYIHWu1CouP8bor8OGWltlZytSX7WuLKsPbHQMqTciYlDLW1S90C4TaE"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGZHXGgJozTSdHvA0ytMkPpV0OqsLsy201yyk4rkF9_d6jZdyYPX7iinOExds"
+    },
+    {
+     "title": "’입동’ 추위 서울 첫얼음…내일 중부 비·강원 눈",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107225235CVg",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsX1xXMr7t6bP1zX2IGg-9N_BoElmtheCGFy3MYkImjieNt2jw7gc90_Ih7EE"
     },
     {
      "title": "설악산은 벌써 영하 9도라니…서울·인천·대전 곳곳 올가을 첫얼음",
      "url": "https://www.khan.co.kr/article/202611071002001",
      "source": "경향신문",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BoqZvtUpwdotwAY0xcCGx_rrZFYuzJqB8i9C5chIU8SmaAIKBg23PQ1AQcg"
-    },
-    {
-     "title": "초겨울 추위 계속, 내일 중부 비나 눈",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706701",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG0QZ9--LFdvKL1e_X1Mq63tMScYv2x1q5SsXktLwqmykW-ryUH2d2xcRkTv8"
     }
    ]
   },
   {
-   "keyword": "weather tomorrow",
-   "traffic": "5000+",
-   "pubDate": "Sat, 7 Nov 2026 03:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMtrjIfdKqSDm45QK35lq2S5XSlXS9L6MB1Ez3kxdL3xOVF-2GagMOCGQmD1I",
-   "news": [
-    {
-     "title": "How to Watch the Iowa Hawkeyes at Northwestern Wildcats",
-     "url": "https://sports.yahoo.com/articles/watch-iowa-hawkeyes-northwestern-wildcats-123100484.html",
-     "source": "Yahoo Sports",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMtrjIfdKqSDm45QK35lq2S5XSlXS9L6MB1Ez3kxdL3xOVF-2GagMOCGQmD1I"
-    },
-    {
-     "title": "Hawkeye Preview: Intel on Northwestern from the Zach Koons of the Bleav in Northwestern podcast",
-     "url": "https://www.kcrg.com/video/2026/11/06/hawkeye-preview-intel-northwestern-zach-koons-bleav-northwestern-podcast/",
-     "source": "KCRG",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTt1yuyGefJoRM505ws-cR7Fy9z761fmgXDPSuuTX1sKl4WBzlrZct4l3pNUk"
-    },
-    {
-     "title": "No. 19 Iowa football prepares to face Northwestern and its new Wildcat Wall in road matchup",
-     "url": "https://www.thegazette.com/sports/college/iowa-football/no-19-iowa-football-prepares-to-face-northwestern-and-its-new-wildcat-wall-in-road/article_8065a5cc-4cef-43cf-b4fb-83e4d16ac904.html",
-     "source": "The Gazette",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQYpAqof7aOaTfQvNtQNrMTpAmnzmxIXwH3ldzfDAc-2aBvPHA0cDqjbWCMw"
-    }
-   ]
-  },
-  {
-   "keyword": "유방암",
+   "keyword": "로또1249",
    "traffic": "2000+",
-   "pubDate": "Sat, 7 Nov 2026 03:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEygoQyBRMsjFcRUJDVUH_lWpD2a354TckVhH1t3LTyVPeliv-ieQIeMBb5Eg",
+   "pubDate": "Sat, 7 Nov 2026 03:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sLu35_4AW2MkEtrWEdW1Lttpqk7gsrTSDWLQfGNx_CCBxZxxzTG1TV2vsRg",
    "news": [
     {
-     "title": "“일주일에 두 번쯤이야” 했는데…‘이것’ 즐겨 먹은 여성들 유방암 위험 높았다 [헬시타임]",
-     "url": "https://www.sedaily.com/article/20111438",
-     "source": "서울경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEygoQyBRMsjFcRUJDVUH_lWpD2a354TckVhH1t3LTyVPeliv-ieQIeMBb5Eg"
+     "title": "[속보]로또 1249회 당첨번호 '2·11·16·25·34·35'…보너스 '14'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03758886645643424&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sLu35_4AW2MkEtrWEdW1Lttpqk7gsrTSDWLQfGNx_CCBxZxxzTG1TV2vsRg"
     },
     {
-     "title": "\"스트레스 풀려고 가끔만 먹었는데?\"…일주일 딱 2번에 암 위험 28% 높아 '날벼락'",
-     "url": "https://view.asiae.co.kr/article/2026110515040815942",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrCFaTIzSA2X1Rocgb8rRtKqluH6XQgOyvgGrIdR5Kexxt5EETI4QoIwYXcQ"
+     "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
+     "url": "https://www.kyeonggi.com/article/20261107580125",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuzJt2CSR6A8zqRM0_i-t7-DV2q9o3YqXOtjQqokRGsp5q-fQR5UNEptamA2Y"
     },
     {
-     "title": "[김길원의 헬스노트] 단맛 즐긴 여성, 유방암 위험 28% 높았다…과일은?",
-     "url": "https://stock.mk.co.kr/news/view/1189768",
-     "source": "매일경제 마켓",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkjH-YjXAQazQs_d32Mo1707i_4nLqcZXGJRtOA1YSyAbnOjLwX7A6sZH37-k"
+     "title": "[오늘 로또]1,249회 로또 1등 14명 …당첨금 20억2천여만 원",
+     "url": "https://www.namdonews.com/news/articleView.html?idxno=928449",
+     "source": "남도일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNJWro3e_dkRD3j9bb1EaF3JevnECAN8ecPpyQ5w3la64LAjkyOBImvfl9g7E"
     }
    ]
   },
@@ -102,6 +76,58 @@
      "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110713267224990",
      "source": "머니투데이",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLX_gcwVi9eUCUxHpThsTJccQfvUzUkTWQYq-c1DZRVmLP-ypURSLu-rjeJz0"
+    }
+   ]
+  },
+  {
+   "keyword": "페드로 포로",
+   "traffic": "500+",
+   "pubDate": "Sat, 7 Nov 2026 05:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT52E0aVpElofcNRmoVDith7V15nlzT5PuB18UrfyFNHh8_uw4OkQV6h7pE0p4",
+   "news": [
+    {
+     "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
+     "url": "https://www.sportsseoul.com/news/read/1647554",
+     "source": "스포츠서울",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT52E0aVpElofcNRmoVDith7V15nlzT5PuB18UrfyFNHh8_uw4OkQV6h7pE0p4"
+    },
+    {
+     "title": "포로에게 손흥민은 은인이었다…“존경할 수밖에 없는 사람, 토트넘 전설임에도 날 가족처럼 받아줬어”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100360",
+     "source": "포포투",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6j1L5VpDixYcLCofy3PFxXRqQGYbvbETIYmML8oVTEPUd4ghpfR1r6sBofQg"
+    },
+    {
+     "title": "손흥민을 너무 좋아한다! “호날두vs메시? 쏘니!” 극찬했던 토트넘 수비수, 이번엔 “존경할 만한 사람”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697959",
+     "source": "인터풋볼",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3tPpqW7Ff78yjO0LVX0StRcK3hpUNy14PEAUD9d1TETXoMGkhN-YObfcQCxE"
+    }
+   ]
+  },
+  {
+   "keyword": "검사",
+   "traffic": "500+",
+   "pubDate": "Sat, 7 Nov 2026 04:50:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr8O3gf9O0NobImrwOXPRtii5kyuaOuL0RiC65_4eBEqU71R6FKg5KuoROshw",
+   "news": [
+    {
+     "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
+     "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr8O3gf9O0NobImrwOXPRtii5kyuaOuL0RiC65_4eBEqU71R6FKg5KuoROshw"
+    },
+    {
+     "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYUX9tMggbZRgVUIyPdzxzCCxMKORO_tRNeg0o9mhoEJbaCu7EPVPbfhlLwrA"
+    },
+    {
+     "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
+     "url": "https://newstapa.org/article/HxPrq",
+     "source": "뉴스타파",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOcOwTnnFZYkHJH2p-GDUs1Sp1kxdPuTSGxSFKXhpetgCsgImbnpfbufNCwRI"
     }
    ]
   },
@@ -144,42 +170,16 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNt6VrjWmwh48Z43HCJVMEiu9D0sVmkPfjkAdlMCU3Jg0-6uCvDueUBwHCLQ"
     },
     {
+     "title": "The fed’s new approach",
+     "url": "https://www.thecabin.net/opinion/the-fed-s-new-approach/article_d26c91eb-79bb-5078-b8a9-c73cabad0629.html",
+     "source": "thecabin.net",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4hYcUgsJTw8nrctbcpNOglrnIPiHDo9oRgvOHRxmnsQfSRo410GEVTfCHtQ"
+    },
+    {
      "title": "AGF Management : The Fed in Uncharted Territory with New Communication Policy",
      "url": "https://www.marketscreener.com/news/agf-management-the-fed-in-uncharted-territory-with-new-communication-policy-ce785fd2da8cff2c",
      "source": "www.marketscreener.com",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI1hYaphCyu73o7stA1e_U40PG0zFW0nwavnQfProxb07GQxrsMPSXibnYXEQ"
-    },
-    {
-     "title": "AGF Management (TSX:AGF.B): High Earnings Per Employee Shows the Leverage of an Asset-Light Investment Manager",
-     "url": "https://kalkine.ca/news/financial/agf-management-tsxagfb-high-earnings-per-employee-shows-the-leverage-of-an-asset-light-investment-manager",
-     "source": "kalkine.ca",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw3vDoUF585QVJg-bB1AZrwSPIluN_uS_zHP33Lpv1Mv6lOFtOLxgOIymrbjM"
-    }
-   ]
-  },
-  {
-   "keyword": "로또1249",
-   "traffic": "500+",
-   "pubDate": "Sat, 7 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sLu35_4AW2MkEtrWEdW1Lttpqk7gsrTSDWLQfGNx_CCBxZxxzTG1TV2vsRg",
-   "news": [
-    {
-     "title": "[속보]로또 1249회 당첨번호 '2·11·16·25·34·35'…보너스 '14'",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03758886645643424&mediaCodeNo=257",
-     "source": "이데일리",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sLu35_4AW2MkEtrWEdW1Lttpqk7gsrTSDWLQfGNx_CCBxZxxzTG1TV2vsRg"
-    },
-    {
-     "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
-     "url": "https://www.kyeonggi.com/article/20261107580125",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuzJt2CSR6A8zqRM0_i-t7-DV2q9o3YqXOtjQqokRGsp5q-fQR5UNEptamA2Y"
-    },
-    {
-     "title": "[오늘 로또]1,249회 로또 1등 14명 …당첨금 20억2천여만 원",
-     "url": "https://www.namdonews.com/news/articleView.html?idxno=928449",
-     "source": "남도일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNJWro3e_dkRD3j9bb1EaF3JevnECAN8ecPpyQ5w3la64LAjkyOBImvfl9g7E"
     }
    ]
   },
@@ -187,34 +187,27 @@
    "keyword": "leeds vs spurs",
    "traffic": "500+",
    "pubDate": "Sat, 7 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf22Pz-L_ABvN1GE3h0Dh1ffJ4XC8XJF6PUKniwEJfncGo3Y5O2ycVa3qJ8Y4",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDy8HPu3niKxGogSFmb645Mi-CszRW0plF7XrzATUJS_JkBca-0i44XXkkpB8",
    "news": [
     {
      "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
      "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
      "source": "BBC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf22Pz-L_ABvN1GE3h0Dh1ffJ4XC8XJF6PUKniwEJfncGo3Y5O2ycVa3qJ8Y4"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDy8HPu3niKxGogSFmb645Mi-CszRW0plF7XrzATUJS_JkBca-0i44XXkkpB8"
     },
     {
-     "title": "Leeds vs Tottenham LIVE! Premier League updates, news, prediction and line-ups",
-     "url": "https://www.skysports.com/football/live-blog/13592869/leeds-vs-tottenham-live-premier-league-updates-news-prediction-and-line-ups",
-     "source": "Sky Sports",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAzxvYgLpCl8ZH06oUxZ_xpPZjyju6xwzKsl6nniI5MbxDs3HInSkHgIzueI"
+     "title": "Leeds United v Tottenham Hotspur: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
+     "source": "The Guardian",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgp34rZa64cFpXJr1Uq5aIEegqK_it_BZhylLD7iDTeOKv3TXOyldC_MEHzpQ"
     },
     {
-     "title": "Team News: Injury updates on Calvert-Lewin, Okafor & Stach",
-     "url": "https://www.leedsunited.com/en/news/team-news-injury-updates-on-calvert-lewin-okafor-and-stach",
-     "source": "Leeds United | Official Website - Leeds United",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqwL9kvFPQ2Yd7ud4vE5-eMoHhi3I99hFTq6OxcQCViHAELn62qHHcv7BdEs4"
+     "title": "Two changes and pair return from injury as Farke reveals XI to face Tottenham Hotspur",
+     "url": "https://onefootball.com/en/news/two-changes-and-pair-return-from-injury-as-farke-reveals-xi-to-face-tottenham-hotspur-43740216",
+     "source": "OneFootball",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3AXfoIBefjK7g7XLpEo9DL1Tr5laKDh5OBre4IOZtdmHHOiCnvQebeqX9qfw"
     }
    ]
-  },
-  {
-   "keyword": "погода завтра",
-   "traffic": "500+",
-   "pubDate": "Sat, 7 Nov 2026 03:40:00 -0800",
-   "img": "",
-   "news": []
   },
   {
    "keyword": "persija jakarta vs persebaya",
@@ -222,6 +215,32 @@
    "pubDate": "Sat, 7 Nov 2026 04:00:00 -0800",
    "img": "",
    "news": []
+  },
+  {
+   "keyword": "ลีดส์ พบ สเปอร์ส",
+   "traffic": "100+",
+   "pubDate": "Sat, 7 Nov 2026 05:20:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNH3VMQ6myiejhtVKUk9J0HdXwOM8DT-TT7ZH1aiYbvMFoxV3KbPDSwUHITK4",
+   "news": [
+    {
+     "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
+     "url": "https://www.pptvhd36.com/sport/news/286664",
+     "source": "pptvhd36.com",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNH3VMQ6myiejhtVKUk9J0HdXwOM8DT-TT7ZH1aiYbvMFoxV3KbPDSwUHITK4"
+    },
+    {
+     "title": "การคาดการณ์ผลการแข่งขันระหว่างลีดส์กับท็อตแนม: จุดสนใจสำคัญในการลุ้นแย่งตำแหน่งสูงสุด",
+     "url": "https://www.vietnam.vn/th/nhan-dinh-leeds-vs-tottenham-diem-nong-cuoc-dua-top-dau",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTfTMQLxALGNuaAmzFBvzGdymlVX4JfSJZ8MUCZ2DyUo2bZgsL4z384kIQQVQ"
+    },
+    {
+     "title": "ปรีวิว-ฟํนธง! ปืนรอยิงนำฝูงยาวพรีเมียร์ลีก",
+     "url": "https://www.naewna.com/n/sports/153181/",
+     "source": "แนวหน้า",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmzckNYpix0NO5Rg6quSMyqfEd_ib3wYLFi_H3WRxm-eFG8fktSKd6_vmjTO4"
+    }
+   ]
   }
  ]
 }
