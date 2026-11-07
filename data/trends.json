@@ -1,61 +1,35 @@
 {
- "updated": "2026-11-07 12:48",
+ "updated": "2026-11-07 13:50",
  "items": [
   {
-   "keyword": "잠수함",
-   "traffic": "5000+",
-   "pubDate": "Fri, 6 Nov 2026 17:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDwC4ZgDHrSgypEVVGXci_sZJLVMlWiShXypyuwH0DoLwNLMyXdGO2xTnB3Rc",
-   "news": [
-    {
-     "title": "“한국 역대 최강 잠수함”…美 매체가 서희함에 주목한 이유 [밀리터리+]",
-     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261106601014",
-     "source": "나우뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDwC4ZgDHrSgypEVVGXci_sZJLVMlWiShXypyuwH0DoLwNLMyXdGO2xTnB3Rc"
-    },
-    {
-     "title": "\"정보 47만 건·10억 원 유출\"...금융당국, 전 금융권 대책 회의",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061059592785",
-     "source": "YTN 사이언스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKX6MAcb-1euXgLnpEmcWNdJh2wO3eAD1-AW49H7F5q1PSO6glBgYmaKEwpcU"
-    },
-    {
-     "title": "한화에어로스페이스 잠수함용 리튬배터리 상용화, 이부환 전기 추진 선박용 배터리 사업 진출 타진",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451404",
-     "source": "비즈니스포스트",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8x_HgPajc9rrT5xYGmjvp9K37QLeFvbl1ZbWB_KrTw1JzjN7KDjqzkUKBc9s"
-    }
-   ]
-  },
-  {
-   "keyword": "보험",
+   "keyword": "아이뉴스24",
    "traffic": "2000+",
-   "pubDate": "Fri, 6 Nov 2026 17:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTipqdrNB2bLlZbY8S5P1ZlvTBPH9LkUpedzdJl9w6tz92ZYL9D2rZJb1Otkbc",
+   "pubDate": "Fri, 6 Nov 2026 19:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4qJ_utuqcaRUTfzSVodMbU7t7Di73hzNlAEUDHVKPAOnkAqiCDHx1gc_dMRU",
    "news": [
     {
-     "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
-     "url": "https://www.mk.co.kr/news/economy/12201283",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTipqdrNB2bLlZbY8S5P1ZlvTBPH9LkUpedzdJl9w6tz92ZYL9D2rZJb1Otkbc"
+     "title": "이제 미국엔 데이터센터를 못 짓는 걸까",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706616",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4qJ_utuqcaRUTfzSVodMbU7t7Di73hzNlAEUDHVKPAOnkAqiCDHx1gc_dMRU"
     },
     {
-     "title": "4년 새 60% 폭증…소득보다 2.7배 더 뛴 60세 이상 1인 가구 보험료",
-     "url": "https://www.segye.com/newsView/20261107503545?OutUrl=google",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrebjb34yT-1xUuOuL_njmS4aZFpIq8K6fsU-VtLB0xVBWHBwkVDvcp5_5UKA"
+     "title": "텍사스-조지아 등 美민주 주지사 당선인들 “AI 데이터센터 규제”",
+     "url": "https://www.donga.com/news/Inter/article/all/20261106/134982640/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwfYGHIG4czo3EGlFzzSCek7Y0vS3TZrM-1vhSstac7eaLbvGcGUehLctFa_4"
     },
     {
-     "title": "혼자 사는 어르신, 보험료 부담 4년새 60% 증가",
-     "url": "https://www.mk.co.kr/news/economy/view/2026/11/605557/",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7dgHBy3VvGquGxH1aFO-efzIpfUG9UJNtIqLiUnFXjnBEhPE6hRy7aHXJQ0c"
+     "title": "\"2028년엔 반도체 남아돌 수도\"…찬물 제대로 맞은 기업들",
+     "url": "https://www.hankyung.com/article/2026110615841",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZ5MtHwmYSUWkpcSyCIyq5-U-qN7j_QrWPEd8lBSM3lPxhQ0VwaagLqO-mAY"
     }
    ]
   },
   {
    "keyword": "유언",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizp1YoDoa2BMtZVQgs8Et5kHjG82frJr7luHlIFTJkkQ141F2m_GVuKzo6cM",
    "news": [
@@ -66,16 +40,16 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizp1YoDoa2BMtZVQgs8Et5kHjG82frJr7luHlIFTJkkQ141F2m_GVuKzo6cM"
     },
     {
-     "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
-     "url": "https://www.koreadaily.com/article/20261106130047620",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP7kOChaAeM7BiyV3n1rFYKQtORt9dSMbqQWePxuoksuCrFqBgDEoul1mqqxw"
-    },
-    {
      "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
      "url": "https://www.munhwa.com/article/11629202",
      "source": "문화일보",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRICI5VmP3l8iRrlojamO_CFLvn5c-Nizpb-X6o_6P37rjF--uxt58nCHWQMEM"
+    },
+    {
+     "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
+     "url": "https://www.koreadaily.com/article/20261106130047620",
+     "source": "미주중앙일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP7kOChaAeM7BiyV3n1rFYKQtORt9dSMbqQWePxuoksuCrFqBgDEoul1mqqxw"
     }
    ]
   },
@@ -83,118 +57,60 @@
    "keyword": "nz vs ind",
    "traffic": "500+",
    "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbO4URjZ_YxdOrNhhTOFxi7Ml09Yc80rznaH71k5EC9iazQbIWb3Ugkd1gFw",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqTv2YW2t1qoWyMaKsuxoUcfIUz6xGsW0FI_8XzVw9bximUJ9kFxcWBz3hbIg",
    "news": [
     {
-     "title": "Hnry Stadium, Wellington pitch report, ODI records and average scores ahead of New Zealand vs. India 2nd match",
-     "url": "https://sports.yahoo.com/articles/hnry-stadium-wellington-pitch-report-140001670.html",
-     "source": "Yahoo Sports",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbO4URjZ_YxdOrNhhTOFxi7Ml09Yc80rznaH71k5EC9iazQbIWb3Ugkd1gFw"
-    },
-    {
-     "title": "Why Wellington's Weather Could Test India's Cricket Superstars",
-     "url": "https://timesofindia.indiatimes.com/short-videos/briefs/why-wellingtons-weather-could-test-indias-cricket-superstars/videoshow/135618131.cms",
-     "source": "The Times of India",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpxWtJK98OXtqHhL_7I25ajw21h0GSLGl7yFHW2oZKKmYfCUPjuDnUk_iBCs"
-    },
-    {
-     "title": "NZ vs Ind, 2nd ODI, Live Blog - India bowl first in rain-interrupted game",
-     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog",
+     "title": "Cricket could take backseat in wet Wellington",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/match-preview",
      "source": "Cricinfo",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuR71TkiqBSs41KS0tzMeXKltxQfaszcKoWHSyKatsMoPi5gg6M856qmDXixY"
-    }
-   ]
-  },
-  {
-   "keyword": "기뢰",
-   "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 17:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_h6Szk-CQ_H-mgqogVX0a0KPO909QL8GTrp_uOHp39QuCsQwbeS8CHOyoRrM",
-   "news": [
-    {
-     "title": "이란 연계 선박 4척, '공격 위협' 후 해저케이블 주변 포착",
-     "url": "https://www.yna.co.kr/view/AKR20261107023800009",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_h6Szk-CQ_H-mgqogVX0a0KPO909QL8GTrp_uOHp39QuCsQwbeS8CHOyoRrM"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqTv2YW2t1qoWyMaKsuxoUcfIUz6xGsW0FI_8XzVw9bximUJ9kFxcWBz3hbIg"
     },
     {
-     "title": "“해저 케이블에 기뢰 심기?” 이란 선박들 ‘수상한 조짐’ 포착 [지금뉴스]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706663",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_XmI9AjO5sTk5f-PAWbg-VaqN-GCyf2KS3nSWQti2dyGeuq9m6aQwSJAdRM"
+     "title": "Where to watch New Zealand vs. India live stream, TV channel, start time and lineups for 2nd ODI",
+     "url": "https://sports.yahoo.com/articles/where-watch-zealand-vs-india-143001399.html",
+     "source": "Yahoo Sports",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5tAjG4hMkaP0VmkBxBAA1I4vIDKLRnMhwQk1cHxa0efHNQCiFpV8uo-37I1M"
     },
     {
-     "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰 충돌‥미 드론도 격추\"",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6863853_36925.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMtD1dyjwkWSuLZLwDdDsCuw2yNUikiv1SradRnfuWZkEHlXaQSPFGmhPr244"
-    }
-   ]
-  },
-  {
-   "keyword": "사건반장",
-   "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH1whn2wck4_djJ58R2WoS2qCAk1IejyJJs_HZNvO5lsHReDX-tiuGcE8fE2M",
-   "news": [
-    {
-     "title": "조개구이 리필까지 하고 먹튀…무단횡단도 했다",
-     "url": "https://news.jtbc.co.kr/article/NB12326939",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH1whn2wck4_djJ58R2WoS2qCAk1IejyJJs_HZNvO5lsHReDX-tiuGcE8fE2M"
-    },
-    {
-     "title": "'무전취식' 방송에 식당 수십곳 당했다…\"나 뜨면 경찰 긴장\" 조롱까지 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/04/2026110409234736027",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF1FbEU6HCXePh6cidvhlw6r7S9mnNghDOZFvYrykwAWR1fWoNuCPcUVBmtEE"
-    },
-    {
-     "title": "성북구 보문동 식당가, 인터넷 방송 켠 '무전취식' 남성에 피해 호소",
-     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=481484",
-     "source": "스페셜타임스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0qM57nmP_iq0mbl-4-NPik9MB9g35mwedGMmaRsvGwoxVWEZanG70bSeMRvM"
+     "title": "NZ vs India | 29/3 in Wellington Brings Back an Uncomfortable 2018 Echo",
+     "url": "https://openthemagazine.com/sports/nz-vs-india-293-in-wellington-brings-back-an-uncomfortable-2018-echo",
+     "source": "Open Magazine",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwlC97hCO6V6WfGT_pAKsbKy_cshP73qjrtgTnArVQAKQjnmoIgx-8X5PeIBo"
     }
    ]
   },
   {
    "keyword": "미래에셋",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj434HNTV1cdR_idl-n9Ls-X8DmuOu-ZujIx54sMnDbIxu57rmXhjHwKzAgYc",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLg4yowySoiC3phUbyFZ6cOn1yuj8BZhWGwF7HlS4BfcHvVqG842cwGLwObhg",
    "news": [
     {
-     "title": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html",
+     "title": "미래에셋증권 해킹‥고객 3,800명 계좌번호 유출",
+     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6863893_36967.html",
      "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj434HNTV1cdR_idl-n9Ls-X8DmuOu-ZujIx54sMnDbIxu57rmXhjHwKzAgYc"
-    },
-    {
-     "title": "미래에셋증권, 해킹으로 3만 9천여 명 정보 유출",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835139&plink=PLAY&cooper=ATOM&autoplay=Y",
-     "source": "SBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG02C5lZAa79fTLinogD3ZBHGyhruKzkWj6Z0ImkHf2QV4BYhVW2aZXuYNvPQ"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLg4yowySoiC3phUbyFZ6cOn1yuj8BZhWGwF7HlS4BfcHvVqG842cwGLwObhg"
     },
     {
      "title": "미래에셋증권도 뚫렸다…고객·임직원 3만9000명 정보 유출",
      "url": "https://news.jtbc.co.kr/article/NB12326943",
      "source": "JTBC",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzBlIgqan16RzlOZowkiZcxNKkfmo8RnqNjnsPiebR9fOTPX-4R_R9XAU6NV0"
+    },
+    {
+     "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+     "url": "https://www.yna.co.kr/view/AKR20261107025000011",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrFEMFcEVAwJZTB9_Z7vw0mddkC9i32uMX4Dag-xl3Yl8hV1Ge5Ys0C1dyU_4"
     }
    ]
   },
   {
-   "keyword": "blg",
+   "keyword": "kc t1",
    "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 17:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X7R8CpmLMlnG52iCMBayOXy7ZMGSvuG8yNhGKy5iRFWQNvD4Lolyb1ZLPJ4",
+   "pubDate": "Fri, 6 Nov 2026 18:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMCJFyMzd7tiolFTtWRm-VZy4tAW2lB4R_blYHpQ-coDKLm4ZqiU9YnrV_i4",
    "news": [
-    {
-     "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
-     "url": "https://theloadout.com/karmine-corp-vs-t1",
-     "source": "The Loadout",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X7R8CpmLMlnG52iCMBayOXy7ZMGSvuG8yNhGKy5iRFWQNvD4Lolyb1ZLPJ4"
-    },
     {
      "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
      "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends",
@@ -202,16 +118,22 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMCJFyMzd7tiolFTtWRm-VZy4tAW2lB4R_blYHpQ-coDKLm4ZqiU9YnrV_i4"
     },
     {
-     "title": "T1 became the final Worlds 2026 semifinalist after beating Karmine Corp",
-     "url": "https://www.sheepesports.com/de/articles/t1-become-the-final-worlds-2026-semifinalist-after-beating-karmine-corp/en",
-     "source": "Sheep Esports",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXVOzp6s14cvOX-ng4A054ctAl7wzmiyg63meCk2jUSqFR5C9P5r1foBFl5U"
+     "title": "Impregnable 'Peyz-Keria' Duo... T1 Beats KC 3-1 to Face BLG in Semifinals",
+     "url": "https://www.invenglobal.com/articles/28298/impregnable-peyz-keria-duo-t1-beats-kc-3-1-to-face-blg-in-semifinals",
+     "source": "Inven Global",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD42KxO-M-oIUmwS9x8-_SKbmNBf_5-0Rj5mflvA5QoqV8RD8XEKstPMAa7T0"
+    },
+    {
+     "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
+     "url": "https://theloadout.com/karmine-corp-vs-t1",
+     "source": "The Loadout",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X7R8CpmLMlnG52iCMBayOXy7ZMGSvuG8yNhGKy5iRFWQNvD4Lolyb1ZLPJ4"
     }
    ]
   },
   {
    "keyword": "타릭 스쿠발",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Fri, 6 Nov 2026 18:40:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjotIzjwa0YgiBoix9x4i9rEo9rA8wUoP-1pSAm6LExZ9A_Dce3wQHD0rYrdc",
    "news": [
@@ -232,6 +154,84 @@
      "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg",
      "source": "네이버 프리미엄콘텐츠",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGbtlOot-9j9P-tNWzzZgxa8eM4N-9itDXGIzjvTDiIJ2nF8AyE7UDwQXO0nY"
+    }
+   ]
+  },
+  {
+   "keyword": "사건반장",
+   "traffic": "200+",
+   "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjXmqzMkJ1zY7C5VV8tw_jkON-rIcZHKqHMvdiGw218Yv1LaQbYMlBj9U49k",
+   "news": [
+    {
+     "title": "\"강아지인 줄\"…파란 불에 횡단보도 건너는 너구리",
+     "url": "https://news.jtbc.co.kr/video/NB12326940",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjXmqzMkJ1zY7C5VV8tw_jkON-rIcZHKqHMvdiGw218Yv1LaQbYMlBj9U49k"
+    },
+    {
+     "title": "\"저거 강아지인가 봐~\" 초록불에 건너온 ‘너구리’?",
+     "url": "https://news.jtbc.co.kr/video/ND10779067",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjXmqzMkJ1zY7C5VV8tw_jkON-rIcZHKqHMvdiGw218Yv1LaQbYMlBj9U49k"
+    },
+    {
+     "title": "\"내가 뜨면 경찰서 초토화\" 보문동 자영업자 ‘킬러’ 유튜버 논란",
+     "url": "https://news.jtbc.co.kr/video/NB12326440",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUHeqz0aHSLjbXv1sTNKHayShFWFWyKWSERqs0UfcKhAJdyEssxOiZcNylLg"
+    }
+   ]
+  },
+  {
+   "keyword": "백종원",
+   "traffic": "100+",
+   "pubDate": "Fri, 6 Nov 2026 19:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOhvhadoNAV0O9CQV2SzbeSVLm29wnkbpbSnnqUDpMsFbS9OFkuCeMhqyEy0",
+   "news": [
+    {
+     "title": "피자 배달 알바 나선 백종원…아내 소유진도 댓글",
+     "url": "https://www.munhwa.com/article/11629480",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOhvhadoNAV0O9CQV2SzbeSVLm29wnkbpbSnnqUDpMsFbS9OFkuCeMhqyEy0"
+    },
+    {
+     "title": "\"피자 배달하는 백종원\"…사연 알고보니 '깜짝'",
+     "url": "https://view.asiae.co.kr/article/2026110710265641640",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqT-mJtVn2dq43-lgMe19rWsuZANhGAfKCkAUadoWKH4y8els0Bex7KyNPPOA"
+    },
+    {
+     "title": "백종원 뭐하고 사나 봤더니…“오토바이 타고 피자 배달”",
+     "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/06/20261106500185",
+     "source": "www.twig24.com",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRciOiarLLLI-a88yQ1YWju5M6HWBL12fShFDL_MYrpu1LJKTyYfPFjrvgQp2A"
+    }
+   ]
+  },
+  {
+   "keyword": "멧 갈라",
+   "traffic": "100+",
+   "pubDate": "Fri, 6 Nov 2026 19:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTurZ-ERSybnZLiTVW0tA1pbGKd85m6LZeGZMRdYVY0Kv5AbY5UwUnkoVdPTfY",
+   "news": [
+    {
+     "title": "2027년, 메트로폴리탄 미술관은 ‘평범한 옷’에 주목합니다",
+     "url": "https://www.vogue.co.kr/2026/11/06/2027%EB%85%84-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%80-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%98%B7%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%A9%EB%8B%88/",
+     "source": "Vogue korea",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTurZ-ERSybnZLiTVW0tA1pbGKd85m6LZeGZMRdYVY0Kv5AbY5UwUnkoVdPTfY"
+    },
+    {
+     "title": "쿠튀르에서 블루 진까지: 메트로폴리탄 미술관, 2027년 봄을 맞아 일상의 패션에 주목하다",
+     "url": "https://hypebeast.kr/2026/11/the-met-gala-2027-pivots-theme-exhibition-extraordinary-fashion-and-the-poetics-of-the-everyday",
+     "source": "Hypebeast.KR",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsQf1tbwzgNqfVyouzIEzeZujdZSikekC35vJbcws3ZYh182bCtr0JFxbqlaw"
+    },
+    {
+     "title": "평범한 티셔츠도 예술이 된다. 2027 멧 갈라가 주목하는 일상의 패션 – 마리끌레르 코리아",
+     "url": "https://www.marieclairekorea.com/fashion/2026/11/met/",
+     "source": "마리끌레르 코리아",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8YEskR8wktpiSaZ8YElPdiIcESJLfKPa2nQpMgC3_DSLLIoA_p5ZOxd7CPFE"
     }
    ]
   },
