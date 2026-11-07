@@ -1,191 +1,153 @@
 {
- "updated": "2026-11-07 13:50",
+ "updated": "2026-11-07 14:47",
  "items": [
   {
-   "keyword": "아이뉴스24",
-   "traffic": "2000+",
-   "pubDate": "Fri, 6 Nov 2026 19:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4qJ_utuqcaRUTfzSVodMbU7t7Di73hzNlAEUDHVKPAOnkAqiCDHx1gc_dMRU",
+   "keyword": "삼전 닉스",
+   "traffic": "5000+",
+   "pubDate": "Fri, 6 Nov 2026 20:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSywmZSLTzqPj40cBxto0TE_Y0hYXGA_cTuc6ap4xPS8CKd8xt48of54VjDZi0",
    "news": [
     {
-     "title": "이제 미국엔 데이터센터를 못 짓는 걸까",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706616",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4qJ_utuqcaRUTfzSVodMbU7t7Di73hzNlAEUDHVKPAOnkAqiCDHx1gc_dMRU"
-    },
-    {
-     "title": "텍사스-조지아 등 美민주 주지사 당선인들 “AI 데이터센터 규제”",
-     "url": "https://www.donga.com/news/Inter/article/all/20261106/134982640/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwfYGHIG4czo3EGlFzzSCek7Y0vS3TZrM-1vhSstac7eaLbvGcGUehLctFa_4"
-    },
-    {
-     "title": "\"2028년엔 반도체 남아돌 수도\"…찬물 제대로 맞은 기업들",
-     "url": "https://www.hankyung.com/article/2026110615841",
+     "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
+     "url": "https://www.hankyung.com/article/2026110610246",
      "source": "한국경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZ5MtHwmYSUWkpcSyCIyq5-U-qN7j_QrWPEd8lBSM3lPxhQ0VwaagLqO-mAY"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSywmZSLTzqPj40cBxto0TE_Y0hYXGA_cTuc6ap4xPS8CKd8xt48of54VjDZi0"
+    },
+    {
+     "title": "주가폭락했는데 삼전닉스 LTA 믿어도 되나…마이크론 사례 보니",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443491",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRu81IAdjveoi7nlzumc6HWueJu2P79Ps-w3OV-_vjQx9rAoUhW5B6wpCu-Sxk"
+    },
+    {
+     "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
+     "url": "https://www.donga.com/news/Economy/article/all/20261106/134982628/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4Qdo0YIShb28RGP0pu470IRUv3zO7rnjWLbQUJw1jgGfB7K8lu_w8lnZInLI"
     }
    ]
   },
   {
-   "keyword": "유언",
-   "traffic": "2000+",
-   "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizp1YoDoa2BMtZVQgs8Et5kHjG82frJr7luHlIFTJkkQ141F2m_GVuKzo6cM",
+   "keyword": "조작 기소 의혹 특검법 통과에 따른 핵심 쟁점과 최신 뉴스 알려줘",
+   "traffic": "1000+",
+   "pubDate": "Fri, 6 Nov 2026 20:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzH764C5J9f2oHadboucd-vO77YijLOakFyc03FADRw_Lh1QD8zdCgFEUPTDc",
    "news": [
     {
-     "title": "삼남매 두고 \"전재산은 사위에\" 유언장 남긴 父 속사정",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=06064726645642768&mediaCodeNo=257",
-     "source": "이데일리",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizp1YoDoa2BMtZVQgs8Et5kHjG82frJr7luHlIFTJkkQ141F2m_GVuKzo6cM"
+     "title": "국민의힘 ‘조작기소 특검법’ 장외투쟁…민주당 “진실규명마저 반대하나”",
+     "url": "https://www.khan.co.kr/article/202611071138001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzH764C5J9f2oHadboucd-vO77YijLOakFyc03FADRw_Lh1QD8zdCgFEUPTDc"
     },
     {
-     "title": "“삼남매 말고 사위에 전재산” 치매 아빠의 유언장",
-     "url": "https://www.munhwa.com/article/11629202",
+     "title": "민주당, 국힘 ‘조작기소 특검’ 장외투쟁에 “본질 외면한 채 국민 호도”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706665",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiBarbzwZKilSQNuS_93Hk-d4XpCPPBVvgR7UQ_pi1R2YB4IRoWn2zaVMIMeE"
+    },
+    {
+     "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
+     "url": "https://www.munhwa.com/article/11629487",
      "source": "문화일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRICI5VmP3l8iRrlojamO_CFLvn5c-Nizpb-X6o_6P37rjF--uxt58nCHWQMEM"
-    },
-    {
-     "title": "“이 돈, 내연녀줘” 남편 마지막 유언...아내는 진짜 1억 뺏겼다",
-     "url": "https://www.koreadaily.com/article/20261106130047620",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP7kOChaAeM7BiyV3n1rFYKQtORt9dSMbqQWePxuoksuCrFqBgDEoul1mqqxw"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHkzTUZQJnZq9f4GgaS3KV9gJFUwkZVF32wEimZIb_0xaoQwnZFotV1SDqhNw"
     }
    ]
   },
   {
-   "keyword": "nz vs ind",
+   "keyword": "배트맨",
    "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqTv2YW2t1qoWyMaKsuxoUcfIUz6xGsW0FI_8XzVw9bximUJ9kFxcWBz3hbIg",
+   "pubDate": "Fri, 6 Nov 2026 20:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFDQEIbhAe2uQjCCIIrV8aIiWsk11wuWvXmoxeia3VrfjIv4Gh4LWQi0Y2k0",
    "news": [
     {
-     "title": "Cricket could take backseat in wet Wellington",
-     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/match-preview",
-     "source": "Cricinfo",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqTv2YW2t1qoWyMaKsuxoUcfIUz6xGsW0FI_8XzVw9bximUJ9kFxcWBz3hbIg"
+     "title": "Absolute Batman #25 by Nick Dragotta/Jim Lee/Clay Mann Sells For $19K",
+     "url": "https://bleedingcool.com/comics/absolute-batman-25-by-nick-dragotta-jim-lee-clay-mann-sells-for-19k/",
+     "source": "Bleeding Cool News",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFDQEIbhAe2uQjCCIIrV8aIiWsk11wuWvXmoxeia3VrfjIv4Gh4LWQi0Y2k0"
     },
     {
-     "title": "Where to watch New Zealand vs. India live stream, TV channel, start time and lineups for 2nd ODI",
-     "url": "https://sports.yahoo.com/articles/where-watch-zealand-vs-india-143001399.html",
-     "source": "Yahoo Sports",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5tAjG4hMkaP0VmkBxBAA1I4vIDKLRnMhwQk1cHxa0efHNQCiFpV8uo-37I1M"
+     "title": "The Absolute Batman #25 Clay Mann Cover Jumps From $8 To $60 In A Day",
+     "url": "https://bleedingcool.com/comics/the-absolute-batman-25-clay-mann-cover-jumps-from-8-to-60-in-a-day/",
+     "source": "Bleeding Cool News",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJm--dQzxTcYpfgMEnllC6CaR07ceyzP-CM3khUa3yOxn-0rgZYXPekdcmqmY"
     },
     {
-     "title": "NZ vs India | 29/3 in Wellington Brings Back an Uncomfortable 2018 Echo",
-     "url": "https://openthemagazine.com/sports/nz-vs-india-293-in-wellington-brings-back-an-uncomfortable-2018-echo",
-     "source": "Open Magazine",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwlC97hCO6V6WfGT_pAKsbKy_cshP73qjrtgTnArVQAKQjnmoIgx-8X5PeIBo"
+     "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+     "url": "https://www.yahoo.com/entertainment/articles/scarlett-johansson-breaks-silence-batman-230310752.html",
+     "source": "Yahoo",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvLlz2kuDFAoGXVVksZzc_9n0R-3nTPDHfVKTzg2WAL01gVc1w5R92FkzuDk"
     }
    ]
   },
   {
-   "keyword": "미래에셋",
-   "traffic": "500+",
-   "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLg4yowySoiC3phUbyFZ6cOn1yuj8BZhWGwF7HlS4BfcHvVqG842cwGLwObhg",
-   "news": [
-    {
-     "title": "미래에셋증권 해킹‥고객 3,800명 계좌번호 유출",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6863893_36967.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLg4yowySoiC3phUbyFZ6cOn1yuj8BZhWGwF7HlS4BfcHvVqG842cwGLwObhg"
-    },
-    {
-     "title": "미래에셋증권도 뚫렸다…고객·임직원 3만9000명 정보 유출",
-     "url": "https://news.jtbc.co.kr/article/NB12326943",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzBlIgqan16RzlOZowkiZcxNKkfmo8RnqNjnsPiebR9fOTPX-4R_R9XAU6NV0"
-    },
-    {
-     "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-     "url": "https://www.yna.co.kr/view/AKR20261107025000011",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrFEMFcEVAwJZTB9_Z7vw0mddkC9i32uMX4Dag-xl3Yl8hV1Ge5Ys0C1dyU_4"
-    }
-   ]
-  },
-  {
-   "keyword": "kc t1",
+   "keyword": "한국대학신문",
    "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 18:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMCJFyMzd7tiolFTtWRm-VZy4tAW2lB4R_blYHpQ-coDKLm4ZqiU9YnrV_i4",
+   "pubDate": "Fri, 6 Nov 2026 20:00:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "환자",
+   "traffic": "200+",
+   "pubDate": "Fri, 6 Nov 2026 20:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-4LzasRwCUlVIScQHiYIONXVquik_Nwgt_baMKiKpr5ES9y5blPK2mOYsRM",
    "news": [
     {
-     "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-     "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends",
-     "source": "The Sporting Tribune",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMCJFyMzd7tiolFTtWRm-VZy4tAW2lB4R_blYHpQ-coDKLm4ZqiU9YnrV_i4"
+     "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&pWise=sub&pWiseSub=R6",
+     "source": "대한민국 정책브리핑",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-4LzasRwCUlVIScQHiYIONXVquik_Nwgt_baMKiKpr5ES9y5blPK2mOYsRM"
     },
     {
-     "title": "Impregnable 'Peyz-Keria' Duo... T1 Beats KC 3-1 to Face BLG in Semifinals",
-     "url": "https://www.invenglobal.com/articles/28298/impregnable-peyz-keria-duo-t1-beats-kc-3-1-to-face-blg-in-semifinals",
-     "source": "Inven Global",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD42KxO-M-oIUmwS9x8-_SKbmNBf_5-0Rj5mflvA5QoqV8RD8XEKstPMAa7T0"
+     "title": "초등학교 곳곳서 ‘콜록콜록’…독감 다시 확산세",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6FYLB-ft545-ORUpGk-xaRJHniWgZMRnVIJe5cMrSaB2D2F3Sa_9Fi0kcmHQ"
     },
     {
-     "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
-     "url": "https://theloadout.com/karmine-corp-vs-t1",
-     "source": "The Loadout",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-X7R8CpmLMlnG52iCMBayOXy7ZMGSvuG8yNhGKy5iRFWQNvD4Lolyb1ZLPJ4"
+     "title": "독감 2주 연속 증가세…소아·청소년 비중 높아",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124824JMX",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlb62LOpaM_TeFDzT_fY6k06OoT1e4a1BzEoQsry9cd-t-e2oNQkPBRRF0dUA"
     }
    ]
   },
   {
-   "keyword": "타릭 스쿠발",
+   "keyword": "기만",
    "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 18:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjotIzjwa0YgiBoix9x4i9rEo9rA8wUoP-1pSAm6LExZ9A_Dce3wQHD0rYrdc",
-   "news": [
-    {
-     "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjotIzjwa0YgiBoix9x4i9rEo9rA8wUoP-1pSAm6LExZ9A_Dce3wQHD0rYrdc"
-    },
-    {
-     "title": "\"설득 끝냈다\" 스쿠발과 형-동생하더니…양대리그 CY 수상자 핵폭탄급 의미심장 한마디 \"잔류 가능성 있어\"",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018048",
-     "source": "SPOTV NEWS",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIllKsGKZN-Lxqjw3lcb0oCyPlJNaGuVaZio680nuVbuqFg7x0IfPxHjiOT_g"
-    },
-    {
-     "title": "[오늘의 MLB] (11/5) 2026-27 메이저리그 FA 랭킹 TOP 20",
-     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261106173425396jg",
-     "source": "네이버 프리미엄콘텐츠",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGbtlOot-9j9P-tNWzzZgxa8eM4N-9itDXGIzjvTDiIJ2nF8AyE7UDwQXO0nY"
-    }
-   ]
+   "pubDate": "Fri, 6 Nov 2026 19:50:00 -0800",
+   "img": "",
+   "news": []
   },
   {
-   "keyword": "사건반장",
+   "keyword": "미스 글로브",
    "traffic": "200+",
-   "pubDate": "Fri, 6 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjXmqzMkJ1zY7C5VV8tw_jkON-rIcZHKqHMvdiGw218Yv1LaQbYMlBj9U49k",
+   "pubDate": "Fri, 6 Nov 2026 19:50:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREJZ6zlE2ioDw5r3xFkCTOTh41zR100l-B4820gqKmF58X75liiabOJW7er7I",
    "news": [
     {
-     "title": "\"강아지인 줄\"…파란 불에 횡단보도 건너는 너구리",
-     "url": "https://news.jtbc.co.kr/video/NB12326940",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjXmqzMkJ1zY7C5VV8tw_jkON-rIcZHKqHMvdiGw218Yv1LaQbYMlBj9U49k"
+     "title": "Nguyen Thu Thao가 2026년 미스 글로브로 선정되었습니다.",
+     "url": "https://www.vietnam.vn/ko/nguyen-thu-thao-dang-quang-hoa-hau-hoan-cau-the-miss-globe-2026",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREJZ6zlE2ioDw5r3xFkCTOTh41zR100l-B4820gqKmF58X75liiabOJW7er7I"
     },
     {
-     "title": "\"저거 강아지인가 봐~\" 초록불에 건너온 ‘너구리’?",
-     "url": "https://news.jtbc.co.kr/video/ND10779067",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjXmqzMkJ1zY7C5VV8tw_jkON-rIcZHKqHMvdiGw218Yv1LaQbYMlBj9U49k"
+     "title": "키 171cm의 준우승자는 2026년 미스 글로브 인터내셔널에서 베트남 대표로 출전할 예정이다.",
+     "url": "https://www.vietnam.vn/ko/a-hau-cao-1-71m-dai-dien-viet-nam-thi-hoa-hau-hoan-cau-quoc-te-2026",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3ijkWm_jgJ83lxxyZbzqV21P6LmPB6Ale0cSsnOC18vCpaAYgP8bGOvpPREw"
     },
     {
-     "title": "\"내가 뜨면 경찰서 초토화\" 보문동 자영업자 ‘킬러’ 유튜버 논란",
-     "url": "https://news.jtbc.co.kr/video/NB12326440",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUHeqz0aHSLjbXv1sTNKHayShFWFWyKWSERqs0UfcKhAJdyEssxOiZcNylLg"
+     "title": "응우옌 투 타오는 2026 미스 글로브 민족 의상 부문에서 톱 6에 진출했습니다.",
+     "url": "https://www.vietnam.vn/ko/nguyen-thu-thao-vao-top-6-trang-phuc-dan-toc-tai-the-miss-globe-2026",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lk9Zq0RJmXARnwr5OEm0YNT9pN-fZbSX9nti1qYR4ZXRklsZxtEJa6d4ELc"
     }
    ]
   },
   {
    "keyword": "백종원",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Fri, 6 Nov 2026 19:40:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOhvhadoNAV0O9CQV2SzbeSVLm29wnkbpbSnnqUDpMsFbS9OFkuCeMhqyEy0",
    "news": [
@@ -196,22 +158,22 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOhvhadoNAV0O9CQV2SzbeSVLm29wnkbpbSnnqUDpMsFbS9OFkuCeMhqyEy0"
     },
     {
-     "title": "\"피자 배달하는 백종원\"…사연 알고보니 '깜짝'",
-     "url": "https://view.asiae.co.kr/article/2026110710265641640",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqT-mJtVn2dq43-lgMe19rWsuZANhGAfKCkAUadoWKH4y8els0Bex7KyNPPOA"
-    },
-    {
      "title": "백종원 뭐하고 사나 봤더니…“오토바이 타고 피자 배달”",
      "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/06/20261106500185",
      "source": "www.twig24.com",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRciOiarLLLI-a88yQ1YWju5M6HWBL12fShFDL_MYrpu1LJKTyYfPFjrvgQp2A"
+    },
+    {
+     "title": "백종원 더본코리아 대표, '빽보이피자' 하루 배달 기사로 나서",
+     "url": "https://www.yna.co.kr/view/AKR20261106041700030",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReNNqLHCwKSTPoPT_OVFQIiRGJw8m51B1587haItL6FpPgUE8Oql3Y65zXF08"
     }
    ]
   },
   {
    "keyword": "멧 갈라",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Fri, 6 Nov 2026 19:40:00 -0800",
    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTurZ-ERSybnZLiTVW0tA1pbGKd85m6LZeGZMRdYVY0Kv5AbY5UwUnkoVdPTfY",
    "news": [
@@ -236,28 +198,28 @@
    ]
   },
   {
-   "keyword": "오일 머니",
+   "keyword": "mcr",
    "traffic": "100+",
-   "pubDate": "Fri, 6 Nov 2026 18:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg8OmTLstP4zRk990oLK71QAWkSP1Zyt2FyMWRMkTlUWcPw6T_mNK8obbXkRA",
+   "pubDate": "Fri, 6 Nov 2026 19:20:00 -0800",
+   "img": "",
    "news": [
     {
-     "title": "새로운 골프? ‘오일 머니’ 끊기니 1년도 못 버텼다",
-     "url": "https://www.chosun.com/international/international_general/2026/11/07/VBSXSSMMDREP5MG74E7LKRKLCY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg8OmTLstP4zRk990oLK71QAWkSP1Zyt2FyMWRMkTlUWcPw6T_mNK8obbXkRA"
+     "title": "My Chemical Romance goes to No. 1 on the Billboard albums chart",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6027352/my-chemical-romance-goes-to-no-1-on-the-billboard-albums-chart",
+     "source": "NPR",
+     "img": ""
     },
     {
-     "title": "DP월드투어, 디섐보에게 출전권 제안…LIV 선수들 어디로?",
-     "url": "https://www.yna.co.kr/view/AKR20261106039500007",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXD6NuKayhOECg5KVyZ5JgqFr9z3mcQiMw4L1mcyWS5S2KLX75uTa__DI5F6o"
+     "title": "How Big a Deal Is My Chemical Romance Scoring Its First No. 1 Album With a 20-Year-Old LP?",
+     "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-black-parade-billboard-200-number-one-1236374049/",
+     "source": "Billboard",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9D3Ifx2Vdbe4H-X2aZ8CdEIVSkvN9B8T5lhu2_4uw3XI6BTQ2k7AdEVSmOM8"
     },
     {
-     "title": "LIV 골프, 자금난 끝 5년 만에 해산",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611070904125ZS",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVY8N5UqbrPvUiqEaqZUlbn_W-tazQfv7XyocE-hkgoE8MjKdqRrIW3XQbK0M"
+     "title": "My Chemical Romance Top the ‘Billboard’ 200 With 20-Year-Old Album",
+     "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
+     "source": "Rolling Stone",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB7eCBSV7iR-xlCe1xgMXp-CyOwDhCeQJnbaWxiyD3EcmLTSNK_rvKR0-a5Eg"
     }
    ]
   }
