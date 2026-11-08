@@ -1,58 +1,6 @@
 {
- "updated": "2026-11-08 21:48",
+ "updated": "2026-11-08 22:49",
  "items": [
-  {
-   "keyword": "기아",
-   "traffic": "10000+",
-   "pubDate": "Sun, 8 Nov 2026 00:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtiweGZmGKA35-R9h10oOSHX0wTshxmFeSRD1rP8PdqoNneEpBcgqH290DSLw",
-   "news": [
-    {
-     "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
-     "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/",
-     "source": "Genesis Newsroom",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtiweGZmGKA35-R9h10oOSHX0wTshxmFeSRD1rP8PdqoNneEpBcgqH290DSLw"
-    },
-    {
-     "title": "‘제네시스 신화 어떻게 탄생했나’⋯ 현대차·기아, 동커볼케 ‘비밀 노트’ 공개",
-     "url": "https://www.viva100.com/article/20261108500210",
-     "source": "브릿지경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQznEmE5JxQuOh2f4BkF-qv46Qi5x0GmdYjgVPPb1kWFrvT-5U7r2bPntDfBvc"
-    },
-    {
-     "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시",
-     "url": "https://www.yna.co.kr/view/AKR20261108014400003",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Qz3xx6k1uA0skSqa9BMkbCviFf0Mfd161P2YF380fVgl937frw7tq6F15WM"
-    }
-   ]
-  },
-  {
-   "keyword": "최태원",
-   "traffic": "5000+",
-   "pubDate": "Sun, 8 Nov 2026 01:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuC97_oWhwP2_OaKKxAr8fmAGxVCgzuWl0RhJST57NBeyBxtdTe0kSdahH9Y",
-   "news": [
-    {
-     "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998",
-     "source": "아시아투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuC97_oWhwP2_OaKKxAr8fmAGxVCgzuWl0RhJST57NBeyBxtdTe0kSdahH9Y"
-    },
-    {
-     "title": "최태원 “돈이 너무 많이 풀려...롤러코스피 이어질 것”",
-     "url": "https://www.mk.co.kr/news/business/12200335",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCZCSy34y7zAXxUqmjsyNINmlfaboi91PE9kVMgtoFAO_stfxrcgw8zHt7CWM"
-    },
-    {
-     "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
-     "url": "https://www.sedaily.com/article/20110913",
-     "source": "서울경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2ofpCJOQxuonhIxFFNajbonqSvXUgHTpezW6tdFaZlDr7h0NhWSz7UUIBgAE"
-    }
-   ]
-  },
   {
    "keyword": "생계",
    "traffic": "2000+",
@@ -80,28 +28,48 @@
    ]
   },
   {
-   "keyword": "수능",
+   "keyword": "국민 총소득",
    "traffic": "1000+",
-   "pubDate": "Sun, 8 Nov 2026 01:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN2k6SNHyyoH5oVzFx4DXjlJnobgaTmHWKwRLU3uO3923Vk-pYtaq1PvWIU8Q",
+   "pubDate": "Sun, 8 Nov 2026 03:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwz5UynVdAhM8HlEJYiaK1HpLrzGkvTmpMsBbVde9tGKdRNcD6wx4Psn7J9Sk",
    "news": [
     {
-     "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN2k6SNHyyoH5oVzFx4DXjlJnobgaTmHWKwRLU3uO3923Vk-pYtaq1PvWIU8Q"
+     "title": "4인가구 소득 2억이라고?…'부자 한국' 속 서민의 한숨",
+     "url": "https://www.hankyung.com/article/2026110832811",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwz5UynVdAhM8HlEJYiaK1HpLrzGkvTmpMsBbVde9tGKdRNcD6wx4Psn7J9Sk"
     },
     {
-     "title": "수험생 가족의 촛불 공양",
-     "url": "https://www.news1.kr/photos/8203052",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUnZxyi3-MWy_BNlP5jwoGoHUF_ZNQIs8wimnCZWvegxVGOIC6-Y866PSMfc"
+     "title": "“한 산업에 의존한 성장, 지속 어려워… ‘제2 반도체’ 육성 힘 모아야”",
+     "url": "https://www.donga.com/news/Economy/article/all/20261106/134975484/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVL6DPAwnuPh9phykHC8S34nJM5AkHgtzobJJ4XjOCiAwIil0GVh6GUc1pLtQ"
     },
     {
-     "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
-     "source": "제민일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThEa0t79w-ks7IRfnB8jeuGVbp5Akmpuq9yoYr98eow3QBraqY3-yJXBOSsYI"
+     "title": "[최형철 칼럼] 경제 성적표가 너무 좋은 이재명 정부의 ‘희비극’",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880974",
+     "source": "한스경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGv0oWW5ULpHUw7iAxYxazY0aaCRHCOUHf4n1S18zvt-ndWg0NOGgcrZhK2D0"
+    }
+   ]
+  },
+  {
+   "keyword": "malut united vs persib bandung",
+   "traffic": "500+",
+   "pubDate": "Sun, 8 Nov 2026 03:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mxlVa7XHFIZcM1JdGGl1edaHdvklnejHuYtZ-4RNde7d2zWS0DOWo-gcais",
+   "news": [
+    {
+     "title": "Java United vs Persib Bandung Today: Live Score, Statistics, and Latest Match Updates",
+     "url": "https://aktualita.co/en/sports/java-united-vs-persib-bandung-today-live-score-statistics-and-latest-match-updates",
+     "source": "Aktualita.co",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mxlVa7XHFIZcM1JdGGl1edaHdvklnejHuYtZ-4RNde7d2zWS0DOWo-gcais"
+    },
+    {
+     "title": "Java United vs Persib Bandung Today: Live Schedule, Predicted Lineups, and Head-to-Head",
+     "url": "https://aktualita.co/en/sports/java-united-vs-persib-bandung-today-live-schedule-predicted-lineups-and-head-to-head",
+     "source": "Aktualita.co",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAyHHXvjmtlrIkY9UfICBnInXsgeiBiAqOMJt42cxDjpQ7YEaP4iL3WK3r1JE"
     }
    ]
   },
@@ -109,8 +77,14 @@
    "keyword": "최해천 교수",
    "traffic": "500+",
    "pubDate": "Sun, 8 Nov 2026 03:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEkg1a8ncIyS30ZUcDkwBkazD7g4hadZB7sqAEZl8shUUnhYiUFvEueFpllAs",
    "news": [
+    {
+     "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
+     "url": "https://www.khan.co.kr/article/202611081813001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEkg1a8ncIyS30ZUcDkwBkazD7g4hadZB7sqAEZl8shUUnhYiUFvEueFpllAs"
+    },
     {
      "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
      "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
@@ -118,42 +92,62 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk"
     },
     {
-     "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
-     "url": "https://www.khan.co.kr/article/202611081813001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaP_II8Ocvqc7QzFXhSW_Mv4mCh0xTvdias6Dm42XcFKWB8TXyGlBvhkLiSK4"
-    },
-    {
-     "title": "서울대 이사회, 29대 총장 최종후보 최해천 석좌교수 선출",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706950",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlDwSggfnLToXNW2gKBNss84hts_q_ETfZKzKnV8uWJzy4FZ0p48PmSB2Lleg"
+     "title": "서울대총장 최종후보 최해천 석좌교수…공과대 출신 20년만",
+     "url": "https://www.yna.co.kr/view/AKR20261108044500004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkd7Pm0_xeWqmZV4sfDuTdxpRGJ1CfooF_KwIy_JCH-cDj8u93AQoO5emCsGY"
     }
    ]
   },
   {
-   "keyword": "천안 시티 fc 대 부산 아이파크 순위",
-   "traffic": "500+",
-   "pubDate": "Sun, 8 Nov 2026 00:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQECU1_YlqqQ_tilv7FLdxDuULXjFKt8l825JuFsUbpHHOy7Xum9pjdY7neSZg",
+   "keyword": "철도망",
+   "traffic": "200+",
+   "pubDate": "Sun, 8 Nov 2026 04:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxTYPEOaXEbQuN47_hzRq-qu_RqdOAE1xnqS_jqxZ5z0ONG6gIbeIKdyH4Coo",
    "news": [
     {
-     "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859426",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQECU1_YlqqQ_tilv7FLdxDuULXjFKt8l825JuFsUbpHHOy7Xum9pjdY7neSZg"
+     "title": "10년 철도투자 청사진 ‘제5차 철도망’ 윤곽…노선 경쟁 막 오른다",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081342521000099",
+     "source": "대한경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxTYPEOaXEbQuN47_hzRq-qu_RqdOAE1xnqS_jqxZ5z0ONG6gIbeIKdyH4Coo"
     },
     {
-     "title": "부산아이파크, 천안에 0-1패",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775",
-     "source": "부산일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD1bOvCwxJBzhsP3ciNnGcay4K2e6C64QKCMgs8zy-nzhaA6hF0_hFrDjfuYw"
+     "title": "국토부, ‘제5차 국가철도망 구축계획’ 국민 의견 듣는다",
+     "url": "https://www.kyeonggi.com/article/20261108580061",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8-nrijaSDQyyiOJFZsm_akVnz4YxUS7qPWkRC4d9K_rpkSMSRLi3jg6FNHYk"
     },
     {
-     "title": "천안 이화병원, 8일 천안시티FC와 ‘브랜드데이’ 개최 > 뉴스",
-     "url": "https://www.icj.kr/news/57908",
-     "source": "천안신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKGs18mF_sXTqzafz5nTOSIvvXeF7hTXv2WN5Nkz1VKSo1LDHqcStv1Q0vWY"
+     "title": "부울경, “동남권 광역 철도망 확충은 30분 생활권 완성에 꼭 필요”",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261108.99099002153",
+     "source": "국제신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCq7p7v0Yv9zU-3j-s0ytfp6wcmHCVeCghw1GVShPKsTxRPgbzT9AdkecSOnY"
+    }
+   ]
+  },
+  {
+   "keyword": "제주항공",
+   "traffic": "200+",
+   "pubDate": "Sun, 8 Nov 2026 04:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuJOSXkT8FVD7vXjn8Vs_ubbdXfX-Cfh4AlwNehxCmkOgQNoruDcuGlQ4R8l0",
+   "news": [
+    {
+     "title": "[단독] 진에어, 새 부사장에 대한항공 출신 이진호 선임…통합 LCC 출범 앞두고 조직 정비",
+     "url": "https://www.etoday.co.kr/news/view/2645248",
+     "source": "이투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuJOSXkT8FVD7vXjn8Vs_ubbdXfX-Cfh4AlwNehxCmkOgQNoruDcuGlQ4R8l0"
+    },
+    {
+     "title": "[리포트 브리핑]진에어, '통합 이후 경쟁력 강화 기대' 목표가 7,500원 - 유안타증권",
+     "url": "https://www.newspim.com/news/view/20261106001022",
+     "source": "뉴스핌",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8"
+    },
+    {
+     "title": "[통합 진에어 카운트다운]④ 출범 넉달 앞 '선장' 잃은 진에어",
+     "url": "https://v.daum.net/v/9wnys6nQNx",
+     "source": "Daum",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcJG4yWsVm_rWZSExfUtFK823JUhNI9mFknhrzi11G2ktAvP6Eu_C1wsgOGgc"
     }
    ]
   },
@@ -209,36 +203,36 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGeV7qKBfj24r2KuxUQPi1Ys3oy20klUvd6nNON_4DlMSpmIUAEJ3VpYYsQk"
     },
     {
-     "title": "1시간에 불꽃 8만발 터진 광안리해수욕장···부산시 예상 넘어 120만 명 몰렸다",
-     "url": "https://www.khan.co.kr/article/202611081000011",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWynuIO-ZR7ZrOLol4JHPnpDw030rMa-eOXmqLvBaPXmObKjppj-_cOdt6CA"
+     "title": "\"암표 20만원에 범칙금 고작\"…여전한 불법 상행위에 시민들 '분통'",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859370",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnRJH6t4Iaolj3cQuuaY7Diep-mpi1yNWCbw-sUSriRhlvFLZhGCtWOA88eBA"
     }
    ]
   },
   {
-   "keyword": "파주 대 충남 아산 fc",
-   "traffic": "200+",
-   "pubDate": "Sun, 8 Nov 2026 00:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpb7WE_p9Jrab6YAO68Cyz57MVqeIShEidelmu_WpWsxTKZ7JDtAoVo8DnAKQ",
+   "keyword": "박한이",
+   "traffic": "100+",
+   "pubDate": "Sun, 8 Nov 2026 02:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAj-3hKNJqODrt63rQwCOswL-T8_XxMqiYn_8lQCZVIbpFml2V-luVyjgGhQ",
    "news": [
     {
-     "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709",
-     "source": "충청매일",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpb7WE_p9Jrab6YAO68Cyz57MVqeIShEidelmu_WpWsxTKZ7JDtAoVo8DnAKQ"
+     "title": "[포토] 디아즈, 어쩌다 타격감 상 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110817500911158",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAj-3hKNJqODrt63rQwCOswL-T8_XxMqiYn_8lQCZVIbpFml2V-luVyjgGhQ"
     },
     {
-     "title": "‘헤더 동점골’ 파주 유재준, “이승우·포든 보며 배워” 축구는 신장이 아닌 심장으로 [케터뷰]",
-     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216629",
-     "source": "풋볼리스트",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01ot0XU4CR1o1kQ36ME4qCcybaiXVJ47Ithm9zLlnVAOHbHKerOC2OgkC1R0"
+     "title": "[사진]부상으로 실려나가는 권동진",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/08/MEYDONZSMJQTIOLDMIZDIZJTGY/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHSC37PPsrp0kJN-NPjwicNa4ifTh5bwABTSoHY3NUhhyuuTrX-GdLme3pl5M"
     },
     {
-     "title": "'시즌 첫 선발' 김포 윤재운 \"6위 화성의 패배+공격수로 선발? 동기부여가 생기네요\"",
-     "url": "http://www.sports-g.com/news/articleView.html?idxno=217082",
-     "source": "스포츠니어스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmT8HQ_8FFrr0EC0fIT9R_P7-pUngxK_v2xX-7eVQbL78qsPkE1Ym05PM5Rl4"
+     "title": "'좌타 라인 무섭네' 삼성, 3회 2사 후 구자욱-디아즈-최형우-김영웅 4연속 안타 폭발...3-1 역전 [KS5]",
+     "url": "https://www.osen.co.kr/article/G1112906427",
+     "source": "OSEN",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPIpOvZov9ID9TmI53Wandxm18cNyumHu0jy6URrpfOnbVpzizINODSzWzjUQ"
     }
    ]
   }
