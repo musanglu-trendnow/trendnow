@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 20:38",
+ "updated": "2026-11-08 21:48",
  "items": [
   {
    "keyword": "기아",
@@ -83,25 +83,51 @@
    "keyword": "수능",
    "traffic": "1000+",
    "pubDate": "Sun, 8 Nov 2026 01:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThEa0t79w-ks7IRfnB8jeuGVbp5Akmpuq9yoYr98eow3QBraqY3-yJXBOSsYI",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN2k6SNHyyoH5oVzFx4DXjlJnobgaTmHWKwRLU3uO3923Vk-pYtaq1PvWIU8Q",
    "news": [
+    {
+     "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
+     "source": "YTN",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN2k6SNHyyoH5oVzFx4DXjlJnobgaTmHWKwRLU3uO3923Vk-pYtaq1PvWIU8Q"
+    },
+    {
+     "title": "수험생 가족의 촛불 공양",
+     "url": "https://www.news1.kr/photos/8203052",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUnZxyi3-MWy_BNlP5jwoGoHUF_ZNQIs8wimnCZWvegxVGOIC6-Y866PSMfc"
+    },
     {
      "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
      "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
      "source": "제민일보",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThEa0t79w-ks7IRfnB8jeuGVbp5Akmpuq9yoYr98eow3QBraqY3-yJXBOSsYI"
+    }
+   ]
+  },
+  {
+   "keyword": "최해천 교수",
+   "traffic": "500+",
+   "pubDate": "Sun, 8 Nov 2026 03:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk",
+   "news": [
+    {
+     "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+     "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk"
     },
     {
-     "title": "수험생 가족의 간절한 촛불 공양",
-     "url": "https://www.news1.kr/photos/8203062",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMvTaUtmB2mlsz03G3MSV4rwg2GbfpI1SjXUPBbUBOv2x5YXAhE4oJBemqvow"
+     "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
+     "url": "https://www.khan.co.kr/article/202611081813001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaP_II8Ocvqc7QzFXhSW_Mv4mCh0xTvdias6Dm42XcFKWB8TXyGlBvhkLiSK4"
     },
     {
-     "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
-     "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JbWxKks9MjwsQqaAxRX-1DalSI0IBIdCZhf7Gmvuy_orYgy0wKd0K-cBrrs"
+     "title": "서울대 이사회, 29대 총장 최종후보 최해천 석좌교수 선출",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706950",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlDwSggfnLToXNW2gKBNss84hts_q_ETfZKzKnV8uWJzy4FZ0p48PmSB2Lleg"
     }
    ]
   },
@@ -118,42 +144,16 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQECU1_YlqqQ_tilv7FLdxDuULXjFKt8l825JuFsUbpHHOy7Xum9pjdY7neSZg"
     },
     {
-     "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859443",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_hqHvfM5GPEXTA23Vcv_DDcKTfdMrsgWfNkfAcS8nexrRXKC-npzLQ21-QK8"
-    },
-    {
      "title": "부산아이파크, 천안에 0-1패",
      "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775",
      "source": "부산일보",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD1bOvCwxJBzhsP3ciNnGcay4K2e6C64QKCMgs8zy-nzhaA6hF0_hFrDjfuYw"
-    }
-   ]
-  },
-  {
-   "keyword": "최해천",
-   "traffic": "200+",
-   "pubDate": "Sun, 8 Nov 2026 02:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT-sYjiFTabd6jE8Md26AayLFkMeeaA8Yt-wR0awsQwX2k2Cbuq-cQkJZKCJc",
-   "news": [
-    {
-     "title": "차기 서울대 총장에 최해천 기계공학부 교수",
-     "url": "https://www.chosun.com/national/national_general/2026/11/08/3R5JJK6GPJBH5OQCKJELN67FDQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT-sYjiFTabd6jE8Md26AayLFkMeeaA8Yt-wR0awsQwX2k2Cbuq-cQkJZKCJc"
     },
     {
-     "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
-     "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk"
-    },
-    {
-     "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
-     "url": "https://www.khan.co.kr/article/202611081813001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaP_II8Ocvqc7QzFXhSW_Mv4mCh0xTvdias6Dm42XcFKWB8TXyGlBvhkLiSK4"
+     "title": "천안 이화병원, 8일 천안시티FC와 ‘브랜드데이’ 개최 > 뉴스",
+     "url": "https://www.icj.kr/news/57908",
+     "source": "천안신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKGs18mF_sXTqzafz5nTOSIvvXeF7hTXv2WN5Nkz1VKSo1LDHqcStv1Q0vWY"
     }
    ]
   },
@@ -161,25 +161,32 @@
    "keyword": "김세레나",
    "traffic": "200+",
    "pubDate": "Sun, 8 Nov 2026 02:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ25LSrNaYDrQ2GzcDeJ_yA04LtHJFKUKWOYk7YctbtxDDciVmG1VnGXURaBBo",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "wec",
+   "traffic": "200+",
+   "pubDate": "Sun, 8 Nov 2026 02:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4",
    "news": [
     {
-     "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
-     "url": "https://www.segye.com/newsView/20261106501275",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ25LSrNaYDrQ2GzcDeJ_yA04LtHJFKUKWOYk7YctbtxDDciVmG1VnGXURaBBo"
+     "title": "Fuoco puts Ferrari on pole at Monza",
+     "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
+     "source": "WEC",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4"
     },
     {
-     "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH28UrrTR67Y7ei8cygV4YGiYSWmAmDBGrcDBy_jBqYpfQ_trgbRE04UqOfA"
+     "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
+     "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
+     "source": "Grande Prêmio",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS42iRqAEBBzUb4b7eECzJHar99KAyPYJYKdabFjm2hGr2HsmNCN-IauhBl7g"
     },
     {
-     "title": "\"예쁜 얼굴 다 망가졌다\" 김세레나, 파라핀 성형 부작용 고백 [헬스톡]",
-     "url": "https://www.fnnews.com/news/202611061948054807",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3UmVZ4RihkFm9a9dQc0fFUKyZjv-54tZ4wkBQfsuynxBc8r3TwaGhGTQ5mFE"
+     "title": "The Headlines from FP3 at Monza",
+     "url": "https://www.fiawec.com/en/news/the-headlines-from-fp3-at-monza/13926",
+     "source": "WEC",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8BVslJRYbZWFYKyhzabKtS6wy8SeVmh8mFXRSxOnRhAwlHuw_4aHr3d7Xps"
     }
    ]
   },
@@ -232,32 +239,6 @@
      "url": "http://www.sports-g.com/news/articleView.html?idxno=217082",
      "source": "스포츠니어스",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmT8HQ_8FFrr0EC0fIT9R_P7-pUngxK_v2xX-7eVQbL78qsPkE1Ym05PM5Rl4"
-    }
-   ]
-  },
-  {
-   "keyword": "wec",
-   "traffic": "100+",
-   "pubDate": "Sun, 8 Nov 2026 02:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4",
-   "news": [
-    {
-     "title": "Fuoco puts Ferrari on pole at Monza",
-     "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
-     "source": "WEC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4"
-    },
-    {
-     "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
-     "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
-     "source": "Grande Prêmio",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS42iRqAEBBzUb4b7eECzJHar99KAyPYJYKdabFjm2hGr2HsmNCN-IauhBl7g"
-    },
-    {
-     "title": "The Headlines from FP3 at Monza",
-     "url": "https://www.fiawec.com/en/news/the-headlines-from-fp3-at-monza/13926",
-     "source": "WEC",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8BVslJRYbZWFYKyhzabKtS6wy8SeVmh8mFXRSxOnRhAwlHuw_4aHr3d7Xps"
     }
    ]
   }
