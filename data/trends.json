@@ -1,81 +1,55 @@
 {
- "updated": "2026-11-09 20:56",
+ "updated": "2026-11-09 22:08",
  "items": [
   {
-   "keyword": "김부선",
-   "traffic": "10000+",
-   "pubDate": "Mon, 9 Nov 2026 01:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BLVJpPz3CSqmIh8cKwIyIc-1hD8NllZ8WVc0ZAlpdlUBVAhIVz1_tzJJgtQ",
+   "keyword": "빅테크",
+   "traffic": "2000+",
+   "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAQM9yQv2dyAc6tgdTbI-Hm6h3qwGuvV4CHEgnf_RyufRSKHp3yjHWX2G8r4",
    "news": [
     {
-     "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
-     "url": "https://www.news1.kr/society/general-society/6347578",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BLVJpPz3CSqmIh8cKwIyIc-1hD8NllZ8WVc0ZAlpdlUBVAhIVz1_tzJJgtQ"
+     "title": "한국 주요 오픈 모델의 프로덕션 배포 가속하는 NVIDIA Dynamo",
+     "url": "https://blogs.nvidia.co.kr/blog/nvidia-dynamo-korea-open-models/",
+     "source": "NVIDIA",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAQM9yQv2dyAc6tgdTbI-Hm6h3qwGuvV4CHEgnf_RyufRSKHp3yjHWX2G8r4"
     },
     {
-     "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDB6iuVnJR0xQ8aHZmlqSDIQI5VfdSh2rMqo2Zuq-GYNYJu7fFOX2wqyxZz80"
+     "title": "국산 AI반도체, 엔비디아 생태계 편입",
+     "url": "https://www.khan.co.kr/article/202611092056015",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsLD0EnDL5AM0UD5HpbnRvZ3UWYY6McfsZv2--SG4HUTvkYdnAz0m766lQdo4"
     },
     {
-     "title": "김부선 \"2억 변제 소송, 사실상 완승…원고 추가 청구 전부 기각\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/09/2026110915460134238",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3TMJAJFlcNq2ctHKP1OATCkdWi-tODUI31n1WVyYRn86f2LkhhN8i7sL0G4"
+     "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
+     "url": "https://zdnet.co.kr/view/?no=20261109161556",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUqTAY77Ccz0Tqt2pV949h_b-1x4c_JMGzVRqAYntMSmKrkIrYI5Ho57gSxj8"
     }
    ]
   },
   {
-   "keyword": "김장훈",
-   "traffic": "5000+",
-   "pubDate": "Mon, 9 Nov 2026 00:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKGyqQEDCikHGWOUr_9Kv45VrrEFHLbu-LGNx6HBhm-_qSFHl4hAtrIlpGFJY",
+   "keyword": "이지혜",
+   "traffic": "2000+",
+   "pubDate": "Mon, 9 Nov 2026 02:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPidzYz6YIg9So-eKw0-JeIQK0oTOqxrVchqmLJNJ_rz8wlsW08s6V3xgIjg",
    "news": [
     {
-     "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
-     "url": "https://www.segye.com/newsView/20261109502306",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKGyqQEDCikHGWOUr_9Kv45VrrEFHLbu-LGNx6HBhm-_qSFHl4hAtrIlpGFJY"
+     "title": "섬뜩한 얼굴로 \"왜 말 안 들어\"…'아동학대' 논란 터졌다",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
+     "source": "SBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPidzYz6YIg9So-eKw0-JeIQK0oTOqxrVchqmLJNJ_rz8wlsW08s6V3xgIjg"
     },
     {
-     "title": "\"이렇게 많이 줘?\" 63세 김장훈, 국민연금 수령액 깜짝...또 기부? - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917220064923",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqgEGvZfP34jvqrP4YlneLBjkn7YTYswL96PpUwNiQLH0xTZfnqP3_w6VCwO0"
+     "title": "이지혜, 민속촌 귀신 ‘아동학대 논란’에 입장 밝혔다 “트라우마까진..”(관종언니)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/G43GMOJZMIYDONZZGE4DEZRYMU/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY"
     },
     {
-     "title": "미운 우리 새끼 : 이소라, ‘스타일리스트’ 없는 김장훈 위해 직접 공연 의상 맞춤 코디 시작",
-     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483065713",
-     "source": "programs.sbs.co.kr",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNgjCDnPHSP4v0bVHb4OufDedN0qDUcPBGMWYPOeVz2eAGt_u1NwymwC4LJGk"
-    }
-   ]
-  },
-  {
-   "keyword": "구속",
-   "traffic": "5000+",
-   "pubDate": "Sun, 8 Nov 2026 23:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpTbLjWz8RC4h5S0IfQ0yINFXWKy-dWkkV8uI4e_JBCXYH-HysqqrTkGNPm68",
-   "news": [
-    {
-     "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpTbLjWz8RC4h5S0IfQ0yINFXWKy-dWkkV8uI4e_JBCXYH-HysqqrTkGNPm68"
-    },
-    {
-     "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
-     "url": "https://www.kyeonggi.com/article/20261109580406",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibSKAb-fArSxwheKiGzUaODYUyjEjF-TKRszwExBa05FmtyPhY10rfWHOZQI"
-    },
-    {
-     "title": "심야 지하철서 잠든 여성에 성폭력…60대 구속 송치",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8707577",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1UmHh8kBXW9zHLBfLdAEOWvyfthJvbD8PwKzno6J3FlWrWgc5dVREWMSCzZ0"
+     "title": "'민속촌 귀신' 민원에...용인시, 한국민속촌 실태 조사",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611091607420480",
+     "source": "YTN",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhYYJT-l33ylIab4Dot8yGwM3M66DZI07J3EO7poC6tdJX0M8ZIDrx5XjnPJk"
     }
    ]
   },
@@ -98,68 +72,16 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQa_0CxAydBeISGU718vHYBR4naoq7EexyTS3vTH1MgcUCSROPUypNF1okoac"
     },
     {
-     "title": "'터미네이터' 슈워제네거 29세 혼외자도 부전자전…보디빌딩 5위 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/09/2026110915000965555",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_IbSbCq1s7YFHjofOAz6EAVHmMNjj5-ix9-3dMTPPQ6_Pqm8rTYHIeJ_M48"
-    }
-   ]
-  },
-  {
-   "keyword": "스타틴",
-   "traffic": "2000+",
-   "pubDate": "Mon, 9 Nov 2026 00:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyRZ40re7gy4jc_f4pyPkzVcZwmLNpJXu4T0X8ld3ZPJqbc9iZBYU2TYCLyd4",
-   "news": [
-    {
-     "title": "동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과",
-     "url": "https://www.khan.co.kr/article/202611091453001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyRZ40re7gy4jc_f4pyPkzVcZwmLNpJXu4T0X8ld3ZPJqbc9iZBYU2TYCLyd4"
-    },
-    {
-     "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
-     "url": "https://www.newsis.com/view/NISX20261109_0003860308",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdbt3JOCi37cNZCjGz49cOhLmvtVKLoLMVuw6B-9gSu7PabebCPLmpUTRtql0"
-    },
-    {
-     "title": "스타틴·에제티미브 초기 복합요법, LDL 콜레스테롤 목표 달성률 2배 이상 높여",
-     "url": "http://healtho.co.kr/news/view.php?idx=151687",
-     "source": "헬스오",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyWNP17sbwJN1cJ7z7KFroP3kJpbAJN034RC3UUZUm8UL4u3Fl2H63MRyp1G8"
-    }
-   ]
-  },
-  {
-   "keyword": "고양이",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS68cjuRAWqBwBW-c5XjvDcPbtYq1NZns0rfX3WA07a1K11V1ZiAfjHjh-K6Rc",
-   "news": [
-    {
-     "title": "독사와 맞짱 뜬 아기 고양이 근황…\"생사 오가는 치료 중\"",
-     "url": "https://news.jtbc.co.kr/article/NB12327146",
+     "title": "아빠 무대에 도전장 낸 ‘터미네이터 2세’…프로 데뷔전 5위",
+     "url": "https://news.jtbc.co.kr/shorts/ND10779283",
      "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS68cjuRAWqBwBW-c5XjvDcPbtYq1NZns0rfX3WA07a1K11V1ZiAfjHjh-K6Rc"
-    },
-    {
-     "title": "독사와 싸워 살아남은 생후 3개월 아기고양이…새 주인 찾았다",
-     "url": "https://www.etnews.com/20261108000070",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzVxm8aOL5TCK81BwqdG8actQ5euxP01o-jGqtn9BuiAFEOozGYZPR2sA9jSY"
-    },
-    {
-     "title": "독사와 싸워 이긴 800g 새끼 고양이…공동묘지 인근서 급히 구조",
-     "url": "https://view.asiae.co.kr/article/2026110915214228805",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-s5IUDKyG1g3WbRWey7l850JICX0ydDqgkIophlOLhPIzl6Rx6Pk7dVeM6c8"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcke9NWfOUHjjJNKSxesaQBhtQkG8NOhXIJKtP7jfGGPTGiJvCVmXDARzofyA"
     }
    ]
   },
   {
    "keyword": "해커",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAlGpDfAUdsJqqAGf6Vm0MztlNw5LLdmP-6cq-R1wgTd2L5aS_-QqOYdSdcM",
    "news": [
@@ -184,8 +106,34 @@
    ]
   },
   {
+   "keyword": "고양이",
+   "traffic": "1000+",
+   "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUHv40y3987FSq3KO7040x3myuhzoYlWrEj-2IRpj6U15yFf2iCy5xmRMfcs",
+   "news": [
+    {
+     "title": "고양이 보호센터·천문과학관으로 변신한 폐교…활용 우수사례 7곳 선정",
+     "url": "https://www.khan.co.kr/article/202611081336001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUHv40y3987FSq3KO7040x3myuhzoYlWrEj-2IRpj6U15yFf2iCy5xmRMfcs"
+    },
+    {
+     "title": "문 닫은 학교가 체험·생태교육장으로…부안·임실, 교육장관상 수상",
+     "url": "https://www.news1.kr/local/jeonbuk/6347585",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS7tN9Cyoa-1OiqfEVjeYBkRARtL8tc8GrZXTipQU5GTjjrR-0koLbSSJXmcg"
+    },
+    {
+     "title": "경남 폐교 활용 경진대회서 총리상 수상",
+     "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598191",
+     "source": "경남매일",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL2M_hX-BCU1hlOpZc2eDhLhFTmUWiIDJ4iyxOoXOuX4CJkNFd2Qgyalmeto"
+    }
+   ]
+  },
+  {
    "keyword": "착륙",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Mon, 9 Nov 2026 01:40:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rTOiucDR558C29840f-eU9LGTx1ZOU-4xw_2gIur5HKeMC-QvHHfwisjWJ0",
    "news": [
@@ -211,53 +159,105 @@
   },
   {
    "keyword": "가상자산",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Mon, 9 Nov 2026 01:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9D38l2dG0hJm-gS-aZQlniC7ZQKEXKbYsyTqZw8w33TW7BGhh4xeefiMblts",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMtYPX3FMzVK5vHFqWoSe3mAHvr9XHXGjMBlxeCzNjgJlpP9xrghp9Wbl18AU",
    "news": [
     {
-     "title": "대법, 가상자산 압류·현금화 절차 마련",
-     "url": "https://www.mk.co.kr/news/society/12202498",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9D38l2dG0hJm-gS-aZQlniC7ZQKEXKbYsyTqZw8w33TW7BGhh4xeefiMblts"
+     "title": "케빈 오리어리 “토큰화 때문에 CLARITY법 2027년 통과”…49대 50 부결에도 낙관",
+     "url": "https://www.wikitree.co.kr/articles/1172706",
+     "source": "위키트리",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMtYPX3FMzVK5vHFqWoSe3mAHvr9XHXGjMBlxeCzNjgJlpP9xrghp9Wbl18AU"
     },
     {
-     "title": "못 받은 돈, 채무자 코인 팔아 회수…대법원, 집행 절차 정비 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/09/2026110915384474564",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Yry0gWne5a7YwBv6DTs9jG_qOIaLrL3C2hhliG9VQncdxMJuZb4wyqGfN9Q"
+     "title": "11월 9일 퇴근길 팟캐스트 — 미 클래리티 법안 좌초 후폭풍…이더리움 5%대 하락·청산 9.1억달러",
+     "url": "https://www.tokenpost.kr/news/insights/435079",
+     "source": "토큰포스트",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxZjR29QTCdzb5BPDr2By1_eqQIH1-Je_cvhK7tsr9_ecQ2ZceoFNk3ctwAGQ"
     },
     {
-     "title": "\"코인 압류해달라\" 올해만 약 3200건…법원, 집행절차 마련",
-     "url": "https://www.newsis.com/view/NISX20261109_0003860779",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtw4fSHHu4LuXuFmeuUwirhpSVTQm7qOWpeXt8zJuxbBI8eXVG2hlnEIZdv_Y"
+     "title": "맥헨리 \"가상자산 업계, 클래리티법 통과 기회 스스로 날렸다\"",
+     "url": "https://bloomingbit.io/feed/news/123960",
+     "source": "블루밍비트",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-fCC84oqZ65fX1gsEeSA_94szMfnwq7vQeA6EyWRKuW2kkk1mtbAOAclQxI"
     }
    ]
   },
   {
-   "keyword": "nepal premier league",
-   "traffic": "200+",
-   "pubDate": "Mon, 9 Nov 2026 01:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkrwKk8NK7lfT6_1ELmP2DRQZmCP3jUwNchnPZeUR7HDE6wA12xZPo2QzTtO0",
+   "keyword": "박승규",
+   "traffic": "500+",
+   "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ0b2b9tDDlqtq3NQZf1QJHdjI2OqX_LkCGsY0QwujlJZl_rxAAeeEDSjgTzE",
    "news": [
     {
-     "title": "Pokhara Avengers beat Karnali Yaks by 63 runs for first NPL win",
-     "url": "https://english.nepalnews.com/s/sports/pokhara-avengers-beat-karnali-yaks-by-63-runs-for-first-npl-win/",
-     "source": "Nepalnews.com",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkrwKk8NK7lfT6_1ELmP2DRQZmCP3jUwNchnPZeUR7HDE6wA12xZPo2QzTtO0"
+     "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
+     "url": "https://www.munhwa.com/article/11629827",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ0b2b9tDDlqtq3NQZf1QJHdjI2OqX_LkCGsY0QwujlJZl_rxAAeeEDSjgTzE"
     },
     {
-     "title": "Yuvraj Samrat Scores First Half-Century in Nepal Premier League",
-     "url": "https://english.ratopati.com/story/86113/yuvraj-samras-first-half-century-in-npl",
-     "source": "Ratopati",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrS5LFtiNhMDB2ddjd3fSg_jtO6kmHqyY9St4U3Iv3RNvPQij8nQf4Z7T-TQA"
+     "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
+     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
+     "source": "programs.sbs.co.kr",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZouQnhbiA8V4clPWl4VVKlI9bQr3VDQSBsZo9TLLZq-Xhx2LS56cqn_4d7n4"
     },
     {
-     "title": "NPL: Four teams in action in today’s two matches",
-     "url": "https://risingnepaldaily.com/news/88526",
-     "source": "The Rising Nepal",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSKJmV6Qv9VUfLG4u0HdoKVWEyRNSXljkF47EBIDeH_nwn7QVPQmX3BU11sjc"
+     "title": "\"미친 X 되겠다\" 삼성에 대기록까지 포기하더니 또 팀만 먼저 생각하는 '영웅'이 있다 [KS] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110809521745200",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNxL8MJ4kGL6k5f4Cw5xt5C3XvyGzdF2QyqLvXn88U9X6vyo30KiWMP-S8fU"
+    }
+   ]
+  },
+  {
+   "keyword": "아시아나항공",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA",
+   "news": [
+    {
+     "title": "아시아나항공 주가 170원 하락 후 장마감",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
+     "source": "아시아뉴스통신",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA"
+    },
+    {
+     "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
+     "url": "https://www.newspim.com/news/view/20261103000361",
+     "source": "뉴스핌",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmL0POXcpLI4NBcF52DPJojoHJ7LBVLVChAOsJ1iLBgQIdG9_b0VaJpV88Ltw"
+    },
+    {
+     "title": "아시아나항공 주가 하락중",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3215676&type=&mobile=",
+     "source": "아시아뉴스통신",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA"
+    }
+   ]
+  },
+  {
+   "keyword": "변호사",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 03:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA6S9FdwwyfQY8rPhWdE2jgP7-uA82m7PrVWxAPA6LORJL3npViD5KlOzhR6k",
+   "news": [
+    {
+     "title": "대륙아주·린, ‘디앤엘(D&L)’로 새출발… 국내 6위 로펌으로",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229091",
+     "source": "법률신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA6S9FdwwyfQY8rPhWdE2jgP7-uA82m7PrVWxAPA6LORJL3npViD5KlOzhR6k"
+    },
+    {
+     "title": "대륙아주·린 합병…변호사 규모 6위 로펌 'D&L' 출범",
+     "url": "https://www.yna.co.kr/view/AKR20261109139800004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc7smm32-ZgqeLe4I1gX4hwUIxFA3jZFuCke2ZRtfhB7bY_iLFsaRBmGZaGkE"
+    },
+    {
+     "title": "법무법인 대륙아주·린 합병계약 체결…국내 6위 로펌 'D&L' 탄생 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/09/2026110916085215493",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKb1zRzDP9bpUqlBMYwSyFvEBkxCSGSyBfzF_ZVxuBpJdaKKF-n7ozWQ6x_1Q"
     }
    ]
   }
