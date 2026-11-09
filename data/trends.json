@@ -1,40 +1,14 @@
 {
- "updated": "2026-11-10 00:59",
+ "updated": "2026-11-10 02:06",
  "items": [
   {
-   "keyword": "신인감독 김연경 시즌2",
-   "traffic": "5000+",
-   "pubDate": "Mon, 9 Nov 2026 04:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN1gL8fkrc9yo363hxZUr3yiBzLDZwRrAc2QfxHdEsNhGqedH_cZ40_z_wEJ0",
-   "news": [
-    {
-     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN1gL8fkrc9yo363hxZUr3yiBzLDZwRrAc2QfxHdEsNhGqedH_cZ40_z_wEJ0"
-    },
-    {
-     "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
-     "url": "https://www.segye.com/newsView/20261109504342",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS10jlxXTFDKGQ-f8ROlDzFA-2oFAYFn0HRcpFNoULaca8BV7IrlwAoGWB_tx8"
-    },
-    {
-     "title": "'신인감독 김연경2' 5주 연속 日 예능 시청률 1위",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524051",
-     "source": "iMBC 연예",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzgL700fxAiyumaeOzJYJzsr5O5lnzY1CxOYhpsTgUlRMRXU2FcxMtfLjfyss"
-    }
-   ]
-  },
-  {
    "keyword": "빅테크",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvCJynWtL5EIq7hPucNDBf9hx2z8Z4RKMa_PJrVou1VS5yKOhKdJKb_SFK4PY",
    "news": [
     {
-     "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA",
+     "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA - NVIDIA Blog Korea",
      "url": "https://blogs.nvidia.co.kr/blog/korea-secure-agentic-ai/",
      "source": "NVIDIA",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvCJynWtL5EIq7hPucNDBf9hx2z8Z4RKMa_PJrVou1VS5yKOhKdJKb_SFK4PY"
@@ -54,6 +28,13 @@
    ]
   },
   {
+   "keyword": "kf-21 보라매",
+   "traffic": "1000+",
+   "pubDate": "Mon, 9 Nov 2026 07:20:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
    "keyword": "ai 데이터 센터",
    "traffic": "1000+",
    "pubDate": "Mon, 9 Nov 2026 06:10:00 -0800",
@@ -66,42 +47,16 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUz-la-X02PwQNPq5AOxCce5WrWMttkEeNqDT2nSN314rRQtwXqmqj2WZYCiY"
     },
     {
-     "title": "노르웨이도 데이터센터 규제…전력망 부담에 신규 전력 연결 중단 - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/09/2026110920291565451",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRabyTW-4Cu2YK0ZNWL5JwEGp9XcaNRCGmBPqX6-HzSCHGa95kmYDAc_ydDBQ"
+     "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
+     "url": "https://www.hankyung.com/article/2026110832841",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT53IrMv6FSuBfWWPCdK8MTgKJUtCByaywyByf18rrOq98kJXinzk4tX275Rvg"
     },
     {
      "title": "재경장관 \"대미 투자 1호 '텍사스 발전소', 상황 지켜볼 필요\"",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6864310_36911.html",
      "source": "MBC 뉴스",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrexYpBuOvbyASdmeuqJP11vvbHT0KBwlw9ENiINck9C6GoUUYHPNZUQ-lySI"
-    }
-   ]
-  },
-  {
-   "keyword": "박승규",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ0b2b9tDDlqtq3NQZf1QJHdjI2OqX_LkCGsY0QwujlJZl_rxAAeeEDSjgTzE",
-   "news": [
-    {
-     "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
-     "url": "https://www.munhwa.com/article/11629827",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ0b2b9tDDlqtq3NQZf1QJHdjI2OqX_LkCGsY0QwujlJZl_rxAAeeEDSjgTzE"
-    },
-    {
-     "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
-     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
-     "source": "programs.sbs.co.kr",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZouQnhbiA8V4clPWl4VVKlI9bQr3VDQSBsZo9TLLZq-Xhx2LS56cqn_4d7n4"
-    },
-    {
-     "title": "\"미친 X 되겠다\" 삼성에 대기록까지 포기하더니 또 팀만 먼저 생각하는 '영웅'이 있다 [KS] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110809521745200",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNxL8MJ4kGL6k5f4Cw5xt5C3XvyGzdF2QyqLvXn88U9X6vyo30KiWMP-S8fU"
     }
    ]
   },
@@ -132,30 +87,83 @@
    ]
   },
   {
-   "keyword": "변호사",
-   "traffic": "500+",
-   "pubDate": "Mon, 9 Nov 2026 03:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA6S9FdwwyfQY8rPhWdE2jgP7-uA82m7PrVWxAPA6LORJL3npViD5KlOzhR6k",
+   "keyword": "gta6",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 07:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2n2LFo6yqaNMqUeaDpMWuYKi-GkG-wYZmYwBHdDg6qZuk_l4BujbPNm2JOMY",
    "news": [
     {
-     "title": "대륙아주·린, ‘디앤엘(D&L)’로 새출발… 국내 6위 로펌으로",
-     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229091",
-     "source": "법률신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA6S9FdwwyfQY8rPhWdE2jgP7-uA82m7PrVWxAPA6LORJL3npViD5KlOzhR6k"
+     "title": "GTA6 Release Triggers 1.5M U.S. Absences",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2n2LFo6yqaNMqUeaDpMWuYKi-GkG-wYZmYwBHdDg6qZuk_l4BujbPNm2JOMY"
     },
     {
-     "title": "대륙아주·린 합병…변호사 규모 6위 로펌 'D&L' 출범",
-     "url": "https://www.yna.co.kr/view/AKR20261109139800004",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc7smm32-ZgqeLe4I1gX4hwUIxFA3jZFuCke2ZRtfhB7bY_iLFsaRBmGZaGkE"
+     "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
+     "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/",
+     "source": "The Sun",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLBjf1eRGuYVmyP9jMtcgpUe1V2lsvTojxSZrXbNxvVEI2qILlywc5SAOAM4"
     },
     {
-     "title": "법무법인 대륙아주·린 합병계약 체결…국내 6위 로펌 'D&L' 탄생 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/09/2026110916085215493",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKb1zRzDP9bpUqlBMYwSyFvEBkxCSGSyBfzF_ZVxuBpJdaKKF-n7ozWQ6x_1Q"
+     "title": "Australia Reminds GTA 6 Players Their Boss Can Ask for Sick Leave Evidence",
+     "url": "https://www.gtaboom.com/fair-work-ombudsman-follows-up-igta-6-leave-advice-with-a-sickie-warning-8cdb",
+     "source": "GTA BOOM",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOm7v6R9YhDkIVwzFL2MPpi95kZZmIU9_oBFrgM1buZuxGKV0sWgcp4TTmIk"
     }
    ]
+  },
+  {
+   "keyword": "버거킹",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 07:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-D82l9VDPntrRA4xWiaIUi6lfq-OSXmVKQqQhfshIEfSRtxJbubPEELT_Gk",
+   "news": [
+    {
+     "title": "\"소방관 응원해요\"…유통가, 소방의 날 맞이 캠페인",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109133837fmD",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-D82l9VDPntrRA4xWiaIUi6lfq-OSXmVKQqQhfshIEfSRtxJbubPEELT_Gk"
+    },
+    {
+     "title": "료혼, 소방의 날 맞아 소방공무원 대상 ‘1+1’ 사은 행사 개최",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202611091831329301204ead0791_12",
+     "source": "로이슈",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTamltMYpCkjpJD6yCqU9yW5QisNBo8470S8UFOBsmFTcVECOy_0Gfst8DDF4Q"
+    },
+    {
+     "title": "버거킹, 소방관·가족 초청해 감사 행사…와퍼 콤보 1190개 전달",
+     "url": "https://www.etnews.com/20261109000029",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeVmfSot8BsxTlMOD3UCmrKto17R_IIAScw3nq3vzsn8OxVO80mfGT0ni93ho"
+    }
+   ]
+  },
+  {
+   "keyword": "안드레이 알롭스키",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 06:20:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ksf4B_ZuIxSgXDs0LAC4cZHtswRVK7pYrrl09JzCNeUQ2RvN8vfMteJEw-g",
+   "news": [
+    {
+     "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
+     "url": "https://isplus.com/article/view/isp202611090129",
+     "source": "일간스포츠",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ksf4B_ZuIxSgXDs0LAC4cZHtswRVK7pYrrl09JzCNeUQ2RvN8vfMteJEw-g"
+    },
+    {
+     "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
+     "url": "https://isplus.com/article/view/isp202611090177",
+     "source": "일간스포츠",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5HjtnnyDYUp93-zkl44ZKyiHP603o_6gHZfc2R5USoinfmdk8Nvg2jsufUKQ"
+    }
+   ]
+  },
+  {
+   "keyword": "안랩",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 06:00:00 -0800",
+   "img": "",
+   "news": []
   },
   {
    "keyword": "티머니",
@@ -208,33 +216,6 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwt222RLsG9StACDEjxq9NF0KURKfM5EsuG5ID-Koh8A2b0AV80hGoE6WgzX8"
     }
    ]
-  },
-  {
-   "keyword": "안드레이 알롭스키",
-   "traffic": "100+",
-   "pubDate": "Mon, 9 Nov 2026 06:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ksf4B_ZuIxSgXDs0LAC4cZHtswRVK7pYrrl09JzCNeUQ2RvN8vfMteJEw-g",
-   "news": [
-    {
-     "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
-     "url": "https://isplus.com/article/view/isp202611090129",
-     "source": "일간스포츠",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ksf4B_ZuIxSgXDs0LAC4cZHtswRVK7pYrrl09JzCNeUQ2RvN8vfMteJEw-g"
-    },
-    {
-     "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
-     "url": "https://isplus.com/article/view/isp202611090177",
-     "source": "일간스포츠",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5HjtnnyDYUp93-zkl44ZKyiHP603o_6gHZfc2R5USoinfmdk8Nvg2jsufUKQ"
-    }
-   ]
-  },
-  {
-   "keyword": "안랩",
-   "traffic": "100+",
-   "pubDate": "Mon, 9 Nov 2026 06:00:00 -0800",
-   "img": "",
-   "news": []
   }
  ]
 }
