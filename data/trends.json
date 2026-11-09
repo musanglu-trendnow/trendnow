@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09 23:55",
+ "updated": "2026-11-10 00:59",
  "items": [
   {
    "keyword": "신인감독 김연경 시즌2",
@@ -31,19 +31,19 @@
    "keyword": "빅테크",
    "traffic": "2000+",
    "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V-tiElMndqpVdy0EKkP-FoBNs6e_ODk68o8Ha3D0Yd40QUHPIzHWFgIPpnY",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvCJynWtL5EIq7hPucNDBf9hx2z8Z4RKMa_PJrVou1VS5yKOhKdJKb_SFK4PY",
    "news": [
     {
-     "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표",
-     "url": "https://blogs.nvidia.co.kr/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/",
+     "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA",
+     "url": "https://blogs.nvidia.co.kr/blog/korea-secure-agentic-ai/",
      "source": "NVIDIA",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V-tiElMndqpVdy0EKkP-FoBNs6e_ODk68o8Ha3D0Yd40QUHPIzHWFgIPpnY"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvCJynWtL5EIq7hPucNDBf9hx2z8Z4RKMa_PJrVou1VS5yKOhKdJKb_SFK4PY"
     },
     {
-     "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
-     "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1",
+     "title": "리벨리온 NPU-엔비디아 GPU 함께 쓴다",
+     "url": "https://www.donga.com/news/Economy/article/all/20261109/134994167/2",
      "source": "동아일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YUvkxLLVM4CzYf9PWlja6OkBd7pbhf1aNuWdGg2t8WgAmNT7tN8fZz0_2d8"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDnboGxAs_49fKL_a_Y5YVLRa_RkIeVAryz95ZX90j1XQeoQeSPC1V7GCn2A0"
     },
     {
      "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체",
@@ -54,28 +54,28 @@
    ]
   },
   {
-   "keyword": "해커",
-   "traffic": "2000+",
-   "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAlGpDfAUdsJqqAGf6Vm0MztlNw5LLdmP-6cq-R1wgTd2L5aS_-QqOYdSdcM",
+   "keyword": "ai 데이터 센터",
+   "traffic": "1000+",
+   "pubDate": "Mon, 9 Nov 2026 06:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUz-la-X02PwQNPq5AOxCce5WrWMttkEeNqDT2nSN314rRQtwXqmqj2WZYCiY",
    "news": [
     {
-     "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
-     "url": "https://www.munhwa.com/article/11629685",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAlGpDfAUdsJqqAGf6Vm0MztlNw5LLdmP-6cq-R1wgTd2L5aS_-QqOYdSdcM"
+     "title": "“미국에 못 짓는 AI 데이터센터 한국에 유치하자”?…정말 기회이기만 할까",
+     "url": "https://www.khan.co.kr/article/202611081638001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUz-la-X02PwQNPq5AOxCce5WrWMttkEeNqDT2nSN314rRQtwXqmqj2WZYCiY"
     },
     {
-     "title": "[新테크용어] 바이낸스 해커는 왜 코인 쪼갰을까…’필 체인’ 수법이란",
-     "url": "https://zdnet.co.kr/view/?no=20261109155158",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHLY1PJWZiQoixwX7LuvTgHJAL4U_WKC-nJtL7uMPPvYu4aSAmjEhh6N-xE-4"
+     "title": "노르웨이도 데이터센터 규제…전력망 부담에 신규 전력 연결 중단 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/09/2026110920291565451",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRabyTW-4Cu2YK0ZNWL5JwEGp9XcaNRCGmBPqX6-HzSCHGa95kmYDAc_ydDBQ"
     },
     {
-     "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
-     "url": "https://www.mk.co.kr/news/stock/12202311",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmrpmjWU530xY_RCGXA6syC1hz_BzuzCm4EjzDCuMp6ud0vnn5a1rHoFuVbY"
+     "title": "재경장관 \"대미 투자 1호 '텍사스 발전소', 상황 지켜볼 필요\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6864310_36911.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrexYpBuOvbyASdmeuqJP11vvbHT0KBwlw9ENiINck9C6GoUUYHPNZUQ-lySI"
     }
    ]
   },
@@ -106,80 +106,28 @@
    ]
   },
   {
-   "keyword": "이지혜",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 02:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7vy28qQwZ2Vj4zLZ8JqTvAU55ozeEwBYnBOTtW4SI9KYl0XNDi4uPZXj7scM",
-   "news": [
-    {
-     "title": "이지혜, 샵 서지영과 부둥켜안고 울며 화해..\"딸들 앞에서 '스위티' 불러\"[핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/HAZDOOLCGQ2GMNLDMQ2WKM3FMI/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7vy28qQwZ2Vj4zLZ8JqTvAU55ozeEwBYnBOTtW4SI9KYl0XNDi4uPZXj7scM"
-    },
-    {
-     "title": "\"부둥켜 안고 오열\"…이지혜, 서지영과 불화 끝 화해 [소셜in]",
-     "url": "https://enews.imbc.com/M/Detail/524168",
-     "source": "iMBC 연예",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBCtT17wjPh7Ttqa-HFSkQj8U5JIDkU5iUquReBGeUP83PDTE1LMCzzxfIQxc"
-    },
-    {
-     "title": "이지혜, 샵 서지영과 불화설 완전 종결 \"서로 부둥켜안고 울어\"",
-     "url": "https://www.hankookilbo.com/news/article/A2026110913200001081",
-     "source": "한국일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDlyTlVNGvosSDuAFHCTNmE4JumL_b8UOJPPFEX6HX30-ifIbqGFmenq0O0I"
-    }
-   ]
-  },
-  {
-   "keyword": "고양이",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5et3zJpsVC0Whk0ZeNvvxQJ5x4YO6Le27WF0nHwnTg_LXQLOB0v961rj24rg",
-   "news": [
-    {
-     "title": "800g 새끼 고양이가 독사와 싸워서 이겼다…그 후 놀라운 근황",
-     "url": "https://www.koreadaily.com/article/20261109053845597",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5et3zJpsVC0Whk0ZeNvvxQJ5x4YO6Le27WF0nHwnTg_LXQLOB0v961rj24rg"
-    },
-    {
-     "title": "독사와 맞짱 뜬 아기 고양이 근황…\"생사 오가는 치료 중\"",
-     "url": "https://news.jtbc.co.kr/article/NB12327146",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS68cjuRAWqBwBW-c5XjvDcPbtYq1NZns0rfX3WA07a1K11V1ZiAfjHjh-K6Rc"
-    },
-    {
-     "title": "독사와 싸워 살아남은 생후 3개월 아기고양이…새 주인 찾았다",
-     "url": "https://www.etnews.com/20261108000070",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzVxm8aOL5TCK81BwqdG8actQ5euxP01o-jGqtn9BuiAFEOozGYZPR2sA9jSY"
-    }
-   ]
-  },
-  {
    "keyword": "아시아나항공",
    "traffic": "500+",
    "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbtI6fu12z-1Ez0t_E1uPF4j3pxwaIwjmsNNstWubVwO7xChRFqlRAfdheZnQ",
    "news": [
     {
-     "title": "아시아나항공 주가 170원 하락 후 장마감",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
-     "source": "아시아뉴스통신",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA"
+     "title": "[한진칼 지배 구조 13년 下] 되찾은 현금과 남은 과제…‘통합 대한항공’ 시대의 해법은",
+     "url": "https://m.ekn.kr/view.php?key=20261109024246882",
+     "source": "에너지경제신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbtI6fu12z-1Ez0t_E1uPF4j3pxwaIwjmsNNstWubVwO7xChRFqlRAfdheZnQ"
     },
     {
-     "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
-     "url": "https://www.newspim.com/news/view/20261103000361",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmL0POXcpLI4NBcF52DPJojoHJ7LBVLVChAOsJ1iLBgQIdG9_b0VaJpV88Ltw"
+     "title": "포화된 하늘길에 새판짜기…항공업계, 통합·인수전 속도 [하늘길 새판짜기]",
+     "url": "https://www.etoday.co.kr/news/view/2645759",
+     "source": "이투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBD9H6fsedTWK5CCnyBWii46H0smIRERVB5WGV_okPorPkqOrPOLkvb0uyd0"
     },
     {
-     "title": "아시아나항공 주가 하락중",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3215676&type=&mobile=",
-     "source": "아시아뉴스통신",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA"
+     "title": "한 달여 앞둔 대한항공·아시아나 통합…경쟁력·편의성 제고에 박차",
+     "url": "https://www.mk.co.kr/news/business/12202585",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwgs6fFeiwG_M7RMiwwK7uuYPvtMXhFvGRbdHISrUEAmoPo5Ehz8S-gLVTTJc"
     }
    ]
   },
@@ -210,34 +158,8 @@
    ]
   },
   {
-   "keyword": "캐시워크 정답",
-   "traffic": "200+",
-   "pubDate": "Mon, 9 Nov 2026 04:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl-V0knk8A_Blbh-loC6kj9kVVJ6sqMbhlEhLDCNIEQL6oPmNh2BUiFOypgK4",
-   "news": [
-    {
-     "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
-     "url": "https://www.bntnews.co.kr/article/view/bnt202611090065",
-     "source": "BNT뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl-V0knk8A_Blbh-loC6kj9kVVJ6sqMbhlEhLDCNIEQL6oPmNh2BUiFOypgK4"
-    },
-    {
-     "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
-     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874",
-     "source": "게임톡",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIiVI3nr-ZOt38spoSO2VX61zC--tCQnpnuKcgnkq4HXO3dv0PHL8byQJ-1Ck"
-    },
-    {
-     "title": "[캐시워크 종합] 11월 9일 월요일 낮 12시 현재 출제되고 있는 모든 문제들의 정답은?",
-     "url": "http://www.bizwnews.com/news/articleView.html?idxno=151293",
-     "source": "비즈월드",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAfdYzhtufEkx9aV-xymzh5B2HotqTwEghq12l5IgKMRzTmm1HJ9VCLugVvQ"
-    }
-   ]
-  },
-  {
    "keyword": "티머니",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Mon, 9 Nov 2026 05:10:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN9NojEEk22lswrSyt6i4tSifegQNeWGMDBxSd0odTftnKmDtETJDH-CmmX2g",
    "news": [
@@ -260,6 +182,59 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx_vk9jsUxwvFwKuRPm-QvIOC2MeScCkHin62XCnyAg7hUBypQlan4a37nnbI"
     }
    ]
+  },
+  {
+   "keyword": "캐시워크 정답",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 04:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl-V0knk8A_Blbh-loC6kj9kVVJ6sqMbhlEhLDCNIEQL6oPmNh2BUiFOypgK4",
+   "news": [
+    {
+     "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202611090065",
+     "source": "BNT뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl-V0knk8A_Blbh-loC6kj9kVVJ6sqMbhlEhLDCNIEQL6oPmNh2BUiFOypgK4"
+    },
+    {
+     "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
+     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874",
+     "source": "게임톡",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIiVI3nr-ZOt38spoSO2VX61zC--tCQnpnuKcgnkq4HXO3dv0PHL8byQJ-1Ck"
+    },
+    {
+     "title": "9일 캐시워크 돈버는퀴즈 정답…코리아 그랜드 페스티벌·픽스 온풍기",
+     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=624049",
+     "source": "CBC뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwt222RLsG9StACDEjxq9NF0KURKfM5EsuG5ID-Koh8A2b0AV80hGoE6WgzX8"
+    }
+   ]
+  },
+  {
+   "keyword": "안드레이 알롭스키",
+   "traffic": "100+",
+   "pubDate": "Mon, 9 Nov 2026 06:20:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ksf4B_ZuIxSgXDs0LAC4cZHtswRVK7pYrrl09JzCNeUQ2RvN8vfMteJEw-g",
+   "news": [
+    {
+     "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
+     "url": "https://isplus.com/article/view/isp202611090129",
+     "source": "일간스포츠",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ksf4B_ZuIxSgXDs0LAC4cZHtswRVK7pYrrl09JzCNeUQ2RvN8vfMteJEw-g"
+    },
+    {
+     "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
+     "url": "https://isplus.com/article/view/isp202611090177",
+     "source": "일간스포츠",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5HjtnnyDYUp93-zkl44ZKyiHP603o_6gHZfc2R5USoinfmdk8Nvg2jsufUKQ"
+    }
+   ]
+  },
+  {
+   "keyword": "안랩",
+   "traffic": "100+",
+   "pubDate": "Mon, 9 Nov 2026 06:00:00 -0800",
+   "img": "",
+   "news": []
   }
  ]
 }
