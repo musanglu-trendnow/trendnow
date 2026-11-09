@@ -1,87 +1,61 @@
 {
- "updated": "2026-11-09 22:08",
+ "updated": "2026-11-09 23:55",
  "items": [
+  {
+   "keyword": "신인감독 김연경 시즌2",
+   "traffic": "5000+",
+   "pubDate": "Mon, 9 Nov 2026 04:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN1gL8fkrc9yo363hxZUr3yiBzLDZwRrAc2QfxHdEsNhGqedH_cZ40_z_wEJ0",
+   "news": [
+    {
+     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN1gL8fkrc9yo363hxZUr3yiBzLDZwRrAc2QfxHdEsNhGqedH_cZ40_z_wEJ0"
+    },
+    {
+     "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
+     "url": "https://www.segye.com/newsView/20261109504342",
+     "source": "세계일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS10jlxXTFDKGQ-f8ROlDzFA-2oFAYFn0HRcpFNoULaca8BV7IrlwAoGWB_tx8"
+    },
+    {
+     "title": "'신인감독 김연경2' 5주 연속 日 예능 시청률 1위",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524051",
+     "source": "iMBC 연예",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzgL700fxAiyumaeOzJYJzsr5O5lnzY1CxOYhpsTgUlRMRXU2FcxMtfLjfyss"
+    }
+   ]
+  },
   {
    "keyword": "빅테크",
    "traffic": "2000+",
    "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAQM9yQv2dyAc6tgdTbI-Hm6h3qwGuvV4CHEgnf_RyufRSKHp3yjHWX2G8r4",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V-tiElMndqpVdy0EKkP-FoBNs6e_ODk68o8Ha3D0Yd40QUHPIzHWFgIPpnY",
    "news": [
     {
-     "title": "한국 주요 오픈 모델의 프로덕션 배포 가속하는 NVIDIA Dynamo",
-     "url": "https://blogs.nvidia.co.kr/blog/nvidia-dynamo-korea-open-models/",
+     "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표",
+     "url": "https://blogs.nvidia.co.kr/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/",
      "source": "NVIDIA",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAQM9yQv2dyAc6tgdTbI-Hm6h3qwGuvV4CHEgnf_RyufRSKHp3yjHWX2G8r4"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5V-tiElMndqpVdy0EKkP-FoBNs6e_ODk68o8Ha3D0Yd40QUHPIzHWFgIPpnY"
     },
     {
-     "title": "국산 AI반도체, 엔비디아 생태계 편입",
-     "url": "https://www.khan.co.kr/article/202611092056015",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsLD0EnDL5AM0UD5HpbnRvZ3UWYY6McfsZv2--SG4HUTvkYdnAz0m766lQdo4"
+     "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
+     "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YUvkxLLVM4CzYf9PWlja6OkBd7pbhf1aNuWdGg2t8WgAmNT7tN8fZz0_2d8"
     },
     {
-     "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
-     "url": "https://zdnet.co.kr/view/?no=20261109161556",
+     "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체",
+     "url": "https://zdnet.co.kr/view/?no=20261109180536",
      "source": "지디넷코리아",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUqTAY77Ccz0Tqt2pV949h_b-1x4c_JMGzVRqAYntMSmKrkIrYI5Ho57gSxj8"
-    }
-   ]
-  },
-  {
-   "keyword": "이지혜",
-   "traffic": "2000+",
-   "pubDate": "Mon, 9 Nov 2026 02:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPidzYz6YIg9So-eKw0-JeIQK0oTOqxrVchqmLJNJ_rz8wlsW08s6V3xgIjg",
-   "news": [
-    {
-     "title": "섬뜩한 얼굴로 \"왜 말 안 들어\"…'아동학대' 논란 터졌다",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
-     "source": "SBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPidzYz6YIg9So-eKw0-JeIQK0oTOqxrVchqmLJNJ_rz8wlsW08s6V3xgIjg"
-    },
-    {
-     "title": "이지혜, 민속촌 귀신 ‘아동학대 논란’에 입장 밝혔다 “트라우마까진..”(관종언니)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/G43GMOJZMIYDONZZGE4DEZRYMU/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY"
-    },
-    {
-     "title": "'민속촌 귀신' 민원에...용인시, 한국민속촌 실태 조사",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611091607420480",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhYYJT-l33ylIab4Dot8yGwM3M66DZI07J3EO7poC6tdJX0M8ZIDrx5XjnPJk"
-    }
-   ]
-  },
-  {
-   "keyword": "아놀드 슈워제네거",
-   "traffic": "2000+",
-   "pubDate": "Mon, 9 Nov 2026 02:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKDZK09Ir-lG5Jx6DMWWSF0YqcTum-0qGjbrPM0Y2xtEOp4M4kLX4Z1Nl27U",
-   "news": [
-    {
-     "title": "“가정부와 불륜으로 낳은 아들”…슈워제네거 혼외자, 보디빌딩 5위",
-     "url": "https://www.twig24.com/news/2026/11/09/20261109500162",
-     "source": "www.twig24.com",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKDZK09Ir-lG5Jx6DMWWSF0YqcTum-0qGjbrPM0Y2xtEOp4M4kLX4Z1Nl27U"
-    },
-    {
-     "title": "'터미네이터' 슈워제네거 혼외자 보디빌더 데뷔…\"父, 최고 운동 파트너\"",
-     "url": "https://view.asiae.co.kr/article/2026110917171140991",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQa_0CxAydBeISGU718vHYBR4naoq7EexyTS3vTH1MgcUCSROPUypNF1okoac"
-    },
-    {
-     "title": "아빠 무대에 도전장 낸 ‘터미네이터 2세’…프로 데뷔전 5위",
-     "url": "https://news.jtbc.co.kr/shorts/ND10779283",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcke9NWfOUHjjJNKSxesaQBhtQkG8NOhXIJKtP7jfGGPTGiJvCVmXDARzofyA"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScrNb7g4ymehUKP3fHrMcvfzThZZK3au-B2M-ODHDdU0v0y0Sx0IvTf5mCv9Y"
     }
    ]
   },
   {
    "keyword": "해커",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAlGpDfAUdsJqqAGf6Vm0MztlNw5LLdmP-6cq-R1wgTd2L5aS_-QqOYdSdcM",
    "news": [
@@ -92,100 +66,22 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAlGpDfAUdsJqqAGf6Vm0MztlNw5LLdmP-6cq-R1wgTd2L5aS_-QqOYdSdcM"
     },
     {
+     "title": "[新테크용어] 바이낸스 해커는 왜 코인 쪼갰을까…’필 체인’ 수법이란",
+     "url": "https://zdnet.co.kr/view/?no=20261109155158",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHLY1PJWZiQoixwX7LuvTgHJAL4U_WKC-nJtL7uMPPvYu4aSAmjEhh6N-xE-4"
+    },
+    {
      "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
      "url": "https://www.mk.co.kr/news/stock/12202311",
      "source": "매일경제",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmrpmjWU530xY_RCGXA6syC1hz_BzuzCm4EjzDCuMp6ud0vnn5a1rHoFuVbY"
-    },
-    {
-     "title": "[이슈 칼럼] 알고도 털린 8조4000억원: 보안의 가장 오래된 취약점, ‘사람’",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147003",
-     "source": "보안뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4y8tEHSrov6im1ZUXsKvmSOlim47nrnsQPNSNtijbiF5dTScy3yGNARcASg0"
-    }
-   ]
-  },
-  {
-   "keyword": "고양이",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUHv40y3987FSq3KO7040x3myuhzoYlWrEj-2IRpj6U15yFf2iCy5xmRMfcs",
-   "news": [
-    {
-     "title": "고양이 보호센터·천문과학관으로 변신한 폐교…활용 우수사례 7곳 선정",
-     "url": "https://www.khan.co.kr/article/202611081336001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUHv40y3987FSq3KO7040x3myuhzoYlWrEj-2IRpj6U15yFf2iCy5xmRMfcs"
-    },
-    {
-     "title": "문 닫은 학교가 체험·생태교육장으로…부안·임실, 교육장관상 수상",
-     "url": "https://www.news1.kr/local/jeonbuk/6347585",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS7tN9Cyoa-1OiqfEVjeYBkRARtL8tc8GrZXTipQU5GTjjrR-0koLbSSJXmcg"
-    },
-    {
-     "title": "경남 폐교 활용 경진대회서 총리상 수상",
-     "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598191",
-     "source": "경남매일",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL2M_hX-BCU1hlOpZc2eDhLhFTmUWiIDJ4iyxOoXOuX4CJkNFd2Qgyalmeto"
-    }
-   ]
-  },
-  {
-   "keyword": "착륙",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 01:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rTOiucDR558C29840f-eU9LGTx1ZOU-4xw_2gIur5HKeMC-QvHHfwisjWJ0",
-   "news": [
-    {
-     "title": "[영상] \"세계 최고도 기록\"…印 수송기, 해발 4천154ｍ 비행장 착륙",
-     "url": "https://www.yna.co.kr/view/AKR20261109127800704",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rTOiucDR558C29840f-eU9LGTx1ZOU-4xw_2gIur5HKeMC-QvHHfwisjWJ0"
-    },
-    {
-     "title": "인도 ＂공군 대형 수송기 해발 4천여ｍ 비행장에 착륙＂",
-     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261109047100009",
-     "source": "한국경제TV",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRms1WrvVuWvnN686PpkfTcHI368hATyK0ZyCku1msaxW5cwT8ap6N0su3AR7s"
-    },
-    {
-     "title": "미군 항공기가 예기치 않게 고속도로에 착륙하여 주행 중인 차량과 충돌했습니다.",
-     "url": "https://www.vietnam.vn/ko/may-bay-my-bat-ngo-ha-canh-xuong-cao-toc-quet-vao-o-to-dang-chay",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlZS2WXn4Vcikr3cC6751-lcw1pIzraLDwjs7XYAm4y_LvpYrqhvZx5HXN6PY"
-    }
-   ]
-  },
-  {
-   "keyword": "가상자산",
-   "traffic": "1000+",
-   "pubDate": "Mon, 9 Nov 2026 01:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMtYPX3FMzVK5vHFqWoSe3mAHvr9XHXGjMBlxeCzNjgJlpP9xrghp9Wbl18AU",
-   "news": [
-    {
-     "title": "케빈 오리어리 “토큰화 때문에 CLARITY법 2027년 통과”…49대 50 부결에도 낙관",
-     "url": "https://www.wikitree.co.kr/articles/1172706",
-     "source": "위키트리",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMtYPX3FMzVK5vHFqWoSe3mAHvr9XHXGjMBlxeCzNjgJlpP9xrghp9Wbl18AU"
-    },
-    {
-     "title": "11월 9일 퇴근길 팟캐스트 — 미 클래리티 법안 좌초 후폭풍…이더리움 5%대 하락·청산 9.1억달러",
-     "url": "https://www.tokenpost.kr/news/insights/435079",
-     "source": "토큰포스트",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxZjR29QTCdzb5BPDr2By1_eqQIH1-Je_cvhK7tsr9_ecQ2ZceoFNk3ctwAGQ"
-    },
-    {
-     "title": "맥헨리 \"가상자산 업계, 클래리티법 통과 기회 스스로 날렸다\"",
-     "url": "https://bloomingbit.io/feed/news/123960",
-     "source": "블루밍비트",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI-fCC84oqZ65fX1gsEeSA_94szMfnwq7vQeA6EyWRKuW2kkk1mtbAOAclQxI"
     }
    ]
   },
   {
    "keyword": "박승규",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ0b2b9tDDlqtq3NQZf1QJHdjI2OqX_LkCGsY0QwujlJZl_rxAAeeEDSjgTzE",
    "news": [
@@ -210,8 +106,60 @@
    ]
   },
   {
+   "keyword": "이지혜",
+   "traffic": "1000+",
+   "pubDate": "Mon, 9 Nov 2026 02:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7vy28qQwZ2Vj4zLZ8JqTvAU55ozeEwBYnBOTtW4SI9KYl0XNDi4uPZXj7scM",
+   "news": [
+    {
+     "title": "이지혜, 샵 서지영과 부둥켜안고 울며 화해..\"딸들 앞에서 '스위티' 불러\"[핫피플]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/HAZDOOLCGQ2GMNLDMQ2WKM3FMI/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7vy28qQwZ2Vj4zLZ8JqTvAU55ozeEwBYnBOTtW4SI9KYl0XNDi4uPZXj7scM"
+    },
+    {
+     "title": "\"부둥켜 안고 오열\"…이지혜, 서지영과 불화 끝 화해 [소셜in]",
+     "url": "https://enews.imbc.com/M/Detail/524168",
+     "source": "iMBC 연예",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBCtT17wjPh7Ttqa-HFSkQj8U5JIDkU5iUquReBGeUP83PDTE1LMCzzxfIQxc"
+    },
+    {
+     "title": "이지혜, 샵 서지영과 불화설 완전 종결 \"서로 부둥켜안고 울어\"",
+     "url": "https://www.hankookilbo.com/news/article/A2026110913200001081",
+     "source": "한국일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDlyTlVNGvosSDuAFHCTNmE4JumL_b8UOJPPFEX6HX30-ifIbqGFmenq0O0I"
+    }
+   ]
+  },
+  {
+   "keyword": "고양이",
+   "traffic": "1000+",
+   "pubDate": "Mon, 9 Nov 2026 02:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5et3zJpsVC0Whk0ZeNvvxQJ5x4YO6Le27WF0nHwnTg_LXQLOB0v961rj24rg",
+   "news": [
+    {
+     "title": "800g 새끼 고양이가 독사와 싸워서 이겼다…그 후 놀라운 근황",
+     "url": "https://www.koreadaily.com/article/20261109053845597",
+     "source": "미주중앙일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5et3zJpsVC0Whk0ZeNvvxQJ5x4YO6Le27WF0nHwnTg_LXQLOB0v961rj24rg"
+    },
+    {
+     "title": "독사와 맞짱 뜬 아기 고양이 근황…\"생사 오가는 치료 중\"",
+     "url": "https://news.jtbc.co.kr/article/NB12327146",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS68cjuRAWqBwBW-c5XjvDcPbtYq1NZns0rfX3WA07a1K11V1ZiAfjHjh-K6Rc"
+    },
+    {
+     "title": "독사와 싸워 살아남은 생후 3개월 아기고양이…새 주인 찾았다",
+     "url": "https://www.etnews.com/20261108000070",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzVxm8aOL5TCK81BwqdG8actQ5euxP01o-jGqtn9BuiAFEOozGYZPR2sA9jSY"
+    }
+   ]
+  },
+  {
    "keyword": "아시아나항공",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Mon, 9 Nov 2026 03:50:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA",
    "news": [
@@ -237,7 +185,7 @@
   },
   {
    "keyword": "변호사",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Mon, 9 Nov 2026 03:30:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA6S9FdwwyfQY8rPhWdE2jgP7-uA82m7PrVWxAPA6LORJL3npViD5KlOzhR6k",
    "news": [
@@ -258,6 +206,58 @@
      "url": "https://www.mt.co.kr/society/2026/11/09/2026110916085215493",
      "source": "머니투데이",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKb1zRzDP9bpUqlBMYwSyFvEBkxCSGSyBfzF_ZVxuBpJdaKKF-n7ozWQ6x_1Q"
+    }
+   ]
+  },
+  {
+   "keyword": "캐시워크 정답",
+   "traffic": "200+",
+   "pubDate": "Mon, 9 Nov 2026 04:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl-V0knk8A_Blbh-loC6kj9kVVJ6sqMbhlEhLDCNIEQL6oPmNh2BUiFOypgK4",
+   "news": [
+    {
+     "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
+     "url": "https://www.bntnews.co.kr/article/view/bnt202611090065",
+     "source": "BNT뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl-V0knk8A_Blbh-loC6kj9kVVJ6sqMbhlEhLDCNIEQL6oPmNh2BUiFOypgK4"
+    },
+    {
+     "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
+     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874",
+     "source": "게임톡",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIiVI3nr-ZOt38spoSO2VX61zC--tCQnpnuKcgnkq4HXO3dv0PHL8byQJ-1Ck"
+    },
+    {
+     "title": "[캐시워크 종합] 11월 9일 월요일 낮 12시 현재 출제되고 있는 모든 문제들의 정답은?",
+     "url": "http://www.bizwnews.com/news/articleView.html?idxno=151293",
+     "source": "비즈월드",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAfdYzhtufEkx9aV-xymzh5B2HotqTwEghq12l5IgKMRzTmm1HJ9VCLugVvQ"
+    }
+   ]
+  },
+  {
+   "keyword": "티머니",
+   "traffic": "100+",
+   "pubDate": "Mon, 9 Nov 2026 05:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN9NojEEk22lswrSyt6i4tSifegQNeWGMDBxSd0odTftnKmDtETJDH-CmmX2g",
+   "news": [
+    {
+     "title": "티머니, '모두의카드' 편의점 판매 시작",
+     "url": "https://www.etnews.com/20261109000258",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN9NojEEk22lswrSyt6i4tSifegQNeWGMDBxSd0odTftnKmDtETJDH-CmmX2g"
+    },
+    {
+     "title": "모두의카드, CU·GS25 등 편의점서 판매…전국 환급혜택 제공",
+     "url": "https://biz.sbs.co.kr/article/20000345065",
+     "source": "SBS Biz",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG-qaEkx7Db8wgGLmN5-WTzFmHi7aZQCEUnLXFCQS5ygk2pwZfvv-DAXeeu28"
+    },
+    {
+     "title": "티머니, ‘모두의카드’ 편의점 판매 시작… 4000원에 구매",
+     "url": "https://www.munhwa.com/article/11629758",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx_vk9jsUxwvFwKuRPm-QvIOC2MeScCkHin62XCnyAg7hUBypQlan4a37nnbI"
     }
    ]
   }
