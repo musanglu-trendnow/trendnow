@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-11 23:19",
+ "updated": "2026-11-12 00:51",
  "items": [
   {
    "keyword": "이종석",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "pubDate": "Wed, 11 Nov 2026 03:30:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgyX0aek-PAGabF1SbwgxtrhUm9MNNK2xlimM5fuJRsnBMl8mgHTqenB9GAJs",
    "news": [
@@ -80,13 +80,39 @@
    ]
   },
   {
+   "keyword": "외교관",
+   "traffic": "1000+",
+   "pubDate": "Wed, 11 Nov 2026 03:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ",
+   "news": [
+    {
+     "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
+     "source": "주간조선",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ"
+    },
+    {
+     "title": "\"스스로 공주라 여긴 김여정, 말도 안 섞더라\"…탈북 외교관의 폭로",
+     "url": "https://www.fnnews.com/news/202611100000461558",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_nNJcy6RrO1GupLEYKtSsxxrv9oZsA9VznExm2xd7fOYsxxpYJ8WWPk6Se20"
+    },
+    {
+     "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
+     "url": "https://www.munhwa.com/article/11630069",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm2GILAc3J9kr_XSo9ggpZccsIUm4Z-6VMeKJZpYmtrqPQBQEs-yP2AWHjNAY"
+    }
+   ]
+  },
+  {
    "keyword": "고잔동",
    "traffic": "500+",
    "pubDate": "Wed, 11 Nov 2026 03:40:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjFWNQ2M6jPgBm_coAm0hnu_UnGmo-npUvrvQVuwsVGMi58CYEYR8kyeHjKCw",
    "news": [
     {
-     "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+     "title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
      "source": "KBS 뉴스",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjFWNQ2M6jPgBm_coAm0hnu_UnGmo-npUvrvQVuwsVGMi58CYEYR8kyeHjKCw"
@@ -98,36 +124,10 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5TkpkKJ_6NFB8uMIoWK4KQQCWzHbR4DmsFs7NcN6OV9MvbFuEavpIM-ksz8Y"
     },
     {
-     "title": "인천 남동구서 가스누출 의심 신고···1명 병원 이송",
-     "url": "https://www.khan.co.kr/article/202611112124001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxt7MAo-7Hu6xYI95__4XqZwu1QPWUcRLvtWBrRZRN0wybzZHfx7Xhnmi4M5Q"
-    }
-   ]
-  },
-  {
-   "keyword": "외교관",
-   "traffic": "500+",
-   "pubDate": "Wed, 11 Nov 2026 03:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ",
-   "news": [
-    {
-     "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
-     "source": "주간조선",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ"
-    },
-    {
-     "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
-     "url": "https://www.munhwa.com/article/11630069",
-     "source": "문화일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm2GILAc3J9kr_XSo9ggpZccsIUm4Z-6VMeKJZpYmtrqPQBQEs-yP2AWHjNAY"
-    },
-    {
-     "title": "탈북 외교관 \"김여정은 스스로 공주라 생각, 나와 말 안 섞어…나도 땡큐\"",
-     "url": "https://www.news1.kr/society/general-society/6348613",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQURiK_qCytbVg552NfwMSyDFIxtYfzTnnS_BVNstgsXpyl84vwRa7V7VRWplg"
+     "title": "[천지만평] 2026년 11월 12일자",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3447924",
+     "source": "천지일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiy3WHr4yvYZcCmJzttNBZ_bD585-r0mmairyzfLtvWwsnnJ6nKs6Q6V_j_Ho"
     }
    ]
   },
@@ -144,16 +144,16 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO8QThM2cEYzZtCjetC8e4mDBsPH12G5qIhPnaMgVqZ9EASvEhTET8gsyda5Q"
     },
     {
+     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+     "source": "homeup.vn",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P9LfpnOA5uBkHg026G8Qn0wFBRpQq56RKulvAa9eJOXusdA34MbvBha49sQ"
+    },
+    {
      "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
      "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
      "source": "CafeF",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPrJ6FLOwvadYS3aAkA4WnRqiHeJcPrINm25etlNbfXIlzrh9jRO5c7YNVW74"
-    },
-    {
-     "title": "XSMN 11/11 - Kết quả xổ số miền Nam ngày 11 tháng 11",
-     "url": "https://giaoducthudo.giaoducthoidai.vn/xsmn-11-11-ket-qua-xo-so-mien-nam-ngay-11-thang-11-226100.html",
-     "source": "Giáo dục Thủ đô",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNosEMXMO2an3rTY95PwesmIl_NaKHiWy2Y_Y610HIIvDUbKCKFkIpb-vOLEk"
     }
    ]
   },
@@ -161,25 +161,25 @@
    "keyword": "주차장",
    "traffic": "500+",
    "pubDate": "Wed, 11 Nov 2026 02:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvm8hqgXX382o1rYKQjixadQGQkQhJCwGEj_xSJbxP00YsuYdA63-RVQcqKvk",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXyKGZ1xMuq9rVi2qgtMAe_8KVdtTB21RQFrZqVT89LgL03q-aDJi8JKKbtw",
    "news": [
     {
-     "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863717",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvm8hqgXX382o1rYKQjixadQGQkQhJCwGEj_xSJbxP00YsuYdA63-RVQcqKvk"
+     "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374592",
+     "source": "전기신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXyKGZ1xMuq9rVi2qgtMAe_8KVdtTB21RQFrZqVT89LgL03q-aDJi8JKKbtw"
     },
     {
-     "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
-     "url": "https://www.newspim.com/news/view/20261111001289",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjdg_9DuBxlThGkiOhR6CbCNScdEDoppckodn8hxiGbwoRJ8OcYQtuCtkFQo"
+     "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
+     "url": "https://edata.ekn.kr/article/view/ekn202611110007",
+     "source": "기후에너지데이터뱅크",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV7XPRK8mYRkCxqMbN2KvX66bSy61fF03tAm5QJNBtejBm7ndB-ujQisD3awc"
     },
     {
-     "title": "파주시, ‘공영주차장 24시간 콜센터’ 본격 운영",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261111010003663",
-     "source": "중도일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdnL8aguCF6-YDRvt0utN1cLScoAvP3V4-YRXqqVMlxyIyoEd4YtipYNSGhM"
+     "title": "충북 음성군, 공영주차장에 공공주도형 태양광 발전설비 설치 추진",
+     "url": "https://www.khan.co.kr/article/202611111053011",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEJkCefkIOnMDEXvAaimpYxboo4cmjQW-og9E-cfh061cCdkpzjGeNOHDAPcw"
     }
    ]
   },
@@ -205,7 +205,7 @@
      "title": "병원 35곳서 ‘수용 불가’…청주서 서울로 120km 이송된 임신부",
      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710316",
      "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuz2BEUJr20d6hdiGPmwrFk401iK-S_PBZCFBK53UMcpikGGb8uAOV5VAjwMg"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6KKsH5jCuPrahYy-9MMJY8XYivFJu-g645BKG_OvPiIxpVtvk6G5UDOXebtk"
     }
    ]
   },
@@ -236,28 +236,28 @@
    ]
   },
   {
-   "keyword": "인터뷰",
-   "traffic": "200+",
-   "pubDate": "Wed, 11 Nov 2026 02:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfH0itS-zuFC80-X0QOuAYCpCU44Wjr8IT76RorifPEHQ7GrORu0KW6zXyKSo",
+   "keyword": "라라랜드",
+   "traffic": "100+",
+   "pubDate": "Wed, 11 Nov 2026 06:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2bconpv6p-SoT1F9tMfjT7AXt-S9PKx_mn14-dkhaYUGoTh2ZQqkHOf_Fzf4",
    "news": [
     {
-     "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfH0itS-zuFC80-X0QOuAYCpCU44Wjr8IT76RorifPEHQ7GrORu0KW6zXyKSo"
+     "title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
+     "url": "https://www.munhwa.com/article/11630108",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2bconpv6p-SoT1F9tMfjT7AXt-S9PKx_mn14-dkhaYUGoTh2ZQqkHOf_Fzf4"
     },
     {
-     "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
-     "url": "https://cine21.com/news/view/?mag_id=111205",
-     "source": "씨네21",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStwFKCsMjDjEw6wxruJjECgB2yYwhpjk-TlxPV6hGPjwY_9gIYkQyNtq4pmcw"
+     "title": "빼빼로데이, 어떤 영화 볼까? ‘듄’·‘라라랜드’ 재개봉작 예매 강세",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=756741",
+     "source": "ER 이코노믹리뷰",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxFvpVO4bRGiiWeyuqoGNTaN6G0hfpPAhmDHSmwYn5jMQLSiqxKEbb8oX45EA"
     },
     {
-     "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384",
-     "source": "SBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGpksogVzaAt8u6rej_RtQx4cb3V0BPlROnVZjGeDL2vaRl2EjeP20wwahpU"
+     "title": "영화 '라라랜드' 쿠키영상 있나?... 메가박스 응원봉·굿즈 눈길",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192701",
+     "source": "금강일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJzZq6GH1on2iL__74lSlaZP_KJ_5wZ9q1-7YMdXovuYcO2-AMnu69fojpepM"
     }
    ]
   }
