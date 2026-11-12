@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 03:53",
+ "updated": "2026-11-13 04:54",
  "items": [
   {
    "keyword": "국제 a매치",
@@ -28,22 +28,100 @@
    ]
   },
   {
+   "keyword": "손준호",
+   "traffic": "200+",
+   "pubDate": "Thu, 12 Nov 2026 10:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-RH7mWh4LsJ3UyDEpHrYIxDjNW8Be7tJwHIhLOw9BYqf8PX6ysMOPq6ACGs",
+   "news": [
+    {
+     "title": "“손준호가 두 명?”…♥김소현 14살 子, 아빠 붕어빵 비주얼 [DA★]",
+     "url": "https://sports.donga.com/ent/article/all/20261112/135016925/1",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-RH7mWh4LsJ3UyDEpHrYIxDjNW8Be7tJwHIhLOw9BYqf8PX6ysMOPq6ACGs"
+    },
+    {
+     "title": "김소현♥손준호 아들 주안이 벌써 14세…몰라보게 폭풍성장 [N샷]",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6352117",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR56HXrK6vv_NBKICU50mTgjOzKBOLcOkfYWa2vJLbEO3bEFALDUXr73VeGXzg"
+    },
+    {
+     "title": "“누가 손준호야?” 김소현♥손준호 子 주안, 아빠 쏙 빼닮은 ‘폭풍 성장’ 근황",
+     "url": "https://sports.khan.co.kr/article/202611121717003",
+     "source": "스포츠경향",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBuSgbi_DYLd7P_yGQVVlo0FWJTLDeTWjnMBKIW6n0wqBpt-ggni6AjbfY2s"
+    }
+   ]
+  },
+  {
+   "keyword": "공장",
+   "traffic": "200+",
+   "pubDate": "Thu, 12 Nov 2026 10:00:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgIh-_UJ-2NdkftE9L4zpo_hHCHSBrqgIyPSggGGf7OrjzheJLNRYbxiDm4oI",
+   "news": [
+    {
+     "title": "재난문자",
+     "url": "https://d.kbs.co.kr/info/messageView?seq=206635&areaCd=10714",
+     "source": "KBS 재난포털",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgIh-_UJ-2NdkftE9L4zpo_hHCHSBrqgIyPSggGGf7OrjzheJLNRYbxiDm4oI"
+    },
+    {
+     "title": "경북 경산 골판지 제조업체 불‥대응 1단계 발령",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6865277_36918.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTOqRF9jPnri2zNupSv0jm6BwblR3MxDA5ob5IbR9YetXyYHOb2PUc1-q3DFs"
+    },
+    {
+     "title": "경산 진량읍 공장서 화재…소방당국 대응 1단계 발령",
+     "url": "https://www.newsis.com/view/NISX20261112_0003866287",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPk21-b0UfqmDj1SpLJ68CMEGcIrVCmdxET9Z9hvx6DAmjRWIULp4ssMlO2k0"
+    }
+   ]
+  },
+  {
+   "keyword": "이자",
+   "traffic": "200+",
+   "pubDate": "Thu, 12 Nov 2026 09:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXpXamQzSzHj_AZFWyaHA5A71jkwYsHfhrhctoud4vFIQxbQJpi22KDMwDeuY",
+   "news": [
+    {
+     "title": "우리은행, 삼성금융과 '모니모 전용' 입출금·적금·예금 상품",
+     "url": "https://www.yna.co.kr/view/AKR20261112064200002",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXpXamQzSzHj_AZFWyaHA5A71jkwYsHfhrhctoud4vFIQxbQJpi22KDMwDeuY"
+    },
+    {
+     "title": "우리은행, 최대 4% '모니모 매일이자' 통장 출시",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865131",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3bC0t0AR0mCDpWZW86lAfR6Phj7a5Gt31tR-s3JhPhAL_PwsdSpG00vEPAu4"
+    },
+    {
+     "title": "통장에 하루만 맡겨도 이자가 꼬박꼬박...'매일 이자' 상품 눈길",
+     "url": "https://www.hankyung.com/article/202611122099i",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdUpoBwPptPO12ziTmmfbtBoMbskYexflj_TfyWo24RrULWI3qKMAXKn70JE"
+    }
+   ]
+  },
+  {
    "keyword": "김승원",
    "traffic": "200+",
    "pubDate": "Thu, 12 Nov 2026 08:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPU0DV7sIz_Zkw8kfH-qzMlc0QuW1UrI9dLyCLb_1LBmZ0zKWUtaXqa9Ba2qg",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Ns35BnEVqQ3FK1NgQC58MdpG1lRNKUMOaklfNO4bbNiL_LlkE2mEwp2792Q",
    "news": [
     {
-     "title": "‘김승원 신약 청탁 의혹’ 브로커 양모씨에 징역 4년 구형",
-     "url": "https://www.chosun.com/national/national_general/2026/11/12/X3EACDFYJNF43MGVF67SH52VCA/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPU0DV7sIz_Zkw8kfH-qzMlc0QuW1UrI9dLyCLb_1LBmZ0zKWUtaXqa9Ba2qg"
+     "title": "공소청, 김승원 ‘신약 청탁 의혹’ 브로커에 징역 4년 구형",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711265",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Ns35BnEVqQ3FK1NgQC58MdpG1lRNKUMOaklfNO4bbNiL_LlkE2mEwp2792Q"
     },
     {
-     "title": "공판 출석하는 '코로나19 신약 임상시험 승인 청탁 의혹' 양수진",
-     "url": "https://www.newsis.com/view/NISI20261112_0021530948",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtGydl858SblJisVexA_4CpfbMPlmUyYo8HrA6U0UvK-p1uDXNDjkEBX9uMM"
+     "title": "‘김승원 청탁의혹’ 브로커 양 모 씨 징역 4년 구형",
+     "url": "https://news.jtbc.co.kr/article/NB12327827",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynOHMeJrlES5r5fdyAV4Pk1JZJ44GKk_iF8RAqsgpzt9vUEHWSuGARgVxuHM"
     },
     {
      "title": "공소청, '김승원 청탁의혹' 브로커에 징역 4년·제넨셀 설립자는 징역 6개월 구형",
@@ -83,25 +161,51 @@
    "keyword": "네이션스리그",
    "traffic": "200+",
    "pubDate": "Thu, 12 Nov 2026 08:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRZYi_lzJh0KPcMUcZR8U0PbyFQzgG2L95viQGfPLvz-RyTLNKZ59wgckA8PU",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZV1oq_c59PfCfC4xwI4xlg7dltHOgQtevSj7auOUHAEzGkk1A53KU3wh1n-Y",
    "news": [
     {
-     "title": "네이션스 리그 세르비아 대 독일 축구 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-serbia-vs-duc-tai-nations-league-1799219.ldo",
+     "title": "잉글랜드 대 크로아티아 경기 예측, 11월 13일 오전 2시 45분: 잉글랜드, 8강 진출 확정",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-anh-vs-croatia-02h45-ngay-13-11-ve-tu-ket-cho-tam-su",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZV1oq_c59PfCfC4xwI4xlg7dltHOgQtevSj7auOUHAEzGkk1A53KU3wh1n-Y"
+    },
+    {
+     "title": "네이션스 리그 잉글랜드 대 크로아티아 생중계 링크",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-anh-vs-croatia-tai-nations-league-1799266.ldo",
      "source": "Laodong.vn",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRZYi_lzJh0KPcMUcZR8U0PbyFQzgG2L95viQGfPLvz-RyTLNKZ59wgckA8PU"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPpbcKH0CgnemlHeOwiJ7HltPCaBeNTzW3yodReelozgVU6NfkgktvHaX4rl0"
     },
     {
-     "title": "UEFA 네이션스리그: 몸값을 높이는 뛰어난 선수들",
-     "url": "https://sbotopkr.tistory.com/2670",
-     "source": "티스토리",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGvCKiwQFVAYCn4OEfN6A690fhN70aA8RrG2fBUBW69UsiXhoWFqw7ZHJ4_eA"
+     "title": "7골 먹힌 것도 서러운데 또 만나야 한다!…월드컵 준우승국 크로아티아의 '0-7 대참사', 감독은 \"영원한 수치\"",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100676",
+     "source": "포포투",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZD_rquUF5RJiixXAt03vS6xrvI5XNyLBYmH-k2nGQ3O8lR2MkTGy-uNSixU"
+    }
+   ]
+  },
+  {
+   "keyword": "안성현",
+   "traffic": "200+",
+   "pubDate": "Thu, 12 Nov 2026 07:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpyUxQd-N7elGwmMw6spjtvkr8ogTOeqbrbf7YVLT4gPe0R82VoEBUcZSxQLk",
+   "news": [
+    {
+     "title": "‘코인 상장 청탁’ 프로골퍼 안성현, 대법서 무죄 확정",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710942",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpyUxQd-N7elGwmMw6spjtvkr8ogTOeqbrbf7YVLT4gPe0R82VoEBUcZSxQLk"
     },
     {
-     "title": "지단의 프랑스냐⋯ 만치니 이태리냐",
-     "url": "https://www.kmib.co.kr/article/20261111502064",
-     "source": "국민일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGjxa6KX5A7Yfn6DHdjS7Ix854qTjCOZ_-iKvbWPOVLr5lDn5fjrK7nisMw4"
+     "title": "'코인 상장 뒷돈' 전 빗썸 대표 징역형 집행유예 확정",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6865117_36918.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgs8xB5ib9oOSSzQPMCO04MiPdJFKbe6i2L-mUc4xmxSrCDut4CfDGQt_xcqE"
+    },
+    {
+     "title": "남편 안성현 '코인상장 뒷돈' 무죄…성유리 \"진실 밝혀지길\" 재조명 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215255844992",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaIrRlXAhvuSnDhIotjseh6ndbC6LT2zrnJt8RmuMnw5MWBjMf1VjeYhqj3r0"
     }
    ]
   },
@@ -132,132 +236,28 @@
    ]
   },
   {
-   "keyword": "msci",
-   "traffic": "200+",
-   "pubDate": "Thu, 12 Nov 2026 06:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTXhQ9oB1bJpOntBa33VdbDJ_V0jU3amfcp_DFHsQMEQKw7ez_yg1f1IR7r8",
-   "news": [
-    {
-     "title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
-     "url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4",
-     "source": "WSJ",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTXhQ9oB1bJpOntBa33VdbDJ_V0jU3amfcp_DFHsQMEQKw7ez_yg1f1IR7r8"
-    },
-    {
-     "title": "It’s Official: Michael Saylor’s Strategy Is Out of the MSCI Indexes",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/official-michael-saylor-strategy-msci-155722098.html",
-     "source": "Yahoo Finance",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h1PUpBtHrKx_jvvbNgMbZnT7Z5pCo-tKie2XBqXWOuFLfpXkRiSEzIPR6bc"
-    },
-    {
-     "title": "Index Provider MSCI Removes Strategy From Equity Benchmark",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
-     "source": "Bloomberg.com",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4yDAkS6Ai9jcNUQMMBWiCVHZBRMATridw-pHciFAFswdvHW_Esd2roAod1dU"
-    }
-   ]
-  },
-  {
-   "keyword": "amd 주가",
-   "traffic": "200+",
-   "pubDate": "Thu, 12 Nov 2026 06:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYWaSwioSO4PpQGfYPsfYtueTwFKSMcLyxJn_OzxWQ_R2nptwvmPs5wHNPdZ4",
-   "news": [
-    {
-     "title": "TPU가 뭐야? 삼전닉스에 올 새로운 기회",
-     "url": "https://www.sedaily.com/vod/5997282",
-     "source": "서울경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYWaSwioSO4PpQGfYPsfYtueTwFKSMcLyxJn_OzxWQ_R2nptwvmPs5wHNPdZ4"
-    },
-    {
-     "title": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장",
-     "url": "https://www.khan.co.kr/article/202611102040025",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw"
-    },
-    {
-     "title": "구글 AI 인프라에 AMD 프로세서 탑재… 반도체 시장서 존재감 키운다",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=846671",
-     "source": "제민일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpC9VJV1_kSe2AQ8TFr78DkRBQFeOtv2fRgR9Xms1zDnY4WSIGbrPjQFbT5TI"
-    }
-   ]
-  },
-  {
-   "keyword": "이자",
+   "keyword": "outlook",
    "traffic": "100+",
-   "pubDate": "Thu, 12 Nov 2026 09:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXpXamQzSzHj_AZFWyaHA5A71jkwYsHfhrhctoud4vFIQxbQJpi22KDMwDeuY",
+   "pubDate": "Thu, 12 Nov 2026 10:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3yXDNVH4b5CTc02rHVJAJ_BmVUvi8_eZjtVoQe55Gb9cdUUg1NMFQv6xm8c",
    "news": [
     {
-     "title": "우리은행, 삼성금융과 '모니모 전용' 입출금·적금·예금 상품",
-     "url": "https://www.yna.co.kr/view/AKR20261112064200002",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXpXamQzSzHj_AZFWyaHA5A71jkwYsHfhrhctoud4vFIQxbQJpi22KDMwDeuY"
+     "title": "Is Microsoft Outlook down? Company investigates error reports from users",
+     "url": "https://www.nbcchicago.com/news/local/is-microsoft-outlook-down-company-investigates-error-reports-from-users/4015769/",
+     "source": "NBC 5 Chicago",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3yXDNVH4b5CTc02rHVJAJ_BmVUvi8_eZjtVoQe55Gb9cdUUg1NMFQv6xm8c"
     },
     {
-     "title": "우리은행, 최대 4% '모니모 매일이자' 통장 출시",
-     "url": "https://www.newsis.com/view/NISX20261112_0003865131",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3bC0t0AR0mCDpWZW86lAfR6Phj7a5Gt31tR-s3JhPhAL_PwsdSpG00vEPAu4"
+     "title": "Microsoft Outlook Down for Thousands of Users, Downdetector Shows",
+     "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+     "source": "GV Wire",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQAYjOQZIdnq6h4MYzktPJqk_d-wWN9Y9P2C5zxdqR2xSPfvBSEo5rEovkyM"
     },
     {
-     "title": "통장에 하루만 맡겨도 이자가 꼬박꼬박...'매일 이자' 상품 눈길",
-     "url": "https://www.hankyung.com/article/202611122099i",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdUpoBwPptPO12ziTmmfbtBoMbskYexflj_TfyWo24RrULWI3qKMAXKn70JE"
-    }
-   ]
-  },
-  {
-   "keyword": "안성현",
-   "traffic": "100+",
-   "pubDate": "Thu, 12 Nov 2026 07:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpyUxQd-N7elGwmMw6spjtvkr8ogTOeqbrbf7YVLT4gPe0R82VoEBUcZSxQLk",
-   "news": [
-    {
-     "title": "‘코인 상장 청탁’ 프로골퍼 안성현, 대법서 무죄 확정",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710942",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpyUxQd-N7elGwmMw6spjtvkr8ogTOeqbrbf7YVLT4gPe0R82VoEBUcZSxQLk"
-    },
-    {
-     "title": "'코인 상장 뒷돈' 전 빗썸 대표 징역형 집행유예 확정",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6865117_36918.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgs8xB5ib9oOSSzQPMCO04MiPdJFKbe6i2L-mUc4xmxSrCDut4CfDGQt_xcqE"
-    },
-    {
-     "title": "남편 안성현 '코인상장 뒷돈' 무죄…성유리 \"진실 밝혀지길\" 재조명 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215255844992",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaIrRlXAhvuSnDhIotjseh6ndbC6LT2zrnJt8RmuMnw5MWBjMf1VjeYhqj3r0"
-    }
-   ]
-  },
-  {
-   "keyword": "100 일 의 거짓말",
-   "traffic": "100+",
-   "pubDate": "Thu, 12 Nov 2026 06:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBw57667FUcM4XQp3R73S7kqc0xLaoKpwgweD8BKyfdbbJgwYjk-Koxih09YU",
-   "news": [
-    {
-     "title": "‘100일의 거짓말’, 시청률 10% 넘더니 일 냈다…드라마 브랜드 평판 1위",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12205959",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBw57667FUcM4XQp3R73S7kqc0xLaoKpwgweD8BKyfdbbJgwYjk-Koxih09YU"
-    },
-    {
-     "title": "[티빙 TOP5] 3주 연속 종합·드라마 1위! 예능 정상· TOP5 수성",
-     "url": "https://cjnews.cj.net/%ED%8B%B0%EB%B9%99-top5-100%EC%9D%BC%EC%9D%98-%EA%B1%B0%EC%A7%93%EB%A7%90-3%EC%A3%BC-%EC%97%B0%EC%86%8D-%EC%A2%85%ED%95%A9%C2%B7%EB%93%9C%EB%9D%BC%EB%A7%88-1%EC%9C%84-%EC%96%B8%EB%8D%94/",
-     "source": "CJ 뉴스룸",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbsMno35gWEwkR9d2tHAFD2GOJqvwcZG9PZrdGpo94FX8r9TfvHIEA9noBb20"
-    },
-    {
-     "title": "'100일의 거짓말' vs '재혼황후'..2위는 이 드라마였다",
-     "url": "https://www.koreadaily.com/article/20261111143446021",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgjQND8wgz_eW-wO9aC85sb8LdzqzcDGqdPS9SZdab4P123BguAzqN5ov30hY"
+     "title": "Is Outlook down? Widespread outage hits Microsoft apps",
+     "url": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047",
+     "source": "NBC News",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDEhH5tzIVM3GYFl_r7r0CFBWjRXqMovuOSlqefKOnKsnX5nOguAP9v6FD8"
     }
    ]
   }
