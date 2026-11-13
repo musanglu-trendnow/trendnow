@@ -1,43 +1,95 @@
 {
- "updated": "2026-11-13 16:12",
+ "updated": "2026-11-13 17:56",
  "items": [
   {
-   "keyword": "블랙웰",
-   "traffic": "500+",
-   "pubDate": "Thu, 12 Nov 2026 21:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTap2W_5kyTIe_qE8-Ippb_3OM7uKPighaxkpqxRjoIxD_OeRDi0sq9SAj4Sg",
+   "keyword": "sk해운",
+   "traffic": "1000+",
+   "pubDate": "Thu, 12 Nov 2026 22:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAyHAFWchhHjbb1Iw4Y3SNkLMcYjB0wyR7PR0BsBPI0gEn59Rz356EBRMxzk",
    "news": [
     {
-     "title": "“오픈AI, 美 의회 中 AI칩 수출 제한 법안 지지”",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/13/W3GSV2HRNVCW5HMKBABFHSBOEA/",
+     "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
+     "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/",
      "source": "Chosunbiz",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTap2W_5kyTIe_qE8-Ippb_3OM7uKPighaxkpqxRjoIxD_OeRDi0sq9SAj4Sg"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAyHAFWchhHjbb1Iw4Y3SNkLMcYjB0wyR7PR0BsBPI0gEn59Rz356EBRMxzk"
     },
     {
-     "title": "미국의 반도체 수출 규제 강화 우려에 중국 AI 주식 급락",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2174451",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNseGcMIwlk80TYHsG4o-HoveTwbkxfwYL2tQ_tte8dYs3YQG89jhQoRhCoBw"
+     "title": "SK해운·삼성重, '화물창 설계 결함' 가스공사에 손배소 2심도 승소",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867028",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOfrD4OdqWhyMYLbMVBYWzrhnT6aImDNSfkKiel6FNjgjegp_tKLhqyml3Atg"
     },
     {
-     "title": "美 무역대표 \"엔비디아 우려…핵심 기술자산 美나 동맹국에 있어야\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444506",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5lSr9eNJDi3RqbeKsuOacEcB9Ng098Vo_bF4EY0TqJs4yktIVqjXFIt15s3w"
+     "title": "'LNG선 화물창 결함' 가스공사 2심서 배상액↑…\"2천600억 지급\"",
+     "url": "https://www.yna.co.kr/view/AKR20261113086900004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiVmRAgRmHVdisuQjt4Uk-L6teJf5OTdpVKvNvlxi5IjImROM9aWqGtDcYjY8"
+    }
+   ]
+  },
+  {
+   "keyword": "광교 신도시",
+   "traffic": "1000+",
+   "pubDate": "Thu, 12 Nov 2026 22:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFbtb3P5d4_DthoZGSLxvduXdraPLJJMiqDqpjLuFmzKzL1eZ7fzxS_v_OVLo",
+   "news": [
+    {
+     "title": "GH, '국내 1호' 광교 지분적립형 분양주택 240가구 모집에 2만946건 몰려",
+     "url": "https://www.yna.co.kr/view/RPR20261112007600353",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFbtb3P5d4_DthoZGSLxvduXdraPLJJMiqDqpjLuFmzKzL1eZ7fzxS_v_OVLo"
+    },
+    {
+     "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 카드/한컷 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273",
+     "source": "대한민국 정책브리핑",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaXJSmxnSzWTwaOrZoSbErc8yaFL1EvFG8TCpOcz0jGP_Lib_YHrDh2yk4wr0"
+    },
+    {
+     "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726",
+     "source": "인천일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSafMqhj5RypEscbKl0oqjzjbD5vgVlzHxlgjZLuXk_-ot5Wjjho8RiBzz9kCo"
+    }
+   ]
+  },
+  {
+   "keyword": "주간조선",
+   "traffic": "500+",
+   "pubDate": "Thu, 12 Nov 2026 23:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubKv3vMgv0_bUEfBkiJHubXAp8rI1K3RgAqI6y00YyNlIqViCLEd_3ZdTwrk",
+   "news": [
+    {
+     "title": "반도체 물 ‘속도전’의 숙제…가뭄 검증도, 농민 설득도, 기업 절수도 ‘아직’",
+     "url": "https://www.khan.co.kr/article/202611130600011",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubKv3vMgv0_bUEfBkiJHubXAp8rI1K3RgAqI6y00YyNlIqViCLEd_3ZdTwrk"
+    },
+    {
+     "title": "엉뚱한 영산강물 더럽다고 손가락질한 주간조선",
+     "url": "https://www.mindlenews.com/news/articleView.html?idxno=23169",
+     "source": "세상을 바꾸는 시민언론 민들레",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThR-Z6erKsLF46NJt1Ddz92maCF72MBFJsMW0llu5HO3HOiqoXUori2DoKkaQ"
+    },
+    {
+     "title": "김정희 특별시의원, “광주환경공단, 반도체 용수 공급 설계부터 함께해야”",
+     "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1069702",
+     "source": "내외뉴스통신",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi96LB8hbm_vc8gOwY2sIvHoU6suSLsdBI1tVciblT4yn95WL0Y3-365Ln60Q"
     }
    ]
   },
   {
    "keyword": "구본현",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Thu, 12 Nov 2026 21:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbDhQzrBjTozUSZlJ97Yle8Lki4AVB-m-rmbaq9GBJxD0EtzA7-H5MetMsXug",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE2-IYdHQOy84erayFk9S0ckZ297eBHX853emIpSnQUnnYlLzi3HzZ1-fbGP0",
    "news": [
     {
-     "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbDhQzrBjTozUSZlJ97Yle8Lki4AVB-m-rmbaq9GBJxD0EtzA7-H5MetMsXug"
+     "title": "범LG家 3세 구본현, 해외 도피 8년 만에 캄보디아에서 검거",
+     "url": "https://www.chosun.com/national/national_general/2026/11/13/P4FORY5VSFCMHFGCH4FZESVYNI/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE2-IYdHQOy84erayFk9S0ckZ297eBHX853emIpSnQUnnYlLzi3HzZ1-fbGP0"
     },
     {
      "title": "‘145억원 주가조작’ 혐의 재벌 3세 구본현, 8년 해외도피 끝에 캄보디아서 검거",
@@ -46,10 +98,36 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-7kgplplasqnuHnkytagM4a8Vyn7m42MzkttTwG7lQx7NaQL7cGzTmYvVOBU"
     },
     {
-     "title": "8년간 해외도피 범LG家 3세 구본현 캄보디아서 송환…주가조작 혐의",
-     "url": "https://www.kyeonggi.com/article/20261113580276",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyT1jvMrDhVvU_NcVqn04bt-sRkdNl7qutPpHLnvCxrgcSUXY6vKICNqZZ5yU"
+     "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbDhQzrBjTozUSZlJ97Yle8Lki4AVB-m-rmbaq9GBJxD0EtzA7-H5MetMsXug"
+    }
+   ]
+  },
+  {
+   "keyword": "익산",
+   "traffic": "200+",
+   "pubDate": "Thu, 12 Nov 2026 22:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqS-1BGgsl3AYeUOwzk1vW9vAMvKGGDlNWUlrAFByfpwB5rIJ8wTD7YI2OSTs",
+   "news": [
+    {
+     "title": "현대백화점그룹, 익산시 '발달장애인 특화사업장' 1억원 후원",
+     "url": "https://www.yna.co.kr/view/AKR20261113107800030",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqS-1BGgsl3AYeUOwzk1vW9vAMvKGGDlNWUlrAFByfpwB5rIJ8wTD7YI2OSTs"
+    },
+    {
+     "title": "스마트팜 돕고 백화점 판로연다…현대백화점그룹, 익산 발달장애인 사업장 후원",
+     "url": "https://www.donga.com/news/Economy/article/all/20261113/135021231/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTET77apd6oUztUrk0ZSZB4otxbf54afgL1nhnoN4oO7YSYweC-sviWyzuk-XE"
+    },
+    {
+     "title": "현대백화점그룹, 발달장애인 경제적 자립 지원에 1억원 후원",
+     "url": "https://www.fnnews.com/news/202611131508381855",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEMH5gOd6s1748AtaCeM2_dPL20zLlvLu7ruQ_NGz-jG_wPc412TLARavpQE"
     }
    ]
   },
@@ -57,14 +135,8 @@
    "keyword": "리트 만점자 ai 안경",
    "traffic": "200+",
    "pubDate": "Thu, 12 Nov 2026 21:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdftAwGzdZPD3b38q6ITaTgUey3FzmKy2BejWuEy6o3EfT5xlTBSS4tTTfhSc",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd-KXwVlEE_W8X9li3wP3Je8yhL2iI5Oe709DjV4ofomJHDHnZDRJCiK9bmTI",
    "news": [
-    {
-     "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-     "url": "https://www.khan.co.kr/article/202611131019001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdftAwGzdZPD3b38q6ITaTgUey3FzmKy2BejWuEy6o3EfT5xlTBSS4tTTfhSc"
-    },
     {
      "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
      "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
@@ -72,114 +144,94 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd-KXwVlEE_W8X9li3wP3Je8yhL2iI5Oe709DjV4ofomJHDHnZDRJCiK9bmTI"
     },
     {
-     "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKddeZjrOY1N8F8orGNxXhu5T2C9SKBdtEFXlcMthCuvuLljgHnp2JsYCq_hE"
-    }
-   ]
-  },
-  {
-   "keyword": "대학수학능력시험",
-   "traffic": "200+",
-   "pubDate": "Thu, 12 Nov 2026 21:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf38Rk28XRZYXD2F63C7NDY-Hmw2th76gbmqHrACiU-pDg5ghpGVn_6qwIImE",
-   "news": [
-    {
-     "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
-     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789140&pWise=main&pWiseMain=L1",
-     "source": "대한민국 정책브리핑",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf38Rk28XRZYXD2F63C7NDY-Hmw2th76gbmqHrACiU-pDg5ghpGVn_6qwIImE"
+     "title": "‘AI 안경’ 의혹 세무사 수석, 변호사 선임했다…“사실관계 확인 응할 것”",
+     "url": "https://www.seoul.co.kr/news/society/2026/11/13/20261113500283",
+     "source": "서울신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-jxBbo76tt5YiDQs_3pmK7yNN_iha3NTAOpjdUBhwMRUDQwbc3_igj4q8NF0"
     },
     {
-     "title": "남양주시, 수능 당일 수험생 무료수송 택시 44대 투입",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721867",
-     "source": "뉴스타운",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cEi_YuO-mSTSdzyKL1DzHhOqB308YnQV9N4vibP94rVexng1owb5ucdhVMM"
-    },
-    {
-     "title": "정부, 수능 앞두고 지진 대응태세 점검…시험장 1천312곳 점검",
-     "url": "https://www.yna.co.kr/view/AKR20261112171300530",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_YSEIt96dDrmmhHhQUfzcFpOJOU0sO2UrbUTk1Mj5m_2bOIjeSMI3vg1MD70"
-    }
-   ]
-  },
-  {
-   "keyword": "이혜훈",
-   "traffic": "200+",
-   "pubDate": "Thu, 12 Nov 2026 21:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyMgdtKvrOZqxzn_01-UqNVIhq6zODTxoRYfnHpN_Un0GW1qiaXuTLIbBNZuM",
-   "news": [
-    {
-     "title": "경찰, ‘로또 청약’ 이혜훈 前 의원 사기 혐의로 공소청 송치",
-     "url": "https://www.chosun.com/national/national_general/2026/11/13/CSW7KKE6VRCOVPUKBYMCDLP4TQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyMgdtKvrOZqxzn_01-UqNVIhq6zODTxoRYfnHpN_Un0GW1qiaXuTLIbBNZuM"
-    },
-    {
-     "title": "‘40억 로또 아파트’ 날아가나…이혜훈, 부정청약 의혹 송치",
-     "url": "https://news.jtbc.co.kr/article/NB12327942",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvFgiRT1Uf185lSa_YIeRzrFomMiirAG9v-AQnn_WRQ1eLuZrUobZqf1Hi6YI"
-    },
-    {
-     "title": "속보 경찰, '아파트 부정청약 의혹' 이혜훈 사기 혐의 송치",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611131301149185",
-     "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkCtIw2GBV47hfdTzZU7hxTVurdXZS8pkd7NeMrekTKbMy2V9Mw0u6rbNLrio"
-    }
-   ]
-  },
-  {
-   "keyword": "수도권제1순환고속도로",
-   "traffic": "200+",
-   "pubDate": "Thu, 12 Nov 2026 21:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT78HG9JX6nEfSUISZjtyCRgzpyb9J9NU9OIl9cW4crwG_OWsT_1t8r25CjQw",
-   "news": [
-    {
-     "title": "[속보] 수도권제1순환고속도로 고양(67.5K)(4차로)화물차관련 사고처리중",
-     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=484541",
-     "source": "스페셜타임스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT78HG9JX6nEfSUISZjtyCRgzpyb9J9NU9OIl9cW4crwG_OWsT_1t8r25CjQw"
-    },
-    {
-     "title": "[속보] 수도권제1순환고속도로 화물차 관련 사고 처리중",
-     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483505",
-     "source": "스페셜타임스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT78HG9JX6nEfSUISZjtyCRgzpyb9J9NU9OIl9cW4crwG_OWsT_1t8r25CjQw"
-    },
-    {
-     "title": "[속보] 수도권제1순환고속도로 사고처리중",
-     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483666",
-     "source": "스페셜타임스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT78HG9JX6nEfSUISZjtyCRgzpyb9J9NU9OIl9cW4crwG_OWsT_1t8r25CjQw"
-    }
-   ]
-  },
-  {
-   "keyword": "정부",
-   "traffic": "200+",
-   "pubDate": "Thu, 12 Nov 2026 21:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnwhQGNTyNQmHvXFziINGPlp4rPTIn1iobJ88dzoZ6ADW_rwB96QONwEESNyA",
-   "news": [
-    {
-     "title": "구글 지도 국외반출 조건 이행 확인…좌표 노출 막고 보안 강화",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374724",
-     "source": "전기신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnwhQGNTyNQmHvXFziINGPlp4rPTIn1iobJ88dzoZ6ADW_rwB96QONwEESNyA"
-    },
-    {
-     "title": "구글, 국내 지도 데이터 가공 협력사로 티맵 선정",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/13/TYPNW5XMMVGXVJOGPIJ6PMNPJI/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTqR4p_e7DMpH7svzlvnwjn3zspNp9Cc5XL4ckkgycnb37XmAeuiXddB8UBZg"
-    },
-    {
-     "title": "구글맵, 한국 서비스 강화된다···네이버·카카오 등 ‘긴장’",
-     "url": "https://www.khan.co.kr/article/202611131444011",
+     "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
+     "url": "https://www.khan.co.kr/article/202611131019001",
      "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR0VDk6qlQ9F2uU2HV6I1QZ92KzxdHK7LutGPcKG3Da4oZcp5JDRR__bpLQjw"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdftAwGzdZPD3b38q6ITaTgUey3FzmKy2BejWuEy6o3EfT5xlTBSS4tTTfhSc"
+    }
+   ]
+  },
+  {
+   "keyword": "035420",
+   "traffic": "100+",
+   "pubDate": "Thu, 12 Nov 2026 23:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS0tGbAt1ntycbMoJQvyPNuc5JgQH65aaIGg57NP9jrvXr8jqnuNR5GBL_VQo",
+   "news": [
+    {
+     "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+     "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS0tGbAt1ntycbMoJQvyPNuc5JgQH65aaIGg57NP9jrvXr8jqnuNR5GBL_VQo"
+    },
+    {
+     "title": "Naver Establishes Logistics Subsidiary to Challenge Coupang's Rocket Delivery",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/13/NIY2CTCHFFCZHLNWVLTNUGBS74/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs0RwERCcasU4dsT9bOmLjMVvhebK-VgxshFyf1qZdFsJZhsNGx63OqGMPTlw"
+    },
+    {
+     "title": "NAVER's Core Ad Business Wavers... Personalized AI Agents as Its Big Bet",
+     "url": "https://www.asiae.co.kr/en/article/IT/2026111310295830817",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSs7zZH7BN8bOHjTRmagJfaA4_JozjcVUaows3nsmNTv4a0g3BbFY0f6sxMo_Q"
+    }
+   ]
+  },
+  {
+   "keyword": "로보택시",
+   "traffic": "100+",
+   "pubDate": "Thu, 12 Nov 2026 22:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1P_UGe-V3MnrRWBqFzDelqZKEXMuviQ5vxA6LruqVeHOb_KnIsngK0wMLs-4",
+   "news": [
+    {
+     "title": "\"운전대도, 페달도 없다\"‥테슬라 사이버캡 국내 첫 공개에도 \"판매 계획은 없다\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865258_37004.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1P_UGe-V3MnrRWBqFzDelqZKEXMuviQ5vxA6LruqVeHOb_KnIsngK0wMLs-4"
+    },
+    {
+     "title": "[FSD 온로드] '테슬라 사이버캡' 국내 첫선…차주들 FSD 확대 촉구",
+     "url": "https://v.daum.net/v/5qgcJrTscO",
+     "source": "Daum",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHqa-ezqKopZF9srQcNY3Obrn571ZKawxUCcc4e5CE97oFSMmum2FsxJgJx2w"
+    },
+    {
+     "title": "[포토뉴스]운전대도 페달도 없는…테슬라 자율주행 ‘로보택시’",
+     "url": "https://www.khan.co.kr/article/20261112203101A/?cp",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjMRSRxrg51dNo6Wur6r7c0z_tZW5_S0qC-xD3a0ODaUGPd3Lu5m9YveEmv98"
+    }
+   ]
+  },
+  {
+   "keyword": "이창호",
+   "traffic": "100+",
+   "pubDate": "Thu, 12 Nov 2026 22:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuw6bSWOsyIwPx-vJ4KzwSuXf1n6hDX6oZhv6zUEVsOKMjy6mmkT5QfQ-mofY",
+   "news": [
+    {
+     "title": "\"이창호 9단과의 대국은 양보합니다\"",
+     "url": "https://www.cyberoro.com/news/news_view.oro?num=532945",
+     "source": "사이버오로",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuw6bSWOsyIwPx-vJ4KzwSuXf1n6hDX6oZhv6zUEVsOKMjy6mmkT5QfQ-mofY"
+    },
+    {
+     "title": "사이버오로, 효림 꺾고 레전드 바둑리그 플레이오프 진출",
+     "url": "https://www.yna.co.kr/view/AKR20261113034300007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmwkMr_MR-UKnK65nckxSuAuCZSbiV9aAU7HGLDkTv_mEjxGJjWqCN5qdegN8"
+    },
+    {
+     "title": "김승준-양건, 승리 합작…한국기원 자회사 사이버오로, 효림 잡고 PO 진출",
+     "url": "https://www.kukinews.com/article/view/kuk202611130134",
+     "source": "쿠키뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvQveLIe_RltURcZBzC5Ps1OCr8P8l1z3aeTtqXC3VbqtbZkQ0O5nIAKP1sP4"
     }
    ]
   },
@@ -187,77 +239,25 @@
    "keyword": "국기",
    "traffic": "100+",
    "pubDate": "Thu, 12 Nov 2026 21:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqXAUnca_W4EJEgRD0JIpWEKmJ02EVPbBvJB6OJkMDxUyRvm4afyDZCmlRSHo",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4vH94HvNODgyU90ze9w0mBBrHHHThDUYycJhO79GzOxA6uDrvW7zYyuRMkw0",
    "news": [
     {
-     "title": "北, 인공기 가로 폭 줄였다…1948년 정권 수립 이후 처음",
-     "url": "https://www.donga.com/news/Politics/article/all/20261113/135019966/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqXAUnca_W4EJEgRD0JIpWEKmJ02EVPbBvJB6OJkMDxUyRvm4afyDZCmlRSHo"
-    },
-    {
-     "title": "北, 헌법 개정해 국기 비율 변경…1948년 건국 이후 처음",
-     "url": "https://www.yna.co.kr/view/AKR20261113030300504",
+     "title": "北, 헌법 개정해 인공기 비율 변경…1948년 건국 이후 처음(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113030351504",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXg1ORh2PAiKhzny-nilTSkhoTh-gte_enb9HU5ed7Budw6cxjBhXThB7iCVU"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4vH94HvNODgyU90ze9w0mBBrHHHThDUYycJhO79GzOxA6uDrvW7zYyuRMkw0"
     },
     {
-     "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
-     "url": "https://www.koreadaily.com/article/20261112193925025",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFxwtlpsRC04cRaobIXUzewhxjiiGVrnU7Y-lbTwwa7PiQ8SRf5rEaqos484I"
-    }
-   ]
-  },
-  {
-   "keyword": "england vs australia",
-   "traffic": "100+",
-   "pubDate": "Thu, 12 Nov 2026 21:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnG5JHIXC2kg9roEomdTErKnfRr6Ye3R-QCF-GCiQikbzRjHY3JnBY0qEihk",
-   "news": [
-    {
-     "title": "Australia vs England LIVE: First ODI, Optus Stadium, Perth - cricket score, commentary & updates",
-     "url": "https://www.bbc.com/sport/cricket/live/cnv9n5lgdv6t",
-     "source": "BBC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnG5JHIXC2kg9roEomdTErKnfRr6Ye3R-QCF-GCiQikbzRjHY3JnBY0qEihk"
+     "title": "북한, 헌법 개정으로 국기 비율 변경",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712033",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0UgAvCRp6cC_QbEi5_rS0hEhe9VnX7nv92VWxaJTJZYwnZnx3L-zxe36BI1s"
     },
     {
-     "title": "Australia-England face off again but most eyes are elsewhere",
-     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-1st-odi-1528703/match-preview",
-     "source": "Cricinfo",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1vl0gniKLOBpZbz9gYCq4duNj9ki-1suQ6lHVFEV9JFq20o75e1DgPQtLErY"
-    },
-    {
-     "title": "Australia's Mitch Marsh wins toss, sends England in to bat in 1st cricket ODI",
-     "url": "https://www.foxsports.com/articles/soccer/australias-mitch-marsh-wins-toss-sends-england-in-to-bat-in-1st-cricket-odi",
-     "source": "FOX Sports",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnRw3_MsNi3h37UNPQPJPzijCOZK0W-dC4-gT5NTxRXeSfjRSlouIyrH0zV18"
-    }
-   ]
-  },
-  {
-   "keyword": "고용노동부",
-   "traffic": "100+",
-   "pubDate": "Thu, 12 Nov 2026 21:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSznuU0mUYQaWgheL4XioE0pp6NTIt_hYes7ZGAtvweHAk9bIwe74bJs-u_0io",
-   "news": [
-    {
-     "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
-     "url": "https://www.khan.co.kr/article/202611081637001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSznuU0mUYQaWgheL4XioE0pp6NTIt_hYes7ZGAtvweHAk9bIwe74bJs-u_0io"
-    },
-    {
-     "title": "노동부, '가짜 사업소득 계약'·'사업장 쪼개기' 기획 감독",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6865406_36918.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9f_nlIGkcYVzlrDgII08e7TFBIvC60k8WL8pdpa4JdMtqYTanPImjPx4QfLg"
-    },
-    {
-     "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374720",
-     "source": "전기신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4CPWHIsfBZt18PPGxxLNTlE7ZUtdGjScu3TtCD0kD0BCVEf5UFmQNcjLqH4A"
+     "title": "北, 정권 수립 78년 만에 인공기 비율 바꿨다",
+     "url": "https://www.segye.com/newsView/20261113506383",
+     "source": "세계일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbUkOdfn5THXBTY5dtEvgotukKoixV_hwSd6kTirJEXqf-Y7FYEKeL-fhSEs4"
     }
    ]
   }
