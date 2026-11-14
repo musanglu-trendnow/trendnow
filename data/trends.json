@@ -1,107 +1,61 @@
 {
- "updated": "2026-11-15 06:37",
+ "updated": "2026-11-15 07:38",
  "items": [
   {
-   "keyword": "룰러",
+   "keyword": "복권",
    "traffic": "5000+",
-   "pubDate": "Sat, 14 Nov 2026 10:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyEiHl45xv83jbLyHv2reQVmMbmadshfWY4rO7_sP_bFTTQknG10Bs1n6PIrU",
+   "pubDate": "Sat, 14 Nov 2026 13:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4Bdjcw4dVw6lUz9M8I-GlAOjuOjhpQ2Y68xTRTRpzRjFgy13Rm6q9Xbid-w",
    "news": [
     {
-     "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyEiHl45xv83jbLyHv2reQVmMbmadshfWY4rO7_sP_bFTTQknG10Bs1n6PIrU"
+     "title": "제1250회 로또 1등 9명···당첨금 31억원",
+     "url": "https://www.khan.co.kr/article/202611142052001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4Bdjcw4dVw6lUz9M8I-GlAOjuOjhpQ2Y68xTRTRpzRjFgy13Rm6q9Xbid-w"
     },
     {
-     "title": "[롤드컵]젠지, BLG 상대로 1세트 승리…기선 제압",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868290",
+     "title": "1250회 로또 1등번호 당첨자 14명...20억씩 배당",
+     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602149",
+     "source": "헤드라인제주",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThiOt6hdjdNvRgkbkxlwmViJl8KmfbOvksM5aiRLew9yDno_5JLWJexH379w"
+    },
+    {
+     "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
+     "source": "edaily.co.kr",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohO6s1Zi2_BC5mdQPkbGnMtekO8maMIhDn9iRPoDfmOoC0wF6uIJk1w40axw"
+    }
+   ]
+  },
+  {
+   "keyword": "이승기",
+   "traffic": "1000+",
+   "pubDate": "Sat, 14 Nov 2026 13:00:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjVXZIN4THyUcEXssOMB1snfYDm-CaVR9J39wOcAjCrUZiMw682pRmY_9NYeU",
+   "news": [
+    {
+     "title": "'105억 전세 피해' 이승기 \"부동산에 악마들이 득실거려\"",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868186",
      "source": "뉴시스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhakdLQUCIjpMuxP--hBzdNcxmHTLmYP4qfahq9URBsWXwbYO75RMBGe2f94"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjVXZIN4THyUcEXssOMB1snfYDm-CaVR9J39wOcAjCrUZiMw682pRmY_9NYeU"
     },
     {
-     "title": "[롤드컵] '바이퍼' 박도현, \"한화생명전 분기점, 젠지 3-2로 꺾고 우승하겠다\"",
-     "url": "https://www.osen.co.kr/article/G1112909828",
-     "source": "OSEN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZlppJF2qBARm_eGXvwvNGVhuhZlZBZlwdYQMxO-eo-O4E3bWqmRJJN-KpCoE"
-    }
-   ]
-  },
-  {
-   "keyword": "포르투갈 대 덴마크",
-   "traffic": "2000+",
-   "pubDate": "Sat, 14 Nov 2026 11:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2kZZl8F9zcqq95bHdN9cfOop-OHrwMvhpxPALA1T1bw4r4S9fXLQZm7nEEKc",
-   "news": [
-    {
-     "title": "네이션스 리그 포르투갈 대 덴마크 경기 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bo-dao-nha-vs-dan-mach-tai-nations-league-1799982.ldo",
-     "source": "Laodong.vn",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2kZZl8F9zcqq95bHdN9cfOop-OHrwMvhpxPALA1T1bw4r4S9fXLQZm7nEEKc"
+     "title": "＂안 당해 보면 모른다＂…경험자의 뼈때리는 조언",
+     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611150002",
+     "source": "한국경제TV",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj68mNolvc00R5AU3OvFtt29pi2nNKag2_OI-f7BHJ6wQM9O5GP61Co8q-yjs"
     },
     {
-     "title": "경기 프리뷰: 포르투갈 vs 덴마크, 11월 15일 오전 2시 45분: 조 1위 자리를 놓고 경쟁.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bo-dao-nha-vs-dan-mach-2h45-ngay-15-11-can-dich-ngoi-dau",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfsnbgAvQRGtnSXyTNCNCtysTHeGY4HAAsJJKT915vLQFvdN-o9_1rAlhb9_0"
-    }
-   ]
-  },
-  {
-   "keyword": "portugal vs denmark",
-   "traffic": "500+",
-   "pubDate": "Sat, 14 Nov 2026 11:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR18aGMWqQa50mI4u5YokR9cOfZ7QpARJnmggW3wX90Nk8AmVbWxYWNYW-VHFE",
-   "news": [
-    {
-     "title": "Portugal vs Denmark Confirmed Lineups",
-     "url": "https://www.whoscored.com/news/tsmldyQ_5U-YBmPdFT2DcA/show/cng112-20261114-portugal-vs-denmark-confirmed-lineup-1794682172",
-     "source": "WhoScored.com",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR18aGMWqQa50mI4u5YokR9cOfZ7QpARJnmggW3wX90Nk8AmVbWxYWNYW-VHFE"
-    },
-    {
-     "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
-     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxTFlGQTQ",
-     "source": "Reuters Connect",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRop5MybbaIK9xEU0j238ah-ntdDoiZUrBs8ITYVyN4Hqgb7TgFzJwOe0AuDm0"
-    },
-    {
-     "title": "Watch UEFA Nations League Soccer: Livestream Portugal vs. Denmark From Anywhere",
-     "url": "https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-portugal-vs-denmark-from-anywhere/",
-     "source": "CNET",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe4h1HpxLdfhZJTA_I3-Ug4jBTZzuQtoDRXJgtYAlvYVWUlwvkjQxHZ_ZgAI0"
-    }
-   ]
-  },
-  {
-   "keyword": "아프리카",
-   "traffic": "500+",
-   "pubDate": "Sat, 14 Nov 2026 10:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHA_hReyEvSm-L_E08t_9Qh7icrNvarU9SCthby4izElTsJAJPIJHYBRN2cl0",
-   "news": [
-    {
-     "title": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상",
-     "url": "https://www.seoultopnews.kr/news/articleView.html?idxno=100353",
-     "source": "톱뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHA_hReyEvSm-L_E08t_9Qh7icrNvarU9SCthby4izElTsJAJPIJHYBRN2cl0"
-    },
-    {
-     "title": "한·아프리카재단, ‘2026 글로벌 액셀러레이팅 in Africa’ 기후테크 성과공유회 개최",
-     "url": "https://wowtale.net/2026/11/14/268054/",
-     "source": "와우테일",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPlbIUC43JtIV5wKqwG9_Rp869oHwGV68HMMBTV7RzPbYKl7BdoMz0oP3SZBY"
-    },
-    {
-     "title": "[AI서머리] 경기창경, 2026 경기스타트업페스타 개최‧스킨서울랩, 정주영 창업경진대회 최우수상",
-     "url": "https://startuprecipe.co.kr/archives/5841370",
-     "source": "스타트업레시피",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc59nZRFDhPvgmtFsSS4r46PwjoRgVD-iZQlKEuwomHte4O9XIljaQaSRJXkI"
+     "title": "‘105억 전세금 분쟁’ 이승기, “부동산에 악마 가득해, 안 당하면 모른다” 뼈있는 경고",
+     "url": "https://sports.khan.co.kr/article/202611141748013",
+     "source": "스포츠경향",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8gR0DxV0UHODyCeLybjXjaKtL25nyOVGAPVxEh22szSeYX1VhGQWm0ZZyYMU"
     }
    ]
   },
   {
    "keyword": "김하성",
-   "traffic": "200+",
+   "traffic": "1000+",
    "pubDate": "Sat, 14 Nov 2026 12:30:00 -0800",
    "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2JKzuYDVSqaU1R8tfZv8QbUmGJJeLB1aDWNpBGgLJTISGLmrZQT5xmrILHGU",
    "news": [
@@ -122,6 +76,110 @@
      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html",
      "source": "MBC 뉴스",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtZQR3sCh0gdl9npAEdM0xD6fWlSQKyWKwWB5hrIJKyT5mclSoVtn44fwFSTY"
+    }
+   ]
+  },
+  {
+   "keyword": "아버지",
+   "traffic": "500+",
+   "pubDate": "Sat, 14 Nov 2026 12:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7p6f7CHY6NbS8ES9NPtcMqwnJ_C0jzAoIeHp9BmYwc16v4HUJ52HMoY-0Af0",
+   "news": [
+    {
+     "title": "하리수 \"중학생 때부터 父와 대화 단절…몰래 성전환 수술\"",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868296",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7p6f7CHY6NbS8ES9NPtcMqwnJ_C0jzAoIeHp9BmYwc16v4HUJ52HMoY-0Af0"
+    },
+    {
+     "title": "\"8㎝ 뇌종양, 두개골 제거\"…빽가, 부모에 진단 숨기다 '눈물' - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/12/2026111209361465715",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyaomfY6zwZ_4bzZo-YHjBaL7wv7cc32cvafgxgAAIP8-vmEOiak60-In_EQw"
+    },
+    {
+     "title": "하리수 \"성전환 반대 父, '낳아서 저따위'라고 폭언…화해한 적 없다\" 오열 ('동치미')",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100096800009038",
+     "source": "스포츠조선",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWYp8NVB81tXrXWBqZ-OnzqAvKNY6USIDPohDSA9cf2bXeuElsOQoTnB-Ogac"
+    }
+   ]
+  },
+  {
+   "keyword": "portugal vs denmark",
+   "traffic": "500+",
+   "pubDate": "Sat, 14 Nov 2026 11:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPWSDn8CdFtb1kT48agzHvgZxLch7a1VNL4U1HBf4-vHAti86jpWh5zeNN0yk",
+   "news": [
+    {
+     "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
+     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxSjZHODE",
+     "source": "Reuters Connect",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPWSDn8CdFtb1kT48agzHvgZxLch7a1VNL4U1HBf4-vHAti86jpWh5zeNN0yk"
+    },
+    {
+     "title": "Shafaq News..Nations League: Denmark routs Portugal",
+     "url": "https://shafaq.com/en/sport/Nations-League-Denmark-routs-Portugal",
+     "source": "شفق نيوز",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ5Ia_eDpNIUu587nEd5T-y3_XvaZAYwa8PYi0bKNWqX6FenRrFKPBru7Vr7I"
+    },
+    {
+     "title": "Riemer again leaves Froholdt on bench for Portugal-clash: See the Danish starting lineup",
+     "url": "https://www.flashscore.com/news/soccer-uefa-nations-league-riemer-again-leaves-froholdt-on-bench-for-portugal-clash-see-the-danish-starting-lineup/tSc9MDhR/",
+     "source": "Flashscore.com",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAAIPBRm7RPcuGS3e1AaI8fhySlA1Yk2i_40tKFBPeejJt9NdoNSexoda4Io"
+    }
+   ]
+  },
+  {
+   "keyword": "잠실주공5단지 아파트",
+   "traffic": "200+",
+   "pubDate": "Sat, 14 Nov 2026 13:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTidCYOu_HsPl0IV4wUjMOs8mUqEgS7XqE8HiTed7YjpBFEzMAOt2PghCUSGvM",
+   "news": [
+    {
+     "title": "[단독]잠실주공5단지, 분양신청 저조에 조합장 해임 기로…재건축 ‘삐걱’",
+     "url": "https://news.mtn.co.kr/article/2026111415191575156",
+     "source": "MTN 머니투데이방송",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTidCYOu_HsPl0IV4wUjMOs8mUqEgS7XqE8HiTed7YjpBFEzMAOt2PghCUSGvM"
+    },
+    {
+     "title": "\"9개월 전 37억 찍었는데…\" 잠실엘스, 29억대 매물 등장",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645645392&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwv_6GvwQb908vC11kpjk5Ia3nay5IiKswjytWMCf9IGfc6Ehl1glk_v2DBo"
+    },
+    {
+     "title": "\"잠실 30억도 흔들린다\"…강남·서초로 몰리는 매수세에 중상위권 '주춤'",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867547",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToLDpP63Krc_HkR07oQQY9z0dLBRLXs0GWxdLvkQOMOcvOdQ7yEzTK_7BWL3c"
+    }
+   ]
+  },
+  {
+   "keyword": "lpl",
+   "traffic": "200+",
+   "pubDate": "Sat, 14 Nov 2026 12:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
+   "news": [
+    {
+     "title": "LoL Esports 2027 and Beyond",
+     "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
+     "source": "LoL Esports",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8"
+    },
+    {
+     "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
+     "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGPt-8-EHsH_NZHYycE431Hmh2i2R_Epd-eOVEAd7nt1PckIQNXtQ-kEmURSc"
+    },
+    {
+     "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
+     "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
+     "source": "The Korea Daily",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRokfgC0gVvtmKCadk36OA1UpeoLg9mtlyjJqNKTP1HUYHlM0xhPpb4_GRLZiI"
     }
    ]
   },
@@ -152,106 +210,54 @@
    ]
   },
   {
-   "keyword": "이세계아이돌",
-   "traffic": "200+",
-   "pubDate": "Sat, 14 Nov 2026 11:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3NUx5e7w908dBU3C_evSvRsnYpHtAWofdCxt3QnFwfCm6YfHThITPlLYco_c",
-   "news": [
-    {
-     "title": "이세계아이돌, 지상파 '음악중심' 출격…실제 몸 없는 6인조 걸그룹, 멜론 7위 이어 무대까지",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276419",
-     "source": "톱스타뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3NUx5e7w908dBU3C_evSvRsnYpHtAWofdCxt3QnFwfCm6YfHThITPlLYco_c"
-    },
-    {
-     "title": "지니뮤직, 버추얼걸그룹 이세계아이돌 마케팅 '시동'",
-     "url": "https://www.fnnews.com/news/202611100905129167",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIyghE-v3J29L45cWq69WBlnRr8iGxVOzjBEd2JimJFAMCeHp2r-FzYK7u18E"
-    },
-    {
-     "title": "이세계아이돌 미니 2집 발매…전국 15곳 팝업 진행 : 연예",
-     "url": "https://news.jkn.co.kr/post/1083484",
-     "source": "재경일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2ypX-4IzI5NQR85KqNaDw6IozbM0Bisf2Br8CrH14RpO2_DcswRPfCuFFJow"
-    }
-   ]
-  },
-  {
-   "keyword": "빈",
-   "traffic": "200+",
-   "pubDate": "Sat, 14 Nov 2026 11:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhxsqMifoz8xiJRyrYu54rBRbJ2PXzvymY-cZ5W3gPE6kC9Q-xdeSma7z_hc",
-   "news": [
-    {
-     "title": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287327.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhxsqMifoz8xiJRyrYu54rBRbJ2PXzvymY-cZ5W3gPE6kC9Q-xdeSma7z_hc"
-    },
-    {
-     "title": "10년 전 공개한 졸업장 또 소환…전한길의 ‘하버드 2차 공세’에 이준석 폭발",
-     "url": "https://www.seoul.co.kr/news/politics/congress/2026/11/14/20261114500025",
-     "source": "서울신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4V0t-UjzfWcv2Xc4XSdmlVZRUAKp_DfwCZIMcfxUJFZlrbAMrnME_8dMNq-Q"
-    },
-    {
-     "title": "전한길 “노무현 추천서로 하버드 입학”…이준석 “허위 사실 추가 고소”",
-     "url": "https://www.kyeonggi.com/article/20261114580059",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG8U93cyEz2mrRFZ0ihNYf5z2K9n8nkQUcw5AQFIyEip1R11plDivDWeMWa4"
-    }
-   ]
-  },
-  {
-   "keyword": "아버지",
+   "keyword": "bồ đào nha đấu với đan mạch",
    "traffic": "100+",
-   "pubDate": "Sat, 14 Nov 2026 12:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5N4N9-KE_VB2GLIfIoC5tTtsNL8SanMIpJk9MG5gmQt3-7-P1QRbptJfx1w",
+   "pubDate": "Sat, 14 Nov 2026 13:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4iiJxPiJg5htZvtj_Bzh7giFZTaRJSS37Ebku2UyeYIJCkrGdCth0sLEyYho",
    "news": [
     {
-     "title": "치매 부모가 생전에 물려준 재산…되돌릴 수 있을까 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/12/2026111210123451419",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5N4N9-KE_VB2GLIfIoC5tTtsNL8SanMIpJk9MG5gmQt3-7-P1QRbptJfx1w"
+     "title": "Video bóng đá Bồ Đào Nha - Đan Mạch: Thảm bại kinh hoàng & nỗi nhớ Ronaldo (Nations League)",
+     "url": "https://www.24h.com.vn/bong-da/video-bong-da-bo-dao-nha-dan-mach-tham-bai-kinh-hoang-noi-nho-ronaldo-nations-league-c48a1811200.html",
+     "source": "Tin tức 24h",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4iiJxPiJg5htZvtj_Bzh7giFZTaRJSS37Ebku2UyeYIJCkrGdCth0sLEyYho"
     },
     {
-     "title": "“전 재산을 OO에게” 치매 아버지 유언장 본 남매 충격",
-     "url": "https://www.wikitree.co.kr/articles/1173180",
-     "source": "위키트리",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYXQ1GgkBiRpnKgt9e51PKBqQwq-U9AK0pRFL5D0DT000iLRzoU4ewNReUhF4"
+     "title": "Các cầu thủ Bồ Đào Nha sẽ mặc áo số 7 tri ân Ronaldo",
+     "url": "https://vnexpress.net/cac-cau-thu-bo-dao-nha-se-mac-ao-so-7-tri-an-ronaldo-5144581.html",
+     "source": "VnExpress",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM11Ek9Ywu9MWTQsRmD-_AgV-j0Xn5TiZBuU6_ArXj7w1_ZjmSzrN_kSDpGrg"
     },
     {
-     "title": "배우 권영경, 치매 앓는 어머니와 감동의 무대… 가수 성리 메모리 싱어 출격",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752122",
-     "source": "국제뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyWhVbqzLNOKCeMnLxUrHrNLn58TnrpKQx70II0ihB4pgysQ083jjSoEIev24"
+     "title": "Ronaldo muốn Lionel Messi “góp mặt” trong trận tri ân sự nghiệp bóng đá",
+     "url": "https://cafebiz.vn/ronaldo-muon-lionel-messi-gop-mat-trong-tran-tri-an-su-nghiep-bong-da-176261114205115729.chn",
+     "source": "CafeBiz",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmq-xNwp2wfnV7Kky7ZfngsiRLDqq0NPKpzzBMnYYDBVOt_03TM0DwWB53QNg"
     }
    ]
   },
   {
-   "keyword": "lol",
+   "keyword": "nations league",
    "traffic": "100+",
-   "pubDate": "Sat, 14 Nov 2026 11:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
+   "pubDate": "Sat, 14 Nov 2026 12:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvkI5HMb6T6IZKMol2dmfID5Wf3tPLD01pRjn_L1_I8a_aMNaRmg0abGsB5U0",
    "news": [
     {
-     "title": "LoL Esports 2027 and Beyond",
-     "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
-     "source": "LoL Esports",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8"
+     "title": "Hamstring Injury Sidelines Mbappé for Italy Match",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/12/2WCTWES5A5G7FOHQ62IN5XNTYM/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvkI5HMb6T6IZKMol2dmfID5Wf3tPLD01pRjn_L1_I8a_aMNaRmg0abGsB5U0"
     },
     {
-     "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
-     "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGPt-8-EHsH_NZHYycE431Hmh2i2R_Epd-eOVEAd7nt1PckIQNXtQ-kEmURSc"
+     "title": "Mbappe available for France’s Nations League clash with Turkiye: Zidane",
+     "url": "https://www.arabnews.com/football/mbappe-available-for-frances-nations-league-clash-with-turkiye-zidane-3011923",
+     "source": "Arab News",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPqmVNCZC4_sW4yNvSgR1ehnFZb6QqUSfUKyA2HZg8hkNhX2C-1fTmcFDClw"
     },
     {
-     "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
-     "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
-     "source": "The Korea Daily",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRokfgC0gVvtmKCadk36OA1UpeoLg9mtlyjJqNKTP1HUYHlM0xhPpb4_GRLZiI"
+     "title": "From the top to the spectre of elimination: a catastrophic scenario haunts Zidane with France",
+     "url": "https://www.goal.com/en/news/from-the-top-to-the-spectre-of-elimination-a-catastrophic-scenario-haunts-zidane-with-france/blt8aba70dd4b39d30f",
+     "source": "Goal.com",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV-7nzWn6meUpVZQhdiVSsWcR4iyT0dm2dcVKQZTcjluCavk6bm-9ofZ7f7Zg"
     }
    ]
   }
