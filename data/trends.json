@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-15 23:43",
+ "updated": "2026-11-16 00:39",
  "items": [
   {
    "keyword": "재건축",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "pubDate": "Sun, 15 Nov 2026 04:30:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSizqKezhPQMS67MDky9K-Yf9aqbFxJ9uO4L8Q0jxJMGMx5sZFjK2npTRvt_6k",
    "news": [
@@ -28,28 +28,54 @@
    ]
   },
   {
-   "keyword": "일본 한국 야구",
-   "traffic": "500+",
-   "pubDate": "Sun, 15 Nov 2026 04:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD2ucCsTJRPxRLCvkzZS-SdxPDjrdgLRZGWquUUvZe_ntrc7WJnJiR8DlxjeE",
+   "keyword": "알렉산더 즈베레프",
+   "traffic": "1000+",
+   "pubDate": "Sun, 15 Nov 2026 05:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd19V8LpzPwOxsAip_8h15ucJZb05jQFue9MS4BoyDbDHDMTxhuiX2m5NzJtA",
    "news": [
     {
-     "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/14/MTLH675YURA6XD3ICXSKJ2KTWQ/",
+     "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294",
+     "source": "테니스코리아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd19V8LpzPwOxsAip_8h15ucJZb05jQFue9MS4BoyDbDHDMTxhuiX2m5NzJtA"
+    },
+    {
+     "title": "즈베레프와 알카라즈는 ATP 파이널에서 각 조 1위를 차지할 예정이다.",
+     "url": "https://www.vietnam.vn/ko/zverev-va-alcaraz-se-dan-dau-2-bang-dau-tai-atp-finals",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROvhYDY5hH-pX6sKbq3M7ntVBdnKe4WfYpvh9jfybsNtRGMtQIhXTfHlEXiCE"
+    },
+    {
+     "title": "ATP 파이널 2026 예측: 알카라스 1위 후보",
+     "url": "https://ko.laodong.vn/tennis/nhan-dinh-atp-finals-2026-alcaraz-ung-vien-so-1-1800096.ldo",
+     "source": "Laodong.vn",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCwsTLeZBbA_VSnCKl6qOawl-zXGJY4jrWFTDN2YUQuEmLciwB_4Hu39bFMDU"
+    }
+   ]
+  },
+  {
+   "keyword": "미미미누",
+   "traffic": "500+",
+   "pubDate": "Sun, 15 Nov 2026 05:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM",
+   "news": [
+    {
+     "title": "힐링 아일릿",
+     "url": "https://www.newsis.com/view/NISI20261115_0021533394",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM"
+    },
+    {
+     "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
      "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD2ucCsTJRPxRLCvkzZS-SdxPDjrdgLRZGWquUUvZe_ntrc7WJnJiR8DlxjeE"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMHGq2pwJ-mKcS4QwfNmVH4mhfvbsE1LmlJZA0-SC2i1c08q-aZjGPzpTS1QY"
     },
     {
-     "title": "깨어난 김도영‥'한일전 12연패, 오늘 끊어낼까'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865820_37004.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJrjCGV8AIjVL9FGZCqNRbtn3kBhYKpNop8731j89Ww86Mhn6jVsirY5y-bU4"
-    },
-    {
-     "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ_2vmPuZ9_HVnqpGN-GA5xsmdr4r9y513hBr5oa84SL5ERhY6ZH8wRROMfWw"
+     "title": "아일릿 윤아, 안대도 패션으로 승화",
+     "url": "https://www.news1.kr/photos/8214951",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYqhsevTb8TffcUlHGRe0Dwft2xLT3EvNSGI2J8zoLStcsaGe8aiib44cf-FU"
     }
    ]
   },
@@ -57,25 +83,25 @@
    "keyword": "입양",
    "traffic": "200+",
    "pubDate": "Sun, 15 Nov 2026 05:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZk8-jJRVsNknUzg-xqP_eU85QUw53zAhKNKDq9Lie2mv_QHlfMm_fw9zKig",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQejM-tTWKabEaZ0amAldBhQUNJ47IeJWLd6rtdCLTIfqT1eauNn_7kTgTeUis",
    "news": [
     {
-     "title": "\"다시는 안 키운다\" 입양 거절했는데... 예상 못한 일이 벌어졌다",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284762",
-     "source": "OhmyNews",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZk8-jJRVsNknUzg-xqP_eU85QUw53zAhKNKDq9Lie2mv_QHlfMm_fw9zKig"
+     "title": "\"여기가 미감 종착지\"…김나영, ♥마이큐 작업실서 허리 감싸 안으며 '사랑꾼 면모' 과시",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/HE3TSNRSGAYTANZTGI2TEMDGMU/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQejM-tTWKabEaZ0amAldBhQUNJ47IeJWLd6rtdCLTIfqT1eauNn_7kTgTeUis"
     },
     {
-     "title": "서울청년 70% \"남녀 모두 차별겪어\"…\"결혼싫다\" 여성은 남성 두 배",
-     "url": "https://www.yna.co.kr/view/AKR20261113112800004",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBFXaB795QqLCeN8zsb4SDR0-tIQYOMBmAig7EwYEgkqeeVH33mCdOL5WphmQ"
+     "title": "\"누가 여기에 갖다 놓은 거야?\"...김나영, 주방 서랍 열어보고 '깜짝' 놀란 사연 ('노필터티비')",
+     "url": "https://www.koreadaily.com/article/20261115040636923",
+     "source": "미주중앙일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfhs76PR2UBlTWC8BjV-vK4XrJez4UrYHGqN3ACbpIY_5AVkmRTUXQpYNdC4s"
     },
     {
-     "title": "서울 여성 청년 25% \"결혼 안 해\"…출산·입양도 남성보다 부정적",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115141231CT3",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXvnvoeRZb5xBR-T8NNFaIvAuy6HjSQZV_6fwr7yItVag3HQNOYA9kK3FyqTI"
+     "title": "김나영♥마이큐, 작업실서 과감한 스킨십...\"진짜 천생연분\" 신혼 일상 (노필터)",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100101580009397",
+     "source": "스포츠조선",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJiWRjEwwYIpqAuwfSLOa9o0mlIwA48P8zbXlvQFC4bFihcmYjR_5q4J5HAk"
     }
    ]
   },
@@ -102,32 +128,6 @@
      "url": "https://www.dongbukilbo.com/etnews/?fn=v&no=42757&cid=21070200",
      "source": "동북일보",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4sZDn1_MSTh1onKK9klwgaqOVzetIU5TMsIHFjr-4FMvQM5-iIycvlK1iSBA"
-    }
-   ]
-  },
-  {
-   "keyword": "미미미누",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 05:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM",
-   "news": [
-    {
-     "title": "힐링 아일릿",
-     "url": "https://www.newsis.com/view/NISI20261115_0021533394",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM"
-    },
-    {
-     "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMHGq2pwJ-mKcS4QwfNmVH4mhfvbsE1LmlJZA0-SC2i1c08q-aZjGPzpTS1QY"
-    },
-    {
-     "title": "아일릿 윤아, 안대도 패션으로 승화",
-     "url": "https://www.news1.kr/photos/8214951",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYqhsevTb8TffcUlHGRe0Dwft2xLT3EvNSGI2J8zoLStcsaGe8aiib44cf-FU"
     }
    ]
   },
@@ -170,16 +170,16 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeEcY2Rpb3bZS9YR6mr6HG4RgZU4hJM09jEAmiJYaJoAc96vqjDrFE41Zl2To"
     },
     {
-     "title": "복귀 청원 14만 넘겨 vs \"겸손은 연기, 폭언 일삼아\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611152213408716_005.html",
-     "source": "YTN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYqdfnErU1B0xrRIznsCNzPou2i8ndL0PHes9cYGKBcITFsvFT1g5jpC-vNcI"
+     "title": "[씨줄날줄] 차등의결권",
+     "url": "https://www.seoul.co.kr/news/editOpinion/weft-column/2026/11/16/20261116027006",
+     "source": "서울신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN3HVHjva0C7uEtxAnlBEjSv6UBncsoYaN4xtObtBoRdijqrBqfGpg6wGc49w"
     },
     {
-     "title": "‘강심장’ 서학개미?…‘젠슨 황 스캔들’ 엔비디아 4500억원 샀다",
-     "url": "https://www.donga.com/news/Economy/article/all/20261115/135026650/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVbcDD87pKqEvpHOhoJpi5SXu_mUDGVdBBz5wQXThIaKnkI5yVZXk-CQofp68"
+     "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1287402.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ69B8l4wwTt2U3cRxxeDvZb4Ple9boeGqWR40vjwiy0-iD4ILQw4WAwXxK2pI"
     }
    ]
   },
@@ -196,16 +196,16 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVsHgr98EjxAEZdsYixdmF-r1lRayR6P026kUNwfT1ejf-ihvSKXFks9aBzh4"
     },
     {
+     "title": "HD현대, 美기업과 ‘바다의 드론’ 진수",
+     "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116032006",
+     "source": "서울신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_xdwKzBd_C9GSdlRQVPUMESKf5CWgbQ_iV4PdCvjOkQZFfc_BGL2tNC8aa4E"
+    },
+    {
      "title": "HD현대, 미 무인함정 시장 공략 발판",
      "url": "https://www.khan.co.kr/article/202611152031025",
      "source": "경향신문",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw"
-    },
-    {
-     "title": "적과 아군 사이 승조원 없는 함정…\"미래 해상전 게임체인저\"",
-     "url": "https://stock.mk.co.kr/news/view/1199092",
-     "source": "매일경제 마켓",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwTIiS7txQ5ggeKc5FGhuV18p51mTDd0sSUWonSCoA3ubyg1l5RRVHsWg3NJQ"
     }
    ]
   },
@@ -254,10 +254,10 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpqqhJAWYyEd27xmxfbVsDdqiZpHNk1NQ1Df7xYLQVJUUQ_QnfuPFI0rrvto"
     },
     {
-     "title": "[사진]홈에서 아웃되는 김주원",
-     "url": "https://www.osen.co.kr/article/G1112910278",
-     "source": "OSEN",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOee64o_BABxwVYhOA-pJ3d6E6EecYw-FwAi8DPx3Z92BjqP4xD8TIyoX1SFo"
+     "title": "만루 기회 살려 2점차 벌리는 김휘집",
+     "url": "https://www.newsis.com/view/NISI20261114_0002292136",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfcxZ5KjqKI8S0Y39N4y5ncO6w5IloJZ-cUN0GXBsb-KgfSjFszGPtX4D8y0"
     }
    ]
   }
