@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-15 20:39",
+ "updated": "2026-11-15 21:50",
  "items": [
+  {
+   "keyword": "한국 일본 야구",
+   "traffic": "1000+",
+   "pubDate": "Sun, 15 Nov 2026 02:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
+   "news": [
+    {
+     "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
+     "url": "https://www.yna.co.kr/view/AKR20261115011300007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs"
+    },
+    {
+     "title": "‘후반기 ERA 0.90’ 日 괴물 에이스, 그런데 한국만 만나면 부진…한일전 12연패 탈출 기회일까 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/15/202611151535778294O",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrz-oIOxxOje3GxkKIsrdFT0RbFhqf8X3-U23O2bLzwlddxeDoUMc_E__-ecY"
+    },
+    {
+     "title": "'우승 도전' 한국, 김지찬-김도영 테이블세터 유지…안현민, 4번 지명타자",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868749",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR64sSbTS2UZXSHK5ae3o-mRP2LfNY1wgYr-Lp1fG_69XWnUJ7joMuJJX-Lk8s"
+    }
+   ]
+  },
   {
    "keyword": "전국노래자랑",
    "traffic": "1000+",
@@ -24,32 +50,6 @@
      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275441",
      "source": "톱스타뉴스",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpINcXhUrTzMKeR7malsnYcvf3rgQFsSin88B8xCtjzj4MllXTZLjgT4pF9aw"
-    }
-   ]
-  },
-  {
-   "keyword": "apbc 중계",
-   "traffic": "500+",
-   "pubDate": "Sun, 15 Nov 2026 02:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
-   "news": [
-    {
-     "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
-     "url": "https://www.yna.co.kr/view/AKR20261115011300007",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs"
-    },
-    {
-     "title": "'한일전 12연패 끊나' 한동희 사구 여파→안현민 4번 DH, 문현빈 우익수 선발…최원호 감독 \"선발 등판했던 투수들 제외 전부 대기\" [오!쎈 도쿄] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/15/202611151738776281O",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmAPPEJZ8u5OVyTvWzO9wU8oQFrglYxQ041zhXmSqnxdjFanmamCD_6ITZgiA"
-    },
-    {
-     "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3QQulPrn_4Q_IMjITp11qeKQ5sZkm6_fxKYmyiDVgiazJ0z6n3hOs9UKWED4"
     }
    ]
   },
@@ -83,135 +83,31 @@
    "keyword": "웨이브",
    "traffic": "500+",
    "pubDate": "Sun, 15 Nov 2026 00:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF4lWVclj1aYSSCwCI_8_OsXQNjrBQOzk9OqgtbUAA0XfMQc91x2wXWMPmdrg",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0S4up-08gBUyLKvEq3nN6Rx704gO555LUPqQp5Ck7EewdQkKpswPUVjS5KKE",
    "news": [
     {
-     "title": "노정의 '우아한 여인'",
-     "url": "https://www.mt.co.kr/photo/202611151951172214",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF4lWVclj1aYSSCwCI_8_OsXQNjrBQOzk9OqgtbUAA0XfMQc91x2wXWMPmdrg"
-    },
-    {
-     "title": "[ET포토] 최지수, '화이트 엔젤'",
-     "url": "http://www.etnews.com/20261115000152",
+     "title": "[ET포토] 하츠웨이브, '주목할만한 개성'",
+     "url": "https://www.etnews.com/20261115000132",
      "source": "전자신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR030lSve6AnxhG4DvotxqcBTAHO7pClHxWJPOdkxzf3HTYo7DcQLNKGxoHKtg"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0S4up-08gBUyLKvEq3nN6Rx704gO555LUPqQp5Ck7EewdQkKpswPUVjS5KKE"
     },
     {
-     "title": "포즈 취하는 조나단",
-     "url": "https://www.newsis.com/view/NISI20261115_0021533388",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfZh1Whik7IU2f5cSygFg9_lep4XBqwpzVcwse7K4BY6MsbsFY8M_aHchwBMM"
-    }
-   ]
-  },
-  {
-   "keyword": "bangladesh vs south africa",
-   "traffic": "500+",
-   "pubDate": "Sun, 15 Nov 2026 00:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaKNM6cIQMWbak0D6tRkpIHw6Zb7Sa1TtfS5dcTftd_ryKZ1HPfNxUBQ0mExM",
-   "news": [
-    {
-     "title": "Shanto: 'Very important for the whole batting unit to perform'",
-     "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662",
-     "source": "Cricinfo",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaKNM6cIQMWbak0D6tRkpIHw6Zb7Sa1TtfS5dcTftd_ryKZ1HPfNxUBQ0mExM"
+     "title": "카르멘, 향기로운 하트",
+     "url": "https://www.news1.kr/photos/8214174",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz79noGH0kvG2jNMhMwkyW02ZiNIiZOtLUXQI6uO6z-Jx1oTdBqAKG-VzdE2k"
     },
     {
-     "title": "How to watch South Africa vs Bangladesh 2026 1st Test: Free Streams & Preview",
-     "url": "https://www.techradar.com/entertainment/cricket/watch-south-africa-vs-bangladesh-2026-1st-test-free",
-     "source": "TechRadar",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1IEKbDLI6wuhXtXx6iEKzAMMLwQXjpPJ-plmEdlU7wuGaXJYgPiYueK1l-Os"
-    },
-    {
-     "title": "Mahfijul Islam Falls First Ball on Test Debut as Rabada Joins Rare List",
-     "url": "https://easternherald.com/2026/11/15/mahfijul-islam-first-ball-test-debut-rabada-record/",
-     "source": "The Eastern Herald",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE1kJo4tD080auvwVE69XKhJvC4_4R10p-I8RyncoLdBP5hBHVCswJuvPyY60"
-    }
-   ]
-  },
-  {
-   "keyword": "백신",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 02:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGxuW3okDTZ2oJRcAxI7RpNd6mUdispvVXPppQ4hEDOivXdQHReN13g-3kLc",
-   "news": [
-    {
-     "title": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”",
-     "url": "https://www.khan.co.kr/article/202611151323001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGxuW3okDTZ2oJRcAxI7RpNd6mUdispvVXPppQ4hEDOivXdQHReN13g-3kLc"
-    },
-    {
-     "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRnoXzU6SJri-DhzEkuU3Ovgp_OmzFk4BPTykkgMZ8dKCcotULtBz0jsHIPZc"
-    },
-    {
-     "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
-     "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12",
-     "source": "로이슈",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcSqnIkiwVn-xhKk5GuWHkXnQMZVtc4HTT4Sh7K_88fqyPOIsK1j1v-95nQnE"
-    }
-   ]
-  },
-  {
-   "keyword": "로봇",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 02:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMJOfZSKhPbCzrQ48YaiaGMZQP4i2zTwDIvrQqbDT3P_LbXvfkTGcl5J3_jU",
-   "news": [
-    {
-     "title": "'제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
-     "url": "https://www.etnews.com/20261115000075",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMJOfZSKhPbCzrQ48YaiaGMZQP4i2zTwDIvrQqbDT3P_LbXvfkTGcl5J3_jU"
-    },
-    {
-     "title": "[대구] '국제 로봇 콘테스트' 개최...\"로봇 기술 경쟁\"",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611131451583586",
-     "source": "YTN",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu1zrvCOD4rrfrcHcZyHt_bB4I-PAe2cizZhPBiqSH4nADYmnEy_1dqZ9s2uw"
-    },
-    {
-     "title": "한국기술교육대 학생들, 국제로봇콘테스트 1위·3위",
-     "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500025",
-     "source": "서울신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_Gb86JztFHkF9UAGYGS7bZvIHmJ0Snxkt9aCXKSiY5pLcWPB3Wok1JFADReo"
-    }
-   ]
-  },
-  {
-   "keyword": "멜론 뮤직 어워드",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 01:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM",
-   "news": [
-    {
-     "title": "힐링 아일릿",
-     "url": "https://www.newsis.com/view/NISI20261115_0021533394",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM"
-    },
-    {
-     "title": "[ET포토] 아일릿, '시크릿 에이전트'",
-     "url": "https://www.etnews.com/20261115000148",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeR653wrAThPs3KSJyHQsABpH1jYx9Puqx89V0XtglpWCkL4gPdFbqskMLhY0"
-    },
-    {
-     "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMHGq2pwJ-mKcS4QwfNmVH4mhfvbsE1LmlJZA0-SC2i1c08q-aZjGPzpTS1QY"
+     "title": "[사진]리센느 미나미 '인형 등장'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/14/MNSGCNBRGU4DCN3BGM2DKMRQMY/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-iK9FTQ4Jz2IeENeJy_3vuuGqPV5-TEhMcOF64Hs0HHy7BUN2v0Kbzlnpd-A"
     }
    ]
   },
   {
    "keyword": "화물기",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Sun, 15 Nov 2026 02:30:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadLmhtiM1eFFMugilxnIvPWLFd7TGVpAf_Mlg3aG4TZuDKJ2nh8NgrNvLxVo",
    "news": [
@@ -228,10 +124,114 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVJV-tBukpEAqjSw7VsIsDP3AkAzgoAqeCY4a2f7zwfDAxp3NXFZnxZhZ3QhI"
     },
     {
-     "title": "테러 아닌 낡은 구리선이 발단…항공관제망 노후화가 부른 역대급 미 항공대란",
-     "url": "https://www.koreadaily.com/article/20261114203812294",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRENJNVCWI9Iv_GQ-zQANE_SDEJfF0eHeibQnalWqmV2KdAj-OfKKQUcr9mUcg"
+     "title": "FAA 운항중단에 미국 스포츠도 비상…NBA·NHL·대학 경기 연쇄 차질",
+     "url": "https://www.khan.co.kr/article/202611151831001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxA7oAM72dd0JP-GU6dXMRZ8DKQpQg0ZOh6If6cCU6DtVTSMxJ4R6d7gk-SzY"
+    }
+   ]
+  },
+  {
+   "keyword": "백신",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 02:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGxuW3okDTZ2oJRcAxI7RpNd6mUdispvVXPppQ4hEDOivXdQHReN13g-3kLc",
+   "news": [
+    {
+     "title": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”",
+     "url": "https://www.khan.co.kr/article/202611151323001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGxuW3okDTZ2oJRcAxI7RpNd6mUdispvVXPppQ4hEDOivXdQHReN13g-3kLc"
+    },
+    {
+     "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
+     "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12",
+     "source": "로이슈",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcSqnIkiwVn-xhKk5GuWHkXnQMZVtc4HTT4Sh7K_88fqyPOIsK1j1v-95nQnE"
+    },
+    {
+     "title": "영아에 기한 하루 지난 백신 투여…대법 \"의사 면허정지 과해\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114049300004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRATWXgXH9Q94_5wWV8ig010f1mHZQgUgdP-ktRUw50u4_YT4vnP-AVs078Qg"
+    }
+   ]
+  },
+  {
+   "keyword": "로봇",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 02:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb5erKSVJ3ZBuhiFd22C3W9stS-XTcPpPaTPXo2n4v4L2Cz0_Mx59rnj3UHFo",
+   "news": [
+    {
+     "title": "JP모건 “미국 휴머노이드 2030년 40만대”…한국 로보티즈 주목",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02394406645645720&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb5erKSVJ3ZBuhiFd22C3W9stS-XTcPpPaTPXo2n4v4L2Cz0_Mx59rnj3UHFo"
+    },
+    {
+     "title": "JP모건 \"미 휴머노이드 2030년 40만대\"…로보티즈 유망 부품사 선정",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217376",
+     "source": "AI타임스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HSFps7DwakbjEbxKI228v3NADowd0s6KqLovTp0LHjM_v5yN5CSTc-B5xi8"
+    },
+    {
+     "title": "로봇이 로봇을 만든다면…2083년엔 로봇과 인구수 비슷해질 수도",
+     "url": "https://www.nongmin.com/article/20261115500065",
+     "source": "농민신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS95Zq48Q47vlUSBU2BcKVre29BeJ0gdkPgk7rKjt1Easc7mYjkr9l6c8OXBI"
+    }
+   ]
+  },
+  {
+   "keyword": "멜론 뮤직 어워드",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 01:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9fHOIf6XFIANYk3xMlgRPleFl0pkizXaxPUPQ5pSS2fxb-40K85j0JAPaluU",
+   "news": [
+    {
+     "title": "[포토] 아이브 리즈, 리즈시절",
+     "url": "https://m.imbc.com/enews/view/524891",
+     "source": "MBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9fHOIf6XFIANYk3xMlgRPleFl0pkizXaxPUPQ5pSS2fxb-40K85j0JAPaluU"
+    },
+    {
+     "title": "아이브 'MMA 미모 폭격'",
+     "url": "https://www.mt.co.kr/photo/202611151949494127",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnvix9pkXMWyqcg_MfNLo7RUT8gP-sYQNYsJiz2pIZkO_8ZfsqlSoT91JEJiY"
+    },
+    {
+     "title": "[ET포토] 아이브, '케이팝의 아이콘'",
+     "url": "https://www.etnews.com/20261115000162",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMbVZo_LIeZwd0ORkq-LHmE6Mqi_a9M8m546hplHh3MbD0HPZ_hUJFZaSR71s"
+    }
+   ]
+  },
+  {
+   "keyword": "김유재",
+   "traffic": "100+",
+   "pubDate": "Sun, 15 Nov 2026 02:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3Bx4RghyYMZMzGyQHPZFE5spxp14uHR6Pjn7SNYxrpLeM9mKF8sA25yjRM",
+   "news": [
+    {
+     "title": "피겨 김유재, 시니어 GP 4차 대회 쇼트 3위…트리플 악셀 성공",
+     "url": "https://www.yna.co.kr/view/AKR20261115018700007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3Bx4RghyYMZMzGyQHPZFE5spxp14uHR6Pjn7SNYxrpLeM9mKF8sA25yjRM"
+    },
+    {
+     "title": "'시니어 무대 첫 메달 보인다' 기대주 김유재, 그랑프리 4차 쇼트프로그램 3위 랭크…'2위와 0.32점 차이'",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/15/MVTDONTBGVTDENLEMNRDOZTBME/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg60DS9P6mp79vopxKI3qk9GZOZILuzTbtDYCa4q8r_uYJAwxgCAUYFV-mPbA"
+    },
+    {
+     "title": "'트리플 악셀 성공' 피겨 김유재, 시니어 그랑프리 4차 대회 쇼트 3위…첫 메달 도전",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868444",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShiEFDP9IXozH4_BRubsb6PvS3i__SLoQLknRccioNnp2PAZhbdIxnOgCpS2Q"
     }
    ]
   },
