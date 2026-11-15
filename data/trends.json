@@ -1,197 +1,133 @@
 {
- "updated": "2026-11-15 17:06",
+ "updated": "2026-11-15 17:54",
  "items": [
+  {
+   "keyword": "구자욱",
+   "traffic": "2000+",
+   "pubDate": "Sat, 14 Nov 2026 23:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBJL2XEQn_EkPD7nx7TVm-6weHa-UyExLYLh0qrhEzLRtgmCdRaHZCRyvVsMk",
+   "news": [
+    {
+     "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBJL2XEQn_EkPD7nx7TVm-6weHa-UyExLYLh0qrhEzLRtgmCdRaHZCRyvVsMk"
+    },
+    {
+     "title": "미네소타 1루수 고민, KBO리그에서 답 찾나? 美 매체가 주목한 삼성 우승 영웅",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/15/GVRDAYJWHFTGEZBQG4ZTEYLFG4/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQde4woaIpY-b-z85n5p0CFzo9Ai_1sjvq2BjnFdQCquJkPQhZ32MmWMkF5TcQ"
+    },
+    {
+     "title": "구자욱-원태인 필요성 역설한 삼성 이종열 단장…구자욱은 MLB 도전 위해 에이전트 선임 변수",
+     "url": "https://sports.donga.com/sports/article/all/20261115/135026508/1",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBJnC5LTjbSAqJAiHz7k_jrHUZe_Qg7eBCEruClhwFz9-qwX-SgBDPaTgreB4"
+    }
+   ]
+  },
+  {
+   "keyword": "부산 kcc 대 대구 한국가스공사",
+   "traffic": "1000+",
+   "pubDate": "Sat, 14 Nov 2026 23:10:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "창원 lg 대 수원 kt",
+   "traffic": "500+",
+   "pubDate": "Sat, 14 Nov 2026 23:30:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "금오산",
+   "traffic": "500+",
+   "pubDate": "Sat, 14 Nov 2026 23:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRncJXKKaJWTJ2wIWciY4y0tr1r61k4o1AaTe7d0Adg06V1UkdLCh5tqLLshOU",
+   "news": [
+    {
+     "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
+     "url": "https://view.asiae.co.kr/article/2026111510595800590",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRncJXKKaJWTJ2wIWciY4y0tr1r61k4o1AaTe7d0Adg06V1UkdLCh5tqLLshOU"
+    },
+    {
+     "title": "구미 금오산 '하늘다리' 개통…효자봉 등산로 연결",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868709",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2TbnY3rtQ_49i_bNHzcrNkVF76tqkA5lMZwip8sPi1yTkfJd1mI5vQVxNR40"
+    },
+    {
+     "title": "도로가 갈라놓은 금오산 등산로, 35m 하늘다리로 이어졌다",
+     "url": "https://www.dailian.co.kr/news/view/1715180/%EB%8F%84%EB%A1%9C-%EA%B0%88%EB%9D%BC%EB%86%93-%EA%B8%88%EC%98%A4%EC%82%B0-%EB%93%B1%EC%82%B0%EB%A1%9C-35m-%ED%95%98-2026",
+     "source": "데일리안",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq18ZoQnmZ8QzjdKH2qb6kI5SoBAJCUlPm1pOossZJr21cmYCnsphPTJ-JHY0"
+    }
+   ]
+  },
   {
    "keyword": "레버리지",
    "traffic": "500+",
    "pubDate": "Sat, 14 Nov 2026 22:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6tN1Knh93Y_B0EQVOUNN2DOtxt8fZ794HNwhsBXVKCtTKorC1u2qsylncJtI",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgsbHHTYL9RzF0b7v7-PKcKy_5S5yOAY2f7RDHuB-DFN6FAd5NgovR0XqQPYk",
    "news": [
     {
-     "title": "증시 폭락 후 초고수는 \"반등에 베팅\"…'레버리지·급락주' 담았다",
-     "url": "https://www.hankyung.com/article/202611157013i",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6tN1Knh93Y_B0EQVOUNN2DOtxt8fZ794HNwhsBXVKCtTKorC1u2qsylncJtI"
+     "title": "[단독] '단일 레버리지ETF' 국무회의, 안건 평균 44초 논의 후 '이견 없음' … 금융위원장 불참",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/11/2026111100028.html",
+     "source": "뉴데일리",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgsbHHTYL9RzF0b7v7-PKcKy_5S5yOAY2f7RDHuB-DFN6FAd5NgovR0XqQPYk"
     },
     {
-     "title": "[심양섭의 정론직격] 고위험 고수익 레버리지의 저주",
-     "url": "https://www.pennmike.com/news/articleView.html?idxno=131722",
-     "source": "펜앤마이크",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgguB7ebEP7giF1ZT5EiR9pdNwYi7q_Eb9tt4bDREm1BtQfT0f3UhJHyZoWXA"
+     "title": "단일종목 레버리지 6조 손실…영업맨 성과급은 왜",
+     "url": "https://www.jabon.co.kr/news/articleView.html?idxno=8738",
+     "source": "자본시장뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQhZbiEN706gNo5N54Ei67bFpnCmW_E7BZUqreQkFZl6VI12XrWZGAPYF4k64"
     },
     {
-     "title": "SOXL, TQQQ로 손실 복구? 매수 전에 꼭 보세요",
-     "url": "https://contents.premium.naver.com/finfarmer00/finfarmer/contents/261111221333083bz",
-     "source": "네이버 프리미엄콘텐츠",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEmqeRt_WAKW-1QIGLuNsoENOnx6vAs553QhcLsVDANJMkCx4VWS-ZAwVFQbU"
+     "title": "[단독] 끝나지 않는 ‘레버리지 ETF’ 논란…권익위, 이해충돌 조사 나선다",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=394009",
+     "source": "시사저널",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNdry_X72Ae0gQE5OqqSTBUt3Ro1utPkJIyjrRn3NrUGbs8Lxc9DVZDuwt_w"
     }
    ]
   },
   {
-   "keyword": "다니엘",
-   "traffic": "500+",
-   "pubDate": "Sat, 14 Nov 2026 22:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwawaPJwN7Cm7xMVDcc36Ilj1XlPXCceJHAM4yXlVGfKXH4WQqAxIJ3ml6jMQ",
-   "news": [
-    {
-     "title": "\"착취\"라는 NYT, \"선투자\"라는 韓… 뉴진스가 쏘아올린 K-팝 딜레마 [박지현의 아트월드]",
-     "url": "https://www.fnnews.com/news/202611140300483483",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwawaPJwN7Cm7xMVDcc36Ilj1XlPXCceJHAM4yXlVGfKXH4WQqAxIJ3ml6jMQ"
-    },
-    {
-     "title": "뉴진스 계약서가 말하지 않은 것…K-팝 '인큐베이팅'의 맥락",
-     "url": "https://www.newsis.com/view/NISX20261110_0003862019",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0mxxN5RDqCNJ1RyHeVhSsArP5sxH9FwBl2bE6j6vTx1aVuFqHv32F0itZrCI"
-    },
-    {
-     "title": "'뉴진스 퇴출' 다니엘, 뉴욕타임즈 보도 지지 \"어도어 계약서 지적\" 인증샷 공개",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019842",
-     "source": "SPOTV NEWS",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLAUDjqblXmNPtK0UAl4sfjqHjK6dTFBBHbK2g2wgApdH5TEnr4e_f7W46xVQ"
-    }
-   ]
-  },
-  {
-   "keyword": "테슬라 사이버캡",
-   "traffic": "500+",
-   "pubDate": "Sat, 14 Nov 2026 21:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt55AG61bt1UN1lqKKb59Eh_swT8FrNNzoVguobrFQAM4yven3k9Rx2F2RQE8",
-   "news": [
-    {
-     "title": "운전대 없는 테슬라 '사이버캡', 개인도 산다…가격은 4000만원",
-     "url": "https://zdnet.co.kr/view/?no=20261114234839",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt55AG61bt1UN1lqKKb59Eh_swT8FrNNzoVguobrFQAM4yven3k9Rx2F2RQE8"
-    },
-    {
-     "title": "운전대 없는 테슬라 ‘사이버캡’, 美서 4000만원에 개인 판매",
-     "url": "https://www.chosun.com/economy/auto/2026/11/15/JGEXT5S2XNBRDHZSLUU7GS2TLQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrZ6RsNvfsO1RgEeFXFIESxBplWqxsNjS-U0-mHTz2XanKCq2Y5vMXNLaDeXA"
-    },
-    {
-     "title": "핸들 없는 ’사이버캡’…국내 자율주행은 갈 길 멀어",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH2026111409070399y",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeonClH18CBentzCs6a2ux24LPj7IX3zqSMRD2lClGp-We8FAit2v2w-xT3BM"
-    }
-   ]
-  },
-  {
-   "keyword": "의료",
+   "keyword": "박태환",
    "traffic": "200+",
-   "pubDate": "Sat, 14 Nov 2026 22:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMER7BJHG5QChZd0GXXVd2hG2HCnKAsH02vfkVgzqN9J-CyKaf0nRIP12Y4QY",
+   "pubDate": "Sat, 14 Nov 2026 23:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJeVZaSELcNwLImQO7Big0_1XjOuo2epmKCHAEFZ6CHYgJmAYtUvv1zdLThLc",
    "news": [
     {
-     "title": "[전남광주소식]재난응급의료 종합훈련대회 최우수상 등",
-     "url": "https://www.newsis.com/view/NISX20261113_0003867877",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMER7BJHG5QChZd0GXXVd2hG2HCnKAsH02vfkVgzqN9J-CyKaf0nRIP12Y4QY"
+     "title": "박태환 맞아? 확 달라진 얼굴에 깜짝…살 쏙 빠지고 배우 비주얼[Oh!쎈 이슈]",
+     "url": "https://www.koreadaily.com/article/20261114142452466",
+     "source": "미주중앙일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJeVZaSELcNwLImQO7Big0_1XjOuo2epmKCHAEFZ6CHYgJmAYtUvv1zdLThLc"
     },
     {
-     "title": "대전시, 재난응급의료 종합훈련대회 전국 3위…장관상 수상",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110980",
-     "source": "충청매일",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgqChyjmjFRmqcguZnQrWxOLYUtxWXIDcSkH5M46TrPbyxSV02i8K2J0N-jU"
+     "title": "박태환, 살 뺐나…또렷해진 이목구비",
+     "url": "https://www.donga.com/news/Culture/article/all/20261115/135026893/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpIiXPLb3I5YmUkHXnWQVDh7M-sHA66xkrfEVHzrMaCzcTysP7UH1E10fCcQo"
     },
     {
-     "title": "사천시보건소, ‘2026년 재난응급의료 종합훈련대회’ 전국 1위…‘종합 최우수상’ 수상",
-     "url": "https://www.viva100.com/article/20261113500108",
-     "source": "브릿지경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXOxQT2RT877eVgUdZ55r6QFOVQjmeTAiaTrtZ2-we7TLp8589JdcGgUkF2gE"
+     "title": "박태환 맞아? 볼살 실종에 확 달라진 얼굴…무슨 일 있었나",
+     "url": "https://www.mk.co.kr/news/entertain/12209035",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqAHLPlDZq0shOQBPxLyBgjBxCIubmoxHL7wVRE4vw9AV6lZDl-UolUQ0D-3k"
     }
    ]
   },
   {
-   "keyword": "변동성",
+   "keyword": "화물선",
    "traffic": "200+",
-   "pubDate": "Sat, 14 Nov 2026 22:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7L8U928lXvI4ym9FXAArw12pN792z8AdIj7gkMSIRz2N7JSRb4YhPw0T2bkQ",
-   "news": [
-    {
-     "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 몰린 '두 종목'",
-     "url": "https://www.hankyung.com/article/2026111567997",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7L8U928lXvI4ym9FXAArw12pN792z8AdIj7gkMSIRz2N7JSRb4YhPw0T2bkQ"
-    },
-    {
-     "title": "“언젠가는 오르겠지”...국내 ‘빚투’ 30% 삼성전자·SK하이닉스에 몰렸다",
-     "url": "https://www.chosun.com/economy/money/2026/11/15/64JZ42M7AVCT3AZTQBEZRMZGKI/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPqyzRZk7QGCb60XTe0MwFRS4FTB29EOInfaLLa548RREYFJTIQN2LFdpywSw"
-    },
-    {
-     "title": "'빚투' 속 개미 여윳돈 말라가나…마통 4년 3개월 만에 최대",
-     "url": "https://www.yna.co.kr/view/AKR20261114040800002",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmAb9IpN-0Ip6oKZqKZZtnL8G9lMDSwDZ3u4ClzsbvEqbmue-VqAQOT7fxRA"
-    }
-   ]
-  },
-  {
-   "keyword": "이대호",
-   "traffic": "200+",
-   "pubDate": "Sat, 14 Nov 2026 22:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLipkJR2nPJ-MqVrcY5VXjO9CJWODBGzM-qFpnyhxsvi1fcGed0cM1Xo8ZjhA",
-   "news": [
-    {
-     "title": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1287334.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLipkJR2nPJ-MqVrcY5VXjO9CJWODBGzM-qFpnyhxsvi1fcGed0cM1Xo8ZjhA"
-    },
-    {
-     "title": "돔으로 돌아올 잠실야구장",
-     "url": "https://www.yna.co.kr/view/PYH20261114039900013",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp7aNVojrMVMXiFpr1b9f3pGTH6cYOA1c8nE3rDmSofYpfqJg1qA0VxIQpvR0"
-    },
-    {
-     "title": "[스포츠 영상] KBO 레전드들의 작별 인사‥'굿바이 잠실!'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865691_37004.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRehE9yw7XCzShFwn3-yxp_yaHbhhDY3TC8FLCGKTLAlISFVRa4LiieGvUo-TY"
-    }
-   ]
-  },
-  {
-   "keyword": "조선소",
-   "traffic": "200+",
-   "pubDate": "Sat, 14 Nov 2026 21:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJGRyqQehe3sE0NOmIiJieHDezJnl1ozHsb6EyxvfXoNqYIqTfun_rNAs4cM",
-   "news": [
-    {
-     "title": "[르포] K조선 심장 LNG화물창…HD현중, 품질·속도로 中 추격 따돌린다 By EBN",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2176161",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJGRyqQehe3sE0NOmIiJieHDezJnl1ozHsb6EyxvfXoNqYIqTfun_rNAs4cM"
-    },
-    {
-     "title": "[가보니] '70원'으로 일군 철의 도시…HD현대重 울산조선소",
-     "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903084",
-     "source": "뉴스웍스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRccfDFW6XLgevlY_864z4qmeNcRAoeo8IVXWq6zGJv2Agyml_1jmcdJSDRGU"
-    },
-    {
-     "title": "[르포] 거대한 배는 레고처럼, 화물창은 빈틈없이...HD현대重 조선소 가보니",
-     "url": "https://www.ajunews.com/view/20261115104444659",
-     "source": "아주경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzWDsZkxBihNso4kaQsDNDj77Qe45-UpO6tEJQXFRcuhQHy66eIW594UhYYCU"
-    }
-   ]
-  },
-  {
-   "keyword": "유람선",
-   "traffic": "100+",
-   "pubDate": "Sat, 14 Nov 2026 22:40:00 -0800",
+   "pubDate": "Sat, 14 Nov 2026 23:10:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLiGk6szVg9wL8dvHOzZcU9I-TFMXXiF_0-DAcaN0oNltRAKoC-6ofcm5nBo",
    "news": [
     {
      "title": "‘미시시피의 기적’…유람선-화물선 충돌, 180명 전원 구조",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712959",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712959",
      "source": "KBS 뉴스",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLiGk6szVg9wL8dvHOzZcU9I-TFMXXiF_0-DAcaN0oNltRAKoC-6ofcm5nBo"
     },
@@ -210,8 +146,34 @@
    ]
   },
   {
+   "keyword": "의료",
+   "traffic": "200+",
+   "pubDate": "Sat, 14 Nov 2026 22:50:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfX9p-yRVfyvEaYzGP8oz1cppFqbRGTiyVAmcW8dN_qByWwBx6YAuuUxlYAYo",
+   "news": [
+    {
+     "title": "‘부산의료산업대상’ 대상에 이샘병원 이성근 병원장",
+     "url": "https://mobile.busan.com/view/busan/view.php?code=2026111509463124239",
+     "source": "부산일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfX9p-yRVfyvEaYzGP8oz1cppFqbRGTiyVAmcW8dN_qByWwBx6YAuuUxlYAYo"
+    },
+    {
+     "title": "대구광역시, 시안 의료·교육기관과 협약 추진...공동사업 발굴",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752326",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQSqyG117tjxvIAQLWrQhg_q3fvyebFeMObqS0Af0XrnI6HicE82ynci3rH2U"
+    },
+    {
+     "title": "울산중구가족센터, 결혼이민자 15명과 부산국제의료관광컨벤션 견학",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072515",
+     "source": "경상일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQASX9xKu83fKWosM82daIh9VBdQBsZxMprniyg22CDW3tiUKOYdKNmc7XVIro"
+    }
+   ]
+  },
+  {
    "keyword": "젠틀몬스터",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Sat, 14 Nov 2026 22:30:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVZoW-GkXn5yKkB1ddSchlROyFPLAlPx11iLsYcdTTmAgLNf2aouUZMrX-2nM",
    "news": [
@@ -236,28 +198,28 @@
    ]
   },
   {
-   "keyword": "서버",
+   "keyword": "kb5132061",
    "traffic": "100+",
-   "pubDate": "Sat, 14 Nov 2026 22:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE23deeQgmiPUedXOzwvD18UJ0qUaXFpVPdGqIYeoXqbPHLWazVLZPgzTFydM",
+   "pubDate": "Sat, 14 Nov 2026 23:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3gvzDkjnE6bD7cfLCBsC5qaKqFzo509IXyLLq50HEsHMzDLY_sHaugJXci2E",
    "news": [
     {
-     "title": "\"북한 라자루스, 국내 서버 30곳 노렸다\"",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865762_36967.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE23deeQgmiPUedXOzwvD18UJ0qUaXFpVPdGqIYeoXqbPHLWazVLZPgzTFydM"
+     "title": "Windows 11’s big redesign has started shipping, and the first thing it kills is the Windows 8-era pop-up that asks what to do every time you plug in your phone",
+     "url": "https://www.windowslatest.com/2026/11/15/windows-11s-big-redesign-has-started-shipping-and-the-first-thing-it-kills-is-the-windows-8-era-pop-up-that-asks-what-to-do-every-time-you-plug-in-your-phone/",
+     "source": "Windows Latest",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3gvzDkjnE6bD7cfLCBsC5qaKqFzo509IXyLLq50HEsHMzDLY_sHaugJXci2E"
     },
     {
-     "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-     "url": "https://www.yna.co.kr/view/AKR20261115016000011",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZaCyW4mTxvxF1yUOLdp11SK45XERSs1Z_M_602Mrg6STxPgViZwhQT1j5xg"
+     "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+     "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
+     "source": "The Register",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRQCLDZGho4Il2uA76lsWdoIBF4duar0nQPdkN6b-Iz2y63u_IY_ptierQ6vI"
     },
     {
-     "title": "北 연계 해킹조직, 한국 서버 30곳 공격 표적…정부·금융기관 겨냥",
-     "url": "https://www.kyeonggi.com/article/20261115580015",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTb4Kb4de8Texha5wO_EWHOkUNxaVZgSS9eYnuEujk_Ox2M-3KhlqfyNsLfqrI"
+     "title": "Microsoft fixes audio issues caused by September security updates",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+     "source": "BleepingComputer",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_TmNp1WqFiFqgd2nMCKpHdGJ2REUgN2ly-7dTS4E2x6yZ-wi0PMpukpE_m94"
     }
    ]
   }
