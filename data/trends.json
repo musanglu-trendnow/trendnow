@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-17 07:48",
+ "updated": "2026-11-17 08:43",
  "items": [
   {
    "keyword": "날씨",
-   "traffic": "100000+",
+   "traffic": "200000+",
    "pubDate": "Mon, 16 Nov 2026 13:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DAA5awuf5Rkvj3DPU2n2ro2HKeGa3-I2D1LNjHdBd0ne5h-iuho0bhsS4LI",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRreSifvLAI4itw-9ieEcxKyIfG_apc42Ju58pi5B8Sldr5hD0QKppUOtdPi0Y",
    "news": [
     {
-     "title": "대구·경북 흐리고 밤부터 비…낮 최고 13∼17도",
-     "url": "https://www.yna.co.kr/view/AKR20261117007400053",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DAA5awuf5Rkvj3DPU2n2ro2HKeGa3-I2D1LNjHdBd0ne5h-iuho0bhsS4LI"
+     "title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
+     "url": "https://www.khan.co.kr/article/202611170742001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRreSifvLAI4itw-9ieEcxKyIfG_apc42Ju58pi5B8Sldr5hD0QKppUOtdPi0Y"
     },
     {
-     "title": "[날씨] 전국 오후부터 비…수능일 곳곳 영하권 추위",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117070140Vpr",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnB9ZQWlwh7JcyhzvPZZ6eUKlmVRhrU9hNsXNf8a9uwU0sK1f4hxWBqErFMk"
-    },
-    {
-     "title": "전국 흐리고 오후부터 비‥늦은 밤 차차 그쳐",
-     "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866121_36989.html",
+     "title": "[날씨] 오후~밤사이 전국 비‥내일 오후부터 추워져",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866183_37012.html",
      "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2U_wb2dZQTc9X9eH3JFMFBK5ZqjKpw9jTCUm85BUdRG8q3hMthw9msQVFpA"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiIuU7xtnspuiLxANLtFat1agkvYXVsFK4En_ZQoi0RGWeaKo-0Qr2b1kScmY"
+    },
+    {
+     "title": "강원, 대체로 흐리고 비…낮 최고 16도",
+     "url": "https://www.yna.co.kr/view/AKR20261117009000062",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT38AjYbtEop6J7YKjUvPz7CNQvpy3fhONBoqxgN1aZTn9F8PoTD0qnG7nHxQM"
     }
    ]
   },
@@ -31,51 +31,25 @@
    "keyword": "weather",
    "traffic": "5000+",
    "pubDate": "Mon, 16 Nov 2026 13:30:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMDjL53xT8_0_SjA_1R9ITVTu-tv-Pbrj1Ves35phEtWKo2OUXCB0H4TMlvAY",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg8eNzUWuc0tfhTUphEOcoEfIS6h1FHFLpD7iztnHnsdzeZXkMA30s-pMoAUg",
    "news": [
     {
-     "title": "North Country Evening Weather: Monday, Nov. 16, 2026",
-     "url": "https://www.aol.com/articles/north-country-evening-weather-monday-210431000.html",
-     "source": "AOL.com",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMDjL53xT8_0_SjA_1R9ITVTu-tv-Pbrj1Ves35phEtWKo2OUXCB0H4TMlvAY"
+     "title": "Sunshine returns to Central New York, with a midweek warm-up ahead",
+     "url": "https://cnycentral.com/news/local/sunshine-returns-to-central-new-york-with-a-midweek-warm-up-ahead",
+     "source": "WSTM",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg8eNzUWuc0tfhTUphEOcoEfIS6h1FHFLpD7iztnHnsdzeZXkMA30s-pMoAUg"
     },
     {
-     "title": "Partly cloudy skies for Tuesday",
-     "url": "https://www.kmvt.com/2026/11/11/partly-cloudy-skies-tuesday/",
-     "source": "KMVT",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFMXPJ-8KgGDeFgQkcU0hn0dtQMuAlMcN41z5UBvtVOF-3bP6cGf3Hap92bp8"
+     "title": "Weather Forecast: A quiet warmup takes hold through the week ahead",
+     "url": "https://www.fingerlakesdailynews.com/weather/2026-11-17-evening-a-quiet-warmup-takes-hold-through-the-week-ahead/",
+     "source": "Finger Lakes Daily News",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQRvAZEL1YvVsS3Y9jTxYS1izlLS1u9zoQ9dSyy94bUYHuSU7PGwinHcPmGc"
     },
     {
-     "title": "First Alert Forecast: Warm and Sunny",
-     "url": "https://www.nbclosangeles.com/video/weather-news/video-weather-news/first-alert-forecast-warm-and-sunny-3/3968357/",
-     "source": "NBC Los Angeles",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYB6CM-tkPK794DxV4ZlULFMVgU7JvVl3StD16jQdc-CmC_7gGzOQTKq028_c"
-    }
-   ]
-  },
-  {
-   "keyword": "погода",
-   "traffic": "2000+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZfoVhMWG3I_yjN2ewjHQlHWlHu76EbhhOVxqDO4rZFDUc1IKlkJ4ntSx8IH8",
-   "news": [
-    {
-     "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
-     "url": "https://t-j.ru/weather-msc-16-22nov/",
-     "source": "Т—Ж",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZfoVhMWG3I_yjN2ewjHQlHWlHu76EbhhOVxqDO4rZFDUc1IKlkJ4ntSx8IH8"
-    },
-    {
-     "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
-     "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/",
-     "source": "RTVI",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNL7Q3gfL1BmN17X-CAvjbnHUsKLq4nhAk6KL7VF9p5PTyoz4fJbzInGLt8RY"
-    },
-    {
-     "title": "В Москву идет новая волна потепления 16 ноября: данные синоптика Ильина, какая погода будет в Москве",
-     "url": "https://www.rosbalt.ru/news/2026-11-16/v-moskvu-idet-novaya-volna-potepleniya-5732967",
-     "source": "rosbalt.ru",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5xGvduX2V8A--6sIeMiBje7uG8i-P41FgeZh7pq2K0fnX91k6EaMCz6ChG3Y"
+     "title": "Turning warmer and drier",
+     "url": "https://www.wwnytv.com/2026/11/16/turning-warmer-drier/",
+     "source": "WWNY",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQi5rQMJXNgWSOlm6Utt5UND_Qk1rb2UVVv9Kfv6dCSSC7kgaDFufM3r7dSWSM"
     }
    ]
   },
@@ -83,109 +57,83 @@
    "keyword": "thời tiết",
    "traffic": "2000+",
    "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW_b43b5zzN2RCxjeVPdC7x1opjqJ_OEeU8YJ3XkHUtTKQTNuMj9xRJiIMwIU",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQryTie4aFXwnO0VJAGGWEtyidWazh22n8fdmAp2mWYwm0TrYu8Fy3hxf7eXJc",
    "news": [
     {
-     "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
-     "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg",
-     "source": "Báo Bắc Ninh",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW_b43b5zzN2RCxjeVPdC7x1opjqJ_OEeU8YJ3XkHUtTKQTNuMj9xRJiIMwIU"
+     "title": "Không khí lạnh tràn về từ 18/11, miền Bắc rét sâu, Trung Bộ mưa rất to",
+     "url": "https://vietnamnet.vn/khong-khi-lanh-tran-ve-mien-bac-ret-sau-trung-bo-mua-lon-2572313.html",
+     "source": "Báo VietNamNet",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQryTie4aFXwnO0VJAGGWEtyidWazh22n8fdmAp2mWYwm0TrYu8Fy3hxf7eXJc"
+    },
+    {
+     "title": "Thời tiết ngày 17/11: Nhiều nơi có nắng, miền Bắc chuẩn bị chuyển rét",
+     "url": "https://thuonghieucongluan.com.vn/thoi-tiet-ngay-17-11-nhieu-noi-co-nang-mien-bac-chuan-bi-chuyen-ret-a342165.html",
+     "source": "Thuonghieucongluan.com.vn",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS16nqsVC0W2dWpjwNHGUwvO79r0pGxmHTJGZpRmj5FlV6YURkuG3DJEgyvMe4"
     },
     {
      "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
      "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm",
      "source": "thethaovanhoa.vn",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwqXrbwWrtPOBIhst9rrzyW1eDTCx2MSf3uuQQU_cCyErQjLVV9Ka-Jivi5dU"
-    },
-    {
-     "title": "26 tỉnh, thành phố chủ động ứng phó với các hình thái thiên tai những ngày tới",
-     "url": "https://laodong.vn/moi-truong/26-tinh-thanh-pho-chu-dong-ung-pho-voi-cac-hinh-thai-thien-tai-nhung-ngay-toi-1801571.ldo",
-     "source": "Laodong.vn",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtlQXlgdyQAeV2S2y5TYdtkP8ahkO5U8vl8fBePL_hHTAwV-4I_w12eUeGSc"
     }
    ]
   },
   {
-   "keyword": "สภาพอากาศ",
-   "traffic": "2000+",
-   "pubDate": "Mon, 16 Nov 2026 13:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSXWnG88lr1H3pauJBUWODMXq-ggGziTFIBfRnljzZEz5I8POZzdd-cfomskg",
-   "news": [
-    {
-     "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
-     "url": "https://www.thansettakij.com/general-news/673912",
-     "source": "Thansettakij",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSXWnG88lr1H3pauJBUWODMXq-ggGziTFIBfRnljzZEz5I8POZzdd-cfomskg"
-    },
-    {
-     "title": "กรมอุตุฯ ประกาศล่าสุด เช็กจังหวัดฝนตกหนัก คืนนี้ | มุมข่าว",
-     "url": "https://today.line.me/th/v3/article/YapJ9aL",
-     "source": "LINE TODAY",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3eoP6Sg96tgiQsIe6unWTUQL-okksh4V_L7VTT7FNXDLJc8EtMA8_Ne2VFk"
-    },
-    {
-     "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
-     "url": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-1822-%E0%B8%9E%E0%B8%A2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%8A%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%87/1615204207318375/",
-     "source": "Facebook",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW-wbbRCpNLxKcrKnvUDiwLd1Qnm2wdxe6LDtM-MzQOoWomr8iQ_ILGfbXVRM"
-    }
-   ]
-  },
-  {
-   "keyword": "天气",
+   "keyword": "환승",
    "traffic": "1000+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0llW4HBcto44eszG4_g3L110Onx2Jq1EjrnXqMtDG7t7oi3VjWzpKzoRQs6Y",
+   "pubDate": "Mon, 16 Nov 2026 14:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRidk45kye1ijjPUbrnZfYeQNUogy14ZXYmAiy_vEBU5u5VH_Ai9OnAknD1xqI",
    "news": [
     {
-     "title": "天气｜天文台：今日最高27度 初时有一两阵微雨 明日稍后迎冷锋",
-     "url": "https://global.hk01.com/%E5%A4%A9%E6%B0%94/60411517/%E5%A4%A9%E6%B0%94-%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E6%97%A5%E6%9C%80%E9%AB%9827%E5%BA%A6-%E5%88%9D%E6%97%B6%E6%9C%89%E4%B8%80%E4%B8%A4%E9%98%B5%E5%BE%AE%E9%9B%A8-%E6%98%8E%E6%97%A5%E7%A8%8D%E5%90%8E%E8%BF%8E%E5%86%B7%E9%94%8B",
-     "source": "香港01",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0llW4HBcto44eszG4_g3L110Onx2Jq1EjrnXqMtDG7t7oi3VjWzpKzoRQs6Y"
+     "title": "경기 버스 환승할인비 내년 8개월치만 담아…추미애, 재정 쥐어짜 민생예산 편성",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRidk45kye1ijjPUbrnZfYeQNUogy14ZXYmAiy_vEBU5u5VH_Ai9OnAknD1xqI"
     },
     {
-     "title": "冷锋杀到｜极地涡漩冷空气将袭华南！周中市区急跌至17℃ 北区低见14℃ 秋季保暖贴士- 东张+",
-     "url": "https://www.mytvsuper.com/sc/scoopplus/lifestyle/home/17946607870630/%E7%94%9F%E6%B4%BB-%E5%86%B7%E9%94%8B%E6%9D%80%E5%88%B0-%E6%9E%81%E5%9C%B0%E6%B6%A1%E6%BC%A9%E5%86%B7%E7%A9%BA%E6%B0%94%E5%B0%86%E8%A2%AD%E5%8D%8E%E5%8D%97-%E5%91%A8%E4%B8%AD%E5%B8%82%E5%8C%BA%E6%80%A5%E8%B7%8C%E8%87%B317--%E5%8C%97%E5%8C%BA%E4%BD%8E%E8%A7%8114--%E7%A7%8B%E5%AD%A3%E4%BF%9D%E6%9A%96%E8%B4%B4%E5%A3%AB",
-     "source": "myTV SUPER",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnMQVJNJnM-OCt4zoHo6AEU5YfD_frObT24smDO4265vgjNeyPw5pOKshTLg0"
+     "title": "경기도, MBC 예산 보도 반박…조정 신청·고발 예고",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722180",
+     "source": "뉴스타운",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThQee7xSVco8-Q_DTXhVW2uTzsNhvcr68wH0UZO7SD0c6s7SQ2fVVDdCpB574"
     },
     {
-     "title": "广州今日放晴，蓝天白云入镜",
-     "url": "https://huacheng.gz-cmc.com/pages/2026/11/15/66ff0ed0e8454f00a3c74ac2cd4d80d6.html",
-     "source": "广州日报新花城",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtFDsTmB8S5VPlm7bLh4UhHU1cAByceL9rs5ntfOV3V8RXFi2m_cKU3jYbYGU"
+     "title": "[브리핑 하이라이트] 2027년 본예산안 편성 관련 기자회견",
+     "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161748435016C071&s_code=daily",
+     "source": "경기도뉴스포털",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqmER_lqGSExfXvoBqLJMGQtESpZLyF092EGKNgFBfTc_tmTUMV6ewrnH73co"
     }
    ]
   },
   {
-   "keyword": "germany vs netherlands",
+   "keyword": "nvda",
    "traffic": "500+",
-   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPMqVDFk43q_AltPma-cxoF1O9jQXJwA8Q5sVwd1kKh677sDYLSnTouyzoNI",
+   "pubDate": "Mon, 16 Nov 2026 14:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSawelyU0k-_NKLPhVH_23-zUFcHfsEWm3kRqnKRz4lq971VGTDsFd9IxbXWts",
    "news": [
     {
-     "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
-     "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/",
-     "source": "football360.com.au",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPMqVDFk43q_AltPma-cxoF1O9jQXJwA8Q5sVwd1kKh677sDYLSnTouyzoNI"
+     "title": "Retail investors scoop up Nvidia shares, betting 427.1 billion won after Jensen Huang's exit",
+     "url": "https://www.mt.co.kr/en/stock/2026/11/16/2026111611365557170",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSawelyU0k-_NKLPhVH_23-zUFcHfsEWm3kRqnKRz4lq971VGTDsFd9IxbXWts"
     },
     {
-     "title": "Licensable picture: Germany v Netherlands - UEFA Nations League 2026/27 Group A2 MD6",
-     "url": "https://www.reutersconnect.com/item/germany-v-netherlands-uefa-nations-league-202627-group-a2-md6/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFdZM0pUSw",
-     "source": "Reuters Connect",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6nvEjZeghrrWDePrmS-aK3vu_WG589UppkFzojWCfa8NqRFEjmlMPV_4FEDU"
+     "title": "As Nvidia's stock price fell to a new 52-week low due to the sudden resignation of Nvidia CEO Jensen..",
+     "url": "https://www.mk.co.kr/en/stock/12210183",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGZdKGaz9BqzNpMEBgyEez_VUOHTMArivR0j3QtlNfBNgJDzaIL92HfTVMPYc"
     },
     {
-     "title": "Germany 5-0 Netherlands: Gruda and Wirtz light up Berlin",
-     "url": "https://www.sofascore.com/news/germany-5-0-netherlands-gruda-and-wirtz-light-up-berlin",
-     "source": "Sofascore",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0ZDlZ0ePI-vA0ZvVWeSJ0ei-538BMQbPfw5QQVJvmhAUXYLlwFa9JzAstHk"
+     "title": "iM Securities sees limited Nvidia downside despite Cisco-like pattern; KOSPI lags Japan and Taiwan on foreign selling and strong won",
+     "url": "https://biz.chosun.com/en/en-finance/2026/11/16/TJHYKP4UTZGQBN7BWYFBWI67YE/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVr01mUw_RwNs_2TIe-TSGy_F9l8reHuQ2URESzUFT_0qXdcSuBTdoF91avqc"
     }
    ]
   },
   {
    "keyword": "황보라",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Mon, 16 Nov 2026 13:30:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASXM5N9v9Sq5T5IOvhpKANLvC76eidZvi8Bqy_qdPij6m9_e2NNzaiPJAiMk",
    "news": [
@@ -210,8 +158,86 @@
    ]
   },
   {
+   "keyword": "germany vs netherlands",
+   "traffic": "500+",
+   "pubDate": "Mon, 16 Nov 2026 13:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "news": [
+    {
+     "title": "Germany vs Netherlands: UEFA Nations League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
+     "source": "BBC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA"
+    },
+    {
+     "title": "Germany thrash Netherlands to book quarterfinal spot",
+     "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot",
+     "source": "Al Jazeera",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA3l8-G0pq3F6FD-RDuPn4bc9DI-MqiRKfv3ptxMhu6jrUGg4YDy9BXFyfem4"
+    },
+    {
+     "title": "Licensable picture: UEFA Nations League - Group A2 - Greece v Serbia",
+     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a2-greece-v-serbia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkcxSEs2OFo",
+     "source": "Reuters Connect",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEaE2H1ndpCxNcRju_336f8OYcGtB0epIeQheqo84hPRDEM9pUD1ZnfTVVJQ"
+    }
+   ]
+  },
+  {
+   "keyword": "mu",
+   "traffic": "200+",
+   "pubDate": "Mon, 16 Nov 2026 14:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_PDdqWJ3ZTfy6ETbf6lueyuptwZTTR8o2zog9Dfc5LhIZyGKMvLkFgQqXhk",
+   "news": [
+    {
+     "title": "Licensable video: Video illustrations - CoreWeave reports third-quarter 2026 results - 11/12/2026",
+     "url": "https://www.reutersconnect.com/item/video-illustrations-coreweave-reports-third-quarter-2026-results-11122026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTlVSQ0JPSVZJTlZJREVPSUxMMjYxMTE1TlBTQ1g",
+     "source": "Reuters Connect",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_PDdqWJ3ZTfy6ETbf6lueyuptwZTTR8o2zog9Dfc5LhIZyGKMvLkFgQqXhk"
+    },
+    {
+     "title": "Down 62% From All-Time Highs, Here’s How to Play CRWV Stock as CoreWeave Smashes Q3 Estimates",
+     "url": "https://www.barchart.com/story/news/8854897/down-62-from-all-time-highs-heres-how-to-play-crwv-stock-as-coreweave-smashes-q3-estimates",
+     "source": "Barchart.com",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2vnXlhkdIQV9UaIcA4rFxWbG-UwlsyvUAN3uE1IqJcuJuFhk2TamkH9UYEks"
+    },
+    {
+     "title": "🚨 Trump open to Jensen Huang's return as Nvidia CEO, says tech boss has 'learned a big lesson' Donald Trump said he would welcome Jensen Huang's return as Nvidia CEO, claiming the former chief executive had “learned a big lesson”. His remarks came",
+     "url": "https://www.linkedin.com/posts/moneycontrol_trump-open-to-jensen-huangs-return-as-activity-7528121676035858432-KeeE",
+     "source": "LinkedIn",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa3AKiuJL8Z_Sq4aXLk9v9s2NteunXZi0HOdDKsQvyGmLWiwcuMr7dYyhjcE"
+    }
+   ]
+  },
+  {
+   "keyword": "앤트로픽 상장일",
+   "traffic": "200+",
+   "pubDate": "Mon, 16 Nov 2026 14:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvzRSk5G1spr_-Eh4z6-a9cQhprZZkItUFzuYVgsXkSyRQhe8RlNuR25M62s8",
+   "news": [
+    {
+     "title": "121조 노리는 앤트로픽 IPO...중국·홍콩 기관투자자 청약 배제",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161600490528",
+     "source": "YTN 사이언스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvzRSk5G1spr_-Eh4z6-a9cQhprZZkItUFzuYVgsXkSyRQhe8RlNuR25M62s8"
+    },
+    {
+     "title": "美 로펌 앤트로픽 지분 받아 ‘잭팟’… “돈 대신 주식 달라” 국내도 확산",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229146",
+     "source": "법률신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLd36NCSJ_fXpFmqcwePAYoGKhlwHtPBoLSAteTOxDwit1QxosZD7SBMyNI7E"
+    },
+    {
+     "title": "몸값 1.4조달러 노리는 앤스로픽…'클로드'로 얼마나 벌까",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645646704",
+     "source": "마켓인",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS04OdQKUf2dBSinp_koVSjAU4_k348egPDDjsJIBQhfjiHoVgD9RQuNTxTNBI"
+    }
+   ]
+  },
+  {
    "keyword": "부산날씨",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Mon, 16 Nov 2026 13:40:00 -0800",
    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9Te-Z7-lYvXRO4X2dJz4coqkKjCdEL2MGCJARNCgIZByM0RMNL1A10XUzAE",
    "news": [
@@ -228,36 +254,10 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJwPC4TRMbMKNk1ZtXI3m8l6ks2FdgL_qpH9lyCQ2Lg2NkR9otnWQOzLntaZs"
     },
     {
-     "title": "울산, 가끔 구름 많고 오후부터 비… 예상 강수량 5~20mm",
-     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065571148383053",
-     "source": "울산종합일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRkTHCNOofqLKJXOJ0UPTO0AXNbBmb7TB5DmbxBXPh4qNxAuUdGWmXYvutIDA"
-    }
-   ]
-  },
-  {
-   "keyword": "범죄",
-   "traffic": "100+",
-   "pubDate": "Mon, 16 Nov 2026 13:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScqZymUMqSIACKAqF1-ypUWwGQyiaNCClPdVu4tDwhL_m0I0L6-0a82aEjEck",
-   "news": [
-    {
-     "title": "인천시, 흉기난동 피해자들에 긴급구호금 5천만원 지원(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261116019151065",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScqZymUMqSIACKAqF1-ypUWwGQyiaNCClPdVu4tDwhL_m0I0L6-0a82aEjEck"
-    },
-    {
-     "title": "인천시, 신한은행 기탁금 활용해 범죄 피해 시민 돕는다…상해 정도따라 구호금",
-     "url": "https://www.kyeonggi.com/article/20261116580068",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6oHSCe-1IPrLdjuKNz1AoTDAOpJBy-OURfdTejSWC2WmVtzTEoNlXZSNInpc"
-    },
-    {
-     "title": "인천시, 범죄 피해 구호 사각지대 해소…중증 피해 가구 최대 3000만원 지원",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336879",
-     "source": "인천일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaaWHD164isOOdb1rBxp_7BM24A_ngjCqebpdQKAQZfPQXT29BvrdPEWoB1zc"
+     "title": "부산, 흐리고 가끔 비…예상강수량 5㎜ 안팎",
+     "url": "https://www.newsis.com/view/NISX20261117_0003870644",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_voqs1hmAEX_CcEjvp4dCgch3El-jpoC1Ic7OwjQdIRqk7XZkRAhz5MKcE6M"
     }
    ]
   }
