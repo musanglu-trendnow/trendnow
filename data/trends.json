@@ -1,244 +1,263 @@
 {
- "updated": "2026-11-16 13:11",
+ "updated": "2026-11-16 15:10",
  "items": [
   {
-   "keyword": "담합",
+   "keyword": "은행",
    "traffic": "2000+",
-   "pubDate": "Sun, 15 Nov 2026 18:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvIXVCsLmOfhV5hWf7bQzmv28crssRFlwaMLflgTATr-e860C-Uniqx57DpJs",
+   "pubDate": "Sun, 15 Nov 2026 20:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iuKsma38v8NFih2WjGhv2IzworLG8u8YfkDe7XYsN_YfI2Dc2UbWXSHn9l0",
    "news": [
     {
-     "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
-     "url": "https://www.newspim.com/news/view/20261116000287",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvIXVCsLmOfhV5hWf7bQzmv28crssRFlwaMLflgTATr-e860C-Uniqx57DpJs"
+     "title": "IBK기업은행 '매월 이자주는 통장' 출시…연 3.85% 금리",
+     "url": "https://www.yna.co.kr/view/AKR20261116072100002",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9iuKsma38v8NFih2WjGhv2IzworLG8u8YfkDe7XYsN_YfI2Dc2UbWXSHn9l0"
     },
     {
-     "title": "삼성·SK하이닉스·마이크론, D램 700% 폭등 담합 소송서 \"AI 수요 탓\" 정면 반박",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611141956134528fbbec65dfb_1",
-     "source": "글로벌이코노믹",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM66vbzvpr5hGZlDbvOF3Jz-kcT_GoscwIaoRaKVqE5CHITpNnh3KgT9tJ8w8"
-    },
-    {
-     "title": "\"매들의 편대비행\" 美법원, 메모리3사 D램 담합소송 기각 않고 진행",
-     "url": "https://www.news1.kr/world/usa-canada/6355175",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0Ke_iB0AsOgX-JVDaWP0CEKsXjHtKh6X3msU6vV5J8Hj38wVniBtwzCFT698"
-    }
-   ]
-  },
-  {
-   "keyword": "주가조작",
-   "traffic": "2000+",
-   "pubDate": "Sun, 15 Nov 2026 18:30:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSui3yiEEPvSnI17jMyLXFkq74So9jK1q-H1JIRt7xroElSzl_Qe8db_QR_KOA",
-   "news": [
-    {
-     "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 선고…구속 만료 하루 전 결론",
-     "url": "https://www.khan.co.kr/article/202611161012021",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSui3yiEEPvSnI17jMyLXFkq74So9jK1q-H1JIRt7xroElSzl_Qe8db_QR_KOA"
-    },
-    {
-     "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/16/2026111611402671364",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZYttsNLyglvlzA6A1Z4ehtEqjH1i7L9HOLIz7fUIBDKbgwGsV-PN6fgsn_o"
-    },
-    {
-     "title": "[속보] 대법, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
-     "url": "https://news.jtbc.co.kr/article/NB12328223",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsIZH8HkdR_kfGKQgxsfAppXBpImiS-wK-SyWNLivvfEuUZ0lM6_jDiAyjcrc"
-    }
-   ]
-  },
-  {
-   "keyword": "이무생",
-   "traffic": "1000+",
-   "pubDate": "Sun, 15 Nov 2026 18:50:00 -0800",
-   "img": "",
-   "news": []
-  },
-  {
-   "keyword": "이재명",
-   "traffic": "1000+",
-   "pubDate": "Sun, 15 Nov 2026 17:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLpdgLq510F6D1jBrayIp9TcBfUf4FbLQP9iWUIBxnyb_hBo2VA0nknmeaIO0",
-   "news": [
-    {
-     "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 카드/한컷 | 멀티미디어",
-     "url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148975751&pWise=mSub&pWiseSub=I1",
-     "source": "대한민국 정책브리핑",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLpdgLq510F6D1jBrayIp9TcBfUf4FbLQP9iWUIBxnyb_hBo2VA0nknmeaIO0"
-    },
-    {
-     "title": "[속보] 이 대통령, 17일 필리핀서 다카이치와 4번째 한·일 정상회담···셔틀외교 이어간다",
-     "url": "https://www.khan.co.kr/article/202611161100001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKIxA2FVfHwNk7NRblar3WbI32yq4tcwZJB0KXS_UA590HanhaLoAhMq1dko"
-    },
-    {
-     "title": "이 대통령 \"높아진 위상 걸맞게 국익 지키고 역할 확대\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865914_36911.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBsu76lPJXlzruEUrnVMr3p9LpgbXjBu0zaPJhW6jnDWxB3ChQCznxT0M_5g"
-    }
-   ]
-  },
-  {
-   "keyword": "한화그룹",
-   "traffic": "500+",
-   "pubDate": "Sun, 15 Nov 2026 18:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHRXyoPfyB9tA6KC7r-kVtkhD8FY4UzvvQTVEL2900xZ99TiQOuXiGOch9L8",
-   "news": [
-    {
-     "title": "삼성·SK·네이버가 샀지만…한화 100억대 초호화 레지던스 절반 미분양",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301362.html",
-     "source": "땅집고",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHRXyoPfyB9tA6KC7r-kVtkhD8FY4UzvvQTVEL2900xZ99TiQOuXiGOch9L8"
-    },
-    {
-     "title": "[단독]한화 김동관의 200억대 레지던스 분양률 40%, 누가 샀나",
-     "url": "https://namdi.co.kr/?p=30117",
-     "source": "남다른디테일",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9DFUQ8tOJjkPlLS1E2urRdmlaoZbWXRF5bEU28qyWczj_9jeqiJQH5x26u2g"
-    },
-    {
-     "title": "[단독]시동걸자 600마력 엔진 ‘윙’, 시속 100km 바퀴 단 K9 ‘美상륙작전’",
-     "url": "https://www.donga.com/news/Economy/article/all/20261116/135028854/2",
+     "title": "IBK기업은행, ‘매월 이자주는 통장’ 출시…“목돈은 그대로, 이자는 생활비처럼”",
+     "url": "https://www.donga.com/news/Economy/article/all/20261116/135030841/1",
      "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT76CjzVhb1STGRjXZ7470dbxsUoEBM4_8NCY3fci9tON5m16_gk7SF2drV8jI"
-    }
-   ]
-  },
-  {
-   "keyword": "굿네이버스",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 19:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkxHGGU1dFNS36UwA3thbX1rM5GEG_1aZeiN_Zx91JTVH2gqnUAKID9QHKHaY",
-   "news": [
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5WbY---8i1xSQHlcnllEMkmfbRbiLn_8HOg_g26FYkiZusQ-wwa8piQ2-dwc"
+    },
     {
-     "title": "“사랑 밖에는 답이 없다”…이호선 교수, 모친상 조의금 1억원 기부",
-     "url": "https://www.mk.co.kr/news/hot-issues/12209690",
+     "title": "매달 생활비처럼 이자 받는다…기업은행, 중금채 신상품 출시",
+     "url": "https://www.mk.co.kr/news/economy/12209883",
      "source": "매일경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkxHGGU1dFNS36UwA3thbX1rM5GEG_1aZeiN_Zx91JTVH2gqnUAKID9QHKHaY"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkFlEg-46gZnXd6RZ_A7uua2U5Iaxk1Y14Q_Eyp0tfmAeG4N8O8VkrzWzBXc"
+    }
+   ]
+  },
+  {
+   "keyword": "배구",
+   "traffic": "1000+",
+   "pubDate": "Sun, 15 Nov 2026 20:20:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOChmmgITy58_GlRrZMDCjTqgntt6AulKhiSIU9sjleDiQ3gytd-7ok0dJk8o",
+   "news": [
+    {
+     "title": "마나베 IBK기업은행 감독의 ‘데이터 배구’, V리그 강타중",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005342",
+     "source": "아시아투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOChmmgITy58_GlRrZMDCjTqgntt6AulKhiSIU9sjleDiQ3gytd-7ok0dJk8o"
     },
     {
-     "title": "이호선 교수, 모친상 조의금 1억90만원 굿네이버스에 기부",
-     "url": "https://www.yna.co.kr/view/AKR20261116048700371",
+     "title": "IBK, 흥국생명에 3-0 완승…4연승 질주",
+     "url": "https://www.yna.co.kr/view/MYH20261113023500038",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_xsayBRC5mb2N7pApLzIgb7quero3xB30i3rAXQhi0-mpj5Q_dZbiwZ63DqU"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vfaitk5DV8LkQRd4iZVnv-WEpCqjKgp1Lj5jEXMGZBZhHg_9mv_y0nBpv0A"
     },
     {
-     "title": "'이혼숙려캠프' 이호선, 모친상 조의금 1억90만원 전액 기부",
-     "url": "https://www.hankyung.com/article/202611168641H",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3u7hNnuN1N4fDza5euQDU941DOC-Tgst_tol3exCrj8Mfy8d5rVrxXw--AGg"
+     "title": "[사진]빈틈 공략하는 이소영의 공격",
+     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/13/GY2DGMRXG5RDEMLDGZRGIMRUGY/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvS3na-_RIoMHDVXXMwNwHGw4k0uS8Ylx_dVZRmDGk3sF3W6F1gzO43sYfxdw"
     }
    ]
   },
   {
-   "keyword": "한소희",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 18:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7P-36_PM3HuCewnINmEMO4Gwa7wPyP2-7_Zy82IP_moF5CvYAW5_vxZbHt8M",
+   "keyword": "삼성sdi",
+   "traffic": "500+",
+   "pubDate": "Sun, 15 Nov 2026 21:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6wek6kQgjGD111hfmFoNCii34G-yu5e-1zgYM7OInAiwh2vn20wTurNL2V1c",
    "news": [
     {
-     "title": "bhc, 한소희와 신메뉴 '알싹킹' TV 광고 선보인다…'팜걸코어' 접목",
-     "url": "https://www.news1.kr/industry/distribution/6354843",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7P-36_PM3HuCewnINmEMO4Gwa7wPyP2-7_Zy82IP_moF5CvYAW5_vxZbHt8M"
+     "title": "삼성SDI, 미국 주피터파워에 ESS용 LFP 배터리 16GWh 공급",
+     "url": "https://www.khan.co.kr/article/202611161404001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6wek6kQgjGD111hfmFoNCii34G-yu5e-1zgYM7OInAiwh2vn20wTurNL2V1c"
     },
     {
-     "title": "bhc, 한소희와 함께한 신메뉴 '알싹킹' TV 광고 온에어",
-     "url": "https://www.slist.kr/news/articleView.html?idxno=782156",
-     "source": "싱글리스트",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP10HkmmURPbqSTlNIR0zmYSav_f6iQf7JPE5x47FKtqs8AhqMKYlGrfuNCxk"
+     "title": "HD현대, 북미 청정에너지 전시회서 태양광 모듈 등 공개",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116141357ApQ",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDUZTnpxtPIUYksB8ViDU0c2wpQDlMhN_gGNRQWgvmL3dWASgZZFB4E1y5KF4"
     },
     {
-     "title": "[슬소생]양념치킨은 눅눅하다?…bhc는 달랐다",
-     "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/11/0019",
-     "source": "비즈워치",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAtG5AI_38G3OiakyWWm-hfy_880PrPsfaJ7D3L8ZNJVnTNXC4r6n0tKcQBWw"
+     "title": "발전부터 전력망까지 한자리에…HD현대, 북미 전력시장 공략",
+     "url": "https://zdnet.co.kr/view/?no=20261116113503",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyZC1ZVeoNIWDacbtuXatOnYjgnUJbzeQkO0B3PRAgThHa-BuHC3HbsvR1czA"
     }
    ]
   },
   {
-   "keyword": "예멘",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIOgf2rL-UTUqP2rJ-DsNXnvTnoqMdGLncNiAfvvPBF9nHhMWZiZ9jhk7J8Oo",
+   "keyword": "숙박",
+   "traffic": "500+",
+   "pubDate": "Sun, 15 Nov 2026 21:00:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0GkG-sXKLcYZjxi7yEnjSekRBlYzaVxW0pkfdjx7Me_luhkpOajXQ3UJc5Wo",
    "news": [
     {
-     "title": "“후티 공세에 예멘 정부군, 바브엘만데브 해협서 사실상 철수”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713291",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIOgf2rL-UTUqP2rJ-DsNXnvTnoqMdGLncNiAfvvPBF9nHhMWZiZ9jhk7J8Oo"
+     "title": "BTS 공연 때처럼 숙박 예약 일방 취소 안 된다‥총요금 200% 배상",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6865938_36932.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0GkG-sXKLcYZjxi7yEnjSekRBlYzaVxW0pkfdjx7Me_luhkpOajXQ3UJc5Wo"
     },
     {
-     "title": "홍해 길목서 후퇴한 친사우디군…이란은 바레인에 드론 공격",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01302166645646376",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHF3TKwBpkw2LoEHDFAp5RKGSWncdUgfZ0_UcLVOw27Jh5HoZuXy7UqEf0JzM"
+     "title": "소비자분쟁해결기준 개정안 행정예고",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=457051",
+     "source": "서울Pn",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA"
     },
     {
-     "title": "후티, \"정부군의 라이주 진지 퇴각으로 임시수도 아덴에 육박\" 주장",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868752",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIYnT2Xm2nqj9eA35FhGX0zhyTtVVJ1KsclCS9rOmlDyc2Z-XDfHazx1dtvzY"
+     "title": "행사 앞두고 숙박 예약 일방 취소?…공정위 “요금 200% 배상”",
+     "url": "https://www.kyeonggi.com/article/20261116580248",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnh3z7KQlEARYEtIwWv6tvqg5Uithzbpq8c1A7gf7jroGrtc8DHWFxlOFo8qQ"
     }
    ]
   },
   {
-   "keyword": "청주시",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn1SQTrBXbYfYT16SpKmMmHIQFJw3E5J-A6osgEaF3058UHAIHA0pKBDUW5jk",
+   "keyword": "대한민국",
+   "traffic": "500+",
+   "pubDate": "Sun, 15 Nov 2026 20:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSipMh-vggk4x9N4AsR2oSlHwk7IzipvbabxE2MMaLyanZEcPdC4BTqLWRUL_U",
    "news": [
     {
-     "title": "청주 김장재료 28개 품목 구입비 34만3천원…작년보다 3.4%↑",
-     "url": "https://www.yna.co.kr/view/AKR20261116037300064",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn1SQTrBXbYfYT16SpKmMmHIQFJw3E5J-A6osgEaF3058UHAIHA0pKBDUW5jk"
+     "title": "조지현 박사, K-푸드 대한민국 '남도음식 명장' 선정",
+     "url": "https://www.ikbc.co.kr/article/view/kbc202611160051",
+     "source": "KBC광주방송",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSipMh-vggk4x9N4AsR2oSlHwk7IzipvbabxE2MMaLyanZEcPdC4BTqLWRUL_U"
     },
     {
-     "title": "청주시 김장비용 상승…양념류 가격 급등이 원인",
-     "url": "https://www.viva100.com/article/20261116500209",
-     "source": "브릿지경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GWQc2gz4VFizb01R2KMTskHT0QIHZ0k4nVUcK5ltuIKQ_HaLcnS4XK-FTFk"
-    },
-    {
-     "title": "'금새우' 작년보다 30% 급등…청주 김장재료비 3.4%↑",
-     "url": "https://www.news1.kr/local/sejong-chungbuk/6355133",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhGxMPYWxt65kQ6NGiuDuAXwg26uFtY3eWVthZjEq0Ew5iKpZT28Iu5x0ido"
-    }
-   ]
-  },
-  {
-   "keyword": "조선민주주의인민공화국",
-   "traffic": "200+",
-   "pubDate": "Sun, 15 Nov 2026 18:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzWVQS5koRN7WcxxVy1zhXAR0SAsc4GZnNpoEYA3NpEFfo9JnSfb3Kx4doV0g",
-   "news": [
-    {
-     "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzWVQS5koRN7WcxxVy1zhXAR0SAsc4GZnNpoEYA3NpEFfo9JnSfb3Kx4doV0g"
-    },
-    {
-     "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbhbzCDo_5aSNYabNQluif4XpnxkVNLDt8ybYt9K9Btzx6MuVGLtRMGH_oz18"
-    },
-    {
-     "title": "北도 움직인다… 김정은 최측근, 美·中·러 회담 앞두고 모스크바행",
-     "url": "https://www.chosun.com/politics/north_korea/2026/11/16/X3COILVYKJGM5E3EYZ27263GTM/",
+     "title": "월남전 참전용사 \"명예수당 5만원 인상?...대폭 인상해야\"",
+     "url": "https://www.chosun.com/politics/politics_general/2026/11/11/7XNZN4MMDZA27HTSRB7QBUL2IU/",
      "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAfSDBy3mw2THLIW2Oy0F4a6pHrAi-o6TvSyO4zvr3znXG1AQq208pcch6WLY"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAiXO07AfxdM6JfUtOGRNdaIsMsSfWBPmlrjTylG5FoEVdp6Sk4Wjnpc1_ix4"
+    },
+    {
+     "title": "대한민국의 오늘을 지켜낸 참전영웅, 이제는 합당한 예우로 보답해야 한다",
+     "url": "https://www.dkilbo.com/news/articleView.html?idxno=560857",
+     "source": "대경일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemNs493Yil7kLpNptUQYsPnsUcwilwxrcdqo5A1KJzonYNzf3K1GPv369CrI"
+    }
+   ]
+  },
+  {
+   "keyword": "한동훈 장인",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 21:00:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE8g8WHpdYh0wscQFMRhqucB5RqFnAGmdNF4mizRuOyIziYu-PrV0R8ZQ3euU",
+   "news": [
+    {
+     "title": "‘한동훈 장인’ 진형구 별세…생전 “검찰이 파업 유도” 폭탄발언도",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287380.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE8g8WHpdYh0wscQFMRhqucB5RqFnAGmdNF4mizRuOyIziYu-PrV0R8ZQ3euU"
+    },
+    {
+     "title": "오늘의 부고-김연희 국토교통부 홍보담당관 모친상 외",
+     "url": "https://www.khan.co.kr/article/202611151256001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw"
+    },
+    {
+     "title": "[부음]한동훈(국회의원)씨 빙부상",
+     "url": "https://www.etnews.com/20261115000060",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKgFd0KOx_WRIRNOz69kE8LXDQFoAFCpXrcOqIhafe4zf1XTAZLICs2-2gmz8"
+    }
+   ]
+  },
+  {
+   "keyword": "개인정보",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 20:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2pJF2WgOJBvCejoq-zsNNcmDglhTUtTU8uX1fBiQHPjb8ASHdHLJFxqjw694",
+   "news": [
+    {
+     "title": "한국조폐공사 모바일 상품권 ‘착’, 해킹으로 3083명 개인정보 유출",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147268",
+     "source": "보안뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2pJF2WgOJBvCejoq-zsNNcmDglhTUtTU8uX1fBiQHPjb8ASHdHLJFxqjw694"
+    },
+    {
+     "title": "조폐공사 \"'chak' 정보 유출 사고는 API 인증 허점 노린 공격\"",
+     "url": "https://stock.mk.co.kr/news/view/1199429",
+     "source": "매일경제 마켓",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5Cbh0eCLbcqW2pMtQhQuYa2mYqzgX0PpG_I42zTVkffw21_qZORzPW0IH128"
+    },
+    {
+     "title": "조폐공사, 지역화폐 '착' 개인정보 3083명 유출 “API 인증 허점 악용”",
+     "url": "https://www.etnews.com/20261116000262",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-BymLEQsveWSA40tFCEjo9DTmV7EpkuQFoV5fDSW66k78fovjCmva287_WE"
+    }
+   ]
+  },
+  {
+   "keyword": "용인반도체클러스터",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 20:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN2KLrXGKEuzm4rahCl4RjQAnZWpTvNabM__4YV4TfwFkcL93IgUztrwkQkHY",
+   "news": [
+    {
+     "title": "[르포] 양산 검증 장벽 허문다…SK하이닉스가 용인에 품은 '상생의 팹'",
+     "url": "https://zdnet.co.kr/view/?no=20261113134910",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN2KLrXGKEuzm4rahCl4RjQAnZWpTvNabM__4YV4TfwFkcL93IgUztrwkQkHY"
+    },
+    {
+     "title": "8,700억 들인 반도체 시험장…소부장 키운다",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116091456N2l",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3tCrcPE3lipgCKzX8tv6Kn2Ae1yYwx_SvncCFOyaJXQQVD7xIXjplFo6SIWs"
+    },
+    {
+     "title": "하이닉스 \"내년 용인 팹 가동\"...내부 협력업체 공간도",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161104164083",
+     "source": "YTN 사이언스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9GrPtYl6mRY6LoTN4stlNDNY-P5bbUGLPqiFxhCxWbNayz2I-DrB_TfPczlk"
+    }
+   ]
+  },
+  {
+   "keyword": "건강 수명",
+   "traffic": "200+",
+   "pubDate": "Sun, 15 Nov 2026 20:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4z-QeYs61JgXfa66PylaS29YUT6JY1X4-NoWYDO7m1vMEwRk6ORR9OfwqGgo",
+   "news": [
+    {
+     "title": "전남광주 농어촌과 경기 신도시, 건강수명 ‘12년 격차’",
+     "url": "https://www.hani.co.kr/arti/society/health/1287463.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4z-QeYs61JgXfa66PylaS29YUT6JY1X4-NoWYDO7m1vMEwRk6ORR9OfwqGgo"
+    },
+    {
+     "title": "\"가난하면 검진도 못 받아\"‥'건강도 불평등'",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865818_37004.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX6tQHnyZDyLZ5CFy6RCTJOxMCYkmuChNnvBTo3AtMDUmY7xAeu6oaiyQmpOQ"
+    },
+    {
+     "title": "사는 곳 따라 건강수명 12년 차이…분당 72.8세, 영광 60.9세",
+     "url": "https://www.abcn.kr/news/articleView.html?idxno=94572",
+     "source": "ABC뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqxZ0LzI3DyNHt7RkAkEiByOhgiurWuX2m3zm78zSYka1YhGzv_3_fEp7Yk6U"
+    }
+   ]
+  },
+  {
+   "keyword": "공군사관학교",
+   "traffic": "100+",
+   "pubDate": "Sun, 15 Nov 2026 21:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Y1hr-sX-p_pGIh1qGaVArCk8Oego9ns080Z8spQxmgyVFNdeway0uJ4X3cM",
+   "news": [
+    {
+     "title": "공군사관학교, 2027학년도 제79기 공군사관생도 우선선발 합격자 발표…19일 오후 5시 등록 마감",
+     "url": "https://www.kyobit.com/news/articleView.html?idxno=8176",
+     "source": "교육을 비추다",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Y1hr-sX-p_pGIh1qGaVArCk8Oego9ns080Z8spQxmgyVFNdeway0uJ4X3cM"
+    },
+    {
+     "title": "[2027대입] 공군사관학교, 13일 우선선발 합격자 발표.. 등록 19일 오후 5시까지",
+     "url": "https://www.hanibnews.com/news/articleView.html?idxno=1172",
+     "source": "한입신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS5Xr77VMf0QqfuUxCeL2uBHXu4ATOsTCGR82XMGwB8dzl7cJ3qHvLPWu-AnU"
+    },
+    {
+     "title": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
+     "source": "대한민국 정책브리핑",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI"
     }
    ]
   }
