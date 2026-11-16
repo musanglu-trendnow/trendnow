@@ -1,32 +1,6 @@
 {
- "updated": "2026-11-17 04:56",
+ "updated": "2026-11-17 05:50",
  "items": [
-  {
-   "keyword": "드라마",
-   "traffic": "10000+",
-   "pubDate": "Mon, 16 Nov 2026 06:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4X3cobkv5tnnkCn27qn-h1B_33zU_KGNU5yKWhoZoCe-Xtn2Wn6nrCXFcI5A",
-   "news": [
-    {
-     "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
-     "url": "https://zdnet.co.kr/view/?no=20261116165905",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4X3cobkv5tnnkCn27qn-h1B_33zU_KGNU5yKWhoZoCe-Xtn2Wn6nrCXFcI5A"
-    },
-    {
-     "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
-     "url": "https://www.ddaily.co.kr/page/view/2026111618282434761",
-     "source": "디지털데일리",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlQpYNNuzSJ0qnNdSUn8P4lqBmJLnQVxP3zeuHMplVTqtCuXeQQiKbcFOayfg"
-    },
-    {
-     "title": "디딤돌·미래디지털AI협회, 'AI 숏드라마 실전반 1기' 개강… AI 영상 제작 본격 실습",
-     "url": "https://www.youthassembly.kr/news/1037290",
-     "source": "유스연합",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0Idjy9CgzNKJUmkEw1qXXhK-iIuUySzXOnEIklTs-jpJ7CZf4HqPfeWNLZQ"
-    }
-   ]
-  },
   {
    "keyword": "로버트 패틴슨",
    "traffic": "1000+",
@@ -54,6 +28,32 @@
    ]
   },
   {
+   "keyword": "독일 대 네덜란드",
+   "traffic": "500+",
+   "pubDate": "Mon, 16 Nov 2026 11:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm7h5DJ7nsDFE_BLvjMTa6K8ZcKuLVmEHnhgKDswY-T_e6B_ewfPLWhanDDD4",
+   "news": [
+    {
+     "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm7h5DJ7nsDFE_BLvjMTa6K8ZcKuLVmEHnhgKDswY-T_e6B_ewfPLWhanDDD4"
+    },
+    {
+     "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+     "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJgNunOYNnqkd4KTJsRnBZW5U7tPJuLh1W0tQXxieUeLLczZuXjcB7DRFxVpQ"
+    },
+    {
+     "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMoS7ZT-x7jmYjpSyKSDm_pdJrKHPDF4l2FU26EAImDULaUXTtM8Ep4b_PFhg"
+    }
+   ]
+  },
+  {
    "keyword": "robert pattinson",
    "traffic": "500+",
    "pubDate": "Mon, 16 Nov 2026 07:40:00 -0800",
@@ -66,10 +66,10 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXms2KBtPCgEeMvkkvIw39DWYtjUN93WZ9ucA5VXC4Z1fiX1qgGPzJmlyuEag"
     },
     {
-     "title": "How ‘Twilight’ Predicted Robert Pattinson’s James Bond Casting",
-     "url": "https://www.hollywoodreporter.com/movies/movie-news/twilight-predicted-robert-pattinson-james-bond-casting-1236756443/",
-     "source": "The Hollywood Reporter",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZkE88gxWxVJfCf5FhtOWLwQxrqJ6zp0aFeAF2srYACIhVOUI1LufTkKWOVgE"
+     "title": "Watch Robert Pattinson Is New James Bond in Amazon’s Reboot",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
+     "source": "Bloomberg.com",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo0hsfgKFaok-h_6T2pu_GseTk7_iXPsGGH9Jlb6SEoPz9cW6L22Lw_Ycx6zQ"
     },
     {
      "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
@@ -80,48 +80,22 @@
    ]
   },
   {
-   "keyword": "김주혁",
-   "traffic": "500+",
-   "pubDate": "Mon, 16 Nov 2026 06:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfiaDc7VClgE1pyx0qr2F1kJl0uQPeaeYgust6ujB2BDoBvnDbeHVJMVxYpc",
-   "news": [
-    {
-     "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
-     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514",
-     "source": "programs.sbs.co.kr",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfiaDc7VClgE1pyx0qr2F1kJl0uQPeaeYgust6ujB2BDoBvnDbeHVJMVxYpc"
-    },
-    {
-     "title": "변우석, ‘절친’ 주우재 밀어내려 했나 “탑백귀 자리에 앉고 싶다고”(우발라2)",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HBSDGYTBMNTDMOJYMIYDEMZYGA/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYKnEqFcXCDSlMJ_AnI8-9TPYRpCKZlnqfCoqQRyHU3e_ERX-LePY2VNOIbhw"
-    },
-    {
-     "title": "차태현·문근영, 방송 중 오열…故 김주혁 떠올린 ‘세월이 가면’ (우리들의 발라드2)",
-     "url": "https://sports.donga.com/ent/article/all/20261116/135029608/1",
-     "source": "스포츠동아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQG8TWtd5qiZpeXUBmn6Xf4N15O4wnKeJ_XRs5gX22sPmpeIi05Kwy8hFEpAo"
-    }
-   ]
-  },
-  {
    "keyword": "임예진",
    "traffic": "200+",
    "pubDate": "Mon, 16 Nov 2026 10:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJPef9SHTcqh_ZQixlsxcSI4UgtUOAvDsFD7oiVrzGjPpvcSrpfKD_CmoWqUs",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KfqF7Z2ghwFQipC_MK6mWfPn1qXCnu6SHO6Llso7jcSxSPdRa_vyASNUDWQ",
    "news": [
-    {
-     "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
-     "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
-     "source": "서울신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJPef9SHTcqh_ZQixlsxcSI4UgtUOAvDsFD7oiVrzGjPpvcSrpfKD_CmoWqUs"
-    },
     {
      "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
      "url": "https://www.fnnews.com/news/202611150830151414",
      "source": "파이낸셜뉴스",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KfqF7Z2ghwFQipC_MK6mWfPn1qXCnu6SHO6Llso7jcSxSPdRa_vyASNUDWQ"
+    },
+    {
+     "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
+     "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
+     "source": "서울신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJPef9SHTcqh_ZQixlsxcSI4UgtUOAvDsFD7oiVrzGjPpvcSrpfKD_CmoWqUs"
     },
     {
      "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
@@ -184,6 +158,58 @@
    ]
   },
   {
+   "keyword": "장항준",
+   "traffic": "100+",
+   "pubDate": "Mon, 16 Nov 2026 10:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRUflWswOP-IuPZN4iL529OANEXpzQ-7sqMmjJns3xo7Mui2Sx5DUwU43VG_8",
+   "news": [
+    {
+     "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516",
+     "source": "YTN",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRUflWswOP-IuPZN4iL529OANEXpzQ-7sqMmjJns3xo7Mui2Sx5DUwU43VG_8"
+    },
+    {
+     "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
+     "url": "https://www.joongang.co.kr/article/25479103",
+     "source": "중앙일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvcnPnBysDal4K3RYQFzqvoYf8ZMK5isuIgheCyNm_6Lin-6waCpAdn0Hy0W0"
+    },
+    {
+     "title": "유해진·박지훈 제외..'왕사남' 장항준, 흥행 인센티브 26억 스태프에 줬다 '미담 화제' [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MQ2TCOBQG43TKMJTG5SGEMDEME/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9qBfeMnWJx8FT5fKNRgCnTzNCkt0z1LzZPca8WGCzf8oCYI4wHEHgcyEVdtI"
+    }
+   ]
+  },
+  {
+   "keyword": "차장",
+   "traffic": "100+",
+   "pubDate": "Mon, 16 Nov 2026 09:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00v_5zEsiaYrCgemuLdQEIOCt6VwHL_nfKztErz2I-HgQ9FxfOGj5orb8TZQ",
+   "news": [
+    {
+     "title": "오현주 코이카 이사장 취임 \"사업수행 넘어 개발협력 미래 기획\"",
+     "url": "https://www.yna.co.kr/view/AKR20261116077200371",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00v_5zEsiaYrCgemuLdQEIOCt6VwHL_nfKztErz2I-HgQ9FxfOGj5orb8TZQ"
+    },
+    {
+     "title": "“국제 개발원조도 미래 기획으로 가야”",
+     "url": "https://www.dt.co.kr/article/12095534",
+     "source": "www.dt.co.kr",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCNHlvWXMe94_cs3cfumlYFl_lYD9lB78GENsYCPXN2DWUvdiQv8qC0NN7-CQ"
+    },
+    {
+     "title": "오현주 신임 코이카 이사장 \"통합의 코이카로 재도약…상생 개발협력 실현\"",
+     "url": "https://www.newsis.com/view/NISX20261116_0003869630",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1_iGwJfdcsjJX0lKQmufqR1u5HKHTSl4Z316Sz47JAwze-68yS1lJdyelOhE"
+    }
+   ]
+  },
+  {
    "keyword": "다시보기",
    "traffic": "100+",
    "pubDate": "Mon, 16 Nov 2026 07:20:00 -0800",
@@ -220,32 +246,6 @@
      "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
      "source": "https://www.standingout.kr/",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqPK7oOcoVPBj0Z3xFrs9Mj9IaNkJPjJ8Slh9gfddAlcJCTDRLMwgJ5qKTqSY"
-    }
-   ]
-  },
-  {
-   "keyword": "toki",
-   "traffic": "100+",
-   "pubDate": "Mon, 16 Nov 2026 06:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1xDE5eno1KYvqvS7jLqHh6ElEMurhivu1O0jmPkNynR9BW1ncJ91SUIjY9tQ",
-   "news": [
-    {
-     "title": "Ankara Polatlı'da 226 TOKİ Konutu İçin Kura 17 Kasım'da: Sonuçlar Nasıl Öğrenilecek?",
-     "url": "https://www.dogayidinle.com/kentlesme/ankara-polatlida-226-toki-konutu-icin-kura-17-kasimda-sonuclar-nasil-ogrenilecek/10146",
-     "source": "Doğayı Dinle",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1xDE5eno1KYvqvS7jLqHh6ElEMurhivu1O0jmPkNynR9BW1ncJ91SUIjY9tQ"
-    },
-    {
-     "title": "TOKİ Düzce'de konut belirleme kurası tamamlandı",
-     "url": "https://www.emlakpencerem.com.tr/toki-duzcede-konut-belirleme-kurasi-tamamlandi/117173",
-     "source": "Emlak Pencerem",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8JJgJX1IJFirEEO3A-VAAfgsAlIBFMMfjlW-ohr10bLdz0Y7Y3Idp7sJs7t0"
-    },
-    {
-     "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
-     "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi",
-     "source": "Demokrat32.com",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMs0BhO7AULBpBJKrQym9ffC58awt8TfEHjfDBT4cKc137e9vNJ2slzgGqUvM"
     }
    ]
   }
