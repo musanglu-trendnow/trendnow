@@ -5,6 +5,7 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
+import { buildKeywordPage, parseOldPage, PAGE_VERSION } from "./kwpage.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const P = (...a) => path.join(ROOT, ...a);
@@ -80,42 +81,6 @@ const newsHTML = (news) => news.map((n) => `
         ${n.img ? `<img src="${esc(n.img)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         <div><div class="t">${esc(n.title)}</div><div class="s">${esc(n.source)}</div></div></a>`).join("");
 
-function keywordPage(k, meta, related) {
-  const title = `${k.keyword} 실시간 검색어 이유 정리 (${meta.date})`;
-  const desc = `${k.keyword}이(가) 실시간 검색어에 오른 이유와 관련 최신 뉴스 ${k.news.length}건을 정리했습니다. ${k.news[0] ? k.news[0].title : ""}`.slice(0, 155);
-  return `<!doctype html>
-<html lang="ko"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${esc(title)} - ${esc(SITE_NAME)}</title>
-<meta name="description" content="${esc(desc)}">
-<meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}">
-${k.img ? `<meta property="og:image" content="${esc(k.img)}">` : ""}
-${SITE_URL ? `<link rel="canonical" href="${SITE_URL}/k/${meta.slug}.html">` : ""}
-<link rel="stylesheet" href="../assets/style.css">
-<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: title, datePublished: meta.first, dateModified: meta.last, description: desc })}</script>
-</head>
-<body data-root="../" data-page="">
-<div class="wrap grid"><main>
-  <div class="ad-slot" data-slot="top"></div>
-  <article class="card">
-    <div class="sub">${esc(meta.date)} · 최초 등장 ${esc(meta.first.slice(11, 16))} · 최근 ${esc(meta.last.slice(11, 16))} (KST)</div>
-    <h1>${esc(k.keyword)} — 실시간 검색어 이유</h1>
-    <p class="sub">최고 검색량 ${esc(meta.peak)} · 최고 순위 ${meta.bestRank}위</p>
-    <div class="row"><a class="btn" href="${naver(k.keyword)}" target="_blank" rel="noopener">네이버에서 검색</a>
-    <a class="btn ghost" href="${google(k.keyword)}" target="_blank" rel="noopener">구글에서 검색</a>
-    <a class="btn ghost" href="../tools/title.html?q=${encodeURIComponent(k.keyword)}">이 키워드로 블로그 제목 만들기</a></div>
-    <h2 style="margin-top:20px">왜 화제인가요?</h2>
-    <p>${k.news[0] ? `${esc(k.news[0].source)} 보도에 따르면 <b>“${esc(k.news[0].title)}”</b> 소식이 전해지며 ‘${esc(k.keyword)}’ 검색량이 급증했습니다.` : `‘${esc(k.keyword)}’ 검색량이 급증했습니다.`}</p>
-    <div class="ad-slot" data-slot="middle"></div>
-    <h2>관련 뉴스</h2>
-    <div class="news-block">${newsHTML(k.news)}</div>
-  </article>
-  ${related.length ? `<div class="card"><h2>함께 뜬 실시간 검색어</h2><div class="chips">${related.map((r) => `<a href="${r.slug}.html">${esc(r.keyword)}</a>`).join("")}</div></div>` : ""}
-</main><aside class="side"></aside></div>
-<script src="../assets/config.js"></script><script src="../assets/common.js"></script>
-</body></html>`;
-}
-
 function rankHTML(list, kwIndex, prevSet) {
   return `<ol class="rank">${list.map((k, i) => `
       <li><span class="num">${i + 1}</span>
@@ -131,8 +96,44 @@ function newsSectionHTML(list, kwIndex) {
 }
 
 function replaceBlock(html, name, content) {
-  const re = new RegExp(`(<!--${name}:START-->)[\\s\\S]*?(<!--${name}:END-->)`);
-  return html.replace(re, `$1${content}$2`);
+  // 예전 버그로 END 표시가 여러 개 남은 경우: START부터 마지막 END까지 통째로 교체
+  const S = `<!--${name}:START-->`, E = `<!--${name}:END-->`;
+  const a = html.indexOf(S), b = html.lastIndexOf(E);
+  if (a < 0 || b < a) return html;
+  // 함수가 아닌 문자열 치환은 "$2" 같은 글자를 특수기호로 해석하므로 직접 이어 붙임
+  return html.slice(0, a) + S + content + E + html.slice(b + E.length);
+}
+
+// 같은 키워드의 날짜별 페이지 묶기 (파일명 끝 6자리 = 키워드 해시)
+function daysByKeyword() {
+  const map = new Map();
+  for (const f of fs.readdirSync(P("k"))) {
+    const m = f.match(/^(\d{8})-([0-9a-f]{6})\.html$/);
+    if (!m) continue;
+    const arr = map.get(m[2]) || [];
+    arr.push({ slug: `${m[1]}-${m[2]}`, date: `${m[1].slice(0, 4)}-${m[1].slice(4, 6)}-${m[1].slice(6, 8)}` });
+    map.set(m[2], arr);
+  }
+  for (const arr of map.values()) arr.sort((a, b) => (a.slug < b.slug ? 1 : -1));
+  return map;
+}
+
+// 예전 형식 키워드 페이지를 새 형식으로 다시 만들기 (이미 바뀐 페이지는 건너뜀)
+function upgradeOldPages(hist, days) {
+  let n = 0;
+  for (const f of fs.readdirSync(P("k"))) {
+    if (!f.endsWith(".html")) continue;
+    const fp = P("k", f);
+    const html = fs.readFileSync(fp, "utf8");
+    if (html.includes(`name="silgeom-v" content="${PAGE_VERSION}"`)) continue;
+    const slug = f.slice(0, -5);
+    const d = parseOldPage(html, slug);
+    if (!d) continue;
+    const otherDays = days.get(slug.slice(9)) || [];
+    fs.writeFileSync(fp, buildKeywordPage(d.k, d.meta, { siteName: SITE_NAME, siteUrl: SITE_URL, related: d.related, hist, otherDays, adsTag: ADS_TAG }));
+    n++;
+  }
+  if (n) console.log(`키워드 페이지 ${n}개를 새 형식으로 변환`);
 }
 
 async function main() {
@@ -163,11 +164,14 @@ async function main() {
 
   // 키워드 상세 페이지 생성
   fs.mkdirSync(P("k"), { recursive: true });
+  const days = daysByKeyword();
   top.forEach((k) => {
     const meta = kwIndex[k.keyword];
     const related = top.filter((x) => x.keyword !== k.keyword).slice(0, 12).map((x) => ({ keyword: x.keyword, slug: kwIndex[x.keyword].slug }));
-    fs.writeFileSync(P("k", meta.slug + ".html"), keywordPage(k, meta, related));
+    const otherDays = days.get(meta.slug.slice(9)) || [];
+    fs.writeFileSync(P("k", meta.slug + ".html"), buildKeywordPage(k, meta, { siteName: SITE_NAME, siteUrl: SITE_URL, related, hist, otherDays, adsTag: ADS_TAG }));
   });
+  upgradeOldPages(hist, days);
 
   // 메인 페이지 정적 블록 갱신 (검색엔진이 바로 읽을 수 있게)
   let index = fs.readFileSync(P("index.html"), "utf8");
@@ -183,9 +187,12 @@ async function main() {
   // sitemap
   if (SITE_URL && !SITE_URL.includes("YOUR-ID")) {
     const fixed = ["index.html", "history.html", "about.html", "tools/count.html", "tools/combine.html", "tools/density.html", "tools/title.html"];
-    const kws = Object.values(kwIndex).sort((a, b) => (b.last > a.last ? 1 : -1)).slice(0, 5000);
+    const kws = fs.readdirSync(P("k")).filter((f) => /^\d{8}-[0-9a-f]{6}\.html$/.test(f))
+      .filter((f) => !fs.readFileSync(P("k", f), "utf8").includes('content="noindex'))
+      .map((f) => ({ slug: f.slice(0, -5), date: `${f.slice(0, 4)}-${f.slice(4, 6)}-${f.slice(6, 8)}` }))
+      .sort((a, b) => (a.slug < b.slug ? 1 : -1)).slice(0, 5000);
     const urls = [
-      ...fixed.map((u) => `<url><loc>${SITE_URL}/${u}</loc><lastmod>${ymd}</lastmod></url>`),
+      ...fixed.map((u) => `<url><loc>${SITE_URL}/${u === "index.html" ? "" : u}</loc><lastmod>${ymd}</lastmod></url>`),
       ...kws.map((m) => `<url><loc>${SITE_URL}/k/${m.slug}.html</loc><lastmod>${m.date}</lastmod></url>`),
     ];
     fs.writeFileSync(P("sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`);
