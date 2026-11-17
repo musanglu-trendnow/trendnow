@@ -71,10 +71,27 @@
     const ts = C.toss || {};
     const tsLinks = (ts.links || []).filter((l) => l && l.url);
     if (ts.enabled && tsLinks.length) {
-      const html = `<div class="card"><h2>${esc(ts.title || "토스쇼핑 추천")}</h2>
-        <div class="cp-links">${tsLinks.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="sponsored noopener">${esc(l.title || "토스쇼핑에서 보기")} →</a>`).join("")}</div>
+      const slides = tsLinks.map((l, i) => `<a class="ts-slide${i === 0 ? " on" : ""}" href="${esc(l.url)}" target="_blank" rel="sponsored noopener">
+          <span class="ts-ico">${esc(l.icon || "🛍️")}</span>
+          <span class="ts-t">${esc(l.title || "토스쇼핑에서 보기")}</span>
+          ${l.sub ? `<span class="ts-s">${esc(l.sub)}</span>` : ""}
+          <span class="ts-go">토스쇼핑에서 보기 →</span></a>`).join("");
+      const dots = tsLinks.length > 1 ? `<div class="ts-dots">${tsLinks.map((_, i) => `<button type="button" aria-label="${i + 1}번 상품" class="${i === 0 ? "on" : ""}"></button>`).join("")}</div>` : "";
+      const html = `<div class="card ts-card"><h2>${esc(ts.title || "토스쇼핑 추천")}</h2>
+        <div class="ts-stage">${slides}</div>${dots}
         <p class="disclose">이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p></div>`;
-      document.querySelectorAll(".toss-box").forEach((el) => (el.innerHTML = html));
+      document.querySelectorAll(".toss-box").forEach((el) => {
+        el.innerHTML = html;
+        const ss = el.querySelectorAll(".ts-slide"), ds = el.querySelectorAll(".ts-dots button");
+        if (ss.length < 2) return;
+        let cur = Math.floor(Math.random() * ss.length), timer;
+        const show = (n) => { cur = (n + ss.length) % ss.length; ss.forEach((x, i) => x.classList.toggle("on", i === cur)); ds.forEach((x, i) => x.classList.toggle("on", i === cur)); };
+        const play = () => { clearInterval(timer); timer = setInterval(() => show(cur + 1), ts.interval || 4500); };
+        ds.forEach((d, i) => d.addEventListener("click", () => { show(i); play(); }));
+        el.addEventListener("mouseenter", () => clearInterval(timer));
+        el.addEventListener("mouseleave", play);
+        show(cur); play();
+      });
     }
   }
   renderAds();

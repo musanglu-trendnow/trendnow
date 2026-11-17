@@ -24,12 +24,19 @@ window.SITE_CONFIG = {
     ]
   },
 
-  // 3) 토스쇼핑 쉐어링크 — 토스 앱 > 상품 > 공유하기 > 링크 복사로 받은 주소
+  // 3) 토스쇼핑 쉐어링크 — 토스 앱 > 상품 > 공유하기 > 쉐어링크 공유하기로 받은 주소
+  //    상품이 여러 개면 몇 초마다 자동으로 넘어가요. icon은 이모지, sub는 한 줄 설명
   toss: {
     enabled: true,
     title: "토스쇼핑 추천",
+    interval: 4500, // 자동 넘김 간격(ms)
     links: [
-      { title: "펩시 제로슈거 피치향, 500ml, 18개", url: "https://toss.shopping/_m/fWCvVsYq" }
+      { title: "해담별 제주 흑돼지 왕구이 1.2kg × 2개", sub: "양념·가공육 3위 · 리뷰 4,023개", icon: "🥩", url: "https://toss.shopping/_m/hiawJgSp" },
+      { title: "셰프초이스 제육불고기 2kg", sub: "양념·가공육 9위 · 리뷰 465개", icon: "🍖", url: "https://toss.shopping/_m/LNB1HQdi" },
+      { title: "그린올린 경기미 26년산 상등급 3kg × 2개", sub: "햅쌀 · 평점 4.7", icon: "🍚", url: "https://toss.shopping/_m/FvptUIGp" },
+      { title: "오즈랜드 리얼 생감자스틱 20g × 36봉", sub: "감자스낵 2위 · 평점 4.8", icon: "🥔", url: "https://toss.shopping/_m/z8KDieqD" },
+      { title: "펩시 제로슈거 피치향 500ml × 18개", sub: "제로 탄산 · 평점 4.7", icon: "🥤", url: "https://toss.shopping/_m/fWCvVsYq" },
+      { title: "디어커스 원데이 수세미 에코컷 100매 × 2팩", sub: "일회용수세미 2위 · 리뷰 680개", icon: "🧽", url: "https://toss.shopping/_m/NYV9Y1o8" }
     ]
   }
 };

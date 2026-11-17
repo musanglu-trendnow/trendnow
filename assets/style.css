@@ -92,3 +92,18 @@ table.t td,table.t th{border-top:1px solid var(--line);padding:8px 6px;text-alig
 
 footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:13px}
 footer a{margin-right:14px}
+
+/* 토스쇼핑 자동 넘김 카드 */
+.ts-stage{position:relative;min-height:168px}
+.ts-slide{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;gap:6px;padding:18px 16px;border-radius:12px;
+  background:linear-gradient(135deg,#eaf2ff,#f5f9ff);color:#191f28;opacity:0;transform:translateX(12px);transition:opacity .45s,transform .45s;pointer-events:none}
+.ts-slide.on{opacity:1;transform:none;pointer-events:auto}
+.ts-slide:hover{color:#191f28}
+.ts-ico{font-size:34px;line-height:1}
+.ts-t{font-weight:800;font-size:15px;line-height:1.4}
+.ts-s{font-size:12px;color:#4e5968}
+.ts-go{align-self:flex-start;margin-top:4px;font-size:13px;font-weight:700;color:#fff;background:#3182f6;border-radius:8px;padding:6px 12px}
+.ts-dots{display:flex;justify-content:center;gap:6px;margin-top:10px}
+.ts-dots button{width:7px;height:7px;border-radius:50%;border:0;padding:0;background:var(--line);cursor:pointer}
+.ts-dots button.on{background:#3182f6;width:18px;border-radius:4px}
+@media (prefers-color-scheme:dark){.ts-slide{background:linear-gradient(135deg,#1b2a44,#16213a);color:#e8eaed}.ts-slide:hover{color:#e8eaed}.ts-s{color:#aab4c2}}
