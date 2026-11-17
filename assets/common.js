@@ -73,7 +73,7 @@
     if (ts.enabled && tsLinks.length) {
       const html = `<div class="card"><h2>${esc(ts.title || "토스쇼핑 추천")}</h2>
         <div class="cp-links">${tsLinks.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="sponsored noopener">${esc(l.title || "토스쇼핑에서 보기")} →</a>`).join("")}</div>
-        <p class="disclose">이 링크를 통해 구매 시 일정액의 수수료를 제공받을 수 있습니다.</p></div>`;
+        <p class="disclose">이 포스팅은 토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p></div>`;
       document.querySelectorAll(".toss-box").forEach((el) => (el.innerHTML = html));
     }
   }

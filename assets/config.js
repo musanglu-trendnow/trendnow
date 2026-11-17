@@ -29,7 +29,7 @@ window.SITE_CONFIG = {
     enabled: true,
     title: "토스쇼핑 추천",
     links: [
-      { title: "토스쇼핑 특가 보러가기", url: "" }
+      { title: "펩시 제로슈거 피치향, 500ml, 18개", url: "https://toss.shopping/_m/fWCvVsYq" }
     ]
   }
 };
