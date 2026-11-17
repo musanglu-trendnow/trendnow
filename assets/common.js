@@ -32,7 +32,8 @@
         <a href="${R}tools/density.html">키워드 밀도 분석<small>반복 단어·키워드 비중 확인</small></a>
         <a href="${R}tools/title.html">블로그 제목 생성기<small>클릭을 부르는 제목 패턴</small></a>
       </div></div>
-      <div class="coupang-box"></div>`);
+      <div class="coupang-box"></div>
+      <div class="toss-box"></div>`);
   }
 
   const footer = document.createElement("footer");
@@ -45,11 +46,13 @@
   function renderAds() {
     const client = C.adsenseClient;
     if (client) {
+      if (!document.querySelector('script[src*="adsbygoogle.js"]')) {
       const s = document.createElement("script");
       s.async = true;
       s.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${client}`;
       s.crossOrigin = "anonymous";
       document.head.append(s);
+      }
       document.querySelectorAll(".ad-slot").forEach((el) => {
         const slotId = (C.adsenseSlots || {})[el.dataset.slot];
         if (!slotId) return; // 단위 ID 없으면 자동광고에 맡김
@@ -64,6 +67,14 @@
         <div class="cp-links">${(cp.links || []).map((l) => `<a href="${esc(l.url)}" target="_blank" rel="sponsored noopener">${esc(l.title)} →</a>`).join("")}</div>
         <p class="disclose">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p></div>`;
       document.querySelectorAll(".coupang-box").forEach((el) => (el.innerHTML = html));
+    }
+    const ts = C.toss || {};
+    const tsLinks = (ts.links || []).filter((l) => l && l.url);
+    if (ts.enabled && tsLinks.length) {
+      const html = `<div class="card"><h2>${esc(ts.title || "토스쇼핑 추천")}</h2>
+        <div class="cp-links">${tsLinks.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="sponsored noopener">${esc(l.title || "토스쇼핑에서 보기")} →</a>`).join("")}</div>
+        <p class="disclose">이 링크를 통해 구매 시 일정액의 수수료를 제공받을 수 있습니다.</p></div>`;
+      document.querySelectorAll(".toss-box").forEach((el) => (el.innerHTML = html));
     }
   }
   renderAds();

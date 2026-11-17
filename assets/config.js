@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   siteUrl: "https://silgeom.kr", // 배포 후 실제 주소로 변경
 
   // 1) 구글 애드센스 — 승인 후 'ca-pub-...' 값을 넣으면 모든 광고 자리에 자동 표시
-  adsenseClient: "",          // 예: "ca-pub-1234567890123456"
+  adsenseClient: "ca-pub-8125898337896446",          // 예: "ca-pub-1234567890123456"
   adsenseSlots: {             // 애드센스에서 만든 광고 단위 ID (없으면 자동광고만 사용)
     top: "",
     middle: "",
@@ -21,6 +21,15 @@ window.SITE_CONFIG = {
     // 또는 간단 링크 목록 (상품 링크 생성 기능으로 만든 link.coupang.com 주소)
     links: [
       // { title: "오늘의 특가 모아보기", url: "https://link.coupang.com/a/xxxxx" }
+    ]
+  },
+
+  // 3) 토스쇼핑 쉐어링크 — 토스 앱 > 상품 > 공유하기 > 링크 복사로 받은 주소
+  toss: {
+    enabled: true,
+    title: "토스쇼핑 추천",
+    links: [
+      { title: "토스쇼핑 특가 보러가기", url: "" }
     ]
   }
 };
