@@ -68,6 +68,14 @@
         <p class="disclose">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p></div>`;
       document.querySelectorAll(".coupang-box").forEach((el) => (el.innerHTML = html));
     }
+    // 쿠팡 HOT 키워드 박스 (본문 중간 광고 자리 아래)
+    const hot = (cp.hotKeywords || []).filter((x) => x && x.k && x.url);
+    if (cp.enabled && hot.length) {
+      const box = `<div class="card cp-hot"><div class="cp-hot-h"><b>${esc(cp.hotTitle || "많이 찾는 쿠팡 키워드")}</b><span class="cp-logo"><i>c</i><i>o</i><i>u</i><i>p</i><i>a</i><i>n</i><i>g</i></span></div>
+        <div class="cp-hot-g">${hot.slice(0, 10).map((x, i) => `<a href="${esc(x.url)}" target="_blank" rel="sponsored noopener"><span class="n">${i + 1}</span><span class="k">${esc(x.k)}</span><span class="a">›</span></a>`).join("")}</div>
+        <p class="disclose">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p></div>`;
+      document.querySelectorAll('main .ad-slot[data-slot="middle"]').forEach((el) => el.insertAdjacentHTML("afterend", box));
+    }
     const ts = C.toss || {};
     const tsLinks = (ts.links || []).filter((l) => l && l.url);
     if (ts.enabled && tsLinks.length) {
