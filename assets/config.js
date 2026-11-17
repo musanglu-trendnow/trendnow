@@ -16,6 +16,20 @@ window.SITE_CONFIG = {
   // 2) 쿠팡 파트너스 — 파트너스에서 발급받은 링크/배너 코드
   coupang: {
     enabled: true,
+    // HOT 키워드 박스 — 키워드마다 파트너스 검색 링크(간편 링크 만들기로 생성)
+    hotTitle: "이번 주 많이 찾는 겨울 키워드",
+    hotKeywords: [
+      { k: "가습기", url: "https://link.coupang.com/a/iKcl6HFtzo" },
+      { k: "전기요", url: "https://link.coupang.com/a/iKcl9c5asS" },
+      { k: "온수매트", url: "https://link.coupang.com/a/iKcmb0etOe" },
+      { k: "핫팩", url: "https://link.coupang.com/a/iKcmeMFt9g" },
+      { k: "김장매트", url: "https://link.coupang.com/a/iKcmhpXvLV" },
+      { k: "귤", url: "https://link.coupang.com/a/iKcmjKvLTo" },
+      { k: "롱패딩", url: "https://link.coupang.com/a/iKcmmbJxi8" },
+      { k: "수면양말", url: "https://link.coupang.com/a/iKcmor4bwy" },
+      { k: "문풍지", url: "https://link.coupang.com/a/iKcmq07FHE" },
+      { k: "난방텐트", url: "https://link.coupang.com/a/iKcmtoAAXk" }
+    ],
     // 다이나믹 배너 iframe 코드 그대로 붙여넣기 (파트너스 > 배너 > 다이나믹 배너)
     bannerHtml: '<iframe src="https://ads-partners.coupang.com/widgets.html?id=1044542&template=carousel&trackingCode=AF6720578&subId=&width=268&height=400&tsource=" width="268" height="400" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" style="max-width:100%"></iframe>',
     // 또는 간단 링크 목록 (상품 링크 생성 기능으로 만든 link.coupang.com 주소)
