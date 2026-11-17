@@ -11,6 +11,23 @@ const P = (...a) => path.join(ROOT, ...a);
 const FEED = "https://trends.google.com/trending/rss?geo=KR";
 const cfgText = fs.readFileSync(P("assets/config.js"), "utf8");
 const SITE_URL = (process.env.SITE_URL || (cfgText.match(/siteUrl:\s*"([^"]+)"/) || [])[1] || "").replace(/\/$/, "");
+const ADSENSE = (cfgText.match(/adsenseClient:\s*"(ca-pub-\d+)"/) || [])[1] || "";
+const ADS_TAG = ADSENSE ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE}" crossorigin="anonymous"></script>` : "";
+// 모든 HTML <head>에 애드센스 코드가 없으면 넣기 (사이트 확인·자동광고용, 이미 있으면 건너뜀)
+function ensureAdsenseTag() {
+  if (!ADS_TAG) return;
+  const dirs = [".", "tools", "k"];
+  for (const d of dirs) {
+    let files = [];
+    try { files = fs.readdirSync(P(d)).filter((f) => f.endsWith(".html")); } catch { continue; }
+    for (const f of files) {
+      const fp = P(d, f);
+      const html = fs.readFileSync(fp, "utf8");
+      if (html.includes("adsbygoogle.js") || !html.includes("</head>")) continue;
+      fs.writeFileSync(fp, html.replace("</head>", ADS_TAG + "\n</head>"));
+    }
+  }
+}
 const SITE_NAME = (cfgText.match(/siteName:\s*"([^"]+)"/) || [])[1] || "트렌드나우";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -174,6 +191,7 @@ async function main() {
     fs.writeFileSync(P("sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`);
     fs.writeFileSync(P("robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
   }
+  ensureAdsenseTag();
   console.log(`OK ${stamp} · ${top.length}개 키워드 · 1위 ${top[0].keyword}`);
 }
 
