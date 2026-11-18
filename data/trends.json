@@ -1,29 +1,55 @@
 {
- "updated": "2026-11-19 04:58",
+ "updated": "2026-11-19 05:54",
  "items": [
   {
-   "keyword": "한화오션",
-   "traffic": "1000+",
-   "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHnxEBRCB1oXHKsuCDVYri0mTEUryyKesjdnRxRFvfBOg4MtgrxbXfBcPsiyg",
+   "keyword": "삼전 닉스",
+   "traffic": "20000+",
+   "pubDate": "Wed, 18 Nov 2026 11:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmvooY-7TlTd32XkKDCnieapvrRbKWAuRPJb5bnWGFgNKBJX_JkqG9DFbPzdI",
    "news": [
     {
-     "title": "3천600톤급 호위함 ‘평택함’ 진수…시운전 거쳐 내년 해군 인도",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715888",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHnxEBRCB1oXHKsuCDVYri0mTEUryyKesjdnRxRFvfBOg4MtgrxbXfBcPsiyg"
+     "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
+     "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
+     "source": "네이버 프리미엄콘텐츠",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmvooY-7TlTd32XkKDCnieapvrRbKWAuRPJb5bnWGFgNKBJX_JkqG9DFbPzdI"
+    },
+    {
+     "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOzHQ2nYh-VD2vXMWpnz5CV0N-U7TSZ6KUusWVtJ4qInokvEcgA9wobCpnUb0"
+    },
+    {
+     "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261118045151008",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTizE23yCM1aFiQ_4EMN3a47yCLXnKuoqbTTYCVI1ise3u1CYDTrMzX4W9zEXM"
+    }
+   ]
+  },
+  {
+   "keyword": "한화오션",
+   "traffic": "2000+",
+   "pubDate": "Wed, 18 Nov 2026 10:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjBkYCbdW74gszYdh-6cSJNpAlqPBq_2y_43g2qc-w1gqwMNDFMH77-6gHwl4",
+   "news": [
+    {
+     "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+     "url": "https://www.yna.co.kr/view/AKR20261118170400704",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjBkYCbdW74gszYdh-6cSJNpAlqPBq_2y_43g2qc-w1gqwMNDFMH77-6gHwl4"
+    },
+    {
+     "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHH_FF6gL1we0te65HrcEgZE40pxPNp0HelDAQJrZNdkWlpYPe2nj9PE7rOCk"
     },
     {
      "title": "평택함 한화오션에서 진수",
      "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
      "source": "뉴시스",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRYW3OlCe1n8rn8KLWAUYTtcOTzxx5-rrJCz8B5R2HWzF80f6NcFwxq0KWL2A"
-    },
-    {
-     "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-     "url": "https://www.yna.co.kr/view/AKR20261118170400704",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjBkYCbdW74gszYdh-6cSJNpAlqPBq_2y_43g2qc-w1gqwMNDFMH77-6gHwl4"
     }
    ]
   },
@@ -31,8 +57,14 @@
    "keyword": "기인",
    "traffic": "1000+",
    "pubDate": "Wed, 18 Nov 2026 08:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIEt4f5o_TApU4bdrJIR4--xlJ8scxq-lciPCwGerqGNalE7ebg_91v4H-IWQ",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYbL7ItveUlGJ2u1Ksk48vf2cUOmsYMMyEeqPSCI79fCYUO2wIcDr0noAHTU",
    "news": [
+    {
+     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+     "url": "https://www.kmib.co.kr/article/20261119500020",
+     "source": "국민일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYbL7ItveUlGJ2u1Ksk48vf2cUOmsYMMyEeqPSCI79fCYUO2wIcDr0noAHTU"
+    },
     {
      "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
      "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
@@ -44,12 +76,6 @@
      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
      "source": "진일보 | 전남일보",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfpsTIGftOtvVdQmoS21gkgqHH10RXWNadDheFxm3PwPzj7L80T1txUrGHFlQ"
-    },
-    {
-     "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-     "url": "https://www.etoday.co.kr/news/view/2649030",
-     "source": "이투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn2VG5jRXWmsGMSUXAjRMeLSXYJ61689vk4IzZU1w8I-vuzI3B7LWGMurUs38"
     }
    ]
   },
@@ -57,57 +83,31 @@
    "keyword": "김정은",
    "traffic": "500+",
    "pubDate": "Wed, 18 Nov 2026 09:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzXLO2Q1wfG4CsFGjJOrFiv29eKKCPqOftyaK3TnbdOjNz0JWjqN97UkIKxMg",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8L4AWaDtGFvtLZOntA6P6bNU_84kl2fGC7wb3YpYPKGRONI0eQV4mTcB05To",
    "news": [
     {
-     "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
-     "url": "https://news.jtbc.co.kr/article/NB12328748",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzXLO2Q1wfG4CsFGjJOrFiv29eKKCPqOftyaK3TnbdOjNz0JWjqN97UkIKxMg"
+     "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+     "url": "https://www.yna.co.kr/view/AKR20261118159000083",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8L4AWaDtGFvtLZOntA6P6bNU_84kl2fGC7wb3YpYPKGRONI0eQV4mTcB05To"
     },
     {
-     "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC38X4yBm27NYIM953Rjfc4Wo9AtuxiuVTPePrVzuBG3ZOEE1RIoOONit3tZw"
+     "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
+     "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiOdZkTwcqJ17LfXlhkUZ0CEghcUsvgHAz35OOBgOeXRfltQ74B9SUYw1Eohc"
     },
     {
-     "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
-     "source": "YTN",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJCz9gNHTErPVSSqDayWcdJf75hnDezuR01K_zvxGJsmpEr-WZcN3csUvpKGw"
-    }
-   ]
-  },
-  {
-   "keyword": "신세계",
-   "traffic": "200+",
-   "pubDate": "Wed, 18 Nov 2026 06:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAC90nekSCaGtaAqLCDNr0fnRG6jVqHfADUWVQT3-cFP0lljlt_VDBHV3K7hY",
-   "news": [
-    {
-     "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAC90nekSCaGtaAqLCDNr0fnRG6jVqHfADUWVQT3-cFP0lljlt_VDBHV3K7hY"
-    },
-    {
-     "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
-     "url": "https://www.newspim.com/news/view/20261111000117",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8"
-    },
-    {
-     "title": "iM證 “신세계, 외국인 소비 둔화에…목표가 41% 하향”",
-     "url": "https://biz.chosun.com/stock/stock_general/2026/11/16/2H2QT5ZMEVDIRN723JTZH7CKSI/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFEQnhYOKILqOMzeKJKilpHkH13ilcGKmCNrBvBMxesD2m6nTzb1IvDMn67ek"
+     "title": "견제서 초밀착으로 변한 중국·러시아…미국과 ‘2 대 1’ 새 강대국 구도 첫선",
+     "url": "https://www.khan.co.kr/article/202611182117005",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtv0L1LVtKhAxPa9-u0dTK5zLJwF6zMOoPlbhmyOvK3ciFWJ1e8IF1hoiOw"
     }
    ]
   },
   {
    "keyword": "자영업",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Wed, 18 Nov 2026 10:00:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaUajfa5rrSf4G6rzxZsDkFEt2yIHqSwtURqVn0OLwN-y02aX7-csKGa_jB_M",
    "news": [
@@ -132,22 +132,48 @@
    ]
   },
   {
+   "keyword": "gta6 프레임",
+   "traffic": "100+",
+   "pubDate": "Wed, 18 Nov 2026 09:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmKm3_DuoRdLIj-n08VTdrtbbdHT7Zddidf_soIeK6ZipViaE1KXiet62zwU",
+   "news": [
+    {
+     "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+     "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
+     "source": "Kotaku",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROmKm3_DuoRdLIj-n08VTdrtbbdHT7Zddidf_soIeK6ZipViaE1KXiet62zwU"
+    },
+    {
+     "title": "The full GTA VI graphics breakdown on PS5 Pro, PS5, Xbox Series X, and Xbox Series S.",
+     "url": "https://www.theverge.com/games/1037018/gta-vi-framerate-resolution-compared-playstation-xbox",
+     "source": "The Verge",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHlRxw5dYyqA1ypACEvSPsPxGY7ExRYjoO8yEsuNA-uP9sPwhcJFVekXXEaI"
+    },
+    {
+     "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+     "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
+     "source": "Wccftech",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFaEgPrHSmm1CuaIA4K8vPzXL2u1usiBMrtYe3-wySF6UASiB9E0xgDt1hbE"
+    }
+   ]
+  },
+  {
    "keyword": "승리",
    "traffic": "100+",
    "pubDate": "Wed, 18 Nov 2026 09:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgtmgfZgGOsjAHy8_32nIoqb6uCgM8V6PK_cIY1CLSL8rQSePDIcyG1wyU6o",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRkQ0QndbJbwvtUbGfwPm_blE-2YDEryvZDuoJDg83Tn0FkbogPSM3ZX5IehU",
    "news": [
-    {
-     "title": "승리 '임신한 부인과 함께 귀국'",
-     "url": "https://www.mt.co.kr/photo/202611182305239152",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgtmgfZgGOsjAHy8_32nIoqb6uCgM8V6PK_cIY1CLSL8rQSePDIcyG1wyU6o"
-    },
     {
      "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
      "source": "TV조선뉴스",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRkQ0QndbJbwvtUbGfwPm_blE-2YDEryvZDuoJDg83Tn0FkbogPSM3ZX5IehU"
+    },
+    {
+     "title": "승리 '임신한 부인과 함께 귀국'",
+     "url": "https://www.mt.co.kr/photo/202611182305239152",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgtmgfZgGOsjAHy8_32nIoqb6uCgM8V6PK_cIY1CLSL8rQSePDIcyG1wyU6o"
     },
     {
      "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
@@ -232,32 +258,6 @@
      "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
      "source": "STN SPORTS",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxi0RE6SwRfPQPYDxy8kdFpvm_2rbXCcVQHOX-PZiHf12_mTJlZlqq_rAr49Q"
-    }
-   ]
-  },
-  {
-   "keyword": "흰수마자",
-   "traffic": "100+",
-   "pubDate": "Wed, 18 Nov 2026 07:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-vI-O_wtMFA-0CEsJ-_hOi2T7glOqh9HvJCbW0_Hhso35Md_ZXtlxpAA53FU",
-   "news": [
-    {
-     "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070",
-     "source": "인천일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-vI-O_wtMFA-0CEsJ-_hOi2T7glOqh9HvJCbW0_Hhso35Md_ZXtlxpAA53FU"
-    },
-    {
-     "title": "경기도, 파주 문산천에 멸종위기야생생물 ‘흰수마자’ 서식",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041247",
-     "source": "기호일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7LE49r8wRGLImj6bwnjnfzjaj3QR5msmAiQxWRNlhyUduwoTiRiH7WgKgLdI"
-    },
-    {
-     "title": "한반도 고유종 멸종위기Ⅰ급 ‘흰수마자’, 파주 문산천서 발견",
-     "url": "https://www.kyeonggi.com/article/20261117580015",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOjKDyyN0I34VW_QjkoVKg2Z1-e3EBr16-DwiCM8sSvRZfB9ssiuf4P7mzg4"
     }
    ]
   }
