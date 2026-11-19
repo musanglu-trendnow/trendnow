@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 20:04",
+ "updated": "2026-11-19 21:00",
  "items": [
   {
    "keyword": "안양 정관장 대 부산 kcc",
@@ -14,16 +14,94 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDFTFXzH-Wa-lbwDUxYzqhuWWQ4rqPwuWzradY9ZHzfNM3U3jJY_idXohKcTQ"
     },
     {
-     "title": "[스경X현장]‘독감’ 정관장 문유현, 대표팀 합류도 미룬다",
-     "url": "https://sports.khan.co.kr/article/202611191849003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5EDHfHyUH7-PCUbK_HoJP6JYEonAIndLZG5leoxxCEKInija597FiCBrxwks"
-    },
-    {
      "title": "[부상] ‘감기 증세’ 정관장 문유현, DB전 이어 KCC전도 결장···男대표팀은 정상 합류",
      "url": "http://www.jumpball.co.kr/news/newsview.php?ncode=1065602737425283",
      "source": "점프볼",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1biQN_L1cZ7b_04mmN5JIYE099XxBVj82G5SHH3KFOfFkocW5IzZSjrVYLM"
+    },
+    {
+     "title": "[영상] 두 얼굴의 변준형 ‘병 주고 약 주고’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716130",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaSM00Pcel6QYDFgk4XQlpQh7ILIINc3EiFtYSLu_xJgMnBzp770c3hjFdJOo"
+    }
+   ]
+  },
+  {
+   "keyword": "한진칼",
+   "traffic": "500+",
+   "pubDate": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7QNRGwc8xxm9NMaBeEROsKp3qMFv23AqKZU9zS2st-xAY89-LkF8uKTj5WI",
+   "news": [
+    {
+     "title": "호반의 한진칼 평가차익 1조5700억··· 현금화 전략 '고심'",
+     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720237",
+     "source": "뉴스프리존",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7QNRGwc8xxm9NMaBeEROsKp3qMFv23AqKZU9zS2st-xAY89-LkF8uKTj5WI"
+    },
+    {
+     "title": "M&A로 리솜리조트·대한전선 등 인수… ‘자산 20조’ 몸집 키워 재계 33위[Who, What, Why]",
+     "url": "https://www.munhwa.com/article/11632128",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyukb8AYv6ewf8cjic_Rs983kfos4gCiozYpNuoRZm48tpeswEjLF4YXhWWY"
+    },
+    {
+     "title": "조원태 우호펀드, 만기 없앴다…한진칼 경영권 분쟁 장기전 대비",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/15/2026111580037.html",
+     "source": "인베스트조선",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgMFj7vyBp2DiKN1OxwLnrpCwre9jnGRVJkGBzVwGQuMUxCAkPM60Eio9b3BQ"
+    }
+   ]
+  },
+  {
+   "keyword": "김다현",
+   "traffic": "500+",
+   "pubDate": "Thu, 19 Nov 2026 02:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AgEAIZVPPh9Gfu2Yp1uh7PilUM5NlVb8YwFBrzb9wTSo2GjQfzuWyFnzZMk",
+   "news": [
+    {
+     "title": "김다현, 대한민국예술문화대상 ‘특별공로상’ 수상 “더 큰 문화예술인으로 성장할 것”",
+     "url": "https://www.mk.co.kr/news/musics/12212150",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AgEAIZVPPh9Gfu2Yp1uh7PilUM5NlVb8YwFBrzb9wTSo2GjQfzuWyFnzZMk"
+    },
+    {
+     "title": "심수봉 ‘저격’에 마음 다쳤지만…김다현, 대한민국예술문화대상 특별공로상 예술계 인정받았다",
+     "url": "https://sports.khan.co.kr/article/202611181537003",
+     "source": "스포츠경향",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUOpzFTWFMT5FgqikQuLr4CRYJNYo_JBDlyRs_B6W078Mg6C6BAL1ADH_-n8E"
+    },
+    {
+     "title": "‘국악 신동’에서 대한민국 대표 가수로…김다현, 예술문화대상 ‘특별공로상’ 영예",
+     "url": "https://www.sportsseoul.com/news/read/1650499",
+     "source": "스포츠서울",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-ws7-Znrc3-77pmhMilWbvrXVwlKKCQmmWwUl4_lpFwsPGuGTqQiDLkVMz-4"
+    }
+   ]
+  },
+  {
+   "keyword": "수원 kt 대 서울 sk",
+   "traffic": "500+",
+   "pubDate": "Thu, 19 Nov 2026 02:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
+   "news": [
+    {
+     "title": "◇오늘의 경기(19일)",
+     "url": "https://www.yna.co.kr/view/AKR20261118190800007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g"
+    },
+    {
+     "title": "[사진]김낙현, 침착하게 레이업슛",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/19/MMYTMNLBHA2DMYJQGU2WEMBSGQ/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk6K8mS4TmoQrV15A6aWej-qiSwRpooZnEym94GKRTqY4PlDyKcSoHPVrsdM"
+    },
+    {
+     "title": "[사진]역전골 넣은 안영준, 드디어 앞서간다",
+     "url": "http://www.osen.co.kr/article/G1112912289",
+     "source": "OSEN",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUF0z8SdbB4KIU8lWmK9SktOBhkjyO6XUsV5NGmbhoOICS3IqIzul5KuZLbFo"
     }
    ]
   },
@@ -54,132 +132,106 @@
    ]
   },
   {
-   "keyword": "국어 시험지",
-   "traffic": "500+",
-   "pubDate": "Thu, 19 Nov 2026 01:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCgZrHHdGNzbD0FQfsI9J2z0edDs7Glzik5Dxgt3oIE0J2CSCEwO1eM9bHUjw",
+   "keyword": "김지훈",
+   "traffic": "200+",
+   "pubDate": "Thu, 19 Nov 2026 02:50:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAOx7NSVbh1NfR_FtBnwNYReMjetjlFD7ghrQ9GCdiy1pDoNbpdQQQDf40rmg",
    "news": [
     {
-     "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
-     "url": "https://news.jtbc.co.kr/article/NB12328837",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCgZrHHdGNzbD0FQfsI9J2z0edDs7Glzik5Dxgt3oIE0J2CSCEwO1eM9bHUjw"
+     "title": "LG헬로비전 신임 CEO에 김지훈 사업총괄",
+     "url": "https://www.yna.co.kr/view/AKR20261119146700017?section=people/personnel",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAOx7NSVbh1NfR_FtBnwNYReMjetjlFD7ghrQ9GCdiy1pDoNbpdQQQDf40rmg"
     },
     {
-     "title": "1년전 AI도 수능 수학 만점 …교육·시험평가체계 낙제",
-     "url": "https://www.etnews.com/20261118000364",
+     "title": "LG헬로비전, 7년 만에 수장 교체…김지훈의 과제는 ‘수익성 회복’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261119/135056326/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBWZYdZJr5hPoGMODDNMCSejFMbvQWiELnw49STfWPwpZR6PQ6LXOVcAfUHHk"
+    },
+    {
+     "title": "LG헬로비전, 김지훈 신임 CEO 선임…7년 만에 수장 교체",
+     "url": "https://www.etnews.com/20261119000404",
      "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd4RJU95nnLPDqJNwLvAY84-SbCHunq1tPzJ6PYwOZ4cvV8GTFDDyfWpffTO0"
-    },
-    {
-     "title": "“수능 국영수 풀어라” AI 명령하니…챗GPT 10분도 안돼 만점 [팩플]",
-     "url": "https://www.joongang.co.kr/article/25480229",
-     "source": "중앙일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIKyLrBD4wr-CO7_QjTxT6eVAKbMnQoolODL9I2vC-OpqqyuNM0nAQgc-YNzQ"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSY7mZlZkZqxWGROx6oDi7g04byWfZK-43kTyVyRbCmd3xlysE_QN84tEVe34k"
     }
    ]
   },
   {
-   "keyword": "셀트리온",
-   "traffic": "500+",
-   "pubDate": "Thu, 19 Nov 2026 01:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0xpzXl_XDnf6ZgswJGTMPo8YGE_ASlpJj7aJrmPr5qPtd7n4ui8mkeHa64",
-   "news": [
-    {
-     "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119039100017",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0xpzXl_XDnf6ZgswJGTMPo8YGE_ASlpJj7aJrmPr5qPtd7n4ui8mkeHa64"
-    },
-    {
-     "title": "셀트리온, 바이오시밀러 亞 시장 '승승장구'",
-     "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1337310",
-     "source": "인천일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ3e0JcEl5wY0DVyxXQ6N3cbxvh81l2vaRr0eRUgw44ha5fKRdZPxodGIPLDA"
-    },
-    {
-     "title": "셀트리온, 亞 시장 점유율 '탄탄'…\"홍콩·태국 등 후속 제품 순차 출시\" - 머니투데이",
-     "url": "https://www.mt.co.kr/thebio/2026/11/19/2026111909222440183",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4snC368NAMH2YZ1g_OZPeS7hgO_6EapS46wMUyMHIqB1TgIorRoeyRQuw0WY"
-    }
-   ]
-  },
-  {
-   "keyword": "수원 kt 대 서울 sk",
+   "keyword": "이지영",
    "traffic": "200+",
-   "pubDate": "Thu, 19 Nov 2026 02:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
+   "pubDate": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSuEI2xi0TiUc3KSXKd3R9stz2uOlV1PjYy2rEKE8nrl00pkj0EkTgvRVKCAw",
    "news": [
     {
-     "title": "◇오늘의 경기(19일)",
-     "url": "https://www.yna.co.kr/view/AKR20261118190800007",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g"
+     "title": "이지혜, ‘AI 부정행위’ 논란 속 세무사 남편 언급…“더 대단하게 느껴져”",
+     "url": "https://www.mk.co.kr/news/hot-issues/12213453",
+     "source": "매일경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSuEI2xi0TiUc3KSXKd3R9stz2uOlV1PjYy2rEKE8nrl00pkj0EkTgvRVKCAw"
     },
     {
-     "title": "[사진]김낙현, 침착하게 레이업슛",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/19/MMYTMNLBHA2DMYJQGU2WEMBSGQ/",
+     "title": "정승제 수능전날 올린 글 “단추 무조건 빼고, 안경 안 써도 되면 그냥 빼고”",
+     "url": "https://biz.heraldcorp.com/article/10941789",
+     "source": "헤럴드경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfGGwRnktfDAvN3QEvt0hOa8QaFJ9zRf7ZqyrOPKacUoW1NiK1r6vO71o8TXg"
+    },
+    {
+     "title": "\"어른으로서 미안\"…일타 강사 이지영, 수능 앞둔 수험생에 위로 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/18/2026111817245134931",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5Pn1LNqlz0D1suyFZgSbBq0yG4qDcje9Qis96p60B66X80fjN9rsWsnNGmAs"
+    }
+   ]
+  },
+  {
+   "keyword": "한국수력원자력",
+   "traffic": "200+",
+   "pubDate": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwu5JWNn6qcydLWtBlNeFSEqzQikB_9cWENWVpkwiH4ej_EjzQpDRNwOfx3vg",
+   "news": [
+    {
+     "title": "한수원, 동료가 동료 지키는 ‘마인드키퍼’ 출범",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375030",
+     "source": "전기신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwu5JWNn6qcydLWtBlNeFSEqzQikB_9cWENWVpkwiH4ej_EjzQpDRNwOfx3vg"
+    },
+    {
+     "title": "동료의 마음건강 내가 지킨다…한수원, 마음건강 안전망 ʻ마인드키퍼ʼ 출범",
+     "url": "https://zdnet.co.kr/view/?no=20261119192053",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t2z6Mw-7CuRsrMmcswZYNV4SRPpw_8sRG86_7VS0MSmCYQ_7UGUmI6OxfS4"
+    },
+    {
+     "title": "산간오지 발전소 직원 마음건강 지키는 ‘한수원 마인드키퍼’ 출범",
+     "url": "https://biz.chosun.com/industry/company/2026/11/19/H47VTZ6V6FESBJPXJUSUIRYUJQ/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlYZHQG0_me8SBpqHaU8k3P-8Ifhq8KfQ6igDN22HKF4OgzWfZqRVE5U6AUIA"
+    }
+   ]
+  },
+  {
+   "keyword": "강지환",
+   "traffic": "100+",
+   "pubDate": "Thu, 19 Nov 2026 02:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTljQqElzO8DPHmTwtTBcR9pshuY-X7G0yPEKkUN3O-AXAznZnsdaZkv06cPX4",
+   "news": [
+    {
+     "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
+     "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTljQqElzO8DPHmTwtTBcR9pshuY-X7G0yPEKkUN3O-AXAznZnsdaZkv06cPX4"
+    },
+    {
+     "title": "'스태프 성폭행→34억 배상' 강지환, 틱톡커 된 근황…팬들은 후원 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111920065169466",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJyseLjpTx7ekn44Cr5YKnEKSF55DlavqF6YihH-xiSEPRhfi7Tt5ehpcV7E"
+    },
+    {
+     "title": "'스태프 성폭행' 강지환, 뜨개질 틱토커 됐다..7년 만의 근황 공개 [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/G42GIZTCGQZTEZBTGRSDQYLDGA/",
      "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk6K8mS4TmoQrV15A6aWej-qiSwRpooZnEym94GKRTqY4PlDyKcSoHPVrsdM"
-    },
-    {
-     "title": "[사진]워니, 3점슛으로 역전 성공 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/202611191908772813O",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBoRsnEx40lhEwH2hzTt1K06ktUboQKJa66T3nGz3mkfsX0MdTYiHXEOs6bGU"
-    }
-   ]
-  },
-  {
-   "keyword": "fifa 랭킹",
-   "traffic": "200+",
-   "pubDate": "Thu, 19 Nov 2026 01:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAZCT8ZMhj22OFUxWfcxDX_YSWx08kXaFJcMf_jBjm4HVBAF9ftx8DFIvbvE",
-   "news": [
-    {
-     "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111913460673471",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAZCT8ZMhj22OFUxWfcxDX_YSWx08kXaFJcMf_jBjm4HVBAF9ftx8DFIvbvE"
-    },
-    {
-     "title": "'1승 1패' 한국 축구, FIFA 랭킹 2계단 뛰어 30위…일본 17위",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874906",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeo3r_AFyX3Ucyx0QBkRkj5t7jDwD_9K8Ykb1DSOQNrkAMWtfKlf4Us5Actkg"
-    },
-    {
-     "title": "\"사우디에 졌는데 오히려 2계단 껑충?\" 모레노호, FIFA 랭킹 30위 도약… 브라질 잡은 일본은 17위",
-     "url": "https://www.fnnews.com/news/202611190923332388",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFITQCE83AtmZQNKf30ZUdVaBVLAy0MUGIjchlJyRHf2nHp1ybXbApglF1Nyw"
-    }
-   ]
-  },
-  {
-   "keyword": "sri lanka vs pakistan",
-   "traffic": "200+",
-   "pubDate": "Thu, 19 Nov 2026 00:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKG38yEjzvUDps1gYFwAtuHrD3aBoarlAXko_sIO98vR_Y7ult9YEX4bZx7c8",
-   "news": [
-    {
-     "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
-     "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom",
-     "source": "Cricbuzz",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKG38yEjzvUDps1gYFwAtuHrD3aBoarlAXko_sIO98vR_Y7ult9YEX4bZx7c8"
-    },
-    {
-     "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
-     "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
-     "source": "Yeni Safak English",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlvroru2pKOWFH5Ormm_JaeJyvC4Tcr1f4z_qeXcjGrYGvF9axd2X1Q2pC6V8"
-    },
-    {
-     "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 2nd Test | ESPN.com",
-     "url": "https://www.espn.com/cricket/series/19430/report/1550712/day/3/pakistan-vs-sri-lanka-2nd-test-19430",
-     "source": "ESPN",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEWapRM03h0E5hb-3NspdI1QySqIl2hMPgtZHGTLLfU9uBgGPH5UNpES-KZG8"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1VN0pH9e9yti0aGv4tEJweotXdQzHbgfQddf57JALV4YWafKFnG_czkGO2cE"
     }
    ]
   },
@@ -187,8 +239,14 @@
    "keyword": "bangladesh vs south africa",
    "traffic": "100+",
    "pubDate": "Thu, 19 Nov 2026 02:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToon9rRi_5JdDJzmhlpa-_NQqojaQN1v4bvRytWL0H4ksOGcPXuNX--G3MsAM",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1J4jRynajrdgJmMJH9EA7ZGJyTOzP9Uymt7WBqCTSYvZzPIBo1jKcJZPxO70",
    "news": [
+    {
+     "title": "Bad light stops play early with Bangladesh under the pump",
+     "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report",
+     "source": "Cricinfo",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1J4jRynajrdgJmMJH9EA7ZGJyTOzP9Uymt7WBqCTSYvZzPIBo1jKcJZPxO70"
+    },
     {
      "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
      "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report-5",
@@ -200,64 +258,6 @@
      "url": "https://www.cricbuzz.com/cricket-news/140963/mahmud-we-couldnt-create-pressure-against-south-africas-tailenders-cricbuzzcom",
      "source": "Cricbuzz",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtOzuxRGCky8QgN-aOfteAJU3TNVgEgJ_eIoVVZMLILmRuJ6h_gHKHYIPSat8"
-    },
-    {
-     "title": "South Africa beats Bangladesh on Day 5 of first cricket test after Harmer shines again",
-     "url": "https://www.wral.com/news/ap/80744-south-africa-beats-bangladesh-on-day-5-of-first-cricket-test-after-harmer-shines-again/",
-     "source": "WRAL",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQw7ObNA1zJt1culN07mudm_Qugtp1vSgsTPdhOuteknTBnIX_RxoaCaGrzbM"
-    }
-   ]
-  },
-  {
-   "keyword": "수험표 할인",
-   "traffic": "100+",
-   "pubDate": "Thu, 19 Nov 2026 01:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScTJ7_xO4u_PscBjBKBZJ_fv6vx5S5VZf5DK9-bW1Phj6v5bq_ACmm3UEmAqQ",
-   "news": [
-    {
-     "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
-     "url": "https://www.khan.co.kr/article/202611191716001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScTJ7_xO4u_PscBjBKBZJ_fv6vx5S5VZf5DK9-bW1Phj6v5bq_ACmm3UEmAqQ"
-    },
-    {
-     "title": "[경제 뉴스로 배우는 한입 한자 29화] 수능 끝! 수험생 노린 ‘수능 특수’ 시작됐어요",
-     "url": "https://www.chosun.com/kid/kid_economy/2026/11/19/73K4Q44IUZHR3GBAUKN7CXA2WM/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXgkSG5Uw0PEPGYYnP_TFW2eMSIq5E8Tr9WCT-meq6IAF-m_ePuz6cIRdk4A"
-    },
-    {
-     "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
-     "url": "https://www.kyeonggi.com/article/20261118580425",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT16ldVQ1hFDeQ7tYW59HT9ygVA8JDpzfkDn8U6Pn5rXtX585vMP4jsVWEdv50"
-    }
-   ]
-  },
-  {
-   "keyword": "lg디스플레이",
-   "traffic": "100+",
-   "pubDate": "Thu, 19 Nov 2026 01:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCAFjJw5UZ8L5pfUGHR9-MFAHoar_Qb6FmbJDPMPCGvOvt73VVx06q_xCTq3Y",
-   "news": [
-    {
-     "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCAFjJw5UZ8L5pfUGHR9-MFAHoar_Qb6FmbJDPMPCGvOvt73VVx06q_xCTq3Y"
-    },
-    {
-     "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
-     "url": "https://www.hankyung.com/article/202611197955g",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSsgYTLyE6O19KFLXgHkjWLnwafxa1G_Xzo7eX7mYDChWx7AXYT3AAxNxfekU"
-    },
-    {
-     "title": "LG디스플레이 중·대형 사업부 통합…새 CFO에 이정희 전무",
-     "url": "https://www.etnews.com/20261119000405",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5F5fOVAZnMtej3OYlRQmRO1vmL4xWqeRvwHCZOJr9DxQwpGpAgZuofo0JlVI"
     }
    ]
   }
