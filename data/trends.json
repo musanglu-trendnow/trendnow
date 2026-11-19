@@ -1,35 +1,61 @@
 {
- "updated": "2026-11-19 18:02",
+ "updated": "2026-11-19 19:06",
  "items": [
   {
    "keyword": "수능 답지",
-   "traffic": "20000+",
+   "traffic": "50000+",
    "pubDate": "Wed, 18 Nov 2026 23:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkRYaRwdldU98Fy7aegZx0tG_aNXCjAFo5QhCkeN_TAcj9LqoKIk7c1Jo43aI",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqJYthMGsIdi850IopxlmRpstjamyporhznVdCobZeolSxV_tFbNDpPN55LxA",
    "news": [
     {
-     "title": "[수능] EBS \"수학, 작년 수능과 비슷…입시업계 \"약간 어려울 수도\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119120151530",
+     "title": "EBS “국어·수학 난이도, 작년 수능과 비슷…중상위권 변별 강화”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717361",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqJYthMGsIdi850IopxlmRpstjamyporhznVdCobZeolSxV_tFbNDpPN55LxA"
+    },
+    {
+     "title": "[수능] EBS \"영어, 작년 수능보다 쉽고 9월 모평보다 어려워\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119161700530",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkRYaRwdldU98Fy7aegZx0tG_aNXCjAFo5QhCkeN_TAcj9LqoKIk7c1Jo43aI"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiQwD7daXrp9r0Hzt2cKksrLJrzS715ZSdHosYdfNxwkHfEke1-NuCOygU-Bw"
     },
     {
-     "title": "수능 영어, 지난해보다 쉽게 출제…9월 모평보다는 어려워[2027 수능]",
-     "url": "https://www.khan.co.kr/article/202611191727001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzKj9xQf948BwEHVb4lrF9MdJ_WIffJiEUTcRAf2crmOa6tFIiMonzsho1af4"
+     "title": "올해 수능, 제주서도 'N수생' 몰린 이유는?",
+     "url": "https://app.ihalla.com/article.php?aid=1795079803793012014",
+     "source": "한라일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQk9QqpfNLpEajRTIN7KaY4TjTPholTviCk7_RmxFnvPqyXUuqCmLEgfBUnnfw"
+    }
+   ]
+  },
+  {
+   "keyword": "사건",
+   "traffic": "10000+",
+   "pubDate": "Thu, 19 Nov 2026 00:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROacwCEneMfaeelwZU0xaDfjAjCdnlSbjGVU5nFs3bukK1of_VYtADaFSmLXI",
+   "news": [
+    {
+     "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
+     "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROacwCEneMfaeelwZU0xaDfjAjCdnlSbjGVU5nFs3bukK1of_VYtADaFSmLXI"
     },
     {
-     "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-     "url": "https://stock.mk.co.kr/news/view/1202436",
-     "source": "매일경제 마켓",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVtqD973tCP9Jm2MbBGOP1SzwoqjTTE2KEoqCiKtzPTqBPJaQPbAzxrjugtcg"
+     "title": "[속보] 대법, 한덕수 구속기간 연장 결정…2개월 늘어",
+     "url": "https://news.jtbc.co.kr/article/NB12328879",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvEDkjB2gv9vcvg78uhh5dJe6tLYbwDPG8wDNeIhnIBHYDQEf2IvvMgT8Y_0M"
+    },
+    {
+     "title": "대법 전원합의체, 한덕수 전 총리 일부 무죄취지 파기환송",
+     "url": "https://www.joongang.co.kr/article/25480224",
+     "source": "중앙일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMOUsjuygcxHfTOHmmyqTljRGB1XcjVcVvU7O7jUJGpSrE8qVrw3JrknHzC8c"
     }
    ]
   },
   {
    "keyword": "수능 등급컷",
-   "traffic": "1000+",
+   "traffic": "5000+",
    "pubDate": "Wed, 18 Nov 2026 23:40:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrzr8hDrJySHCVJcvaN1y8espZoxaUlbBPcYkf0ukZalGuZjQsnLXbALrzVOw",
    "news": [
@@ -54,132 +80,80 @@
    ]
   },
   {
-   "keyword": "주얼리",
-   "traffic": "1000+",
-   "pubDate": "Wed, 18 Nov 2026 22:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMb2i3zRBAEobiqCOUKb7aJN8QA54dHAykUDJJOHs3rAq6UHvcsmWXPEPyMs",
-   "news": [
-    {
-     "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
-     "url": "https://www.handmk.com/news/articleView.html?idxno=45236",
-     "source": "핸드메이커",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMb2i3zRBAEobiqCOUKb7aJN8QA54dHAykUDJJOHs3rAq6UHvcsmWXPEPyMs"
-    },
-    {
-     "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
-     "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30",
-     "source": "비욘드포스트",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPC-k9m2FFU02FAqtz7zmw71xF-huaFgpF5GehP62rYF0D8hYViKcAcww5RvY"
-    },
-    {
-     "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
-     "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616",
-     "source": "스타데일리뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhKo4qUrRUnJpev4DRlz4ob2-XaOpvKFpPM_-HBs5rCyvg1WTH9XXJXRfrbrw"
-    }
-   ]
-  },
-  {
-   "keyword": "수능 끝",
-   "traffic": "500+",
-   "pubDate": "Wed, 18 Nov 2026 23:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScTJ7_xO4u_PscBjBKBZJ_fv6vx5S5VZf5DK9-bW1Phj6v5bq_ACmm3UEmAqQ",
-   "news": [
-    {
-     "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
-     "url": "https://www.khan.co.kr/article/202611191716001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScTJ7_xO4u_PscBjBKBZJ_fv6vx5S5VZf5DK9-bW1Phj6v5bq_ACmm3UEmAqQ"
-    },
-    {
-     "title": "롯데백화점 광주점 화장품·베이커리, 수능 수험생 이벤트",
-     "url": "https://www.yna.co.kr/view/AKR20261119096800054",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8Rxnh9FlMMh2g4ddCp-xA27XQdBZjXTExr1lBt1iSWbKgDKHrqoSl_ZkFZQ"
-    },
-    {
-     "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
-     "url": "https://www.kyeonggi.com/article/20261118580425",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT16ldVQ1hFDeQ7tYW59HT9ygVA8JDpzfkDn8U6Pn5rXtX585vMP4jsVWEdv50"
-    }
-   ]
-  },
-  {
    "keyword": "lg 임원인사",
    "traffic": "500+",
    "pubDate": "Wed, 18 Nov 2026 23:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuMQQ_j4z_elosbTO7UzuS9HpvMTi0mbr--l55fMu1IoWrLVKklQbZ-WDiDzo",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfREDWZw3zwbGqCG8OvcUxc6tIoifVoFyer9M6avoapZezcdoaBM-WKwrGtko",
    "news": [
-    {
-     "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
-     "url": "https://zdnet.co.kr/view/?no=20261119162858",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuMQQ_j4z_elosbTO7UzuS9HpvMTi0mbr--l55fMu1IoWrLVKklQbZ-WDiDzo"
-    },
-    {
-     "title": "LG경영개발원 신임 대표에 하범종 ㈜LG 경영지원부문장",
-     "url": "https://www.yna.co.kr/view/AKR20261119137600003",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyh1SFsVCsVEbM0jDoPpmKERXvqq73Dxh8TdFB4tqTQpZXZiG61Q5edGG0Pis"
-    },
     {
      "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
      "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
      "source": "조선일보",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfREDWZw3zwbGqCG8OvcUxc6tIoifVoFyer9M6avoapZezcdoaBM-WKwrGtko"
+    },
+    {
+     "title": "이상우 LG전자 MS사업본부장 겸 디스플레이사업부장",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04198406645647360",
+     "source": "마켓인",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8zdl7GpSKhXvN8K3o8i7RSix3LArrR6exf71sTfk_nCw9RlEsmdTZKd9BsEQ"
+    },
+    {
+     "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+     "url": "https://zdnet.co.kr/view/?no=20261119162858",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuMQQ_j4z_elosbTO7UzuS9HpvMTi0mbr--l55fMu1IoWrLVKklQbZ-WDiDzo"
     }
    ]
   },
   {
-   "keyword": "수능 결시율",
-   "traffic": "500+",
-   "pubDate": "Wed, 18 Nov 2026 22:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrErrFrQeooNjAn5R_JaM9AgOjH70ydXzF4g14RvUmy4aw-zGTk_skPtX2WTo",
-   "news": [
-    {
-     "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
-     "url": "https://www.news1.kr/society/education/6359569",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrErrFrQeooNjAn5R_JaM9AgOjH70ydXzF4g14RvUmy4aw-zGTk_skPtX2WTo"
-    },
-    {
-     "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDfSwsdE3RbKP3jftYAZxBgEvA68-XA51rGYnmSXDo1xkBtnGG-qrAeP4N6SM"
-    },
-    {
-     "title": "경기도 수능 16만5천595명 응시…1교시 결시율 10.80%, 전년보다 상승",
-     "url": "https://www.kyeonggi.com/article/20261119580334",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUgcuOets0U-WtDXgNsShCzhzJ0rQsmG7jNn-zffAHFbG-rGSQL38e-RjZ_lU"
-    }
-   ]
-  },
-  {
-   "keyword": "대법관",
+   "keyword": "셀트리온",
    "traffic": "200+",
-   "pubDate": "Wed, 18 Nov 2026 23:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA8bA2bzpypew7iR8BPG1yxB5XvHc6lBnzo8-wD9jRGUnlyOHLWph9kc8U9gI",
+   "pubDate": "Thu, 19 Nov 2026 01:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0xpzXl_XDnf6ZgswJGTMPo8YGE_ASlpJj7aJrmPr5qPtd7n4ui8mkeHa64",
    "news": [
     {
-     "title": "[라이브] 국회 법사위 전체회의 생중계 / SBS 실시간 라이브",
-     "url": "https://news.sbs.co.kr/news/live.do?videoId=KHVup7e0toM&plink=RSS",
-     "source": "news.sbs.co.kr",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA8bA2bzpypew7iR8BPG1yxB5XvHc6lBnzo8-wD9jRGUnlyOHLWph9kc8U9gI"
+     "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119039100017",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0xpzXl_XDnf6ZgswJGTMPo8YGE_ASlpJj7aJrmPr5qPtd7n4ui8mkeHa64"
     },
     {
-     "title": "국힘 불참한 법사위 전체회의",
-     "url": "https://www.newspim.com/news/view/20261118001251",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7M10QuzAr_OW-8bLY10IO5cyh42VY8-HU5TWFmhD2rE1_bcBUy7LQS6ej9bM"
+     "title": "셀트리온, 바이오시밀러 亞 시장 '승승장구'",
+     "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1337310",
+     "source": "인천일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ3e0JcEl5wY0DVyxXQ6N3cbxvh81l2vaRr0eRUgw44ha5fKRdZPxodGIPLDA"
     },
     {
-     "title": "법사위, ‘대법관 격려금 3억 감액’ 내년 예산안 의결…국민의힘 불참",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713849",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAsY_eQdNK5FF_kEhNAwiSbzRwyl8nvUyWi639OLoTm4jXi0a4DNNztlpDfE"
+     "title": "셀트리온, 亞 시장 점유율 '탄탄'…\"홍콩·태국 등 후속 제품 순차 출시\" - 머니투데이",
+     "url": "https://www.mt.co.kr/thebio/2026/11/19/2026111909222440183",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4snC368NAMH2YZ1g_OZPeS7hgO_6EapS46wMUyMHIqB1TgIorRoeyRQuw0WY"
+    }
+   ]
+  },
+  {
+   "keyword": "sri lanka vs pakistan",
+   "traffic": "200+",
+   "pubDate": "Thu, 19 Nov 2026 00:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKG38yEjzvUDps1gYFwAtuHrD3aBoarlAXko_sIO98vR_Y7ult9YEX4bZx7c8",
+   "news": [
+    {
+     "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
+     "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom",
+     "source": "Cricbuzz",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKG38yEjzvUDps1gYFwAtuHrD3aBoarlAXko_sIO98vR_Y7ult9YEX4bZx7c8"
+    },
+    {
+     "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
+     "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
+     "source": "Yeni Safak English",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlvroru2pKOWFH5Ormm_JaeJyvC4Tcr1f4z_qeXcjGrYGvF9axd2X1Q2pC6V8"
+    },
+    {
+     "title": "Sri Lanka on verge of embarrassing double blow following 'costly' WTC deductions",
+     "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-sri-lanka-pakistan-match-report-scores/vrk38s6oex4714r5n0yi159cg",
+     "source": "Fox Sports",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbXXiKQ2AG3hszFNKQ-rHwkStHyXzD8qXUAYytEVMcUenWeOsdrx9p6V5uu_8"
     }
    ]
   },
@@ -187,14 +161,8 @@
    "keyword": "해군",
    "traffic": "200+",
    "pubDate": "Wed, 18 Nov 2026 22:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBJvtuT7gHzwTLRCMoARKpABb47U6Ztm_YD2x1Y0jSi193Sk5VcXIBw3s1k4E",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt5s7RteP3jsMzvpHWaUjWdkcP8RfdLc5BnnZ0MiK1O7cHmfe21J_TpQLccJ4",
    "news": [
-    {
-     "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBJvtuT7gHzwTLRCMoARKpABb47U6Ztm_YD2x1Y0jSi193Sk5VcXIBw3s1k4E"
-    },
     {
      "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
      "url": "https://www.hankyung.com/article/2026111972367",
@@ -206,6 +174,38 @@
      "url": "https://www.segye.com/newsView/20261119509212",
      "source": "세계일보",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQy709wT8gTUqntyetSFdfnKnpb1-V-TldMVFwGfTCBnQTUTPQ-ciHsaGzhu4"
+    },
+    {
+     "title": "APEC 기간 보란듯 '中 반대쪽' 함경도 찾은 김정은… \"트럼프 러브콜에 연연하지 않는 모습 연출\"",
+     "url": "https://www.chosun.com/politics/north_korea/2026/11/19/OMDLA3RDSNBFZGQJS7DLKW6ROM/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQirBjhVPtj1Ra1aRHmORqB4zAeU4dGfMq6LO9ehIxe7AU2ilqnzvIGQz8LWfA"
+    }
+   ]
+  },
+  {
+   "keyword": "fifa 랭킹",
+   "traffic": "100+",
+   "pubDate": "Thu, 19 Nov 2026 01:00:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAZCT8ZMhj22OFUxWfcxDX_YSWx08kXaFJcMf_jBjm4HVBAF9ftx8DFIvbvE",
+   "news": [
+    {
+     "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111913460673471",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAZCT8ZMhj22OFUxWfcxDX_YSWx08kXaFJcMf_jBjm4HVBAF9ftx8DFIvbvE"
+    },
+    {
+     "title": "'1승 1패' 한국 축구, FIFA 랭킹 2계단 뛰어 30위…일본 17위",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874906",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeo3r_AFyX3Ucyx0QBkRkj5t7jDwD_9K8Ykb1DSOQNrkAMWtfKlf4Us5Actkg"
+    },
+    {
+     "title": "\"사우디에 졌는데 오히려 2계단 껑충?\" 모레노호, FIFA 랭킹 30위 도약… 브라질 잡은 일본은 17위",
+     "url": "https://www.fnnews.com/news/202611190923332388",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFITQCE83AtmZQNKf30ZUdVaBVLAy0MUGIjchlJyRHf2nHp1ybXbApglF1Nyw"
     }
    ]
   },
@@ -236,28 +236,28 @@
    ]
   },
   {
-   "keyword": "사망",
+   "keyword": "이병철",
    "traffic": "100+",
-   "pubDate": "Wed, 18 Nov 2026 22:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEWbBUL9vbCMt41wR6rDOhK--BlXEPBPB6oWv7nB3HZBMHsz75VkCHHskUtm8",
+   "pubDate": "Wed, 18 Nov 2026 23:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNM8utw-ImqmdZcKMQmkiGbrwp2NCoXIZynEbKffbGCJYckKU5owzrxS8H_ZI",
    "news": [
     {
-     "title": "국토부, 사망사고 발생 대형건설사 12곳 안전관리 점검",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374930",
-     "source": "전기신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEWbBUL9vbCMt41wR6rDOhK--BlXEPBPB6oWv7nB3HZBMHsz75VkCHHskUtm8"
+     "title": "이병철 창업 회장 39주기, 범삼성가 선영 참배",
+     "url": "https://www.donga.com/news/Economy/article/all/20261119/135054236/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNM8utw-ImqmdZcKMQmkiGbrwp2NCoXIZynEbKffbGCJYckKU5owzrxS8H_ZI"
     },
     {
-     "title": "올 들어 건설 현장서 106명 숨져…절반 가량이 ‘추락’ 사망",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715993",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMSHYQN56RYbQeYcBrNxUV6SDozG9YKfBYnrgpX10kYvxZ04W7lhBkANakFtw"
+     "title": "이병철 삼성 창업회장 39주기… 범삼성家 용인서 추도식",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/MTYMXXQ5DVEJDOUZDPRMHKWE2Q/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDAsS6cxpjGZoQz3muZSmsRmYTrFKAZE-pjT_FVLRTfCjbr_F3SkeHRbbyta4"
     },
     {
-     "title": "양주시, 대형 건설현장 소장 15명과 동절기 안전 논의…사고 예방 당부",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756043",
-     "source": "국제뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU5as65u17q32BPNubsxJ6kJhafxretowR6_2ZfNFK0kRljZcSKK95MXCOIVs"
+     "title": "이병철 삼성 회장 추도식 참석한 홍라희",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261119_0021538710&pID=1&cID=&sID=1&type=photoMain&idx=5",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIkw8BKPF5Uvpcmt-3n1ho5xd-uLh_dvQXz8ha02Ced1MZuxDWLR-yWfDWyAI"
     }
    ]
   }
