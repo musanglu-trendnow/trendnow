@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-20 23:54",
+ "updated": "2026-11-21 00:56",
  "items": [
+  {
+   "keyword": "부동산",
+   "traffic": "5000+",
+   "pubDate": "Fri, 20 Nov 2026 06:50:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKxpJnoACBDh8rHDrVKV-XKLj5urOPuypyB3PHn0lRtkM-oZQM0knRE01AkYw",
+   "news": [
+    {
+     "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKxpJnoACBDh8rHDrVKV-XKLj5urOPuypyB3PHn0lRtkM-oZQM0knRE01AkYw"
+    },
+    {
+     "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
+     "url": "https://www.khan.co.kr/article/202611202007001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk9iEngBj--kTlztdPXHylIPQ3_hD47xEbvpeTn_aDlxjUf2-NBk4kyk9CyXk"
+    },
+    {
+     "title": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120212011uN7",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6b2fp_pvLycDGUvVJM-2l57HjjsbrUXFgPp_bWCqAu8PsKVlBj6hvxJklA_k"
+    }
+   ]
+  },
   {
    "keyword": "엔비디아",
    "traffic": "5000+",
@@ -14,18 +40,25 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST71GFy_evVtnvtuFsk0dyrhLkSQb01eSVYZjZ7Z7gOvY4vPt6XxQFdJsm6zg"
     },
     {
+     "title": "젠슨 황 몰락의 진짜 이유...루비오와 매파의 '제거 작전'",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611202259212218_005.html",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNK0ZXkSuoxGyqcZk39JV5mkidUKcwmzLtxFeVUxlweQ7bzYd3insn1nGi5Nk"
+    },
+    {
      "title": "엔비디아, 6거래일새 시총 893조원 증발…\"하락 안끝났다\"",
      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01882726645647688",
      "source": "마켓인",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpx0IUrwchOC3lh_eSnbIsaFN7bFesldWGppm2voo8lwPG66JWL7ZMWdW8z2M"
-    },
-    {
-     "title": "젠슨 황 몰락의 진짜 이유...루비오와 매파의 '제거 작전'",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611201601421149",
-     "source": "YTN 사이언스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FXQ8NMK8zRM2j8g1QIsKwUGREy8kEipWh4UaUPf2QGsLj3EPX79ODO_yVkc"
     }
    ]
+  },
+  {
+   "keyword": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
+   "traffic": "5000+",
+   "pubDate": "Fri, 20 Nov 2026 05:30:00 -0800",
+   "img": "",
+   "news": []
   },
   {
    "keyword": "컴포즈",
@@ -40,16 +73,42 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HhP-12AbXfhtNDZOxs_2A7IMHLSMUiTkUEaz1l-eajRGMhDbRv7GmYPHIf4"
     },
     {
-     "title": "키오스크 헤매는 어르신에 날 선 말투...컴포즈커피 응대 논란에 본사 사과 [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611202251454439",
-     "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRskbf73xN1IAmvGNQ9l28cYC9GG25QznnXMDhMIiSvDUm5MD_a725NkE6Z_6g"
-    },
-    {
      "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
      "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
      "source": "주간조선",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR64mPgapsePwwgjBc-c99FeQoq0pu4Tz266_PoxPYEoAM0GRwkmOySCzDrgDQ"
+    },
+    {
+     "title": "키오스크 쩔쩔맨 어르신한테…“넘기세요! 화살표!” 직원 짜증",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135061382/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqfFgZJPiwVYzK66MJ1n67CGARsMluS939kJ29yz4b6trATaRmsS2Hw8QhzE"
+    }
+   ]
+  },
+  {
+   "keyword": "두산",
+   "traffic": "1000+",
+   "pubDate": "Fri, 20 Nov 2026 05:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuA99NswDdKzozd-LuUtjA6jAT9T05fEukNyVg7M0OJ6m849a681yIbW0gpY0",
+   "news": [
+    {
+     "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험 문턱 넘었다",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375052",
+     "source": "전기신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuA99NswDdKzozd-LuUtjA6jAT9T05fEukNyVg7M0OJ6m849a681yIbW0gpY0"
+    },
+    {
+     "title": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
+     "url": "https://zdnet.co.kr/view/?no=20261120093351",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxV2QO526RnWCyhQYKmWBQwyjGux_d6qRzSMDcz1ffyOnXQyqvK1FcXBZkUy0"
+    },
+    {
+     "title": "두산에너빌리티 8MW 해상풍력터빈, 글로벌 보험 기준 적용…해외 시장 진출 기반 강화",
+     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315819",
+     "source": "스트레이트뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO5X2nFdD0qDQfLrNwifLpkBYNx0lkmtMRGoOrd7IKd8g4tT1EMNSF0qFf4Ys"
     }
    ]
   },
@@ -80,28 +139,28 @@
    ]
   },
   {
-   "keyword": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
-   "traffic": "500+",
-   "pubDate": "Fri, 20 Nov 2026 05:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03I1dIuTWE4TkgzgV0iRw47NA0p4MHVp-DXeAg0LGByR9LZd8-BmMUzWvk6s",
+   "keyword": "오현민",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 06:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgZhBibuPXVxZrRO_nDer--V14cTZQFFjx7cQXwiaz-iYLo3soxbCvU22gUg",
    "news": [
     {
-     "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
-     "url": "https://www.etnews.com/20261120000030",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03I1dIuTWE4TkgzgV0iRw47NA0p4MHVp-DXeAg0LGByR9LZd8-BmMUzWvk6s"
+     "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgZhBibuPXVxZrRO_nDer--V14cTZQFFjx7cQXwiaz-iYLo3soxbCvU22gUg"
     },
     {
-     "title": "美, 중국 기업에 AI칩 88만개 수출 승인, 실제 선적은 미지수",
-     "url": "https://www.newspim.com/news/view/20261120001224",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8serZhhZBnxLkF9F2tYXT7yC1KwjMjI-0KXR2KBiQC7ndZuVbpm4T_ryb7w"
+     "title": "'데블스플랜3' 탈락 오현민 \"누구 하나 못된 사람 없어…비난 말아달라\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6359461",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROd-Cnd1YCgJ7f_bMWfOvQOE_7Jewjj6wgwahB9nzrqsO89s9etG728nQPjxs"
     },
     {
-     "title": "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/20/2026112009474380780",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT6MQS3zcgxgcBKu41JqH3eCxqkOHXj_xiyaSlvjI-KdnUtwQwg6m4sOYK1xg"
+     "title": "‘데블스 플랜3’ 오현민 “출연진 비난하지 말아달라”",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007564",
+     "source": "아시아투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIwNkoefnO97TI7PMoXkrkLbGwOiuqY7DiAI8GdSs7Nh9gwL2MiM37OPcWh4"
     }
    ]
   },
@@ -124,62 +183,36 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbo0wlmguYs_-64Ont7T764S7s-bruy9WHawjywfsVvS_79taW7kpTne7bKXI"
     },
     {
-     "title": "'신랑수업2' 류효영, 이태성 직진 고백 그 후...첫 데이트 \"납치된 거다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910277242702",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXrZUvJVQkVsRbwxlnSJEdT9S7uaMmTo4-oQHbTGAS1SSU9vCHduN-gut0eoU"
-    }
-   ]
-  },
-  {
-   "keyword": "농구",
-   "traffic": "200+",
-   "pubDate": "Fri, 20 Nov 2026 04:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTbYE5Qn3pIqimgNyf92hhXTqzSiu5oJkqmxr0qpVeQ8bH1xdcdczM9TG1Uus",
-   "news": [
-    {
-     "title": "1R MVP 이해란 26점 폭발…여자농구 삼성생명, 4연승·단독 선두",
-     "url": "https://www.yna.co.kr/view/AKR20261120176400007",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTbYE5Qn3pIqimgNyf92hhXTqzSiu5oJkqmxr0qpVeQ8bH1xdcdczM9TG1Uus"
-    },
-    {
-     "title": "‘삼성생명 돌풍의 핵심’ 이해란, 데뷔 첫 라운드 MVP 수상",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718495",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8l51FtB9X38qFUMZHHTePDQ0D74F_SK8aVP7HkL8s3XC4qJXUljcQ-qi_fhw"
-    },
-    {
-     "title": "[AI상보] '이해란 26점' 삼성생명, 하나은행 꺾고 4연승…단독 선두 도약",
-     "url": "https://www.newspim.com/news/view/20261120001208",
-     "source": "뉴스핌",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ-72WJ1EG1Ns1iVVuUlxWQ2rGeEQ8MjuhiJqry3tAi8ILV6HMzJMZ2kXm5Ps"
-    }
-   ]
-  },
-  {
-   "keyword": "홍진경",
-   "traffic": "200+",
-   "pubDate": "Fri, 20 Nov 2026 04:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVc9kaFHwbeadNtEzfGvFveTncvqO-x_UEo8iFTclK5H1hBnzSQeJaIAX_Vh0",
-   "news": [
-    {
-     "title": "‘180cm·47kg’ 홍진경, 식단 관리 비법 공개..“과식 줄일 수 있어” (공부왕찐천재)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GY2TOZLEMY3DSYZTHBSDIYTEGQ/",
+     "title": "'류화영 쌍둥이' 류효영, 돌싱+싱글대디 ♥이태성에 직진 \"나 아껴?\"('신랑수업2')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MJSTOMJRMQ4GKM3GG4ZWIMTDHE/",
      "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVc9kaFHwbeadNtEzfGvFveTncvqO-x_UEo8iFTclK5H1hBnzSQeJaIAX_Vh0"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTyX39jF2_OqUKJihFlx5bWkBMFUu-EBZM_-Y14VlhtbKjH1MvQ5o1a6ZU7uQ"
+    }
+   ]
+  },
+  {
+   "keyword": "u17 việt nam",
+   "traffic": "100+",
+   "pubDate": "Fri, 20 Nov 2026 06:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzxCfXU0NT-8UNa1zc1VW-rcl7oN9x1w60E0DTGtI-gObkKjOm7wviaHDJnE",
+   "news": [
+    {
+     "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+     "url": "https://dantri.com.vn/the-thao/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi-20261120221348262.htm",
+     "source": "Báo Dân trí",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzxCfXU0NT-8UNa1zc1VW-rcl7oN9x1w60E0DTGtI-gObkKjOm7wviaHDJnE"
     },
     {
-     "title": "“14시간 수면” 홍진경, 멜라토닌 과다 복용..김숙 “두들겨 맞았냐” (공부왕찐천재 홍진경)",
-     "url": "https://www.koreadaily.com/article/20261119025005183",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx39OJjIHpUNWiDLapWzcYAoYWRESgeWaWhNMgr_JE9eJQFanzeXDFmGmmr34"
+     "title": "Bảng xếp hạng U.17 World Cup mới nhất: 2 siêu phẩm giúp Việt Nam thoát đáy, Mali tốp 1 nhờ thắng New Zealand",
+     "url": "https://thanhnien.vn/bang-xep-hang-u17-world-cup-moi-nhat-2-sieu-pham-giup-viet-nam-thoat-day-mali-top-1-nho-thang-new-zealand-185261120222540314.htm",
+     "source": "Thanh Niên",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBlGiMnF6z8rvIw38r7un9FGqy4iLEVYj_N979hgbEZHl9erwSFpGUqUuYHM"
     },
     {
-     "title": "홍진경, 데뷔 33년째 몸매 관리 비결…아보카도·김 도시락 공개",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135057685/1",
-     "source": "스포츠동아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVYDAcPVFdsoMFt7r3_zMuR6Vb24rOOefQKACaFo2PCgw5GYu2uFbe5X31cr0"
+     "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
+     "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn",
+     "source": "Kenh14.vn",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdhyBKBoFbnMktiWkBY_SaLmUTD5-_50xKoxJ5vqYYR3rFX9N41kHxxF6fgn4"
     }
    ]
   },
@@ -206,39 +239,6 @@
      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZTDGNJZMVRGCN3EMY3WENDFGU/",
      "source": "조선일보",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTT5IgWe592uHBfclXZVoewg1wBja8GTdvEWmF2Ls9bAt5rKr1ASl2qqGKvISE"
-    }
-   ]
-  },
-  {
-   "keyword": "비정규직",
-   "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 04:40:00 -0800",
-   "img": "",
-   "news": []
-  },
-  {
-   "keyword": "대구 fc",
-   "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 04:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8h_zSeT4zHMu_s7LydBsVA348EGchiiKsO_MLxtJZooRwcuOAIugJiPySt4",
-   "news": [
-    {
-     "title": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722619",
-     "source": "뉴스타운",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8h_zSeT4zHMu_s7LydBsVA348EGchiiKsO_MLxtJZooRwcuOAIugJiPySt4"
-    },
-    {
-     "title": "이번엔 수원FC 차례…수원 삼성 이어 다이렉트 승격에 도전",
-     "url": "https://sports.donga.com/sports/article/all/20261119/135053547/1",
-     "source": "스포츠동아",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS59C9EudnrrJ18_25XZo4uboCqgWoTvA4LUUeCgO53AJcqqBt6p7lNbjL880k"
-    },
-    {
-     "title": "대구FC, 22일 올 시즌 마지막 홈경기…상대는 김해FC",
-     "url": "https://www.imaeil.com/page/view/2026111913255176836",
-     "source": "매일신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR75PS_HyDYN2Guoh7v9sR1goQ7bNC_c3BuLHf_6rgk5h3GF8gS3KuvgnFN_CI"
     }
    ]
   }
