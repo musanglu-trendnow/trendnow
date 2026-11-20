@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 00:56",
+ "updated": "2026-11-21 01:58",
  "items": [
   {
    "keyword": "부동산",
@@ -14,16 +14,16 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKxpJnoACBDh8rHDrVKV-XKLj5urOPuypyB3PHn0lRtkM-oZQM0knRE01AkYw"
     },
     {
+     "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/21/T2N6SYATRBDYJOGZ3A4LGNKKGA/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkaERUYACjTXfSiGsj5EOtLiyNrGTmYh8IgAmWjDcrm5weBnydnnhaZgv8eJ0"
+    },
+    {
      "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
      "url": "https://www.khan.co.kr/article/202611202007001",
      "source": "경향신문",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk9iEngBj--kTlztdPXHylIPQ3_hD47xEbvpeTn_aDlxjUf2-NBk4kyk9CyXk"
-    },
-    {
-     "title": "내년 공시가격 현실화율 동결…\"국민 수용성 고려\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120212011uN7",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6b2fp_pvLycDGUvVJM-2l57HjjsbrUXFgPp_bWCqAu8PsKVlBj6hvxJklA_k"
     }
    ]
   },
@@ -61,60 +61,8 @@
    "news": []
   },
   {
-   "keyword": "컴포즈",
-   "traffic": "2000+",
-   "pubDate": "Fri, 20 Nov 2026 05:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HhP-12AbXfhtNDZOxs_2A7IMHLSMUiTkUEaz1l-eajRGMhDbRv7GmYPHIf4",
-   "news": [
-    {
-     "title": "“부모님이라 생각하니 속상”…키오스크 앞 노인에게 무슨 일? [잇슈#태그]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718228",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HhP-12AbXfhtNDZOxs_2A7IMHLSMUiTkUEaz1l-eajRGMhDbRv7GmYPHIf4"
-    },
-    {
-     "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
-     "source": "주간조선",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR64mPgapsePwwgjBc-c99FeQoq0pu4Tz266_PoxPYEoAM0GRwkmOySCzDrgDQ"
-    },
-    {
-     "title": "키오스크 쩔쩔맨 어르신한테…“넘기세요! 화살표!” 직원 짜증",
-     "url": "https://www.donga.com/news/Society/article/all/20261120/135061382/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqfFgZJPiwVYzK66MJ1n67CGARsMluS939kJ29yz4b6trATaRmsS2Hw8QhzE"
-    }
-   ]
-  },
-  {
-   "keyword": "두산",
-   "traffic": "1000+",
-   "pubDate": "Fri, 20 Nov 2026 05:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuA99NswDdKzozd-LuUtjA6jAT9T05fEukNyVg7M0OJ6m849a681yIbW0gpY0",
-   "news": [
-    {
-     "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험 문턱 넘었다",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375052",
-     "source": "전기신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuA99NswDdKzozd-LuUtjA6jAT9T05fEukNyVg7M0OJ6m849a681yIbW0gpY0"
-    },
-    {
-     "title": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
-     "url": "https://zdnet.co.kr/view/?no=20261120093351",
-     "source": "지디넷코리아",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxV2QO526RnWCyhQYKmWBQwyjGux_d6qRzSMDcz1ffyOnXQyqvK1FcXBZkUy0"
-    },
-    {
-     "title": "두산에너빌리티 8MW 해상풍력터빈, 글로벌 보험 기준 적용…해외 시장 진출 기반 강화",
-     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315819",
-     "source": "스트레이트뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO5X2nFdD0qDQfLrNwifLpkBYNx0lkmtMRGoOrd7IKd8g4tT1EMNSF0qFf4Ys"
-    }
-   ]
-  },
-  {
    "keyword": "펍지",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Fri, 20 Nov 2026 05:30:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqStdBgCTRWljLeXVm_uXZhafFhZj1yN74NO5ped2gGIplczmhGzyoO64-Dcw",
    "news": [
@@ -135,6 +83,84 @@
      "url": "https://www.vietnam.vn/ko/sa-sut-sau-vu-himass-tanvuu-pubg-cau-cuu-nhom-nhac-hot-nhat-han-quoc",
      "source": "Vietnam.vn",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa0jFMvb2KoOM7tXkuAeMHNcl6Py98eCsmz_rhgj6wwb0Re6zL_ruOQzAXulU"
+    }
+   ]
+  },
+  {
+   "keyword": "공포지수",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 07:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaolmMHTkY8xs-FRFvtk1uN2njZRqlj-gdrQRoNa-62w1ZpM5DGnTtyHmM_XA",
+   "news": [
+    {
+     "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조",
+     "url": "https://story.pay.naver.com/content/3999_2_C1",
+     "source": "네이버페이 머니스토리",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaolmMHTkY8xs-FRFvtk1uN2njZRqlj-gdrQRoNa-62w1ZpM5DGnTtyHmM_XA"
+    },
+    {
+     "title": "닷컴버블·리먼사태 한꺼번에 온다?…AI 거품론에 더 거세진 '닥터둠'의 경고",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874497",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6VAwOs2h2fN3AcCUHZPENZVS8Une6-7K7Yd9PtB-LrYW-ChGnJDktTUTQnGg"
+    },
+    {
+     "title": "Nvidia, 알파벳에 밀려 미국 시가총액 4위로 하락",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2185671",
+     "source": "Investing.com 한국어",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fJl_5snT8YS6mHu5gJeCnNQqWkdzXggznTkSAo1pWQpzTECQ8RPWiJAiC5o"
+    }
+   ]
+  },
+  {
+   "keyword": "연준",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 07:20:00 -0800",
+   "img": "",
+   "news": [
+    {
+     "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
+     "source": "머니투데이",
+     "img": ""
+    },
+    {
+     "title": "TXT 연준, 자취 10년 차 절친 서범준과 '소분메이트' 결성",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758418",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO36DMDv_9XMEd39uwd6ACpOLevZbpqxTEOauhGNuhr1wd3gVa2GE60Jfqi7U"
+    },
+    {
+     "title": "TXT 연준, 절친의 조카 위해 유아차 선물 “아기 너무 좋아해” (나혼산)",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525544",
+     "source": "iMBC 연예",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZHN1sefFPf8mnGw9CHsGpNYf9g99NWhmS68cVSVaiLFZWxgGb1SlZjceF_iE"
+    }
+   ]
+  },
+  {
+   "keyword": "u17 việt nam",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 06:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDDnCR7V90H86_UPrd1Y2-hVo6IJdqjOmIkB0zkJOUwc3rXGENc7_Zk8-_374",
+   "news": [
+    {
+     "title": "Trực tiếp bóng đá U17 Bỉ - U17 Việt Nam: Bàn thắng đẹp cuối trận (U17 World Cup) (Hết giờ)",
+     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-u17-bi-u17-viet-nam-ban-thang-dep-cuoi-tran-u17-world-cup-het-gio-c48a1812591.html",
+     "source": "Tin tức 24h",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDDnCR7V90H86_UPrd1Y2-hVo6IJdqjOmIkB0zkJOUwc3rXGENc7_Zk8-_374"
+    },
+    {
+     "title": "Lịch thi đấu U.17 Việt Nam và U.17 New Zealand mới nhất: Nỗ lực tột độ để chiến thắng",
+     "url": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-moi-nhat-dau-u17-new-zealand-co-hoi-thang-la-day-185261120221110968.htm",
+     "source": "Thanh Niên",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEOUOnSN0k6VETN5g7anywqfWs4-ft1HY0bGuJOj86ekTlopYbH4excMsDqgk"
+    },
+    {
+     "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
+     "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn",
+     "source": "Kenh14.vn",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdhyBKBoFbnMktiWkBY_SaLmUTD5-_50xKoxJ5vqYYR3rFX9N41kHxxF6fgn4"
     }
    ]
   },
@@ -177,10 +203,10 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqUj4DGI_zWKfNRgN-eYUMKd6BH1Epv6bVSGD7U_EopkzWt3ciEl5T5nmxVlU"
     },
     {
-     "title": "두 사람이 키스했던 장소?! 일이 아닌 데이트로 다시 온 촬영 장소에서의 설렘♥",
-     "url": "https://ichannela.com/program/clip/000000560996.do",
+     "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
+     "url": "https://ichannela.com/program/clip/000000560995.do",
      "source": "채널A",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbo0wlmguYs_-64Ont7T764S7s-bruy9WHawjywfsVvS_79taW7kpTne7bKXI"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShRQu14AevEhtC5Y0wG6zrWMM73TRKP_ientAr6OVucYF_RFGJNh6BLa77JVw"
     },
     {
      "title": "'류화영 쌍둥이' 류효영, 돌싱+싱글대디 ♥이태성에 직진 \"나 아껴?\"('신랑수업2')",
@@ -191,54 +217,28 @@
    ]
   },
   {
-   "keyword": "u17 việt nam",
+   "keyword": "세계사 2 번",
    "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 06:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzxCfXU0NT-8UNa1zc1VW-rcl7oN9x1w60E0DTGtI-gObkKjOm7wviaHDJnE",
+   "pubDate": "Fri, 20 Nov 2026 07:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2WEyqqcX_U8wl4Vq7RABcTIJ0M912zMRP8OvqI4QUMFFtCk_WC3rdobxAk0",
    "news": [
     {
-     "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
-     "url": "https://dantri.com.vn/the-thao/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi-20261120221348262.htm",
-     "source": "Báo Dân trí",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKzxCfXU0NT-8UNa1zc1VW-rcl7oN9x1w60E0DTGtI-gObkKjOm7wviaHDJnE"
+     "title": "수험생 90% 틀린 세계사 2번…“진시황이 아니라고?”",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135061386/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2WEyqqcX_U8wl4Vq7RABcTIJ0M912zMRP8OvqI4QUMFFtCk_WC3rdobxAk0"
     },
     {
-     "title": "Bảng xếp hạng U.17 World Cup mới nhất: 2 siêu phẩm giúp Việt Nam thoát đáy, Mali tốp 1 nhờ thắng New Zealand",
-     "url": "https://thanhnien.vn/bang-xep-hang-u17-world-cup-moi-nhat-2-sieu-pham-giup-viet-nam-thoat-day-mali-top-1-nho-thang-new-zealand-185261120222540314.htm",
-     "source": "Thanh Niên",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBlGiMnF6z8rvIw38r7un9FGqy4iLEVYj_N979hgbEZHl9erwSFpGUqUuYHM"
+     "title": "“챗GPT도 2번이라는데”…수능 세계사 이의 폭주한 ‘이 문항’",
+     "url": "https://www.kyeonggi.com/article/20261120580287",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBgrladddJ6hlZq2kCXhfFY8AWQkIp6AR1Eli8h6X7_GhYy0FnT4gTLrAlIIs"
     },
     {
-     "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
-     "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn",
-     "source": "Kenh14.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdhyBKBoFbnMktiWkBY_SaLmUTD5-_50xKoxJ5vqYYR3rFX9N41kHxxF6fgn4"
-    }
-   ]
-  },
-  {
-   "keyword": "김대두",
-   "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 05:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTysYsueZkWu4mJI0eqPE3PXmtrPB92FsOuq9jVGLtY_f2dsR-5DgRzuyyOz4",
-   "news": [
-    {
-     "title": "[꼬꼬무 찐리뷰]\"갓난아기까지 죽였다\" 55일간 17명 살해…'대한민국 최초 연쇄살인마' 김대두의 소름 돋는 전말",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855694",
-     "source": "SBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTysYsueZkWu4mJI0eqPE3PXmtrPB92FsOuq9jVGLtY_f2dsR-5DgRzuyyOz4"
-    },
-    {
-     "title": "17명 죽이고 뺏은 돈 고작 2만5천원…웃으며 범행 재연한 韓 최초 연쇄살인마",
-     "url": "https://www.newsis.com/view/NISX20261120_0003875968",
+     "title": "수능 이의신청 국어 18건·세계사 12건…수학·영어는 '0건'",
+     "url": "https://www.newsis.com/view/NISX20261120_0003877047",
      "source": "뉴시스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5FgtmMJkJnjTordwxdj7uc7NKK2JuXkJ2NxsNI-TGTJ3LvINYPkjD1JaZI_c"
-    },
-    {
-     "title": "표창원, '17명 살해' 김대두 사건에 충격 분석…\"지금 기준으론 기소 못해\" ('꼬꼬무')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZTDGNJZMVRGCN3EMY3WENDFGU/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTT5IgWe592uHBfclXZVoewg1wBja8GTdvEWmF2Ls9bAt5rKr1ASl2qqGKvISE"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQneAo-rLLMT-FG6SF66cEe0gTy4dsD17riQKnsrBROS0pDFkspMHMLeTGfdA8"
     }
    ]
   }
