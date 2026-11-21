@@ -1,227 +1,265 @@
 {
- "updated": "2026-11-21 08:48",
+ "updated": "2026-11-21 10:06",
  "items": [
   {
-   "keyword": "연예인",
-   "traffic": "2000+",
-   "pubDate": "Fri, 20 Nov 2026 14:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fosv-OAoUUvFB9QYU-U-y5QIxGBSE0YRYaEH-YRwqddj1w4uDPcfKgfm5Hk",
+   "keyword": "반도체",
+   "traffic": "5000+",
+   "pubDate": "Fri, 20 Nov 2026 15:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1kbeJjgRCX_77BRXDrvpQyQ-o5Z8vwV2gBKwon9VkhrnsogcfeZD9-1QblzY",
    "news": [
     {
-     "title": "\"집 샀다\" 자랑하더니 3개월 만에…'영끌' 연예인도 한숨 [머니팁]",
-     "url": "https://www.hankyung.com/article/202611209874v",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fosv-OAoUUvFB9QYU-U-y5QIxGBSE0YRYaEH-YRwqddj1w4uDPcfKgfm5Hk"
+     "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
+     "url": "https://www.yna.co.kr/view/AKR20261120164900003",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1kbeJjgRCX_77BRXDrvpQyQ-o5Z8vwV2gBKwon9VkhrnsogcfeZD9-1QblzY"
     },
     {
-     "title": "남유정, 영끌해서 서울에 집 샀다더니 “금리 상승으로 대출 이자 부담”[핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWIYTCHFSGIYTCGJTGMNRWGU/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVKVqexbfBuB8ywiKv39a2U8q4gn_7G389zpHYpUf7iiqptBpyI_TkaJEmM2w"
+     "title": "4년 만에 대중 무역흑자라더니…반도체 빼면 415억 달러 ‘적자’",
+     "url": "https://www.sedaily.com/article/20117193",
+     "source": "서울경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBet8HjqUz5SyrnaGDD2DeULF1BimSso-50G0m-YoFhrHqDDHT4VZh9wO6D4o"
     },
     {
-     "title": "“갚아야 할 빚 많은데”…‘영끌’로 집 산 걸그룹 출신女, 금리상승에 한숨",
-     "url": "https://www.mk.co.kr/news/culture/12214487",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbqEAjIt7aAcMn0OqkfzPHTESA4YnTBFahrlfxZCSh_pMnhhP-RvzWB0H7ZsM"
-    }
-   ]
-  },
-  {
-   "keyword": "nvda",
-   "traffic": "500+",
-   "pubDate": "Fri, 20 Nov 2026 14:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVsqCo-SGyXBU1vu8o87-V5ZHOz0pRsjcIPdNzyffrD6DLhR3JiF5CXqmqhU0",
-   "news": [
-    {
-     "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-     "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
-     "source": "Reuters",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVsqCo-SGyXBU1vu8o87-V5ZHOz0pRsjcIPdNzyffrD6DLhR3JiF5CXqmqhU0"
-    },
-    {
-     "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
-     "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-     "source": "Yahoo Finance",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB_n6jGkT1MMR4XrAe0_c1RPHxitqjAqzxbKY_-uCHOElPf0Zw8_JKJ8EAjVM"
-    },
-    {
-     "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-     "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-     "source": "CNBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaXFSJB6IVpB8sFSoGA0NmXnyjeeKdp6RLST-FbeEL15lBuQHBt8Tb6HqLumQ"
-    }
-   ]
-  },
-  {
-   "keyword": "경찰관",
-   "traffic": "200+",
-   "pubDate": "Fri, 20 Nov 2026 14:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmGuiwjzH0cby8iHRk64LpCLC8xEm0-wBUUqOA6ecH-iIJhbDN-AifSAOBMfY",
-   "news": [
-    {
-     "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmGuiwjzH0cby8iHRk64LpCLC8xEm0-wBUUqOA6ecH-iIJhbDN-AifSAOBMfY"
-    },
-    {
-     "title": "수능날 '시계 문제' 겪은 수험생…경찰관도 서울대생도 손목시계 풀었다",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645647688&mediaCodeNo=257",
-     "source": "이데일리",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwgTPsn5ioIziRtZ3Qka7lUoECXmHm_D12Nf9T4JBajIpY4reV_UeG4Cb1UJ4"
-    },
-    {
-     "title": "\"엄마, 시계 멈췄어\" 당황한 삼수생...경찰이 '수백만원 시계' 건넸다[오따뉴] - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/20/2026112006293468961",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR66WFDzXP4TQqPDHJw7h_1It_XGEkE6SrYJwzJPnLvpgb4AgrP_7RnUgpXkJI"
-    }
-   ]
-  },
-  {
-   "keyword": "경기남부",
-   "traffic": "200+",
-   "pubDate": "Fri, 20 Nov 2026 14:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxjnVE84ugXE8cJJDgFKGgmt7alfQMhIFFyzbs5LNpnyVKXkQhY4EkboOPHbY",
-   "news": [
-    {
-     "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
-     "url": "https://www.fnnews.com/news/202611201430139857",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxjnVE84ugXE8cJJDgFKGgmt7alfQMhIFFyzbs5LNpnyVKXkQhY4EkboOPHbY"
-    },
-    {
-     "title": "경기 남부 아파트값 고공행진…광교 22억 신고가에 서울 외곽 추월",
-     "url": "http://www.snakorea.com/news/articleView.html?idxno=1065174",
-     "source": "서울뉴스통신",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoKRJ-3VFshjEcWmSqJRujRZW_UAtV6VAyrNbMQhMaf7v1hxxI_iXFabETtcE"
-    },
-    {
-     "title": "기흥 국평이 16억…반도체벨트 집값 줄줄이 전고점 돌파",
-     "url": "https://www.newsis.com/view/NISX20261119_0003875586",
+     "title": "10대 수출시장 중 8곳서 흑자…잘 팔고도 눈치 보는 한국",
+     "url": "https://www.newsis.com/view/NISX20261117_0003871235",
      "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48gavQ9YWjspdicn2nNIHa-dnyKQNGaLISqw0gzpZoSSXzdD87cbxNna9yS8"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFVCm5d4GWxYufYN9XIvxF_Cnps-hPGXiXOYF440YapvNrL-R_ktQ5aWrwfg"
     }
    ]
   },
   {
-   "keyword": "나스닥 100",
-   "traffic": "200+",
-   "pubDate": "Fri, 20 Nov 2026 14:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0maxlKcMmofGaq5P_5mNbNZw9Ft71A4wHQqL3l0BgE_JaxiJBYYxIkxhgUk",
+   "keyword": "lpga",
+   "traffic": "500+",
+   "pubDate": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR4TjQX1xfm3WK4feKCPbsrban03FRToRgM-ZoU6aBP9TCGaxGfVDZRFe6vdM",
    "news": [
     {
-     "title": "나스닥 100, 사상 최고치 대비 약 20% 하락: 과거 데이터상 60거래일 후 상승 확률 80%",
-     "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262316128-nasdaq-100-drawdown-20-percent-intraday-15-percent-backtest-tradingkey",
-     "source": "TradingKey",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC0maxlKcMmofGaq5P_5mNbNZw9Ft71A4wHQqL3l0BgE_JaxiJBYYxIkxhgUk"
+     "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+     "source": "news.sbs.co.kr",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR4TjQX1xfm3WK4feKCPbsrban03FRToRgM-ZoU6aBP9TCGaxGfVDZRFe6vdM"
     },
     {
-     "title": "나스닥 선물, 한때 26,280.5포인트로 밀려 4월 중순 이후 최저",
-     "url": "https://www.tokenpost.kr/news/breaking/441375",
-     "source": "토큰포스트",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQukqE4czYOzD7mFDECJCB13dke5Mp4N6U5n9-VBPtPrhLzQsnndD0-dRhHPEU"
+     "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
+     "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnvF5FzLUyGm2UgXJc_eqALOMtoGDC3d5zWHFb51PXrgTPqnR3WhGtJ6L6dsY"
     },
     {
-     "title": "나스닥 선물 0.74%, S&P500 선물 0.34% 하락",
-     "url": "https://www.tokenpost.kr/news/market/441360",
-     "source": "토큰포스트",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOhhf3JsrAJPQWb3AcAXZ0udA70VPQ6V9TLELgqCaHrD9NACl_SEMPhVdINns"
+     "title": "Jeeno Thitikul Rides Another Back-Nine 31 Into Solo Second after Second Round in Naples",
+     "url": "https://www.lpga.com/news/2026/jeeno-thitikul-rides-another-back-nine-31-into-solo-second-after-second-round-in-naples",
+     "source": "LPGA",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrjppqssgi7dvhuCwxuzZ6cScgS6_a7adSEdtRQg8X2ABVyQqzVM25luQiZE"
     }
    ]
   },
   {
-   "keyword": "공매도",
-   "traffic": "200+",
-   "pubDate": "Fri, 20 Nov 2026 14:10:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdZivHsMD4Jw4KQNfmF0XyZcxCyeYLU3Glq22Odif1JB_CG84njBU11F540Qk",
+   "keyword": "데이터 센터",
+   "traffic": "500+",
+   "pubDate": "Fri, 20 Nov 2026 15:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP8Vnet6rklf2WNsukGkgsjDRJTmdu1XVeNGnldK7BGGJcq126EQfuR25v88o",
    "news": [
     {
-     "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
-     "url": "https://stock.mk.co.kr/news/view/1203507",
+     "title": "트럼프 \"美기업, 다른 나라에 데이터센터 지으면 엄청난 세금 부과\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121006000071",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP8Vnet6rklf2WNsukGkgsjDRJTmdu1XVeNGnldK7BGGJcq126EQfuR25v88o"
+    },
+    {
+     "title": "미국인들이 데이터센터 결사반대한 진짜 이유…'전기요금 폭탄'의 실체",
+     "url": "https://premium.sbs.co.kr/article/PvP_h_E3J",
+     "source": "스브스프리미엄",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbvWyVFEOfAJOW_tYrUJbaG3xxABLO95Q3Avca3W7FEt5iGptBrArONvmzBo"
+    },
+    {
+     "title": "트럼프 \"환상적인 미중러 관계가 미국 안전히 지켜...해외 데이터센터 지으면 세금 폭탄\"",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611210652481503",
+     "source": "YTN",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQnUx3UP-E-asQbylXfzqnJmiyeMqzPnzx4L25ScfxBUipWrqu-EOL22jKvck"
+    }
+   ]
+  },
+  {
+   "keyword": "지스타",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnkrs74UsLQg5z3BdJbR-gDzXio_Nwn2oh-XZmXmQMx0vQ3n2DPWJ6UCULg1E",
+   "news": [
+    {
+     "title": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
+     "url": "https://www.yna.co.kr/view/AKR20261120133000017",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnkrs74UsLQg5z3BdJbR-gDzXio_Nwn2oh-XZmXmQMx0vQ3n2DPWJ6UCULg1E"
+    },
+    {
+     "title": "'지스타 2026'으로 보는 게임산업 변화는?",
+     "url": "https://stock.mk.co.kr/news/view/1203323",
      "source": "매일경제 마켓",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdZivHsMD4Jw4KQNfmF0XyZcxCyeYLU3Glq22Odif1JB_CG84njBU11F540Qk"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_0ppQfKSsY-iH3qGBcHWoCw0Klm6dBLrXUgitM8s9PzwPnVfyE4UzekDiR4g"
     },
     {
-     "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867106_36932.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxk-HE2PyiRCajkuMwg6k2lVbrl00mhxFE0Z-Yv3sOhY0H9DK-gsuTJP3mI24"
+     "title": "게임 속 부산부터 서울까지…콘진원 게임문화축제서 ‘한국을 플레이하다’",
+     "url": "https://zdnet.co.kr/view/?no=20261120153015",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROe1tqlAXzewsG56uc_aHek1MaS9pamgZDCYGUYveTW1TIjtw2ruJUiI8Gvhk"
+    }
+   ]
+  },
+  {
+   "keyword": "ราคาทองวันนี้",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj3-8kss5Y2LkXhqUyw_iLMlfnEkRO-4niBGFx5cS1y7XYwYaIKoMq4dIBZY",
+   "news": [
+    {
+     "title": "ทองคำปี 69 โหดจัด! จากยอดดอยสู่ก้นเหว มูลค่าหาย 30.8% . อ่านเพิ่มเติม คลิก https://thunhoon.com/gold-in-69-absolutely-brutal-211126 . #thunhoon #ทองคำ #สมาคมค้าทองคำ",
+     "url": "https://www.facebook.com/thunhoonnews/posts/%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%9B%E0%B8%B5-69-%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%94-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A7-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A2-308%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%81-thunhoon-%E0%B8%97%E0%B8%AD/122222007086766798/",
+     "source": "Facebook",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj3-8kss5Y2LkXhqUyw_iLMlfnEkRO-4niBGFx5cS1y7XYwYaIKoMq4dIBZY"
     },
     {
-     "title": "삼전닉스만 닷새간 7.6조…외국인, 두 달 새 국내 주식 45조 순매도",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04254166645647688",
+     "title": "อัลบั้มภาพ ทองลงเพราะอะไร 7 สาเหตุราคาทองร่วง ทองจะขึ้นอีกไหม (6 ภาพ)",
+     "url": "https://money.kapook.com/gallery/500114",
+     "source": "kapook.com",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIZQaZCAla6syC_eGux1Elealkxz0LpxdPIuJ4sAdXsJaDQr_3ipA2ps7fgeE"
+    },
+    {
+     "title": "XAU/USD: การวิเคราะห์ตามทฤษฎีคลื่นเอลเลียตและการคาดการณ์สำหรับวันที่ 20.11.2569 – 27.11.2569",
+     "url": "https://www.litefinance.org/th/blog/analysts-opinions/gold-price-prediction-forecast/xauusd-kar-wikheraah-tam-thvsdi-khlun-xel-leiy-t-laea-kar-khad-karn-sahrab-wan-thi-20112569-27112569/",
+     "source": "LiteFinance",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTABpNFYHA_nc2mgtqg4keeDcZyPsDe8jbS9lEyubbKSzTsrWHyAH5t36OzrUM"
+    }
+   ]
+  },
+  {
+   "keyword": "공인회계사",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 15:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGD9YSLDC4plFuOb3F_wQDj5LBGYdG8H-OnfQe-ZCBlsMbnCVU5li-em0Lfbw",
+   "news": [
+    {
+     "title": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04487046645647688",
      "source": "마켓인",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJxmyTevqa3vGZYzL-wXnt9JF6YqGD0cYdKwYCWItGXnZ1auXSRWvG7UqESIY"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGD9YSLDC4plFuOb3F_wQDj5LBGYdG8H-OnfQe-ZCBlsMbnCVU5li-em0Lfbw"
+    },
+    {
+     "title": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
+     "url": "https://www.news1.kr/world/northeast-asia/6361423",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa0fLf6lz1eBrDjQVGoHai3PWC5ZIbGvctDMwkWFmxN2dAJI5-rGZthbDIaZQ"
+    },
+    {
+     "title": "공인회계사 시험 합격한 14세…日 역대 최연소 기록 경신",
+     "url": "https://www.hankyung.com/article/2026112009647",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrVcT2FS4TeIAB7yGYVbkFUqTM98jrRqy98BBRnWtXFbnn5UVLsDl54fTmTLw"
     }
    ]
   },
   {
-   "keyword": "mu",
-   "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 14:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PsqvhTf8lfcv6J3-tyCknfh4YjPdAO96_2jeVtQO_IGVGcNeNinehPki8HM",
+   "keyword": "브루노 마스",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 15:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcv57UzkZdpPxNjHwGecXvNFzRIrOBBWC5caRUy8EyMwppB4T4pqe5_UlhLkA",
    "news": [
     {
-     "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
-     "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734",
-     "source": "Barron's",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PsqvhTf8lfcv6J3-tyCknfh4YjPdAO96_2jeVtQO_IGVGcNeNinehPki8HM"
+     "title": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
+     "source": "Los Angeles Times",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcv57UzkZdpPxNjHwGecXvNFzRIrOBBWC5caRUy8EyMwppB4T4pqe5_UlhLkA"
     },
     {
-     "title": "Micron Stock Draws Big Hedge Fund Bets as AI Memory Demand Surges",
-     "url": "https://www.tradingview.com/news/gurufocus:21138983e094b:0-micron-stock-draws-big-hedge-fund-bets-as-ai-memory-demand-surges/",
-     "source": "TradingView",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY"
+     "title": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
+     "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
+     "source": "Billboard",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ19O7xrB399OqX5zGRspiUS9a3pEOl9j1EgzvhGT0ElqoT0GfrpWWjILWGoQ"
     },
     {
-     "title": "Micron Stock (MU) Crashes Over 11% to Historic Bargain Levels. Wall Street Still Sees 169% Upside.",
-     "url": "https://www.tipranks.com/news/micron-stock-mu-crashes-over-11-to-historic-bargain-levels-wall-street-still-sees-169-upside",
-     "source": "TipRanks",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwLwDDIKRUiD9PUdjS5kfTotBM_g6edbIomIr92oT7ablQp3Qq6mHQNE660O4"
+     "title": "Bruno Mars announces father’s death in emotional tribute",
+     "url": "https://ktla.com/entertainment/bruno-mars-announces-fathers-death-in-emotional-tribute/",
+     "source": "KTLA",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdSlnrrfm7EOgacj_kCA949ZkWeDUcUF9CWYZrTHkrB1knOn9xVKXcydiT0h4"
     }
    ]
   },
   {
-   "keyword": "한국항공우주산업",
-   "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 14:20:00 -0800",
-   "img": "",
-   "news": []
-  },
-  {
-   "keyword": "가덕도신공항",
-   "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 14:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7F6HKXsU0szsQpJbwud0tb3_M8z3VzsckznkbK3Pyrl3pk0JxI4VdvgHZ8M",
+   "keyword": "문경시",
+   "traffic": "200+",
+   "pubDate": "Fri, 20 Nov 2026 15:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTwL1DwOfy7I0fpKRcMB6QhtLojhL8lVUAQSuJY0tzlbRiWSd4ICHSOAmUIEY",
    "news": [
     {
-     "title": "'모두의카드' 반값 할인, 내년 연중 상시화 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/estate/2026/11/20/2026111920143897539",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7F6HKXsU0szsQpJbwud0tb3_M8z3VzsckznkbK3Pyrl3pk0JxI4VdvgHZ8M"
+     "title": "문경시, 공공열분해시설 설치사업 추진 방향 검토",
+     "url": "http://www.mgnews.kr/default/index_view_page.php?part_idx=197&idx=77238",
+     "source": "문경시민신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTwL1DwOfy7I0fpKRcMB6QhtLojhL8lVUAQSuJY0tzlbRiWSd4ICHSOAmUIEY"
     },
     {
-     "title": "가덕도신공항 내년 예산, 2200억 원 더해져 총 6511억 원으로 늘어",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261120.99099006399",
-     "source": "국제신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThmHl5rxoTrx8kAouMOd3AFpGPuatXapp_Hh4U7HK-YcXFlzLGSisorPYJUxs"
+     "title": "수백억 ‘플라스틱 열분해’…줄줄이 ‘포기’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715850",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5Oxnt1f_KIh2txwnmP4VIobFk0bXomIEKbgc-_3x2ZWMhFQkGMG-1Scj1ZtU"
     },
     {
-     "title": "경기 주요 철도·도로 사업 내년도 예산안 일부 증액",
-     "url": "https://www.kgnews.co.kr/news/article.html?no=920374",
-     "source": "경기신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj2l2wvncEovXR-sXLcevmYeoBqce5KQbGbo9Ye4pH2mHKFQEujk5ZU-2f5_A"
+     "title": "문경시, 공공열분해설비 제작 중지…사업 타당성 재검토",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758765",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoqyXNjGnNXu-OatyJ5n56nyttWk_Xtoyj75bLxKAjgmCDAQAY1o2tMw38fE"
     }
    ]
   },
   {
-   "keyword": "대전광역시",
+   "keyword": "공군사관학교",
    "traffic": "100+",
-   "pubDate": "Fri, 20 Nov 2026 14:00:00 -0800",
+   "pubDate": "Fri, 20 Nov 2026 16:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmpoP0RxCDDJP8d6Qtcl-Q_DMwz75c-4AAw_i6Oyp_j1tXFLYTkTvkldZgCQ",
+   "news": [
+    {
+     "title": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmpoP0RxCDDJP8d6Qtcl-Q_DMwz75c-4AAw_i6Oyp_j1tXFLYTkTvkldZgCQ"
+    },
+    {
+     "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+     "url": "https://www.kyeonggi.com/article/20261120580310",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdXzEOEZ5NMb5Jul6dLPZxpF0W-RsOYjGV3Ze1BfDz_Bfs5dUe_BhRvSizV7E"
+    },
+    {
+     "title": "사관학교에서도 전자기기 부정행위…공사, 생도 1명 퇴교 처분",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718753",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWRLzvZFon3vHwrZYnRxGXeljY6WwHwm-TckfxdtA47bWpxlvF8JLU5pMKM7A"
+    }
+   ]
+  },
+  {
+   "keyword": "안양시",
+   "traffic": "100+",
+   "pubDate": "Fri, 20 Nov 2026 15:40:00 -0800",
    "img": "",
-   "news": []
+   "news": [
+    {
+     "title": "남양주시, 내년도 예산안 2조5천868억 편성…10.3%↑",
+     "url": "https://www.yna.co.kr/view/AKR20261120123600060",
+     "source": "연합뉴스",
+     "img": ""
+    },
+    {
+     "title": "최대호 안양시장, 2027년 시정운영방향 발표…‘안양의 완성’ 향한 본격 도약",
+     "url": "https://www.kyeonggi.com/article/20261120580236",
+     "source": "경기일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1HGr4zT0PHQLDSAGcVtYkFvfokkdrsyenb-ij1Dwld_uJr4CW1aEJ7On3lUc"
+    },
+    {
+     "title": "안양시의회, 정례회 개회…예산안심사·행감 착수",
+     "url": "https://www.newsis.com/view/NISX20261120_0003876940",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc3mv-ZXlsbdrM39VkCtbrJnl_tzrfpdpsuF3vmIB_KkH7_ttDo8eqKZ9m0Vg"
+    }
+   ]
   }
  ]
 }
