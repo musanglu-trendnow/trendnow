@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-22 03:46",
+ "updated": "2026-11-22 04:46",
  "items": [
   {
    "keyword": "뉴캐슬 대 아스널",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "pubDate": "Sat, 21 Nov 2026 08:40:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiifcnUnOB3NGhprdmTDXS7cNCKxZgHYs4mq1bySK_jBUDErxx_gjAjHwHjtc",
    "news": [
@@ -28,23 +28,16 @@
    ]
   },
   {
-   "keyword": "채령",
-   "traffic": "500+",
-   "pubDate": "Sat, 21 Nov 2026 07:00:00 -0800",
-   "img": "",
-   "news": []
-  },
-  {
    "keyword": "newcastle vs arsenal",
-   "traffic": "200+",
+   "traffic": "500+",
    "pubDate": "Sat, 21 Nov 2026 09:30:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPBv6CFGXee-lB2ilNi1G1gKwT_hV9YP2b1MTkSkQ-hlj2WQ1MEyGIE_Aen5s",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeGDEicuri_4lXm5QUk9Is4hO6qd-bOyzQqXwxXpeU8rvwbKNr0M3aHeDE1g",
    "news": [
     {
-     "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – as it happened",
-     "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
-     "source": "The Guardian",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPBv6CFGXee-lB2ilNi1G1gKwT_hV9YP2b1MTkSkQ-hlj2WQ1MEyGIE_Aen5s"
+     "title": "Match Summary",
+     "url": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+     "source": "BBC",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQeGDEicuri_4lXm5QUk9Is4hO6qd-bOyzQqXwxXpeU8rvwbKNr0M3aHeDE1g"
     },
     {
      "title": "Team news: Eze in, Guimaraes starts at Newcastle",
@@ -53,24 +46,57 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStF039HnFbsYzi89WPGRU11l3EBKZXpD6rEqVgqVXunC8XHS-7VDc2UZxDxaw"
     },
     {
-     "title": "Licensable picture: Premier League - Newcastle United v Arsenal",
-     "url": "https://www.reutersconnect.com/item/premier-league-newcastle-united-v-arsenal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxQk9UWDU",
-     "source": "Reuters Connect",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSj6S1RnkcrqfI9cq7F5KCV8j4xOuc19diXzDglWLDeMPhfADpMopcPIcxtQiU"
+     "title": "Arsenal fail to capitalise on Manchester City slip-up",
+     "url": "https://www.goal.com/en/news/arsenal-fail-to-capitalise-on-manchester-city-slip-up/blt4ec3cbd7f7ade5df",
+     "source": "Goal.com",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKC7NSHUgCZ3lz4Pqfe3uXiAZZpKpVC2HQ9JsoLP5uln2SN5fcKTBTNNiDvZo"
     }
    ]
+  },
+  {
+   "keyword": "아스날",
+   "traffic": "500+",
+   "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAj-EayBCbd7BdgJRiLPq9_AvEFUk9-npq0Alz3Fb2Ezg6BScnLoraGa2ch4I",
+   "news": [
+    {
+     "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAj-EayBCbd7BdgJRiLPq9_AvEFUk9-npq0Alz3Fb2Ezg6BScnLoraGa2ch4I"
+    },
+    {
+     "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
+     "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKUVsHv9c6BWh0YqChHS0MrtG9wbecr4Ze1O_FZw6dHIlZcjtLhzckrB5XyfM"
+    },
+    {
+     "title": "아르테타 아스날 감독 FPL 정보 유출 경고…내부 단속 나서 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1113265",
+     "source": "재경일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyT__uLs-mYKlPUfjE8LpkhRaebcdCVT2olXB6gLogCaaNOARTrOlgoX4KLvE"
+    }
+   ]
+  },
+  {
+   "keyword": "채령",
+   "traffic": "500+",
+   "pubDate": "Sat, 21 Nov 2026 07:00:00 -0800",
+   "img": "",
+   "news": []
   },
   {
    "keyword": "nice vs psg",
    "traffic": "200+",
    "pubDate": "Sat, 21 Nov 2026 08:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcS2XVtO4la_mPrvGwG2f-l2wpE6mwJYC3LK9nXN3jNIHhSv98j6zrQoXBYPY",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-iG1KQLmoBg9iBBjPgicHCQvrPwxTDLjRT0oNlxtQCf6bvMzQ8YKi3RrvG1c",
    "news": [
     {
-     "title": "OGC Nice - PSG : les compositions probables",
-     "url": "https://www.footmercato.net/a7492553014966074759-ogc-nice-psg-les-compositions-probables",
+     "title": "Nice - PSG : les compositions officielles",
+     "url": "https://www.footmercato.net/a4542289172314082946-nice-psg-les-compositions-officielles",
      "source": "Foot Mercato",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcS2XVtO4la_mPrvGwG2f-l2wpE6mwJYC3LK9nXN3jNIHhSv98j6zrQoXBYPY"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-iG1KQLmoBg9iBBjPgicHCQvrPwxTDLjRT0oNlxtQCf6bvMzQ8YKi3RrvG1c"
     },
     {
      "title": "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1",
@@ -79,10 +105,10 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgDMsxeE9JT_lDnywJFoLnskq5AxZIhViOw3z6GzdwG82FArKkGqxxiLqNus8"
     },
     {
-     "title": "Match : Nice/PSG (1-2), le but de Doué en video",
-     "url": "https://www.culturepsg.com/ja/news/match/nice-psg-1-2-le-but-de-doue-en-video/61614",
-     "source": "CulturePSG",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3BgMC8SEhv4TyLJpabSfCI-Vp_uU5Udeo3uxZJblmSxDhZETKPGxGQDeLkSQ"
+     "title": "Mohamed Abdelmonem forfait contre le PSG, une nouvelle blessure pour le défenseur égyptien - Sports - Sports",
+     "url": "https://french.ahram.org.eg/NewsContent/6/51/96094/Sports/Sports/Mohamed-Abdelmonem-forfait-contre-le-PSG,-une-nouv.aspx",
+     "source": "Ahraminfo",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPyZSpLNGZqbkupYQtkCmXquPAykkTPjz4DO3pGLIiZd4HnTjvHszq3DR9Y14"
     }
    ]
   },
@@ -139,54 +165,28 @@
    ]
   },
   {
-   "keyword": "장동혁",
-   "traffic": "200+",
-   "pubDate": "Sat, 21 Nov 2026 06:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxaWxLe6QF1xRoqyEOQ-d2AbfXzEksLEc9d2Bonmf3ceNfPCff21RvirCwqdM",
-   "news": [
-    {
-     "title": "이 대통령 \"5500억 환수가 배임이면…\" 대장동 업자 인터뷰 SNS에 공유",
-     "url": "https://news.jtbc.co.kr/article/NB12329146",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxaWxLe6QF1xRoqyEOQ-d2AbfXzEksLEc9d2Bonmf3ceNfPCff21RvirCwqdM"
-    },
-    {
-     "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQbSxRKsmmUnyxRAz8UzTdsbIMSJaqjtfGz2wbw0rBiGfeGzEc9YxCUhrA0b8"
-    },
-    {
-     "title": "李대통령 \"5천500억 공익환수가 배임이면 일반 개발허가는 뭔가\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445863",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4IAgrEiZTRwuPveX4ALDy1FwLtkM5XMXn4yQoAU1Mv2SVplXPwoq7uQnXJgI"
-    }
-   ]
-  },
-  {
    "keyword": "psg",
    "traffic": "100+",
    "pubDate": "Sat, 21 Nov 2026 09:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1_Ul4D6CrgIROKy9qM2xYoqEVXX_FtSBkGGC_GbWm1l65IGG0BzluFJCE1A",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnYhnw5uLdUF6viZBDyEYZzGjMP7CxDKHuSEl3r_2WGX8TtGwyvv42wxIgcGk",
    "news": [
     {
-     "title": "Grosse inquiétude pour Désiré Doué, sorti sur civière",
-     "url": "https://www.sofoot.com/breves/nice-psg-desire-doue-evacue-sur-civiere-apres-une-torsion-du-genou",
-     "source": "SO FOOT.com",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1_Ul4D6CrgIROKy9qM2xYoqEVXX_FtSBkGGC_GbWm1l65IGG0BzluFJCE1A"
+     "title": "PSG : Luis Enrique salue le caractère de son groupe",
+     "url": "https://www.footmercato.net/a279839106408574924-psg-luis-enrique-salue-le-caractere-de-son-groupe",
+     "source": "Foot Mercato",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnYhnw5uLdUF6viZBDyEYZzGjMP7CxDKHuSEl3r_2WGX8TtGwyvv42wxIgcGk"
     },
     {
-     "title": "Nice renversé, le PSG profite d'un penalty litigieux",
-     "url": "https://www.foot01.com/paris/nice-renverse-le-psg-profite-dun-penalty-litigieux",
-     "source": "Foot01",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRESLiajSMqrKMn94A6k8Xw22H6lc2HnbTMSi_CliKK5by0karJ8qMXOtfoQdM"
+     "title": "Pantaloni : « Même si c'est un adversaire, nous le respectons et nous l'admirons »",
+     "url": "https://www.lequipe.fr/Football/Actualites/Olivier-pantaloni-entraineur-de-nice-a-propos-de-desire-doue-blesse-meme-si-c-est-un-adversaire-nous-le-respectons-et-nous-l-admirons/1745193",
+     "source": "L'Équipe",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREjpLXfM_ztzmXlLTOw5xvyMFnWfFi2gKECNN7MZ2b-o4WcR9mwnCqib-a4os"
     },
     {
-     "title": "VIDÉO. \"J’ai envie de chialer\" Alors qu'il venait de redonner l'avantage à son équipe, un international français évacué sur civière, gravement blessé à un genou",
-     "url": "https://www.ladepeche.fr/2026/11/21/video-jai-envie-de-chialer-alors-quil-venait-de-redonner-lavantage-a-son-equipe-un-international-francais-evacue-sur-civiere-gravement-blesse-a-un-13664841.php",
-     "source": "ladepeche.fr",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrJM5Y0aTMxls8kmhQsum_HF2CO2kJVqsBlUAXLlhj8k2r3pOslE0_WBiqQd0"
+     "title": "PSG - La réaction de Ferran Torres, buteur, après la victoire du PSG face à l'OGC Nice",
+     "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-la-reaction-de-ferran-torres-buteur-apres-la-victoire-du-psg-face-a-l-ogc-nice-546534.html",
+     "source": "MadeInFoot",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjpFkmBh0whzNeikMcUcIA0avnskNHk4n1hoBkpeS7VpZmVvroQO_rSvjhXFA"
     }
    ]
   },
@@ -229,16 +229,16 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcoHem2-98enTFFBaSZxsDLibZkxCbmT2yrWRkQyRNdZIOhVas2wbewa0PmGg"
     },
     {
-     "title": "EN VIVO: Finaliza la primera parte con ventaja 1-0 para Como 1907 sobre Cagliari",
-     "url": "https://anecdotarios.com/2026/11/21/como-1907-vs-cagliari-previa-horario-y-como-llegan-para-la-fecha-12/",
-     "source": "Anecdotarios",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWeY5cY8sAXpg-pOWFZTtaylxZtrBTt0qwkDgPLi26qlIesE0pCx1SReyBwCc"
-    },
-    {
      "title": "Jacobo Ramón y Da Cunha devuelven al Como a la zona Champions",
      "url": "https://www.sport.es/es/noticias/futbol-internacional/calcio/jacobo-ramon-da-cunha-devuelven-136700634",
      "source": "SPORT",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezoNVS5Cv4yjIvdFjyIo0eOrGF4WSBWo0RRlki1iHoPuW3W5zsOLsGu0Jwx0"
+    },
+    {
+     "title": "Como – Cagliari: horario y dónde ver hoy por TV el partido de fútbol de la Serie A",
+     "url": "https://www.lavanguardia.com/deportes/futbol/20261121/2470/horario-partido-ca-como-cagliari-ctx.html",
+     "source": "La Vanguardia",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknoCDuH-GF0_-byuC3mjGrSP9hEn92eqUTEBt4KsakVLr6BndXLZtCb6Lr5E"
     }
    ]
   }
