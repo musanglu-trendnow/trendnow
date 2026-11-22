@@ -1,244 +1,263 @@
 {
- "updated": "2026-11-22 14:57",
+ "updated": "2026-11-22 16:07",
  "items": [
   {
-   "keyword": "로또",
-   "traffic": "20000+",
-   "pubDate": "Sat, 21 Nov 2026 19:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS67j472hzSkCiB64S0YtFZOK6idksWf115-2OPzLo14cdrKogNvbQndCFwsoM",
-   "news": [
-    {
-     "title": "제1251회 로또 1등 14명···당첨금 20억6884만원",
-     "url": "https://www.khan.co.kr/article/202611212105001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS67j472hzSkCiB64S0YtFZOK6idksWf115-2OPzLo14cdrKogNvbQndCFwsoM"
-    },
-    {
-     "title": "로또 1251회 당첨번호 '14·18·19·29·40·45'…보너스 '1'",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02154966645648016",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWxbtA9Gt8JGdQaRnsBAuT6WK2RLQtvMd7rFxvhqVDfPpYYT9afxkwbDz4s9U"
-    },
-    {
-     "title": "서울 중구 어느 복권방이길래…로또 2등 10장만 '무더기 당첨' - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/22/2026112207213384996",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgDrWV8JVNFPEDiV6yrq87YfuDw-qfxbCKLqJ4wolTqGwX-oe8MBJcfJRHqDM"
-    }
-   ]
-  },
-  {
    "keyword": "투자",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "pubDate": "Sat, 21 Nov 2026 20:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRFJT3KILGLQK6HnH2u_UaWzmKPqz5bdRveJiRry99vIzQUkt3wX2fRSck5W0",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4NhTHIa3zOfQXQ2d2M1RQ1aBFvnGT1aMyT1MekKX1ybPtIqgunWQZ9j0_PU",
    "news": [
     {
-     "title": "서울 핀테크 기업 10곳, 싱가포르서 투자유치 활동",
-     "url": "https://www.yna.co.kr/view/AKR20261122028300004",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRFJT3KILGLQK6HnH2u_UaWzmKPqz5bdRveJiRry99vIzQUkt3wX2fRSck5W0"
+     "title": "\"사상 최대 IPO가 쏘아 올린 유동성 발작\"…앤트로픽 쇼크와 AI 거품론의 진실",
+     "url": "https://www.hankyung.com/article/202611211620i",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4NhTHIa3zOfQXQ2d2M1RQ1aBFvnGT1aMyT1MekKX1ybPtIqgunWQZ9j0_PU"
     },
     {
-     "title": "KB금융, 싱가포르서 국내 핀테크 10개사 해외 진출·투자 유치 지원",
-     "url": "https://www.etnews.com/20261122000018",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2jxBVEgdaDcoLz2QuLZS0xVFMSpeBxrktnigfxidKV8F8xz7TIsEcy2fO9EI"
+     "title": "앤트로픽 상장에도 AI 투자펀드 줄줄이 하락…기술주 매도세에 손실 확대",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=848040",
+     "source": "제민일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xkEpeYDLZZpSvaRICAuvvQ36lN7tdkAGsVU9W-jYshJ9MzrSiq85j9MR7Ss"
     },
     {
-     "title": "KB금융, 싱가포르서 K-핀테크 글로벌 진출 지원",
-     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315893",
-     "source": "스트레이트뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShJ1vdsqiGpVrqHlHbW3iJpFtsEk4dR_50wUwjVAG5RQi8BQBD2ghYSYQJ_XA"
+     "title": "역대 최대 규모의 앤트로픽 IPO, 그러나 AI 투심은 여전히 제자리",
+     "url": "https://story.pay.naver.com/content/4018",
+     "source": "네이버페이 머니스토리",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCDJyd5UKKCSA4AN1f48-hJM8RVaMfdiEp7eViGj6KgYcBrSMGLH62pbJ1m8"
     }
    ]
   },
   {
-   "keyword": "엘니뇨",
+   "keyword": "uae vs nep",
    "traffic": "1000+",
-   "pubDate": "Sat, 21 Nov 2026 20:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxrvuL6AGhMRlt8psd1ZfJRbeV1R1cN4dLPj3P2WgLE-yTtw9EZNEXQDmWY90",
+   "pubDate": "Sat, 21 Nov 2026 21:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwZqBVo3N9i7KpO0eFXwW5IKkyWjs20styhlZU_FHxUHQqjAvOTBXVjxj3-Js",
    "news": [
     {
-     "title": "엘니뇨, 향후 3개월 동안 매우 강력, 다가오는 강우 추세 예측",
-     "url": "https://ko.laodong.vn/moi-truong/el-nino-rat-manh-trong-3-thang-toi-du-bao-xu-the-mua-sap-toi-1803893.ldo",
-     "source": "Laodong.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxrvuL6AGhMRlt8psd1ZfJRbeV1R1cN4dLPj3P2WgLE-yTtw9EZNEXQDmWY90"
+     "title": "ACC Men's Asia Cup Rising Stars 2026: Nov 22 Predictions",
+     "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-india-a-vs-pakistan-a-and-uae-vs-nepal-matches-7-and-8-november-22/114475.htm",
+     "source": "Cricket World",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwZqBVo3N9i7KpO0eFXwW5IKkyWjs20styhlZU_FHxUHQqjAvOTBXVjxj3-Js"
     },
     {
-     "title": "남태평양 피지·통가, '슈퍼 엘니뇨' 가뭄에 비상사태 선언",
-     "url": "https://www.yna.co.kr/view/AKR20261119138200084",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8_QiC2m9qo98drwS1Z_1Q_y3qLMm488QMdK7Xba6xyOLJcBYFCCuiW7CTV5Y"
+     "title": "UAE vs Nepal Live Streaming: When And Where To Watch Asia Cup Rising Stars Match?",
+     "url": "https://www.ndtvprofit.com/sports/uae-vs-nepal-live-streaming-when-and-where-to-watch-asia-cup-rising-stars-match-12360205",
+     "source": "NDTV Profit",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA416a6skiDs81OqyISCzbH6eoqoQ4lbPnd3_nfx0dRCG7PHOEgMi4hdpVMj0"
     },
     {
-     "title": "에콰도르에서 최강 엘니뇨 공포 확산…사망 14명·피해자 7만 7000명 등 피해 속출 [여기는 남미]",
-     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261119601017",
-     "source": "나우뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1SQ69eh-qaC4PuGvJDyVnUnE3-UNsOnynGVaalGtR-fnAPTzI-nXf1YtvHgM"
+     "title": "United Arab Emirates vs Nepal, free match prediction 22 November 2026",
+     "url": "https://www.thetopbookies.com/betting-tips/cricket/uae-vs-nep-22-Nov-2026",
+     "source": "TheTopBookies",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFOKmrqKDKsvYyjr3Ow_zckX9aGrUx07kVmeDXFlSj8FsR36DAeIY_zzLs3k"
     }
    ]
   },
   {
-   "keyword": "최민정",
+   "keyword": "외교",
    "traffic": "500+",
-   "pubDate": "Sat, 21 Nov 2026 20:30:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDAhNtSn7mdKMTeH9qFMFt3wbnvBhjCorN0RFEEBpcVCIGHSiLfwsJzhf41MQ",
+   "pubDate": "Sat, 21 Nov 2026 21:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-TU75c6-4AUu3rGbmO8i3pOcH428dxhnil5mBwvKTCWahDEJnn9WXcsHFuU",
    "news": [
     {
-     "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719143",
+     "title": "이 대통령 “치아 흔들리고 코피 터지지만 임기 초 순방은 국정과제…돼지 눈엔 돼지만 보여”",
+     "url": "https://www.khan.co.kr/article/202611221525001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-TU75c6-4AUu3rGbmO8i3pOcH428dxhnil5mBwvKTCWahDEJnn9WXcsHFuU"
+    },
+    {
+     "title": "李 “돼지 눈엔 돼지만…해외 순방, 치아 흔들리고 코피 터지는 일”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261122/135066467/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhmDHs7_u8HMAAyTg7R3ot7o7lQPspF1OfR6I0LEoHlvsnh4fyGAglh3e3DRE"
+    },
+    {
+     "title": "‘순방 잦다’ 야당 비판에…청와대 \"해외 정상들의 숨가쁜 외교 보라\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329232",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBnRTVnulHORaScBOM9M_VCfaCY765BhsJ-ws2L3LV1EPRWqkFQGDJx7eTDg"
+    }
+   ]
+  },
+  {
+   "keyword": "f1",
+   "traffic": "500+",
+   "pubDate": "Sat, 21 Nov 2026 21:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjALHROpm645wZslwdzWL3H62JeU9G6aAawZDF5Wz69qNRy5JXBZAk_7JU_s",
+   "news": [
+    {
+     "title": "Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
+     "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+     "source": "Formula 1",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjALHROpm645wZslwdzWL3H62JeU9G6aAawZDF5Wz69qNRy5JXBZAk_7JU_s"
+    },
+    {
+     "title": "F1 LIVE: Las Vegas Grand Prix 2026 times, results & radio",
+     "url": "https://www.bbc.com/sport/formula1/live/c62ke5vgxxnt",
+     "source": "BBC",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShw1Hcsxr974a2-kXIPObYrf28bxKV3kSsy_LZzDBSDPvZi_zTmtnvDqEVrv8"
+    },
+    {
+     "title": "F1 2026: Verstappen Wins Las Vegas GP, Kimi Antonelli Secures World Championship",
+     "url": "https://aktualita.co/en/sports/f1-2026-verstappen-wins-las-vegas-gp",
+     "source": "Aktualita.co",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYF7WwRoLBLEpOfNWMMmEz1kdP_cNpsoyYpsrK-6QX98ONWSqeWQ0EqgO24CI"
+    }
+   ]
+  },
+  {
+   "keyword": "애플",
+   "traffic": "500+",
+   "pubDate": "Sat, 21 Nov 2026 21:10:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnbJ75s9QLFqk4Z8HSHct_EBxYG2Zem0aEceb_TFu9bywlZzMy5iXcnTJfgho",
+   "news": [
+    {
+     "title": "This AirPods Pro 3 deal is the one to grab before Black Friday",
+     "url": "https://www.nbcnews.com/select/shopping/apple-airpods-pro-3-deal-of-the-day-rcna610526",
+     "source": "NBC News",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnbJ75s9QLFqk4Z8HSHct_EBxYG2Zem0aEceb_TFu9bywlZzMy5iXcnTJfgho"
+    },
+    {
+     "title": "I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals",
+     "url": "https://www.cnn.com/cnn-underscored/deals/apple-airpods-black-friday-deals-2026-11-20",
+     "source": "CNN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyb_gDa-W4yX2VgoGnFFXmdJmnyHsRmQAs7FTr08vJlMY0zhASZKPJqisXagk"
+    },
+    {
+     "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+     "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+     "source": "The Verge",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLW6Vn14cp44H7dz5E-XQ9xCoRiE-J0l9hmwHmbhh0oSK0hcNIZWvm4wnh1so"
+    }
+   ]
+  },
+  {
+   "keyword": "해저",
+   "traffic": "200+",
+   "pubDate": "Sat, 21 Nov 2026 22:00:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-m_5l8ZE64DYHbaQhlygATILrp9vgHyKkq7QGLWEY2bFJyxMWlBQvtkJi11A",
+   "news": [
+    {
+     "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
+     "url": "https://www.khan.co.kr/article/202611221013001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-m_5l8ZE64DYHbaQhlygATILrp9vgHyKkq7QGLWEY2bFJyxMWlBQvtkJi11A"
+    },
+    {
+     "title": "해경 “태안 앞바다 해저에서 선박 추정 물체 발견”…수중 수색 돌입",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719373",
      "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDAhNtSn7mdKMTeH9qFMFt3wbnvBhjCorN0RFEEBpcVCIGHSiLfwsJzhf41MQ"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvVZk3qeay1d3wrAxdUXHNHWRv5seWU5ugMudC7W_UW3aeL2ZyBKBzJ3Ie6fo"
     },
     {
-     "title": "“개인적으로 최민정 선수가 오래 타줬으면…” 김재열 ISU 회장과 이수경 대한빙상경기연맹 회장 ‘이구동성’ [현장 인터뷰] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/22/202611221354776536O",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ2O2gk9MMnDXSxJeyWyw7lQPHxuAtzqKmu8MICRpMbxkfd2qJuSomX4FRX3U"
-    },
-    {
-     "title": "'첫 금' 신동민, 男쇼트트랙 위기 평가에 \"조금만 기다려주세요\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121047400007",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmNTPm-MFB0hegUE3D-xE2aT4Bgib_CfEEArDOFqOvV6ir_RIQl_ctdDRguI"
+     "title": "바닷속에서 선박 추정 물체 발견...해광호 여부 확인 중",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611221429376025_005.html",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEk0qf3SfPZAuVO66-xY0l6-AvVMVetQ4S8Yu0S7YfDGchK3ZW6J52Sq-M5jA"
     }
    ]
   },
   {
-   "keyword": "제네시스 g80",
-   "traffic": "500+",
-   "pubDate": "Sat, 21 Nov 2026 20:30:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBtZjFlYdTCFT8R5Wj_ZSaYQt_cNE7B06wvHPWYBytw2Wnl0J_NTooQGo4C2A",
+   "keyword": "이스라엘",
+   "traffic": "200+",
+   "pubDate": "Sat, 21 Nov 2026 22:00:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScrqZAHZ59E8Z5K9En2MFCyqmq-n1JJee2bj9wO8b2mErH_7d9k7uQB5tPiJM",
    "news": [
     {
-     "title": "제네시스는 왜 LA오토쇼 전면에 'G80 하이브리드' 내세웠나",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645648344",
+     "title": "In exchange for unity gov’t, Likud said demanding that Netanyahu be sole PM, Otzma Yehudit be part of coalition",
+     "url": "https://www.timesofisrael.com/in-exchange-for-unity-govt-likud-said-demanding-that-netanyahu-be-sole-pm-otzma-yehudit-be-part-of-coalition/",
+     "source": "The Times of Israel",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScrqZAHZ59E8Z5K9En2MFCyqmq-n1JJee2bj9wO8b2mErH_7d9k7uQB5tPiJM"
+    },
+    {
+     "title": "Israel's next government may be closer than anyone thinks",
+     "url": "https://www.ynetnews.com/opinions-analysis/article/sjnnrggj7e",
+     "source": "Ynetnews",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZtltZZehKU7LSDl7GOZ2Ueqr6j1yZQQ3TCgyEZA3EXV8aHyzTsPtACyhZv8U"
+    },
+    {
+     "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+     "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+     "source": "France 24",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKDAaDFQEzEqxC45IXjR1TKXhBya9qCIga-c1FLIAGrQ2QvrnotFoe82RMs4o"
+    }
+   ]
+  },
+  {
+   "keyword": "마이너스 통장",
+   "traffic": "200+",
+   "pubDate": "Sat, 21 Nov 2026 21:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLhvi3rgG8OhoYgpl_HvTEuzvyDfKFeB-AlzIT9B-SUkRsO0xMe2CHOXojKTo",
+   "news": [
+    {
+     "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLhvi3rgG8OhoYgpl_HvTEuzvyDfKFeB-AlzIT9B-SUkRsO0xMe2CHOXojKTo"
+    },
+    {
+     "title": "40대 '마이너스통장' 연체액, 10개월 만에 81.6% 급증",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452590",
+     "source": "비즈니스포스트",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4PGB3SyCRwmL-m5eQzw2xA10zBrr6j93xMM_l8OuGLI-ct29w_87Yvjchi5A"
+    },
+    {
+     "title": "“빚내서 주식했다가 물렸다”…4050 덮친 '빚투 부메랑'",
+     "url": "https://www.etnews.com/20261122000084",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAndWm6i0N_fzuxeL5ITs0b2WNflRkJUYfR7xr4TRSw7USZUkR3vcUQtkbZM"
+    }
+   ]
+  },
+  {
+   "keyword": "오픈ai",
+   "traffic": "200+",
+   "pubDate": "Sat, 21 Nov 2026 21:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ9IgeJApCBFQZRDVfCWRuT34JpD6QWaq1JAbTzANmNmtu7UNmX7RXvigvKBI",
+   "news": [
+    {
+     "title": "\"오픈AI 기업문화 무너져\"…퇴사 직원, AI 폭주 경고",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01361206645648344",
      "source": "마켓인",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBtZjFlYdTCFT8R5Wj_ZSaYQt_cNE7B06wvHPWYBytw2Wnl0J_NTooQGo4C2A"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ9IgeJApCBFQZRDVfCWRuT34JpD6QWaq1JAbTzANmNmtu7UNmX7RXvigvKBI"
     },
     {
-     "title": "안방선 파업·유럽선 역주행…현대차, 아반떼·투싼으로 美서 돌파구 - 머니투데이",
-     "url": "https://www.mt.co.kr/industry/2026/11/22/2026112011182595741",
+     "title": "[월가 톡톡] 올트먼 \"인간이 AI의 '리트리버' 되는 미래 원치 않아\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445783",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4kixnwhGem9vyAkVL4R-LDvxb9_5QkeH2TUewebr89GBCvrTaR3qWqsu9W4"
+    },
+    {
+     "title": "\"영리 기업이 AI 만드는 건 미친일\"…앤트로픽 전 연구원의 경고 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/21/2026112109013740713",
      "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZhAta4QBxe1zL36mlV0u-qE-j2AmoVDcDEQt51_YtHX8UvpFyaI-sZWiEIDk"
-    },
-    {
-     "title": "기름값 절약·주말 가족 나들이도 거뜬…신형 아반떼 HEV[시승기]",
-     "url": "https://www.news1.kr/industry/auto-industry/6361721",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgOywuzc0QuxzCPCtGyGp5FUVqPoLsOqer5TalgwdE-wDZLvoMEmJp0skzFRc"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsB9yPXiF2jVRlg6mQfG0hVk5rkOEQ8udyWDex7guGcw2hgY9I2IZKB6Xu1Y8"
     }
    ]
   },
   {
-   "keyword": "최예나",
-   "traffic": "500+",
-   "pubDate": "Sat, 21 Nov 2026 19:40:00 -0800",
-   "img": "",
-   "news": []
-  },
-  {
-   "keyword": "휴온스 lpba 챔피언십",
+   "keyword": "대구fc",
    "traffic": "200+",
-   "pubDate": "Sat, 21 Nov 2026 19:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvsBXd5Shp93VhWLV30z-Vfggrtij1a-ZkRurN9_K66ebmBakf7ELPg06YLgM",
+   "pubDate": "Sat, 21 Nov 2026 21:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8h_zSeT4zHMu_s7LydBsVA348EGchiiKsO_MLxtJZooRwcuOAIugJiPySt4",
    "news": [
     {
-     "title": "“애버리지 1.471” 서한솔 최연주 공동1위로 64강 선착…김가영 스롱피아비도 128강 통과[휴온스배LPBA]",
-     "url": "https://mkbn.mk.co.kr/news/sports/12215358",
-     "source": "mkbn.mk.co.kr",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvsBXd5Shp93VhWLV30z-Vfggrtij1a-ZkRurN9_K66ebmBakf7ELPg06YLgM"
+     "title": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722619",
+     "source": "뉴스타운",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8h_zSeT4zHMu_s7LydBsVA348EGchiiKsO_MLxtJZooRwcuOAIugJiPySt4"
     },
     {
-     "title": "'10회 우승→128강 탈락' 스롱 피아비, 한고비 넘겼다... 김유민 꺾고 64강 진출 [PBA] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/22/2026112210234833819",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZv17154ko_mdoUL2igqLI4GM1MX8BoKqH4KGopM9mimMITH9OGLDO-eVSfQ"
+     "title": "김해FC, 설기현식 속도 축구로 대구FC 겨눈다",
+     "url": "https://www.kukinews.com/article/view/kuk202611190113",
+     "source": "쿠키뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTd8aU8G6C1R9OvZ2KB94-HcJoTjaJmhZlPe7Ypf_2d-CxQdayq3zNGXADN9dg"
     },
     {
-     "title": "[PBA] 스롱 피아비, 김유민 꺾고 LPBA 64강행…2연속 128강 탈락 면했다",
-     "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435811",
-     "source": "데일리스포츠한국",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8y3AHJf93qu5mdRPXzmqKI3Fz0FXtkwMnJFHEcCSYZ-jfCFVBzmbrX6T_-lI"
-    }
-   ]
-  },
-  {
-   "keyword": "기상",
-   "traffic": "200+",
-   "pubDate": "Sat, 21 Nov 2026 19:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
-   "news": [
-    {
-     "title": "기상 변동성 큰 올겨울, 농업 기상재해 선제 대응한다!",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458212",
-     "source": "서울신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA"
-    },
-    {
-     "title": "영양군, 겨울철 농업시설 63곳 ‘재해 예방’ 강화",
-     "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/21/2026112150040.html",
-     "source": "뉴데일리 대구경북",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH337QTg6RK3-67F8-HpfkNcz_luUa5y33tBegpPdyqz4ged5f78nnmz3ZPw8"
-    },
-    {
-     "title": "영양군, 겨울철 대설·한파 대비 농업시설 피해 예방 총력",
-     "url": "https://www.imaeil.com/page/view/2026112212285245804",
-     "source": "매일신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNCf2Xxrdk1mNyFsSOZ624UAbQGyaBghflRNeIYw8009tRIZ9JKzPT6hQl1eg"
-    }
-   ]
-  },
-  {
-   "keyword": "무시알라",
-   "traffic": "100+",
-   "pubDate": "Sat, 21 Nov 2026 19:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_8hWFcVyM2uxBrLyZBLkcqvP_jnL5HKtGWs8bUndDskN38DlHkCbw3JL260",
-   "news": [
-    {
-     "title": "[오피셜] “바이에른 뮌헨은 선수를 보호하라”… 국제축구선수협회 성명 발표, 무시알라 향해 연봉 삭감 압박하는 구단 수뇌부 겨냥",
-     "url": "https://www.besteleven.com/news/articleView.html?idxno=314233",
+     "title": "[B11 현장] 세징야 7경기 연속 공격 포인트에 에드가 10호골… ‘세드가’ 누가 막을쏘냐, 대구 김해에 3-0 완승",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314239",
      "source": "베스트일레븐",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_8hWFcVyM2uxBrLyZBLkcqvP_jnL5HKtGWs8bUndDskN38DlHkCbw3JL260"
-    },
-    {
-     "title": "로마노: 바이에른 뮌헨, 크리스마스 전후로 겨울 이적시장 전략 결정... 자말 무시알라 여전히 최선을 다하고 싶어 해",
-     "url": "https://www.allfootballapp.com/ko/articles/6032901",
-     "source": "AllFootball",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVEaGCTbfUMGYmimuelIyBzI0G6L0BiDkKPLJRT5xEMZfBmmHKI0ymWM4YXs"
-    },
-    {
-     "title": "바이에른 뮌헨은 무시알라가 건강 문제를 겪었을 때 그를 \"외면했다\".",
-     "url": "https://www.vietnam.vn/ko/bayern-munich-hat-hui-khi-musiala-gap-van-de-suc-khoe",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvY1CQLM32EypbqImyrt6N_g7wsaht2pRdVmQh8513bCk7iV0fabZ3HAgjGpw"
-    }
-   ]
-  },
-  {
-   "keyword": "казахстан",
-   "traffic": "100+",
-   "pubDate": "Sat, 21 Nov 2026 19:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWVZzfSkjS0eq_5_fdrqvvqFvS6d50_AHYwL-r_jnOJ9No3piwauuhr64pH-k",
-   "news": [
-    {
-     "title": "В России обеспокоены «валящим с ног вирусом» в Казахстане",
-     "url": "https://www.rtvi.com/news/v-rossii-obespokoeny-valyashhim-s-nog-virusom-v-kazahstane/",
-     "source": "RTVI",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWVZzfSkjS0eq_5_fdrqvvqFvS6d50_AHYwL-r_jnOJ9No3piwauuhr64pH-k"
-    },
-    {
-     "title": "Роспотребнадзор запросил информацию у Казахстана о \"валящем с ног вирусе\"",
-     "url": "https://www.interfax.ru/russia/1130589",
-     "source": "Интерфакс",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV3tdXUJeiHt6HXtqOBjkA4JSMiaZp8YA7kaY_cYqJAMlIRrJD7JPc9XV-i8"
-    },
-    {
-     "title": "Роспотребнадзор проверяет сообщения об опасном вирусе в Казахстане",
-     "url": "https://vfokuse.mail.ru/news/69652574-rospotrebnadzor-proveryaet-soobsheniya-ob-opasnom-viruse-v-kazahstane/",
-     "source": "ВФокусе Mail",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn1CJz7GHTWDRzevSI2Wo--CNygrbODmwu6MKGOgaNotrQf5veNbA7n6Dclzg"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG4I6pwy2_agwP65IhKkB__Gt1WZRdJQ21f_oq6jTY4mdTvAt5JZNFoWYIF-s"
     }
    ]
   }
