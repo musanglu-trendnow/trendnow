@@ -1,244 +1,225 @@
 {
- "updated": "2026-11-23 06:42",
+ "updated": "2026-11-23 07:44",
  "items": [
   {
-   "keyword": "코스피",
-   "traffic": "10000+",
-   "pubDate": "Sun, 22 Nov 2026 11:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTMRs7MZ0EPxQBeLA3pQywOnilxEaXz2DZ2DTu3GPX4k4EUSqdWvWvp4xEv4",
+   "keyword": "날씨",
+   "traffic": "500000+",
+   "pubDate": "Sun, 22 Nov 2026 13:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv7SuNA4ep_tthC4DX2FGNz0BogBSVpAu2_U0Rnez2WGQ37XcL_Lis2oaN9xc",
    "news": [
     {
-     "title": "개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익",
-     "url": "https://www.chosun.com/economy/stock-finance/2026/11/23/V5DLSBKXWRFCDNI522LM3JQFUM/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTMRs7MZ0EPxQBeLA3pQywOnilxEaXz2DZ2DTu3GPX4k4EUSqdWvWvp4xEv4"
-    },
-    {
-     "title": "같은 4,800선인데도…코스피 ’1조클럽’ 11% 감소",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123060115kak",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLgDzBjcHgzTcXukvJZMkaBV3RvEWwFkwvXjA-XQc71BNWeSVBrCnMG2pl_3c"
-    },
-    {
-     "title": "하루 만에 5% 급락한 코스피, 4,800대로 밀린 이유는?",
-     "url": "https://story.pay.naver.com/content/4019",
-     "source": "네이버페이 머니스토리",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A29sTMNqqUkgfpHs8yVF6r0cgSAdmvrx3JC_2cY17gvuJtUre3twGum-Yyk"
-    }
-   ]
-  },
-  {
-   "keyword": "잠수함",
-   "traffic": "2000+",
-   "pubDate": "Sun, 22 Nov 2026 11:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUeYPVteU5LbI5Z8oKS8Uk3_x50Hj_7YZJhkYethd9ni8cGjrvoMosphyyhc",
-   "news": [
-    {
-     "title": "與 “핵추진잠수함 도입, 특별법으로 뒷받침”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261122/135065893/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUeYPVteU5LbI5Z8oKS8Uk3_x50Hj_7YZJhkYethd9ni8cGjrvoMosphyyhc"
-    },
-    {
-     "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
-     "url": "https://www.mk.co.kr/news/politics/12215581",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgNbjLAP69WuhsFBCTCaAN5Kn3o4MPbluR0IvKV34L6gZscwUtxjAn-qaYr3s"
-    },
-    {
-     "title": "민주당 “핵잠 도입, 국제사회 신뢰 확인…핵비확산 원칙 담아 특별법 뒷받침”",
-     "url": "https://www.dt.co.kr/article/12096468",
-     "source": "www.dt.co.kr",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOPT2lkCkudBa221ZgybFfZTqFRMhElxo16e2XVo1Jr1_KcfeoJXYKhEuAZ14"
-    }
-   ]
-  },
-  {
-   "keyword": "thứ hạng của liverpool gặp man utd",
-   "traffic": "500+",
-   "pubDate": "Sun, 22 Nov 2026 12:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7UvVGF0ryYef782LC-ayPqWeBO2MBMOcag-MHYZ6Q5KM-vmvLE0e5H13cNI",
-   "news": [
-    {
-     "title": "Video bóng đá Liverpool - MU: Bước ngoặt thẻ đỏ, 4 bàn định đoạt đại chiến (Ngoại hạng Anh)",
-     "url": "https://www.24h.com.vn/bong-da/video-bong-da-liverpool-mu-buoc-ngoat-the-do-4-ban-dinh-doat-dai-chien-ngoai-hang-anh-c48a1813287.html",
-     "source": "Tin tức 24h",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7UvVGF0ryYef782LC-ayPqWeBO2MBMOcag-MHYZ6Q5KM-vmvLE0e5H13cNI"
-    },
-    {
-     "title": "Man Utd thảm bại trong trận ra mắt của Pochettino",
-     "url": "https://vnexpress.net/man-utd-tham-bai-trong-tran-ra-mat-cua-pochettino-5147763.html",
-     "source": "VnExpress",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLawX9hPEemLtP2qdLbSYiJyMdITAw_a55XFc92RHk_Y_eyfK695UEgNNa9bM"
-    },
-    {
-     "title": "Thống kê trận đấu Liverpool 4-0 Manchester United: Liverpool thắng đậm thuyết phục",
-     "url": "https://baolamdong.vn/thong-ke-tran-dau-liverpool-4-0-manchester-united-liverpool-thang-dam-thuyet-phuc-475361.html",
-     "source": "Báo Lâm Đồng",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7aZlShFNc2FYaT17-6BU215xSQaA-32mXfC1yfZe4qQKm4yfJwhZFAsyKy3k"
-    }
-   ]
-  },
-  {
-   "keyword": "대장동",
-   "traffic": "500+",
-   "pubDate": "Sun, 22 Nov 2026 11:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQbSxRKsmmUnyxRAz8UzTdsbIMSJaqjtfGz2wbw0rBiGfeGzEc9YxCUhrA0b8",
-   "news": [
-    {
-     "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQbSxRKsmmUnyxRAz8UzTdsbIMSJaqjtfGz2wbw0rBiGfeGzEc9YxCUhrA0b8"
-    },
-    {
-     "title": "“업자와 결탁했다면⋯” 李대통령, ‘대장동 의혹’ 또 반박",
-     "url": "https://www.kmib.co.kr/article/20261123500012",
-     "source": "국민일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhtTho5BYHfh582CI244tAjcGGfFmVxr4my4S5UCiCjOK0C_5Ci5z2E16QZg"
-    },
-    {
-     "title": "李대통령 “4300억 확정 후 1100억 더 받아”...대장동 배임 의혹 재반박",
-     "url": "https://www.kyeonggi.com/article/20261122580365",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB1LZR2UccdMnmG_I92LL_eBYhG4d2iiMR4yhr9sUThRMt2MXC1jeyG7RMaCo"
-    }
-   ]
-  },
-  {
-   "keyword": "버스",
-   "traffic": "200+",
-   "pubDate": "Sun, 22 Nov 2026 12:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDZeurJpgxa8H-Y-Yd0hqLBmiJ3vLnD46vAsokvXZ-gBBdMvTczjQha6v5blI",
-   "news": [
-    {
-     "title": "홍대서 버스 인도 돌진…경부선 운행 재개",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719348",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDZeurJpgxa8H-Y-Yd0hqLBmiJ3vLnD46vAsokvXZ-gBBdMvTczjQha6v5blI"
-    },
-    {
-     "title": "홍대입구역 인근 3중 추돌‥경부선 첫차 운행 재개",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867543_37012.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3gh9v4DBGwZm0Clp4-juz_kirdOa5x_UYl1gZnL3IoGElZdxgZJj4B-F2eY"
-    },
-    {
-     "title": "'쾅' 순식간에 인도 덮쳤다…승객 6명 병원 이송",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857284",
-     "source": "SBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDddhtJI6X2gJUr6aBkAJfvnjcUqVXQigEQ1EnNiWV3VjQVuUADWjG4hWA5HM"
-    }
-   ]
-  },
-  {
-   "keyword": "경제",
-   "traffic": "200+",
-   "pubDate": "Sun, 22 Nov 2026 12:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp6ITEFP_zcj9MWF6eeMWoGbgLEkg1SuxFWKMz0CMz99A5_8CdgH73P0hqSHI",
-   "news": [
-    {
-     "title": "서울시 '중장년 경제교육' 7천명 참여…경제이해도 24점↑",
-     "url": "https://www.yna.co.kr/view/AKR20261122028400004",
+     "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
+     "url": "https://www.yna.co.kr/view/AKR20261122040000004",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp6ITEFP_zcj9MWF6eeMWoGbgLEkg1SuxFWKMz0CMz99A5_8CdgH73P0hqSHI"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv7SuNA4ep_tthC4DX2FGNz0BogBSVpAu2_U0Rnez2WGQ37XcL_Lis2oaN9xc"
     },
     {
-     "title": "서울시 중장년 경제교육 7076명 참여…목표 2배 육박",
-     "url": "https://www.news1.kr/local/moi/6361807",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREt-xttEcW23NIVTBCF1tnGE-Tz6W2WTnwAfzq44B8IYNkxXMrmzD2QpyzFKA"
+     "title": "전국 눈·비…출근길 살얼음 주의보",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719531",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFEgIDQEJ_utSB87O3UckGVII_8wHscDMmCYZ1t0Rtlj81JKvB8RNpxXoSBTk"
     },
     {
-     "title": "중장년 경제교육 ‘서울 리테크’, 올해 7076명 참여",
-     "url": "https://www.etoday.co.kr/news/view/2651375",
-     "source": "이투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRic1opWvrtDr_8bFIZXl9l0T1xUFYCPBYfmVCYLAqp6yxepbu4SqD5OTiZnGQ"
+     "title": "오늘 전국 눈비...수요일까지 '12월 하순 기온'",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611230022327225_005.html",
+     "source": "YTN",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7yyOu-k9BVOowj1YZnykj0SUH54iHYn674jY21vbR9fyBz-K5JzYeDAS0SyA"
     }
    ]
   },
   {
-   "keyword": "ลำดับของ ลิเวอร์พูล พบ แมนยู",
+   "keyword": "weather",
+   "traffic": "5000+",
+   "pubDate": "Sun, 22 Nov 2026 13:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFyrMJWC_8GHz6gyT1DOq_AwhGldAxWfjX8mohDayUT_dW2j_vFRIpz59PvrY",
+   "news": [
+    {
+     "title": "Break out the winter coat: Highs only hitting the 30s much of this week",
+     "url": "https://www.wsaw.com/2026/11/22/break-out-winter-coat-highs-only-hitting-30s-much-this-week/",
+     "source": "WSAW",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFyrMJWC_8GHz6gyT1DOq_AwhGldAxWfjX8mohDayUT_dW2j_vFRIpz59PvrY"
+    },
+    {
+     "title": "Dreary morning and a colder, breezy afternoon",
+     "url": "https://www.wkow.com/weather/forecast/dreary-morning-and-a-colder-breezy-afternoon/article_2d670a3b-5c17-479a-9b9e-85055fe14f76.html",
+     "source": "WKOW",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRPoqI_wFuh1ekLNSFnELHSLGDsfVqg3_HvnXo58op1QmUwyX1iS1U7t81YFM"
+    },
+    {
+     "title": "Decreasing Clouds and Temps",
+     "url": "https://www.wxow.com/video/decreasing-clouds-and-temps/video_8f76b6ed-5352-51ba-afa4-7a4a47042bd3.html",
+     "source": "WXOW",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTi9YL9gqEmD7luP9AOCsUwC4_hOFamulfVHy7hplPe9cpuxqCKvEdVO957U_8"
+    }
+   ]
+  },
+  {
+   "keyword": "치매",
+   "traffic": "2000+",
+   "pubDate": "Sun, 22 Nov 2026 13:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVBegNce7s6XrPNbR_ZU5Uj-zQd2YBuKfKMPrLecUZtp2eoWMsyVHVu6sH8A",
+   "news": [
+    {
+     "title": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologizes-sharing-intimate-190631378.html",
+     "source": "Yahoo",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVBegNce7s6XrPNbR_ZU5Uj-zQd2YBuKfKMPrLecUZtp2eoWMsyVHVu6sH8A"
+    },
+    {
+     "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
+     "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959",
+     "source": "People.com",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWFIXdkELiKUHcn2Nhi_O9fVnj6m_D_OhpGLxuj4uk-hfxmxgPot6B3vLH9t4"
+    },
+    {
+     "title": "Bruce Willis’s daughter Tallulah apologizes for sharing ‘intimate’ photo of actor amid dementia diagnosis",
+     "url": "https://www.the-independent.com/arts-entertainment/films/news/bruce-willis-dementia-photo-tallulah-apology-b3089504.html",
+     "source": "The Independent",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrBW-cytEAss9pdgw0-tb-Y-GKL7J8t0g_JmGQmrWjvbh5tpmVMzM0fsNCQM"
+    }
+   ]
+  },
+  {
+   "keyword": "홍창기",
+   "traffic": "2000+",
+   "pubDate": "Sun, 22 Nov 2026 12:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz7Y_Frq1WqDnx_93T7VMlf-gA_hVs5gcDSZitVywQA9OtuV3KIgAMCEkovkk",
+   "news": [
+    {
+     "title": "세대교체 필요한 LG, 박동원과 홍창기 잡아야할까",
+     "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003287083",
+     "source": "오마이스타",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz7Y_Frq1WqDnx_93T7VMlf-gA_hVs5gcDSZitVywQA9OtuV3KIgAMCEkovkk"
+    },
+    {
+     "title": "FA 박동원·김태군·최재훈 뜻밖의 아킬레스건? 포수 수비 탑3에 없다…연쇄이동 제동 걸리나, 장기전 예고인가",
+     "url": "https://mydaily.co.kr/page/view/2026112004102210618",
+     "source": "마이데일리",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmT7MigHEHwGC9ARE0rmRaKxPeYPYLXjFNQLloP6_RWFBqZynHLtxlN3twkXg"
+    },
+    {
+     "title": "염경엽 LG 감독 \"김범석, 나는 포기하지 않았다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261117137700007",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSav786LHMtabua99qBi5GYyLk7XWz8NRxd8lJHpfsgvCgZ6GIbilhCSnrKp24"
+    }
+   ]
+  },
+  {
+   "keyword": "погода",
+   "traffic": "1000+",
+   "pubDate": "Sun, 22 Nov 2026 13:30:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThW1OxxqrBmsh_U6rRuTZc0Pa-403ZtuAy_XrP_CnjE58zABJWK1CfHmXtuBw",
+   "news": [
+    {
+     "title": "Снег ожидается в Амурской области: прогноз погоды",
+     "url": "https://www.amur.life/news/2026/11/22/sneg-ozhidaetsya-v-amurskoy-oblasti-prognoz-pogody",
+     "source": "Amur.life",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThW1OxxqrBmsh_U6rRuTZc0Pa-403ZtuAy_XrP_CnjE58zABJWK1CfHmXtuBw"
+    },
+    {
+     "title": "На севере Приамурья снег: прогноз погоды на воскресенье",
+     "url": "https://amur.info/2026/11/21/na-severe-priamurya-sneg-prognoz-pogody-na-voskresene/",
+     "source": "amur.info",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPAsWKoL7G6wnOn5FOIE3ESzcc9WfQjX3KheYpdZ6dSRx5eskAdQ95WuUK1k"
+    },
+    {
+     "title": "Небольшой снег и гололедица: прогноз погоды на 23 ноября, понедельник",
+     "url": "https://ampravda.ru/2026/11/23/nebolsoi-sneg-i-gololedica-prognoz-pogody-na-23-noiabria-ponedelnik",
+     "source": "Амурская правда",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9xbLZUAc7PRoMxDxR-4zbvgjH0jALYdEOgZHopdej8jb25DIUU9ELV4AKT0k"
+    }
+   ]
+  },
+  {
+   "keyword": "天气",
+   "traffic": "1000+",
+   "pubDate": "Sun, 22 Nov 2026 13:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTclU2C2a3hAR52tVf_AKzWaBVjG-BP2TTPlin60a2GdS1YLnZ_5b8Mi-gVzJM",
+   "news": [
+    {
+     "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending",
+     "source": "Bloomberg.com",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTclU2C2a3hAR52tVf_AKzWaBVjG-BP2TTPlin60a2GdS1YLnZ_5b8Mi-gVzJM"
+    },
+    {
+     "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+     "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+     "source": "CNBC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAjDcPEfAZE81jk71bVwT29P0x6l08Pp6yR4pzZeJ59GNMjzFREO3ISxb79gQ"
+    },
+    {
+     "title": "Japan’s Economy Contracts Amid Inflation Squeeze",
+     "url": "https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5",
+     "source": "WSJ",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScshyHkXsDnQTA_r9kKWW7hCruLqkjtKuHX1I0SpYIz3ebBkn8oQPRqHbvtJc"
+    }
+   ]
+  },
+  {
+   "keyword": "สภาพอากาศ",
+   "traffic": "1000+",
+   "pubDate": "Sun, 22 Nov 2026 13:30:00 -0800",
+   "img": "",
+   "news": [
+    {
+     "title": "กรมอุตุนิยมวิทยา. . 🥶 หนาวกว่านี้ยังมีอีกไหม??? หนาวแน่แค่ไหน มาดูกัน! ❄️ ใครเพิ่งเริ่มสัมผัสลมหนาว อย่าเพิ่งคิดว่านี่คือช่วงที่หนาวที่สุดนะคะ เพราะความหนาวยังมีให้ติดตามกันอีก! 🌡️ รอบแรกยังไม่ใช่ช่วงที่หนาวที่สุด! ❄️ ช่วงที่คาดว่าจะหนาวที่สุด คือ ธ.ค. 69 – ม.ค. 70 โดยเฉพาะภาคเห",
+     "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B9%84%E0%B8%AB%E0%B8%A1-%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%99-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9C%E0%B8%B1%E0%B8%AA%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88/2296469520936159/",
+     "source": "Facebook",
+     "img": ""
+    },
+    {
+     "title": "สภาพอากาศวันนี้ -28 พ.ย.ใต้ฝนตกต่อเนื่อง ไทยตอนบนอากาศเย็น หมอกตอนเช้า",
+     "url": "https://www.thansettakij.com/general-news/674377",
+     "source": "Thansettakij",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTWzCJoZ7exqaeQd23mooDagqVhR7SscHhCPbdBelQ9lQ3UVC5I2jo7UyhomY"
+    },
+    {
+     "title": "อัปเดตน้ำทั่วไทย น้ำต้นทุน 82% แต่ต้องเฝ้าระวัง 17 อ่างฯ น้ำน้อย",
+     "url": "https://www.bangkokbiznews.com/news/news-update/1261877",
+     "source": "bangkokbiznews",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYPwbRUMgtGp68oBXoRJSKqEz3ZiHGSawlhvVa_lCBW2VP--bmw3C1hQbV44"
+    }
+   ]
+  },
+  {
+   "keyword": "klasemen liverpool vs manchester united f.c.",
    "traffic": "200+",
-   "pubDate": "Sun, 22 Nov 2026 11:50:00 -0800",
+   "pubDate": "Sun, 22 Nov 2026 13:30:00 -0800",
    "img": "",
    "news": []
   },
   {
-   "keyword": "비야디",
+   "keyword": "양산시",
    "traffic": "200+",
-   "pubDate": "Sun, 22 Nov 2026 11:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-PZY-9b7-hWozNWpYDymSDxkX-3Gk7I5KVcz398qwSmGjkxmDb4JXGo9nxEU",
-   "news": [
-    {
-     "title": "네덜란드 법원, 디자인 분쟁으로 BYD SUV의 EU 판매 금지",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2185816",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-PZY-9b7-hWozNWpYDymSDxkX-3Gk7I5KVcz398qwSmGjkxmDb4JXGo9nxEU"
-    },
-    {
-     "title": "“대놓고 베꼈네” 말 나오더니…中 BYD 야심작, 유럽 진출 앞두고 ‘날벼락’",
-     "url": "https://www.sedaily.com/article/20117336",
-     "source": "서울경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM9CWuK4bXsD52BfKJ6b9bR6bedyE5ith7kFLVdONxFjmX-3PeEmT6gifoEZE"
-    },
-    {
-     "title": "비야디 SUV, 디펜더 디자인 침해로 EU 판매금지",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112209211176469a1f309431_1",
-     "source": "글로벌이코노믹",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGLaUgwtCA77g1klXZdR8j-8Y0tXXfeo7dp3bSf0U9KUwFhO8jf5KCrVFMak"
-    }
-   ]
+   "pubDate": "Sun, 22 Nov 2026 13:00:00 -0800",
+   "img": "",
+   "news": []
   },
   {
-   "keyword": "평택시장",
-   "traffic": "200+",
-   "pubDate": "Sun, 22 Nov 2026 11:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTirZJAmBhpzxKuJtyteyg8TyGw9MFWXOkxO3GHjHIhMGGlXqgs9tcKq2gv8ng",
-   "news": [
-    {
-     "title": "집 늘리려니 길·물도 '숙제'…경기 7개 시, 총리에 '맞춤 지원' 요청",
-     "url": "https://www.etnews.com/20261122000092",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTirZJAmBhpzxKuJtyteyg8TyGw9MFWXOkxO3GHjHIhMGGlXqgs9tcKq2gv8ng"
-    },
-    {
-     "title": "구리시, 정부에 ‘공공주택지구 현안 건의서’ 전달…교통·자족 기능 확충 촉구",
-     "url": "https://www.kyeonggi.com/article/20261122580147",
-     "source": "경기일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnl-FofmYn4EpO4fw5fqaYUZHUESMQJ5xgiMHOdS-35nETHZSnoPZTUfo7QNA"
-    },
-    {
-     "title": "이상일 용인시장, 유의동 국회 국토교통위원장에 용인 국가철도망 반영 요청",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041622",
-     "source": "기호일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZJiQMkaX36FohLctSyOF56xzarcnMT7Lk85T7W5uQVBjmbIIaMQkp-or73Dk"
-    }
-   ]
-  },
-  {
-   "keyword": "아틀레티코 마드리드",
+   "keyword": "레임덕",
    "traffic": "100+",
-   "pubDate": "Sun, 22 Nov 2026 11:50:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwfyF7rgtcTkla-OxK3ln-9shDiLEy-9xO11poXGf7s0zngWUa5zyeC2DVoRQ",
+   "pubDate": "Sun, 22 Nov 2026 13:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq8CPCxk-axULHC4uZXUrpqm2ootgIYMEZtQJOANmaO1GHMbg4q817ayLQKsg",
    "news": [
     {
-     "title": "모레노 감독에게 기회를 더 줘야 하는 이유",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57304",
-     "source": "주간조선",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwfyF7rgtcTkla-OxK3ln-9shDiLEy-9xO11poXGf7s0zngWUa5zyeC2DVoRQ"
+     "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
+     "url": "https://www.yna.co.kr/view/AKR20261123001000071",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq8CPCxk-axULHC4uZXUrpqm2ootgIYMEZtQJOANmaO1GHMbg4q817ayLQKsg"
     },
     {
-     "title": "“죄송한 마음이 크다” 손흥민, 한국 대표팀 1년 돌아보고 밝힌 소감 “사랑해주시는 팬분들한테 감사드린다”",
-     "url": "https://sports.khan.co.kr/article/202611222025003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvTMaP2-vG95Q1QAtXtNPqogCxIgdyTWIYZVaQ7eF3IHufpx2ljIeIvWTZWk"
+     "title": "트럼프 지명 인사·예산, 여당도 반대...'레임덕' 시작됐다",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611230638428387",
+     "source": "YTN",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHJZwkqr4MjReEXlKtC57ly4MeoeYWSiMCdchwtDwdcp7JgZMKnAJwSSLT78"
     },
     {
-     "title": "'모레노호' 3승1무2패 성적표 너머, 한국 축구는 무엇을 남길 것인가 [이영규의 비욘더매치]",
-     "url": "https://news.tf.co.kr/read/soccer/2391874.htm",
-     "source": "더팩트",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZb8-9e_IpBWaeGphnpu4kWSK0EHAu213UcH7pj3-FnO7msixba_pD-dgoWyo"
+     "title": "트럼프 레임덕 시동?…공화당서 국방부 고위직 인준 제동",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611230544204Xc",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq8CPCxk-axULHC4uZXUrpqm2ootgIYMEZtQJOANmaO1GHMbg4q817ayLQKsg"
     }
    ]
   }
