@@ -1,9 +1,35 @@
 {
- "updated": "2026-11-23 22:17",
+ "updated": "2026-11-24 00:02",
  "items": [
   {
+   "keyword": "젠슨황 복귀",
+   "traffic": "5000+",
+   "pubDate": "Mon, 23 Nov 2026 05:50:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDEVuh8422k-kQMXFYi5mC6LDM3O9orapKy6UO57rsSBjqDlGC_Wd5MsrxDfs",
+   "news": [
+    {
+     "title": "엔비디아 “이사회 만장일치로 젠슨 황 최고경영자로 복귀”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720606",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDEVuh8422k-kQMXFYi5mC6LDM3O9orapKy6UO57rsSBjqDlGC_Wd5MsrxDfs"
+    },
+    {
+     "title": "[속보]‘불륜 스캔들’ 젠슨 황, 다시 엔비디아 CEO로···불명예 퇴진 11일만",
+     "url": "https://www.khan.co.kr/article/202611232329001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpvFzve1uz_g7elLR01NEuwU7qUkD6jtKsCGNM84wBeRDXTcXYoYIOrSk4eds"
+    },
+    {
+     "title": "미 재무 \"젠슨 황과 회사 책임 별개\"...반도체 밀수망 의혹 확산",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611232251548431",
+     "source": "YTN",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT28If__7isZdV_XE0ZTHCTNuGjHJVD-UDjk1BW-mSUMdqDrlBPDHh8tMrv8oc"
+    }
+   ]
+  },
+  {
    "keyword": "상장",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "pubDate": "Mon, 23 Nov 2026 03:00:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKcS_n0Rpo6kVziwKurd7QettVXlSAdiWneUFlsbhSx76VlHCgR0jqdBGBchE",
    "news": [
@@ -20,10 +46,36 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC6FPjoTdVAlWwaIT0YbDzrGwm83kVETM1XQlxix67oFE4wQQOYcFJxMk_GVA"
     },
     {
-     "title": "중복상장 규제 후폭풍…1.5兆 국제소송 당한 카카오",
-     "url": "https://www.hankyung.com/article/2026112350741",
+     "title": "카카오AI·카카오X 분할상장 계획도 '안갯속'",
+     "url": "https://www.hankyung.com/article/2026112349881",
      "source": "한국경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBnrQw0cd7C9NQq4WTiraVhSboA0pI5odCGRUFG5lCbpE0hjebJjD_4fTjjY"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQyqXyh3LeZtABF0R1qOnf9ipct4EpjvVfdZfzOuIyIoYzk37C6Vru3p3PRL4"
+    }
+   ]
+  },
+  {
+   "keyword": "중위소득",
+   "traffic": "2000+",
+   "pubDate": "Mon, 23 Nov 2026 02:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ",
+   "news": [
+    {
+     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314",
+     "source": "대한민국 정책브리핑",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ"
+    },
+    {
+     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
+     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83pqmJcPZtvKc-2VvkehgHBhMBwPm0Y6sfLbOww5f4fczolxKomMV35-OeSI"
+    },
+    {
+     "title": "3년 새 빈곤층 69만 명↑…생계급여 문턱 낮춘다",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720133",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Q9Wnb92uPMxGRr3bJqPyp2EbU6TmqloeZ8jtdj_y2Mho0tq0qZoMjOFNGuI"
     }
    ]
   },
@@ -40,68 +92,42 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIrGVAPpq26yEN-I4222Q10eJD4FJPaXxEhEqy2TixwsnNQVpDkUVFkUI5L4"
     },
     {
-     "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+     "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611232201517707_005.html",
      "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9LeFsS7ybSQOncPMMxkAlCgo35ovjwSla2At1_OJED9s2SLlnUMZq8nQ1HM"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCAwJiTdyGKB8YL1AIwmmTheInXjEZPPq3rL4TxvoLEBhbI5qWOoqDeATCv0E"
     },
     {
-     "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
-     "url": "https://news.jtbc.co.kr/article/NB12329355",
+     "title": "리트 만점자 과외교사도 곧 소환…‘저서 30배’ 기현상도",
+     "url": "https://news.jtbc.co.kr/article/NB12329434",
      "source": "JTBC",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV0__L3BWsBl64oRBLnik9LEvWDv2N5T27gCGbqh3y95xcVgO1NN7ItUnjPew"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx6BlD0y-qrtwJPW5lpXqqlhRbQ_H1wRdJOwFL4fLTFm-s_FWDKsZQvY3dGKA"
     }
    ]
   },
   {
-   "keyword": "중위소득",
-   "traffic": "1000+",
-   "pubDate": "Mon, 23 Nov 2026 02:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ",
+   "keyword": "반도체 메모리",
+   "traffic": "500+",
+   "pubDate": "Mon, 23 Nov 2026 02:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMjA6TPTNxh9L-VbXh-MEFpMLvehR0801UcEDCat8Xn-vZcipZnZpXgGL4s",
    "news": [
     {
-     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
-     "source": "대한민국 정책브리핑",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ"
+     "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
+     "url": "https://www.hankyung.com/article/2026112330656",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMjA6TPTNxh9L-VbXh-MEFpMLvehR0801UcEDCat8Xn-vZcipZnZpXgGL4s"
     },
     {
-     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83pqmJcPZtvKc-2VvkehgHBhMBwPm0Y6sfLbOww5f4fczolxKomMV35-OeSI"
+     "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123024200008",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPCK692XW5tuOpu057hFrKrjAJSeiHa7h5S4FCjBlnaRUeylCakrDYe0LX9c"
     },
     {
-     "title": "3년 새 빈곤층 69만 명↑…생계급여 문턱 낮춘다",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720434",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVaIU51rrWayNe_iTpI6kpXjCXw_WYy_H7Mc8offgvG21MBNtwB_RNPwdZRRU"
-    }
-   ]
-  },
-  {
-   "keyword": "이진관 판사",
-   "traffic": "1000+",
-   "pubDate": "Mon, 23 Nov 2026 01:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhVBUf0yV1qJaQfb_RJ4x-H6HrDv_bjNdTM_hLGxAxajYZ-TJ7r3rRW4Qims",
-   "news": [
-    {
-     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329370",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhVBUf0yV1qJaQfb_RJ4x-H6HrDv_bjNdTM_hLGxAxajYZ-TJ7r3rRW4Qims"
-    },
-    {
-     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
-     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTapG7lw8SIo5PatCvoPm2h8cOTCvLETouCYiZaqo3lxfjjRU8Ogc2PkTSbFD4"
-    },
-    {
-     "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719954",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN1Zpbg3WdKTxKcTqxgZ6Yso596g7bouEPo4se42Guit-UoccdVvI_vU0av98"
+     "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
+     "url": "https://core.asiae.co.kr/article/2026112317430850505",
+     "source": "아시아경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToICDNMzaP13HJf2d9un9ga4jrXeXqAUkb4U8aoRD4BhmkjWGAFr5jbt1jjEw"
     }
    ]
   },
@@ -132,54 +158,28 @@
    ]
   },
   {
-   "keyword": "반도체 메모리",
-   "traffic": "200+",
-   "pubDate": "Mon, 23 Nov 2026 02:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMjA6TPTNxh9L-VbXh-MEFpMLvehR0801UcEDCat8Xn-vZcipZnZpXgGL4s",
+   "keyword": "sk텔레콤",
+   "traffic": "100+",
+   "pubDate": "Mon, 23 Nov 2026 05:50:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr_er9Frus17w4OJGnsXNEkLXJxCIz_uGGk2mi82u8RBeW_0HmqVa1cKOXF_w",
    "news": [
     {
-     "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
-     "url": "https://www.hankyung.com/article/2026112330656",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMjA6TPTNxh9L-VbXh-MEFpMLvehR0801UcEDCat8Xn-vZcipZnZpXgGL4s"
+     "title": "“50대 이상 나가면 3년치 월급”…SKT, 희망퇴직 받는다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03493206645648672&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr_er9Frus17w4OJGnsXNEkLXJxCIz_uGGk2mi82u8RBeW_0HmqVa1cKOXF_w"
     },
     {
-     "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123024200008",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPCK692XW5tuOpu057hFrKrjAJSeiHa7h5S4FCjBlnaRUeylCakrDYe0LX9c"
+     "title": "SK텔레콤, 50대 이상 직원 희망퇴직 추진",
+     "url": "https://www.etnews.com/20261123000409",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCc3KG_5oSRfgbhN8CgYpuwvwGDLH-EF0MUooZLHWWZzvNtyoskZfVBf7mdE8"
     },
     {
-     "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
-     "url": "https://core.asiae.co.kr/article/2026112317430850505",
-     "source": "아시아경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToICDNMzaP13HJf2d9un9ga4jrXeXqAUkb4U8aoRD4BhmkjWGAFr5jbt1jjEw"
-    }
-   ]
-  },
-  {
-   "keyword": "가석방",
-   "traffic": "200+",
-   "pubDate": "Mon, 23 Nov 2026 01:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtXOsppkd_hJKo-pxYe8SC4qh0dDcKc9Z5E-Wj1Ht7Faclj9k7a7cWfGRV7k",
-   "news": [
-    {
-     "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtXOsppkd_hJKo-pxYe8SC4qh0dDcKc9Z5E-Wj1Ht7Faclj9k7a7cWfGRV7k"
-    },
-    {
-     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROT3LiZ36sfTtaKRY_CcMmAE0DGPlEZQRB92inYQCXgvxq2p4dV7XEun_Fzg"
-    },
-    {
-     "title": "청와대 “가석방 없는 무기형 도입, 스토킹 접근금지 기간 연장 검토 중”",
-     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288630.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVSWbUi84gIIRr8hRuidVzkwoUjowYxlL9RsMXDxpe1ucvpBqVEjImDNSLpk"
+     "title": "SK텔레콤, 50대 이상 희망퇴직 추진",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/23/DX6TT7X5JBGF5D6QAQ4Q5XJ4BA/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqcp62vKFwzWDEOk7acnJsNjIeuJijs3cqDgRmW6flQJKwVci6KV07FDcQ63s"
     }
    ]
   },
@@ -196,10 +196,10 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEplL9MYu7JGwq6iRCvxHyiPNJZohgtL0Z4IxeLNkXS3fDEQF9T4SU0x9_gZM"
     },
     {
-     "title": "Tarik Skubal's $450 Million Mets Deal Puts MLB Salary Cap Fight in Focus",
-     "url": "https://sports.yahoo.com/videos/tarik-skubals-450-million-mets-123035955.html",
+     "title": "Mets projected 2027 lineup, rotation after blockbuster Tarik Skubal signing",
+     "url": "https://sports.yahoo.com/articles/mets-projected-2027-lineup-rotation-141008542.html",
      "source": "Yahoo Sports",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROzqJ8HSf0CIBwNeMLDDzyoIGEkTjGA-o-SQR3u81sNH-5vSHoDSy050hf_vs"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXC0YP81fKDrL_1TLvs5rccUl5wKJee3N3ISfvRM-CtbXt6Xwzx5cNbqipLPs"
     },
     {
      "title": "Inside Tarik Skubal’s Mets meeting that launched a record price: ‘Tarik is the guy you bet on’ - The Athletic",
@@ -228,10 +228,10 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa4cgNEIok37MIUDWOpOQf3Yw6MDwvg2v-8jslsg1jbbTCC5ThBwvf3T6ZVy0"
     },
     {
-     "title": "박남춘 인천국제공항공사 사장 취임···“글로벌 최고 수준 항공 네트워크 구축”",
-     "url": "https://www.khan.co.kr/article/202611231507001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR998pvmfugFyh6rvARfWwodwa9sPpMloFGAs2NycBzNuiqNzkaKPdMUbQB_iU"
+     "title": "박남춘 인천공항 사장 “임기 내 취항도시 200개·여객 9000만 명 목표”",
+     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/X6ZGTC42HVGHBP2N6Q3BERNECE/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQajLjkWQG2Nboo1LpSoeQ_k441mI95L5h1oosvEqyPjq9WIYPBV2syaA-T1jg"
     }
    ]
   },
@@ -249,7 +249,7 @@
     },
     {
      "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231601194035",
      "source": "YTN 사이언스",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlnIOBof8sKmBYTNpxP_tzsT8Qw2O4yzoArTzI_1vUM6yFuwRfhINcjXdher0"
     },
