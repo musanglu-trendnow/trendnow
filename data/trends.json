@@ -1,87 +1,9 @@
 {
- "updated": "2026-11-26 19:14",
+ "updated": "2026-11-26 21:00",
  "items": [
   {
-   "keyword": "이세영",
-   "traffic": "2000+",
-   "pubDate": "Thu, 26 Nov 2026 00:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCyVFqF2TxFZY-rAkXyk4qMOSfC-1TLzSbE9Z2rOwMeOcLEbqiEqOi86FH1s",
-   "news": [
-    {
-     "title": "종영 앞둔 ‘재혼황후’ 신민아·이봉련...황후와 시녀장의 깊은 신뢰",
-     "url": "https://www.ytn.co.kr/_sn/0117_202611241515092481",
-     "source": "YTN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCyVFqF2TxFZY-rAkXyk4qMOSfC-1TLzSbE9Z2rOwMeOcLEbqiEqOi86FH1s"
-    },
-    {
-     "title": "‘새종석’ 도쿄로 날아갔다",
-     "url": "https://sports.khan.co.kr/article/202611261612003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ7QHi7tuVdIQvT2eV_OkTk-QjGFseboijHe9NaqqB0h1q5guGEqF741vS6es"
-    },
-    {
-     "title": "'재혼 황후' 이세영 \"흰 피부 만들려 계속 관리…레이저 시술도\" [N인터뷰]①",
-     "url": "https://www.news1.kr/entertain/interview/6366962",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkjt0MicJkmdeDlLkNu5531yUSd7ihJ8ZMBMZPDtNTGLF2wuB-H-qLPkzzAq0"
-    }
-   ]
-  },
-  {
-   "keyword": "2027 학년도 대학 수학 능력 시험",
-   "traffic": "1000+",
-   "pubDate": "Wed, 25 Nov 2026 23:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxdJ9PCPEYxE8Tyo45ACpPQGJTr84JGzZVHuh3u7Py6tz6_zQnuCFoAxcxKQ",
-   "news": [
-    {
-     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
-     "url": "https://www.hankyung.com/article/202611261522H",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxdJ9PCPEYxE8Tyo45ACpPQGJTr84JGzZVHuh3u7Py6tz6_zQnuCFoAxcxKQ"
-    },
-    {
-     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
-     "url": "https://news.jtbc.co.kr/article/NB12329904",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX0P3o9sRK-XK4pkvm0Wsui41XqVbIgXPg2hOjOU-Do2QBHGRwfmVfrw_xqhA"
-    },
-    {
-     "title": "꽁꽁 숨은 '수능 만점자'들…가채점 만점 최소 3명 \"신원 공개 거부\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112521562266508",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0_mIQH4rgT40pkmzVdU5Xg6EPt9wTtc-D1uBQsPLd5J3Cj2buSdPHx_Hxb-0"
-    }
-   ]
-  },
-  {
-   "keyword": "코레일",
-   "traffic": "1000+",
-   "pubDate": "Wed, 25 Nov 2026 23:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHe1dnHtcp1u915nT5_XcDMSB7QrqR5HulrNoGS4MB_hAb4RbvXd9sWjXTMU",
-   "news": [
-    {
-     "title": "철도노조 준법 투쟁 여파로 일반 열차 3대 운행 중지",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723502",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHe1dnHtcp1u915nT5_XcDMSB7QrqR5HulrNoGS4MB_hAb4RbvXd9sWjXTMU"
-    },
-    {
-     "title": "\"철도노조 안전운행 투쟁에 광역전철 235대 20분 이상 지연\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261126153051063",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA0whnEo5e4WiVRbUXp0emuUQ7_PsZS5ZFdU4ZeZb1KXirOGnT6GOzL1t7pvs"
-    },
-    {
-     "title": "서울지하철 노사, 500명 충원 합의",
-     "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237926",
-     "source": "매일노동뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAEzFWe0lPDDnCpkxQ-W_mhI7OJwpA50UzZAl_ZPrz_aGpiKZYzBUvlmDdQO4"
-    }
-   ]
-  },
-  {
    "keyword": "디워",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Thu, 26 Nov 2026 00:30:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTHYPkSBb-nKFb7RTej_lfV6G-RyRvWDdoQDeST05WRc7GDrG20org6dNVtjw",
    "news": [
@@ -106,138 +28,112 @@
    ]
   },
   {
-   "keyword": "손예진",
+   "keyword": "한국보건의료인국가시험원",
    "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 00:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaLvWQ_pBgGb9JT3O2HMFuKEhZw0qBcqobrlk_juH23LSdRtS5cCXCL_bte78",
+   "pubDate": "Thu, 26 Nov 2026 02:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHBgMBniEmHxn2I19e7q3LENQeqeCGnC2lJrXRjLyQ7fnr-7rqqFjLEEE1-M",
    "news": [
     {
-     "title": "손예진, ♥정해인과 8년만 밀착 투샷…“너무 뭉클해 마음 뜨거워”",
-     "url": "https://sports.khan.co.kr/article/202611261300003",
-     "source": "스포츠경향",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaLvWQ_pBgGb9JT3O2HMFuKEhZw0qBcqobrlk_juH23LSdRtS5cCXCL_bte78"
-    },
-    {
-     "title": "손예진은 '밥누나' 정해인, 현빈은 '삼순이' 정려원과…청룡서 재회",
-     "url": "https://www.newsis.com/view/NISX20261126_0003884219",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp99M2G3-un2NLpMwyrNy8OpDPlzzYUIr00kobWCy6f5mz6qIkUXBh0CBBMw0"
-    },
-    {
-     "title": "손예진, ♥현빈 아닌 정해인과 팔짱…'예쁜 누나' 8년만의 재회인데 비주얼 여전",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6367320",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYZ1eeI9SNBIFrF8eZaKfKaZcY_KiQHZSiswshVMj13asLKWTgVMF6cbvaQpA"
-    }
-   ]
-  },
-  {
-   "keyword": "이승우",
-   "traffic": "500+",
-   "pubDate": "Wed, 25 Nov 2026 23:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEK1TlZp23BD4bAOeVyZQWbMHvXWDSJxDqV46S1g-abvqkvVXsZngBADMcRcE",
-   "news": [
-    {
-     "title": "격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정서 ‘벽 느꼈다’ 망신 당한 K리그",
-     "url": "https://www.khan.co.kr/article/202611261438001",
+     "title": "의사·간호사 국시 일부 과목 만점자 급증···복지부 “AI 부정행위 단정 어려워”",
+     "url": "https://www.khan.co.kr/article/202611261620001",
      "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEK1TlZp23BD4bAOeVyZQWbMHvXWDSJxDqV46S1g-abvqkvVXsZngBADMcRcE"
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHBgMBniEmHxn2I19e7q3LENQeqeCGnC2lJrXRjLyQ7fnr-7rqqFjLEEE1-M"
     },
     {
-     "title": "\"코리안 메시가 격분했다!\" 이승우, 日 선수 태클에 폭발→멱살잡이 논란...\"어리석은 행동, 일본 팬들도 분노\"",
-     "url": "https://www.chosun.com/sports/football/2026/11/26/GQ4WMZJZHFRTEODDG42WEOLGGQ/",
+     "title": "\"설마 의사·간호사도 ‘냥이’가?\"…2년 전 만점 82명, 올해는 581명",
+     "url": "https://news.jtbc.co.kr/article/NB12329903",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCQ4cnnf0mupsvRuk-olm4HQJwJw-upjKGDX0hY3wr6HW809xUi-Pt4pdaULM"
+    },
+    {
+     "title": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573",
+     "source": "대한민국 정책브리핑",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI"
+    }
+   ]
+  },
+  {
+   "keyword": "india a vs sri lanka a",
+   "traffic": "500+",
+   "pubDate": "Thu, 26 Nov 2026 01:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPXknu8W56fQ9KstYBpvH85glbgRN_pfFK_FdYR8q9XMeYJAjCcxBAwsDv5M",
+   "news": [
+    {
+     "title": "India A vs Sri Lanka A Live Score: IND-A (180/2 in 26 ov), Abhishek departs for 78, Tilak Varma steady",
+     "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-rising-stars-asia-cup-2026-semi-final-ind-a-vs-sl-a-match-3047337-2026-11-26",
+     "source": "India Today",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPXknu8W56fQ9KstYBpvH85glbgRN_pfFK_FdYR8q9XMeYJAjCcxBAwsDv5M"
+    },
+    {
+     "title": "Vaibhav Sooryavanshi dismissed for 40 off 27 balls against Sri Lanka A in Asia Cup Rising Stars 2026 semifinal",
+     "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-score-asia-cup-rising-stars-2026-semifinal-india-a-vs-sri-lanka-a/article71746121.ece",
+     "source": "Sportstar",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQpcqLg5ORcbOx3ggF8Gbh_t9Xo6_l3yXlh65a-TpdyBTuModgnxCB9_DiRU"
+    },
+    {
+     "title": "Abhishek Sharma bounces back with 37-ball fifty in Asia Cup Rising Stars 2026 semi-final against Sri Lanka A",
+     "url": "https://www.livemint.com/sports/cricket-news/abhishek-sharma-bounces-back-with-fifty-india-a-vs-sri-lanka-a-semifinal-asia-cup-rising-stars-2026-ind-a-vs-sl-a-11795688535920.html",
+     "source": "Livemint",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NrQ09lc8Gy6IfaZs0SNzrblq4deugJT0d0_uM6A73r_cAqCHDIod7GcSdhs"
+    }
+   ]
+  },
+  {
+   "keyword": "검찰",
+   "traffic": "500+",
+   "pubDate": "Thu, 26 Nov 2026 01:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2emecgmkZJ8Owb_nojUCnMV7SJ9ZNEoRWsV1ay1P6Mvmi-hi9uGoT86b02Y",
+   "news": [
+    {
+     "title": "검찰총장 후보 초유의 ‘추가 천거’…기존 3인 외 새 인물 지명 수순?",
+     "url": "https://www.donga.com/news/Politics/article/all/20261126/135095804/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2emecgmkZJ8Owb_nojUCnMV7SJ9ZNEoRWsV1ay1P6Mvmi-hi9uGoT86b02Y"
+    },
+    {
+     "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
+     "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/",
      "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrhb6xPy5pAk8WUH5G3qlzalmcYucgdL2NVHJ-KuHUFBJkc6W81vZB18Dw4uQ"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ82K3SxgdFy5XzlRUOvK4RbFUqndLd1D8zX9_XnAex4Tc8idtSLIzKA87W0s4"
     },
     {
-     "title": "이승우, 일본 선수 멱살 잡고 거친 몸싸움…이유 있는 분노?",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126091016eUW",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzeU0G86WHNVZGNq1KaGJ8fvNy8r2n4Mzl9t_ontBVpsI5R3XJXpeUi0k0huM"
+     "title": "'1년4개월째 공석' 검찰총장…법무부, 후보자 추가 국민천거 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/26/2026112613494028764",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNN4PPg9rn4qrcWO0j29UtmUZjlB7ZX_2JeYkB1nn11tnyLkj9i552qsgyQZQ"
     }
    ]
   },
   {
-   "keyword": "영업 비밀",
-   "traffic": "200+",
-   "pubDate": "Wed, 25 Nov 2026 23:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkNPINe_ild69aKtKobr3pLQAZnWyb9exVGmgFKgQa4-DSTNTesZzq9xvU10",
+   "keyword": "구미역",
+   "traffic": "500+",
+   "pubDate": "Thu, 26 Nov 2026 01:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWWli-NUdkXmhgaoC_tgtyDs8AsbS8wX4AXssH3hlwMVy2Kw44TT68v6RoIGg",
    "news": [
     {
-     "title": "“35년 근무한 기술부장이 반도체 핵심기술 중국에 넘겼다”... 日 아사히카세이 영업비밀 유출, 전 직원 기소",
-     "url": "http://www.e-patentnews.com/15988",
-     "source": "특허뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkNPINe_ild69aKtKobr3pLQAZnWyb9exVGmgFKgQa4-DSTNTesZzq9xvU10"
+     "title": "동구미역 밑그림 나왔다…구미역과 연결은 어떻게",
+     "url": "https://www.yeongnam.com/web/view.php?key=20261125028262890",
+     "source": "영남일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWWli-NUdkXmhgaoC_tgtyDs8AsbS8wX4AXssH3hlwMVy2Kw44TT68v6RoIGg"
     },
     {
-     "title": "나쁜 일자리라도 줄 테니 시간과 삶 내놓으라? [왜냐면]",
-     "url": "https://www.hani.co.kr/arti/opinion/because/1289160.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTgYquNnol5LKp9x4vfAqp6fAa4gdAHOJuXCgPDj-kmc6StCYgIw-TgPdB-GE"
-    },
-    {
-     "title": "\"민주당 초광역특구법 저지 투쟁\"",
-     "url": "https://www.newsis.com/view/NISI20261125_0002301866",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTpcgCYBE3Mlgqr5SPsbICtXqk3kBp8vUhgrrNrlTtaPXj0ktkaCfav2meEr8"
-    }
-   ]
-  },
-  {
-   "keyword": "이집트",
-   "traffic": "200+",
-   "pubDate": "Wed, 25 Nov 2026 23:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUS3uQg5Wh5QeMF_m9sbE23bdyWFcEYwKavV0x1V80TO9UZw8TR2Gybbvh9Lw",
-   "news": [
-    {
-     "title": "“탈출할 시간조차 없었다”…이집트 유조차 충돌 화재 최소 30명 사망 [현장영상]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723106",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUS3uQg5Wh5QeMF_m9sbE23bdyWFcEYwKavV0x1V80TO9UZw8TR2Gybbvh9Lw"
-    },
-    {
-     "title": "[쇼츠] 치솟은 시뻘건 화염과 연기…유조차 폭발에 아비규환",
-     "url": "https://www.yna.co.kr/view/AKR20261126156100704",
+     "title": "'대구·경북 1시간 생활권' 광역철도·국도 확충에 속도",
+     "url": "https://www.yna.co.kr/view/AKR20261125035000053",
      "source": "연합뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQETgf00TLSFwClgfVIsiS3dtHUpSrHglsS-TGpZ-17wIPcgciqn3AFOFvrjE4"
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzX2yYRHJEzJgYGkqVaZmAqNb7eUFJ3hbM26LUm5N8zMd8RfcleB-gLVLWwm0"
     },
     {
-     "title": "이집트 카이로 외곽도로서 충돌 사고로 30여 명 사망",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126083352Pjf",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_jQCjJ4CElo86mVeZo87_bygyDzSxderzznssYPEmr-2cZo3wafJaTbno368"
-    }
-   ]
-  },
-  {
-   "keyword": "김시아",
-   "traffic": "200+",
-   "pubDate": "Wed, 25 Nov 2026 23:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKaGeo3U4TUrNDLcvNfUraawrtBqW6WTGsRX2DZ_WbQEeZDemDN4zJqAGfZXk",
-   "news": [
-    {
-     "title": "[ET포토] 김민, '인상파'",
-     "url": "https://www.etnews.com/20261126000018",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKaGeo3U4TUrNDLcvNfUraawrtBqW6WTGsRX2DZ_WbQEeZDemDN4zJqAGfZXk"
-    },
-    {
-     "title": "[포토] 배우 이우태, 청담동 나들이",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650229.html",
-     "source": "뉴데일리",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZpQN7Om0LyvvIN23lBaTXhJpOaeL6bgKh6Jc5JDGqFhfsASTyz16Hr5mDNek"
-    },
-    {
-     "title": "[사진]김민, 야생마 같은 매력",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GBQTMZJWGQYDONJZGI2GINTCME/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXquznTLDvz1wV-LbeXi1ocfMDXF8kaLNk8UFN_bDcqYLZmsyeI1WOU1PoBNI"
+     "title": "광역교통부터 주거복지·산불재건까지…경북도, 2026년 균형발전 날개",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762557",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQydqB7tKi95oriB9sHEtb42ZdKGNwNULnZU4ihR3Ob6t93Nz9nVd5FHCKhSSI"
     }
    ]
   },
   {
    "keyword": "김희애",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Thu, 26 Nov 2026 00:10:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9-DV1jJTgumv6sRBRe5ZUHDIOG5Rlt_mz5pSb5LNL_HogvRWdgpmPAKionfU",
    "news": [
@@ -258,6 +154,110 @@
      "url": "https://www.koreadaily.com/article/20261124001135923",
      "source": "미주중앙일보",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkQl7wQxDbwcz-ShxKrtwD-tGizY4j60xYqeOweBHx74isVyDkwLUx7ph_HgY"
+    }
+   ]
+  },
+  {
+   "keyword": "근로장려금 신청",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 02:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqr9ljavzE_kWswUZHgabdPB6PRVGQMJWGUDUBhtwQmTtwJScsUp3tjEvtzHo",
+   "news": [
+    {
+     "title": "5월에 놓친 근로·자녀장려금, 12월 1일까지 신청하세요!",
+     "url": "https://story.pay.naver.com/content/4040_24_C2",
+     "source": "네이버페이 머니스토리",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqr9ljavzE_kWswUZHgabdPB6PRVGQMJWGUDUBhtwQmTtwJScsUp3tjEvtzHo"
+    },
+    {
+     "title": "근로·자녀장려금 신청 12월 1일까지... 지급일은?",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195317",
+     "source": "금강일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR0riciwFvDYLGRggqVPGYYPzyX9JVK1XAzJERFzdCOiKJgUXf4BMReFEEFQ"
+    },
+    {
+     "title": "2026 근로장려금 신청자격·지급액·지급일은? 기한후신청 12월 1일까지...자녀장려금까지 총정리",
+     "url": "https://www.christiantoday.co.kr/news/378877",
+     "source": "크리스천투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49Ho2oPzFZBXNGlJdpfu4alwwNKnf7xGXSLAVPZaEVjuR_cxDKi2S4MbrTdA"
+    }
+   ]
+  },
+  {
+   "keyword": "슈퍼문",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 02:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMB666o5Sn6DSWmR3nUrBEpoP8-SzLt8mJQuQgh9ZgxFjHvW2IUHF-TrU8cYs",
+   "news": [
+    {
+     "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251603008783",
+     "source": "YTN 사이언스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMB666o5Sn6DSWmR3nUrBEpoP8-SzLt8mJQuQgh9ZgxFjHvW2IUHF-TrU8cYs"
+    },
+    {
+     "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYty8dLwQHnGgiUp2W9_eTGJHgoJL1KCCn4umNjSVYJfZ1p7zN6KFFCJgpQgU"
+    },
+    {
+     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
+     "source": "국제신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLOPU45YOCeC6lvVrjA8iZ5r9WGVlhs7ks4hSG7ITf2CwhQlemVJzoCGD_u2o"
+    }
+   ]
+  },
+  {
+   "keyword": "이지훈",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 02:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSjoPZMydxfFOmzDO_0s_N_ism8I158AvjPZApOxdnVLjHeLD5h65ACDEcfqE",
+   "news": [
+    {
+     "title": "이지훈·아야네 부부 득녀…두 아이 부모 됐다",
+     "url": "https://www.donga.com/news/Society/article/all/20261126/135094851/2",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSjoPZMydxfFOmzDO_0s_N_ism8I158AvjPZApOxdnVLjHeLD5h65ACDEcfqE"
+    },
+    {
+     "title": "이지훈 아내 아야네, 둘째 득녀...2주 1500만원 산후조리원 입소",
+     "url": "https://biz.heraldcorp.com/article/10949941",
+     "source": "헤럴드경제",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3yWuy1wNBZu0-QIJZJM7W7dEmkfIL_-RUANrpGgDB715CJ7S2kM-_g_tfbMw"
+    },
+    {
+     "title": "이지훈·아야네 부부, 일산차병원서 둘째딸 출산…3.03㎏ 건강해",
+     "url": "https://www.news1.kr/bio/welfare-medical/6367022",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChytJRBDOpMne0WG9Qw2PxMHO1gKhaPT_6OzAmXGRJYXLLtHakH8sNJG5u-w"
+    }
+   ]
+  },
+  {
+   "keyword": "미국 휴장",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 01:20:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-V5GHdVxqQvFaeRdXWNazLGaz8AhHZ3s8kc97rUWyBIhf5FrkzhJeifi_zg",
+   "news": [
+    {
+     "title": "월가도 하루 쉬어간다…뉴욕증시, 추수감사절 맞아 26일 휴장",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=848602",
+     "source": "제민일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-V5GHdVxqQvFaeRdXWNazLGaz8AhHZ3s8kc97rUWyBIhf5FrkzhJeifi_zg"
+    },
+    {
+     "title": "美 금융시장, 26일 추수감사절로 휴장",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446614",
+     "source": "연합인포맥스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREROHxlvmGk4kfO3zPfwLQpc7u_hn-_L-m6Jo5JYPOGFV4uRyFJXrQfe09f9Y"
+    },
+    {
+     "title": "추수감사절 NFL 풋볼",
+     "url": "https://www.voakorea.com/a/thanksgiving-football-112426/8227535.html",
+     "source": "VOA 한국어 홈페이지",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8mwY8blrwfXWR8H89rw7LrU0LYTddzqzQtnqkI9QjP0jZoweBi8PedyALGO4"
     }
    ]
   }
