@@ -1,32 +1,6 @@
 {
- "updated": "2026-11-27 01:04",
+ "updated": "2026-11-27 02:11",
  "items": [
-  {
-   "keyword": "송파구",
-   "traffic": "5000+",
-   "pubDate": "Thu, 26 Nov 2026 05:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHk1Jh3VP1QBCwGdAkIbXXucl3rvUmyrVfCFxEyRPXgr2_DaJxZFUn2qUE0AI",
-   "news": [
-    {
-     "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
-     "url": "https://www.mk.co.kr/news/realestate/12219258",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHk1Jh3VP1QBCwGdAkIbXXucl3rvUmyrVfCFxEyRPXgr2_DaJxZFUn2qUE0AI"
-    },
-    {
-     "title": "한강벨트 9개 구 하락‥금리 인상에 강북도 꺾이나",
-     "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6868926_36989.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3ZgkcbMuM-uyGK_jHfIJidQx6vjFBFU9OnHLHyVJcW-8qrDC-T8ZerjjgeyA"
-    },
-    {
-     "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
-     "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AFYXzRRpqmoh_JI1VaIuO0B80TBiaOWGV3No1Cf89Yx-bmqiHdcGZgqoNSc"
-    }
-   ]
-  },
   {
    "keyword": "반도체 메모리",
    "traffic": "2000+",
@@ -40,30 +14,56 @@
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDgRU_oltqRCDmAS1dkuj6TA9KBXyeKnmvb4D-Dvnj8qAhwJydAqOo58mo0Y"
     },
     {
-     "title": "“장기 구매할게” 머스크에 이재용 “뭘 더 해줄 건데”⋯메모리 쟁탈전",
-     "url": "https://www.viva100.com/article/20261126501737",
-     "source": "브릿지경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRPqesduTKxrk0qOOMcWot9ZiTrAdW0wrX1gzroa523TR5bd5ZpHMCEfiuw_I"
-    },
-    {
      "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
      "source": "연합인포맥스",
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ122-X8LatTBHU1FU0RQYP5U6-Hrpof1AfKYI-C2JeKMeO3ThR6M39NMCEIP0"
+    },
+    {
+     "title": "머스크도 퇴짜 맞은 메모리… 이재용 \"뭘 더 해줄 건데?\"",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/26/3UELRQCP2RGPFJQN2TKPBFHSIU/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrFmBxo_Le69R-hl2_2WhI6QcoNQK4Ub2AaCm9ivGyAnp8mLYjhQ9wzQaGFM"
+    }
+   ]
+  },
+  {
+   "keyword": "김민",
+   "traffic": "1000+",
+   "pubDate": "Thu, 26 Nov 2026 06:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKaGeo3U4TUrNDLcvNfUraawrtBqW6WTGsRX2DZ_WbQEeZDemDN4zJqAGfZXk",
+   "news": [
+    {
+     "title": "[ET포토] 김민, '인상파'",
+     "url": "https://www.etnews.com/20261126000018",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKaGeo3U4TUrNDLcvNfUraawrtBqW6WTGsRX2DZ_WbQEeZDemDN4zJqAGfZXk"
+    },
+    {
+     "title": "[영상] 박하선, 꿀피부",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650158.html",
+     "source": "뉴데일리",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5WX0VTlavrayuuQupqxX_g9ZqWVwCY78tRsi_9yRXa8hTGfd0HnSI35qoL_Q"
+    },
+    {
+     "title": "[사진]김민, 야생마 같은 매력",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GBQTMZJWGQYDONJZGI2GINTCME/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXquznTLDvz1wV-LbeXi1ocfMDXF8kaLNk8UFN_bDcqYLZmsyeI1WOU1PoBNI"
     }
    ]
   },
   {
    "keyword": "회계사",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Thu, 26 Nov 2026 06:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG3yhPuSgQ-3-Na6GUqSci8h5C_pxla2RoGyUOOMceE3MbPoihKXUgdlCUDF0",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSBMtQPS6XUuNpnCMJsdkGSQGkfeykqruVuTWQg8ckfC_MwD08lIYt82GgdpQ",
    "news": [
     {
-     "title": "전국 60개 대학 AI·SW 성과 한자리에",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181",
+     "title": "중고생 담배·음주 줄고 고강도 신체활동↑",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261603312920",
      "source": "YTN 사이언스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG3yhPuSgQ-3-Na6GUqSci8h5C_pxla2RoGyUOOMceE3MbPoihKXUgdlCUDF0"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSBMtQPS6XUuNpnCMJsdkGSQGkfeykqruVuTWQg8ckfC_MwD08lIYt82GgdpQ"
     },
     {
      "title": "회계사 선발 중장기 계획 세운다더니 제외…업계 후폭풍",
@@ -72,16 +72,16 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8s1ooS2bYPaU4fozDs3ExDB5rnx61-R-O6Rwxqc7mUVt_FxnWJV2NkMcXPsY"
     },
     {
-     "title": "청년공인회계사회 “2027년 1,100명 선발, 미지정 현실 외면”",
-     "url": "https://www.lec.co.kr/news/articleView.html?idxno=753080",
-     "source": "법률저널",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRb5pD19XVehPNlQT79scx1yYPCLCCgSr6eC0nStXY13xm6ufkbr2tNMMaSiw"
+     "title": "AI쇼크 현실로…“신입 회계사 채용 수요 매년 최대 8.5% 감소”",
+     "url": "https://stock.mk.co.kr/news/view/1205633",
+     "source": "매일경제 마켓",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNA1juyVfBehNhUjBTGMhYR_ISIag6BoidWZH4w6AF5ztFAIvyJ3kEDIPQjp8"
     }
    ]
   },
   {
    "keyword": "강소휘",
-   "traffic": "500+",
+   "traffic": "1000+",
    "pubDate": "Thu, 26 Nov 2026 06:00:00 -0800",
    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuWLxKfjd3fkKoxmo5igzG3D3oz6wR90TjJVCXcN2Tm1FGV_oZgxXVtvIOQm8",
    "news": [
@@ -92,42 +92,16 @@
      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuWLxKfjd3fkKoxmo5igzG3D3oz6wR90TjJVCXcN2Tm1FGV_oZgxXVtvIOQm8"
     },
     {
-     "title": "마나베 IBK 감독 \"적이 우리 코트에 있다…자멸한 경기\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125179400007",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPEe3XBAxAt81K6NsZlNqCwyLhwH6_4hcLm3hsv8P1o3T91tUmWbFAzDtFAo"
-    },
-    {
      "title": "'모마·마미, 13점씩' 도로공사, 6연승 질주",
      "url": "https://www.ytn.co.kr/_ln/0107_202611252322000702",
      "source": "YTN",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_-pB_nnPRt-dVYggV9WWySyTSdviIaGyU3JWenn64WTuYn4Lof-WQ9ogSbyo"
-    }
-   ]
-  },
-  {
-   "keyword": "올림픽선수기자촌",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 04:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrzA1oUKBw2K3l16x-0xy3ciHFX2eKVJtHvnhfobAIDX_ht75e5kmlgZUnaIc",
-   "news": [
-    {
-     "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
-     "url": "https://m.ekn.kr/view.php?key=20261126024275133",
-     "source": "에너지경제신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrzA1oUKBw2K3l16x-0xy3ciHFX2eKVJtHvnhfobAIDX_ht75e5kmlgZUnaIc"
     },
     {
-     "title": "\"상가 쏙 빼고 짓자\" 올림픽선수촌 재건축에 송파구 제동, 내년 결판난다",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/19/2026111902059.html",
-     "source": "땅집고",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRSy2Pn5pTzW_hnuUyHFpArGAexjylquYnlswU52UOeliOHJ-qywoqaP93Y_A"
-    },
-    {
-     "title": "올림픽선수기자촌 재건축 ‘현수막 맞불’…송파구 “상가 참여 의사 확인 후 절차 검토”",
-     "url": "https://m.ekn.kr/view.php?key=20261126029274906",
-     "source": "에너지경제신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5-SCXn2dkVNcrUXF7JusLt6aXODh9hjeNMG3ukdGxBWnnzUNyMB1ckhyR8A8"
+     "title": "'女배구' 초보 감독 돌풍 무섭다! 우승후보 연속 격파 실화? 파죽의 승승승승승승→단독 1위 도약하다",
+     "url": "https://www.chosun.com/sports/volleyball/2026/11/26/MM2TGNRYMRQWMZLDGNRGCYJZHE/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvZ2MyfYb-wCLkyH5n7Vy_59tyr-fh3IdXzqjpwCs5zK1xyzOoWatzcer0kjs"
     }
    ]
   },
@@ -158,60 +132,8 @@
    ]
   },
   {
-   "keyword": "u17 việt nam",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 05:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxexVEaSGbV8FK0O4XcCTHrkSmHkR4AkiXX57h6H7Gdx5M2oaR7pOajLONjU",
-   "news": [
-    {
-     "title": "Việt Nam thua Mali, bị loại khỏi U17 World Cup",
-     "url": "https://vnexpress.net/ket-qua-u17-world-cup-viet-nam-mali-5149345.html",
-     "source": "VnExpress",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxexVEaSGbV8FK0O4XcCTHrkSmHkR4AkiXX57h6H7Gdx5M2oaR7pOajLONjU"
-    },
-    {
-     "title": "HLV Mali gọi U17 Việt Nam là \"đội bóng mạnh\", yêu cầu đội nhà cảnh giác",
-     "url": "https://www.24h.com.vn/bong-da/hlv-mali-goi-u17-viet-nam-la-doi-bong-manh-yeu-cau-doi-nha-canh-giac-c48a1814068.html",
-     "source": "Tin tức 24h",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRujptOX46IWAJhguMTnKncvHURzBQPUAqFaMDjV96wKW491O49aHJZgymUNk"
-    },
-    {
-     "title": "Nguyễn Lực góp dấu giày vào 60% số bàn thắng của U.17 Việt Nam, tiếp tục bùng nổ trước Mali?",
-     "url": "https://thanhnien.vn/nguyen-luc-gop-dau-giay-vao-60-so-ban-thang-cua-u17-viet-nam-tiep-tuc-bung-no-truoc-mali-185261126100910406.htm",
-     "source": "Báo Thanh Niên",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaMN_HGEqanzGCHJFwFuRkIMzR1CEdXyz3VfuKbiJ4pRA4rpHVRdWHv1uENb4"
-    }
-   ]
-  },
-  {
-   "keyword": "수디르만컵",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 05:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4U_TWRPl3yNl8wbth7k8UAOG__hEI-Ima4jE9z4nS6OWrf7wM-VOYdi-typw",
-   "news": [
-    {
-     "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4U_TWRPl3yNl8wbth7k8UAOG__hEI-Ima4jE9z4nS6OWrf7wM-VOYdi-typw"
-    },
-    {
-     "title": "'안세영 독주 견제하려는 것 아닌가' 15점제가 끝이 아니었다…BWF 대격변 공식발표! 세계선수권+국가대항전 싹 바뀐다→\"근거 없는 억측\"",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021959",
-     "source": "SPOTV NEWS",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRVsWMU1uv8id_kMrchS7bHA13xwQLV40w0KA_qP_Fsh-kaW75hG_-CZiV9Zg"
-    },
-    {
-     "title": "[속보]'일장춘몽'해프닝으로 끝난 수디르만컵 한국 유치…BWF 공식발표에도, 전주시 \"체육관 건립 지연 등으로 개최 포기\"",
-     "url": "https://www.sportschosun.com/sports-news/2026-11-26/202611260100166490015388",
-     "source": "스포츠조선",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhRob3KPuaJcWPPbGMJPythY_99y_FtvS1Ms5hx0S8n0ZdO340pfkl8N7TsB4"
-    }
-   ]
-  },
-  {
    "keyword": "크리스 리벤",
-   "traffic": "100+",
+   "traffic": "200+",
    "pubDate": "Thu, 26 Nov 2026 06:10:00 -0800",
    "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr8OpZ4hgVym_VDj55GtahXSWQw-HxKOvPIC8edm2Ui1V8wu9Auz3bmbfM_gY",
    "news": [
@@ -236,28 +158,106 @@
    ]
   },
   {
-   "keyword": "삼성반도체",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 05:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4k_PXOF_8fVKryfsZADGNdKBJa0uxNkFMM7h5zqfhn37uQlXvXJQXiAJDti8",
+   "keyword": "송파구",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 05:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHIGJiHbWamv19aJjKfXVZ4HYxZiUbjMgcWRBSnPs5GhvoNxmf3RnnSElXBqE",
    "news": [
     {
-     "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-     "url": "https://www.etnews.com/20261126000296",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4k_PXOF_8fVKryfsZADGNdKBJa0uxNkFMM7h5zqfhn37uQlXvXJQXiAJDti8"
+     "title": "송파청년센터 28일 개관…청년 맞춤형 프로그램 운영",
+     "url": "https://www.yna.co.kr/view/AKR20261126013000004",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHIGJiHbWamv19aJjKfXVZ4HYxZiUbjMgcWRBSnPs5GhvoNxmf3RnnSElXBqE"
     },
     {
-     "title": "삼성·SK 신규 팹에 로봇 길 만든다…반도체 AMR 시장 개화",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=355648",
-     "source": "녹색경제신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCQf-0EHeHcBPdHZnl5POyTkamv-Cgp0P2nzMOsDesBzhpFfXa8bUf7zxt85A"
+     "title": "[클릭! 자치뉴스] 서울 송파구, 'AI 교육·창업 지원' 청년센터 개관",
+     "url": "https://www.hankookilbo.com/news/article/A2026112609590000892",
+     "source": "한국일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTetTSNeSSiNZ1td4swT6PrvANb8Ofzs3HU-YJzpQz2_nYHQttsxaUwr6ze5nM"
     },
     {
-     "title": "[초점]“삼성이 만들어 달라” 안 통하는 피지컬 AI…관 주도 로봇 칩의 착각 By 알파경제 alphabiz",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2188092",
-     "source": "Investing.com 한국어",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_3cMwmjKI3LSYPdYqewVZpi3q-3ZDZSX9BE_WxtM9Xz6BHE5HPSChG1hyw0Q"
+     "title": "'송파 청년센터' 28일 개관…취업·창업 활동 맞춤 지원",
+     "url": "https://www.newsis.com/view/NISX20261126_0003884379",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMbbAvx2TaRVH9lDbNIv6UYdMy5zOZeb6Hbg3IatqWke7NCbuJgFeq1-AApl0"
+    }
+   ]
+  },
+  {
+   "keyword": "u17 việt nam",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 05:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQkS-4GH7WcZSle-eALq4wBs8Oh9y43nRrtxr3y0tDTQjwzK_102KpP0UwzI",
+   "news": [
+    {
+     "title": "Kết quả bóng đá U17 Việt Nam vs U17 Mali: Cái kết nghiệt ngã",
+     "url": "https://thethao247.vn/190556-ket-qua-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html",
+     "source": "Thể Thao 247",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQkS-4GH7WcZSle-eALq4wBs8Oh9y43nRrtxr3y0tDTQjwzK_102KpP0UwzI"
+    },
+    {
+     "title": "HLV Mali gọi U17 Việt Nam là \"đội bóng mạnh\", yêu cầu đội nhà cảnh giác",
+     "url": "https://www.24h.com.vn/bong-da/hlv-mali-goi-u17-viet-nam-la-doi-bong-manh-yeu-cau-doi-nha-canh-giac-c48a1814068.html",
+     "source": "Tin tức 24h",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRujptOX46IWAJhguMTnKncvHURzBQPUAqFaMDjV96wKW491O49aHJZgymUNk"
+    },
+    {
+     "title": "הזדמנויות מהכרטיס לגביע העולם לנוער",
+     "url": "https://www.vietnam.vn/he/co-hoi-tu-tam-ve-world-cup-tre",
+     "source": "Vietnam.vn",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpeJFPuJFbGhVQSLMe4FpVcF_5QxOoQFOQOkXbAbFpc5fa0HDhxuSp6o8Iw9E"
+    }
+   ]
+  },
+  {
+   "keyword": "정연",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 07:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDzUBFjMoVdl6oi5FX9iIcrtwGSgy4M_nxHUyyEaK03Zkl1Myzltg0HoviNYY",
+   "news": [
+    {
+     "title": "이서진, 11살 어린 한지민에 \"갱년기 중년 女\"…막말 비하 논란 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112618425270556",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDzUBFjMoVdl6oi5FX9iIcrtwGSgy4M_nxHUyyEaK03Zkl1Myzltg0HoviNYY"
+    },
+    {
+     "title": "‘80세’ 김용건, 허리 수술 받았는데 “하루에 만보 걸어..병원 부지런히 다닌다” (‘그사친’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MUZDCMDEMVQWGYZTG5STGZJQGQ/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZkqvNuPGBw-VZTfMiLgmwlY3806Dhyu9VBk-m95P-LAQQsJQRmYy-XM853E"
+    },
+    {
+     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SW60EFf6U4VH7xQqAAhvVaRGizsJUTVcbGW__sN3GOlqBZXLugtHMJUFgP4"
+    }
+   ]
+  },
+  {
+   "keyword": "정은경",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 05:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3Yh2TFc7eUO0rTBDTz6b0uzqqAmGSntJky6Fgm8rjpXaFrkBfhXUs4SJo2g",
+   "news": [
+    {
+     "title": "[동정] 복지장관, 동대문구-우체국 협업 '찾아가는 그냥드림' 점검",
+     "url": "https://www.yna.co.kr/view/AKR20261126150500530",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3Yh2TFc7eUO0rTBDTz6b0uzqqAmGSntJky6Fgm8rjpXaFrkBfhXUs4SJo2g"
+    },
+    {
+     "title": "생계 막막할 때 받는 ‘그냥드림’ 아시나요",
+     "url": "https://bravo.etoday.co.kr/view/atc_view/20566",
+     "source": "이투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzuPKBiHqDwpa4uQVbkX-YyK8MqZAtWErvqBGKWybTG5MTZeJoYYAzkbZeNhs"
+    },
+    {
+     "title": "정은경 장관, 그냥드림과 우체국 협업한 찾아가는 서비스 운영 점검",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=459183",
+     "source": "서울Pn",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA"
     }
    ]
   }
