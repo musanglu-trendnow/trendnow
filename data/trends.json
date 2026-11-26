@@ -1,29 +1,55 @@
 {
- "updated": "2026-11-27 03:58",
+ "updated": "2026-11-27 05:05",
  "items": [
   {
-   "keyword": "김민",
+   "keyword": "우크라이나",
    "traffic": "1000+",
-   "pubDate": "Thu, 26 Nov 2026 06:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKaGeo3U4TUrNDLcvNfUraawrtBqW6WTGsRX2DZ_WbQEeZDemDN4zJqAGfZXk",
+   "pubDate": "Thu, 26 Nov 2026 09:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCjB5dlVh6k9iVpbygWGCDcCM0hZqSt9ofcbbdjSdWqeZLKfhL3c4UpfKGCyQ",
    "news": [
     {
-     "title": "[ET포토] 김민, '인상파'",
-     "url": "https://www.etnews.com/20261126000018",
-     "source": "전자신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKaGeo3U4TUrNDLcvNfUraawrtBqW6WTGsRX2DZ_WbQEeZDemDN4zJqAGfZXk"
+     "title": "르펜에 발목 잡힐라…EU, 우크라 지원안·7년 예산 놓고 격론(종합2보)",
+     "url": "https://www.yna.co.kr/view/AKR20261126193352098",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCjB5dlVh6k9iVpbygWGCDcCM0hZqSt9ofcbbdjSdWqeZLKfhL3c4UpfKGCyQ"
     },
     {
-     "title": "[영상] 박하선, 꿀피부",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650158.html",
-     "source": "뉴데일리",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5WX0VTlavrayuuQupqxX_g9ZqWVwCY78tRsi_9yRXa8hTGfd0HnSI35qoL_Q"
+     "title": "\"프랑스 극우 집권 전에 꼭\"…EU, 연말까지 예산안 합의 분투",
+     "url": "https://www.news1.kr/world/europe/6367729",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfKjmN0tCr3wRevipxatihdL5OYDRnQJGM_puM45-jHFEwifgfpomkaIjpw3o"
     },
     {
-     "title": "[사진]김민, 야생마 같은 매력",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/26/GBQTMZJWGQYDONJZGI2GINTCME/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXquznTLDvz1wV-LbeXi1ocfMDXF8kaLNk8UFN_bDcqYLZmsyeI1WOU1PoBNI"
+     "title": "젤렌스키 \"내년엔 1150억 유로 재정 지원 필요\"…장기전 속 재정난 심화",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883111",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ6_6aVp-5P_EykqhFO1-WFndsbhnxA3y2lxlCQpCl664mWx5Sd1CeyHN-UZY"
+    }
+   ]
+  },
+  {
+   "keyword": "주거",
+   "traffic": "500+",
+   "pubDate": "Thu, 26 Nov 2026 09:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPFzx3TB7MWxWJdY5JV88-SGnKCnA8exb1OboS5v9Ch_raHqsp1tyL088OuPY",
+   "news": [
+    {
+     "title": "[경기 주택정책 브리프 ①] 수도권 주택공급, 왜 경기도에 쏠리나",
+     "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611261604503694C109&s_code=C109",
+     "source": "경기도뉴스포털",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPFzx3TB7MWxWJdY5JV88-SGnKCnA8exb1OboS5v9Ch_raHqsp1tyL088OuPY"
+    },
+    {
+     "title": "수도권 신규택지 99% 경기 집중…“직주근접·기반시설 없는 공급은 한계”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337915",
+     "source": "인천일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWWmhaq6CK3PhLC0ZQ9yjsKzl0Lw2q3Ob21E-3Mgy-XCwlODDVu6qBhEmLvTU"
+    },
+    {
+     "title": "\"수도권 신규택지 99% 경기도 집중…일자리·교통 연계 공급 필요\"",
+     "url": "https://www.news1.kr/local/gyeonggi/6367512",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXdXJOqWjI99tEeMeedHAZdczKQ4oHRZWdIp9MsYHo9WOMTq5VcTW4nGUjRs"
     }
    ]
   },
@@ -31,233 +57,201 @@
    "keyword": "브라이턴 대 cs u 크라이오바",
    "traffic": "500+",
    "pubDate": "Thu, 26 Nov 2026 09:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41CaDRV6nnoIsmUQy1Cj_cK1IdXGUv6f62NDbBdcbEbtBvQZs23Q5qpmimvk",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZxALj_j85eVgOH6KORmTpiM5KOxneUT4cQ9vL3sxaqC0tqBv0Tk2DIbQ_xAg",
    "news": [
     {
-     "title": "Brighton & Hove Albion vs Universitatea Craiova: UEFA Conference League stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c6y80ej72k2gt",
+     "title": "Brighton news: Jack Hinshelwood on using the Conference League to 'push on' this season",
+     "url": "https://www.bbc.com/sport/football/articles/cr15el38q3deo",
      "source": "BBC",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41CaDRV6nnoIsmUQy1Cj_cK1IdXGUv6f62NDbBdcbEbtBvQZs23Q5qpmimvk"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZxALj_j85eVgOH6KORmTpiM5KOxneUT4cQ9vL3sxaqC0tqBv0Tk2DIbQ_xAg"
     },
     {
-     "title": "'We have a great opportunity to really push on' - Hinshelwood",
-     "url": "https://www.aol.com/articles/great-opportunity-really-push-hinshelwood-115813000.html",
-     "source": "AOL.com",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2m_AKIx3K-JT7dmIvmkrinpd7hzbz6G80zZ24xeppogvVnJ-oL7rfv_gZkdo"
+     "title": "Licensable picture: UEFA Conference League - Brighton & Hove Albion v Universitatea Craiova",
+     "url": "https://www.reutersconnect.com/item/uefa-conference-league-brighton-hove-albion-v-universitatea-craiova/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlExSEhOQkc",
+     "source": "Reuters Connect",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0HqMP0ytjz8GYQjYjfEBBAaOmA9OK7CmU07-zd6im-KbGIl9CJ5TY2P28ByM"
     },
     {
-     "title": "Brighton vs Universitatea Craiova 8/1 Bet Builder boost: Bet £5 and get £40 in free bets",
-     "url": "https://talksport.com/betting/4730783/brighton-universitatea-craiova-bet-builder-odds-boost-conference-league/",
-     "source": "talkSPORT",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSkInCcJk2yRsZBNLRyth0MRscjTx381trDc8OHkw2xiIbnB33p4zwlXDf5XY"
+     "title": "Brighton v Universitatea Craiova Prediction: 11/10 Hadjam to help Seagulls succeed",
+     "url": "https://news.bet365.com/en-gb/article/football-brighton-universitatea-craiova-prediction-and-tips/2026112508292935980",
+     "source": "news.bet365.com",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLh9IiwEOTK8jqKnJNCpxErR-tFPdC64fog56_gGeC1q3e-VRPCugTGenEr98"
     }
    ]
   },
   {
-   "keyword": "베식타시 대 하포엘 베르셰바",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 09:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy20mstDFjROwfMqE6qAtfuITLtKOTqF9e7zAHYYgmuE8LjHph02BHH67AgKo",
-   "news": [
-    {
-     "title": "Spectacular Felix strike earns Al-Nassr Asian Champions League win",
-     "url": "https://www.reuters.com/sports/soccer/spectacular-felix-strike-earns-al-nassr-asian-champions-league-win-2026-11-24/",
-     "source": "Reuters",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy20mstDFjROwfMqE6qAtfuITLtKOTqF9e7zAHYYgmuE8LjHph02BHH67AgKo"
-    },
-    {
-     "title": "MD5: Al Nassr Club (KSA) 2-1 Al Sadd SC (QAT)",
-     "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-al-nassr-club-ksa-2-1-al-sadd-sc-qat",
-     "source": "The AFC",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX7kFqBAO0MsO0AlQ0xhjtgBArwk87rKK_TQpdaQfTu6QXEy3Zw_Z9xo1p5xI"
-    },
-    {
-     "title": "Ronaldo closes in on 1,000 as João Félix scores stunning Puskás contender",
-     "url": "https://en.as.com/soccer/ronaldo-closes-in-on-1000-as-joao-felix-scores-stunning-puskas-contender-f202611-n/",
-     "source": "Diario AS",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr5shOKGdJQgwHQZUMLUB93rOKivpxw9_BOib74gKWIs5x_niix1UflozXoA"
-    }
-   ]
-  },
-  {
-   "keyword": "스파이",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 06:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvkO9NxP4YULodJ5sSKTkT2Ag_ef9nPag4Cgo_RjE6e6dzHO0caV2RZPkXphE",
-   "news": [
-    {
-     "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-     "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-     "source": "The New York Times",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvkO9NxP4YULodJ5sSKTkT2Ag_ef9nPag4Cgo_RjE6e6dzHO0caV2RZPkXphE"
-    },
-    {
-     "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
-     "url": "https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7",
-     "source": "WSJ",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvLaHXufxbHjLD_7ylzXZ8Yy0gUP1O0I6cshMGUYiP5ey0blBMhteHfF_gdKI"
-    },
-    {
-     "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-     "url": "https://www.reuters.com/business/finance/alice-huang-linked-firms-listed-270-million-ai-servers-china-records-show-2026-11-25/",
-     "source": "Reuters",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_6XPRFxg8_y_C8JyL8BZ482wmqfcUFhqdDuvgQ2-oWJque29V2b836tyly1I"
-    }
-   ]
-  },
-  {
-   "keyword": "주거",
+   "keyword": "올림피아코스 대 밀란",
    "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 09:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrEnVVlhn8qWw-wDnoD3KcBM3PB2-_pliffDb7s7tv7kG59QKNGXb4wIwDAO0",
+   "pubDate": "Thu, 26 Nov 2026 10:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHPfySjHkkxF-mdsc3R8xpofWkSY0IN3GMo_6VorQUWJaLVYjAeRInnQ44p0M",
    "news": [
     {
-     "title": "\"대출규제, 저소득층 주택 구매 제한…포용적 제도개혁 필요\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261125127751003",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrEnVVlhn8qWw-wDnoD3KcBM3PB2-_pliffDb7s7tv7kG59QKNGXb4wIwDAO0"
-    },
-    {
-     "title": "국토부, 가계부채 관리·AI 주거복지 해법 찾는다",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01282486645649656",
-     "source": "마켓인",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1X0eIPNOP5CpG-Z2mWkFlONP4cS9NsKe7PQ1AGH8SnVa7e6-C3wpkAcYhDA"
-    },
-    {
-     "title": "김영국 국토부 주택토지실장 “시중 자금, 신규 주택 건설로 유도해야”…PF·주택금융 혁신 강조",
-     "url": "https://www.ekn.kr/web/view.php?key=20261126028025127",
-     "source": "에너지경제신문",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpSXM4V0_wn_fcrKb19dzChHnfv5Pvcwut7brJfTaJLk_ik3k7kJfv_UqTl3Y"
-    }
-   ]
-  },
-  {
-   "keyword": "우크라이나",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 09:20:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHWplSdcUZrdSHCuoGf_8e_G4Drab-j4CWI_yVGZSsvVthMhcuC5wrc_Y3LZ0",
-   "news": [
-    {
-     "title": "우크라 전쟁 책임론에 독일 16년 이끈 ‘무티 리더십’ 신화도 흔들 [이 사람@World]",
-     "url": "https://www.segye.com/newsView/20261124511239",
-     "source": "세계일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHWplSdcUZrdSHCuoGf_8e_G4Drab-j4CWI_yVGZSsvVthMhcuC5wrc_Y3LZ0"
-    },
-    {
-     "title": "\"美, 전후 우크라 내 미군 주둔 배제\"…'나토식 안전보장안' 난항",
-     "url": "https://www.news1.kr/world/asia-australia/6366256",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBL_GHAGLxT3qjSXrW3pV2w0jFrjESC8Ed6TKMVKbtnCp9VEWEuN5GURot3pA"
-    },
-    {
-     "title": "美국방차관, 우크라 '러 본토 공격' 비판…나토 수장은 옹호",
-     "url": "https://www.fnnews.com/news/202611180217228579",
-     "source": "파이낸셜뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhILo_6WfcmhkaIThzBBGKtmz7YNQHsgZD5nw_SeinR6UQlIqhw-6a1TFFYRo"
-    }
-   ]
-  },
-  {
-   "keyword": "아마존",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 08:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFEJ9AR2bbcZO6JTQYylUuf4qfMtxQgmBUmwnNomOFIqoVhYDFlxPsFymKFE",
-   "news": [
-    {
-     "title": "I found the 84 best Amazon Black Friday deals on AirPods, Bissell vacuums and more",
-     "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-26",
-     "source": "CNN",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFEJ9AR2bbcZO6JTQYylUuf4qfMtxQgmBUmwnNomOFIqoVhYDFlxPsFymKFE"
-    },
-    {
-     "title": "Amazon’s 85 Best Black Friday Deals to Shop on Thanksgiving Start at 27 Cents Apiece — Up to 75% Off",
-     "url": "https://www.foodandwine.com/best-amazon-thanksgiving-black-friday-deals-2026-12217727",
-     "source": "Food & Wine",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE4NatlWrWfWgWBnH2zKrwC_pfrjWbG0wntCVRSiaJAizFvAAN7zXWIa4n9S0"
-    },
-    {
-     "title": "Amazon Black Friday deals: Live updates on the biggest sales from Apple, Yeti, Ninja, Ring, KitchenAid and more during Cyber Week 2026",
-     "url": "https://shopping.yahoo.com/deals/breaking-news/live/amazon-black-friday-deals-live-updates-on-the-biggest-sales-from-apple-yeti-ninja-ring-kitchenaid-and-more-during-cyber-week-2026-153217857.html",
-     "source": "Yahoo",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORpvwj1j-4EgaJJaveH09QkO-6tuLeU305kw-YPa9u7gnqcVFIn_jw6TDH6Y"
-    }
-   ]
-  },
-  {
-   "keyword": "유로파리그",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 09:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4-30y-MEe1oNA0oTnm4w6Mf4l1bUiD3hd3K8XeLAsAzbPBfB9q5vJ0b1wbTg",
-   "news": [
-    {
-     "title": "유로파 리그 크리스탈 팰리스 대 레알 소시에다드 경기 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-real-sociedad-tai-europa-league-1807071.ldo",
+     "title": "유로파 리그 올림피아코스 대 AC 밀란 경기 전망",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-olympiacos-vs-ac-milan-tai-europa-league-1806690.ldo",
      "source": "Laodong.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4-30y-MEe1oNA0oTnm4w6Mf4l1bUiD3hd3K8XeLAsAzbPBfB9q5vJ0b1wbTg"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHPfySjHkkxF-mdsc3R8xpofWkSY0IN3GMo_6VorQUWJaLVYjAeRInnQ44p0M"
     },
     {
-     "title": "크리스탈 팰리스 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEWnWF-EszPbSt3GPoE0081N3O-PO6ZeqSjShvaauirE8c8nyI_NG6ynU-MV4"
-    },
-    {
-     "title": "경기 프리뷰: 크리스탈 팰리스 vs 레알 소시에다드, 11월 27일 새벽 3시: 승리는 어디에서 나올까?",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-real-sociedad-3h00-ngay-27-11-chien-thang-noi-dau",
-     "source": "Vietnam.vn",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR71Se48A3bNcnjEqoHPMTXYIeiKF1QEJxLg2-cP3zZk7LyHVUdMy0JvJnPXGw"
+     "title": "인자기 아테네 원정 앞둔 밀란에 용기 주문 : 해외축구",
+     "url": "https://news.jkn.co.kr/post/1125827",
+     "source": "재경일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Mm5eNlIGkosCg_nzQ58yK0SaJ58v7aKUY7Pm4KAdYVaoC8zP-I-uJ5TrbBw"
     }
    ]
   },
   {
-   "keyword": "정연",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 07:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SW60EFf6U4VH7xQqAAhvVaRGizsJUTVcbGW__sN3GOlqBZXLugtHMJUFgP4",
+   "keyword": "파포스 대 미트윌란",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 10:40:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPc1oqtBBuHjkoVjCuTi_yATL9TU-1TEDklYScHUQU0fDdYKda7dKssEo5Qs",
    "news": [
     {
-     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SW60EFf6U4VH7xQqAAhvVaRGizsJUTVcbGW__sN3GOlqBZXLugtHMJUFgP4"
+     "title": "PREVIEW | Pafos FC vs Midtjylland: team news, lineups, predictions (Europa Conference League 26/11)",
+     "url": "https://onefootball.com/en/news/preview-pafos-fc-vs-midtjylland-team-news-lineups-predictions-europa-conference-league-2611-43832827",
+     "source": "OneFootball",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPc1oqtBBuHjkoVjCuTi_yATL9TU-1TEDklYScHUQU0fDdYKda7dKssEo5Qs"
     },
     {
-     "title": "이서진, 11살 어린 한지민에 \"갱년기 중년 女\"…막말 비하 논란 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112618425270556",
+     "title": "Pafos vs Midtjylland Preview & Prediction | 2026-27 UEFA Conference League | League Phase",
+     "url": "https://www.thestatszone.com/pafos-vs-midtjylland-preview-prediction-2026-27-uefa-conference-league-league-phase-241217",
+     "source": "The Stats Zone",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKv6X2sQClxbUjSRvfFUF0QjT9HoPs74b9Y0v5f_11nz813sAsZS4ANA4LYt4"
+    },
+    {
+     "title": "Where to Watch Pafos FC vs FC Midtjylland: TV Channel, Live Stream and Kick-off Time",
+     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-pafos-fc-v-fc-midtjylland/blt01aa331e2f2e77b9",
+     "source": "Goal.com",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzieuafJKjo7uG5cR3zkGtdbMxcnhZDWR4nQaUr2vt5RMCsGE_BBePpEadfc"
+    }
+   ]
+  },
+  {
+   "keyword": "렛츠런파크 부산경남",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 10:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnIN8Lf2P2Do2ltb3HGRVEZx_kmHifb8R7_3pObgr1f7GEo4Vsp_2cZ2GHqDQ",
+   "news": [
+    {
+     "title": "“최강 암말·단거리마 가린다”…27일 부산경남서 빅매치",
+     "url": "https://sports.donga.com/sports/article/all/20261126/135095034/1",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnIN8Lf2P2Do2ltb3HGRVEZx_kmHifb8R7_3pObgr1f7GEo4Vsp_2cZ2GHqDQ"
+    },
+    {
+     "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882828",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEbLDf67YX6AXWxyAAh4KaT9U3UXvOf78ooOk9USVbld0IpeQxw5tS4dKHjk"
+    },
+    {
+     "title": "렛츠런파크 부산경남 최강 퀸·스프린트 가린다 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/25/2026112515074884846",
      "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDzUBFjMoVdl6oi5FX9iIcrtwGSgy4M_nxHUyyEaK03Zkl1Myzltg0HoviNYY"
-    },
-    {
-     "title": "몬스타엑스 주헌 \"트와이스 정연과 데뷔 동기, 강단있게 하는 모습 멋있었다\"",
-     "url": "https://biz.chosun.com/entertainment/tv/2026/11/26/GY2TONDEMNTGMMLEGQZGEOLDME/",
-     "source": "Chosunbiz",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34jhORpD7QW_OT3oWehaJ-row-cqKY7xxix-66Q22Sbw9Aj6YqnABP7GJ5Po"
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb2PYww_8cJU53nUwEdk0Mkb_vvL-tMO3N6myV_tBgykzkVTXEyjda3cdulo4"
     }
    ]
   },
   {
-   "keyword": "노동쟁의",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 06:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelzQ7wGioPC0ufHmWyp-zClra-VS3s1FOGZzIttL9M6-CJa4X7m2EjIAA9zM",
+   "keyword": "연합뉴스",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 10:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBEmQWagmtgvN1V1r9bDCqOXsaNdEovOER4KECb5W3G03PYtmB4kvxWschHDI",
    "news": [
     {
-     "title": "헌재 “다른 노조 파업 지원했다고 처벌한 옛 노동법은 위헌”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723445",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelzQ7wGioPC0ufHmWyp-zClra-VS3s1FOGZzIttL9M6-CJa4X7m2EjIAA9zM"
+     "title": "미 불법체류자 100만달러 복권 당첨됐는데 체포…추방위기",
+     "url": "https://www.yna.co.kr/view/AKR20261126191800009",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBEmQWagmtgvN1V1r9bDCqOXsaNdEovOER4KECb5W3G03PYtmB4kvxWschHDI"
     },
     {
-     "title": "신군부가 범죄로 규정한 노동자들의 ‘연대’…헌재, 36년 만에 위헌 결정",
-     "url": "https://www.khan.co.kr/article/202611261644001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzy27FS8HRme02lbH5_VzaaIhCjEIWFihp_9SZFa_vvMN8OijXLebHiOIHw2Q"
+     "title": "\"인생 역전인 줄 알았는데\"…13억 복권 당첨자의 기막힌 사연",
+     "url": "https://www.hankyung.com/article/2026112634407",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-dxxM9EP9wkZvoCHIVc1VZ8eIAe8YPVT4fpLyLm4FZ2CpxWBwaVUPf0tMFZc"
     },
     {
-     "title": "헌재 ‘노동쟁의 제3자 개입 금지’ 위헌 결정…36년만에 판단 뒤집어",
-     "url": "https://www.donga.com/news/Politics/article/all/20261126/135096108/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg26kDeZnU4RKUVedzMNBQOgfLVjyqBV-9ZqNq1IXTFfvVGk8gxOckEemRPxE"
+     "title": "'100만 달러' 복권 당첨됐는데... 엿새 만에 ICE에 체포",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288593",
+     "source": "OhmyNews",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBsoWzPJkb5ntFafX5i0CFuvSIaTk1EOXYUaL-RSwCbjHnTc4In_vtRJNU6C8"
+    }
+   ]
+  },
+  {
+   "keyword": "kb국민은행",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 10:20:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-XHLkyGyU5SfmPer0VdnSCapkDCtLamfQH-MBn8bMWs6IhoNE9eoydHSKoE8",
+   "news": [
+    {
+     "title": "소프트제국, 2026 BCGW서 유공 표창 수상…디지털배지·AI 평가 솔루션 선봬",
+     "url": "https://www.etnews.com/20261126000264",
+     "source": "전자신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-XHLkyGyU5SfmPer0VdnSCapkDCtLamfQH-MBn8bMWs6IhoNE9eoydHSKoE8"
+    },
+    {
+     "title": "디지털 지갑 속 예금토큰으로 결제…국민銀, 체험 시연 - 머니투데이",
+     "url": "https://www.mt.co.kr/finance/2026/11/26/2026112616194992064",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpq5mBUUrUCGj5C-YE0FBMRolLFGvDyRVqU86j-Ko_F7bybDy_6Y_8k14o4AA"
+    },
+    {
+     "title": "iM뱅크, QR 결제로 선보이는 예금토큰 기반 금융 서비스",
+     "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/26/2026112650453.html",
+     "source": "뉴데일리 대구경북",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMKuY2lJMN7sYvN5DdYKN0pxJNMYXmf11k2124xaumr99-DX8ivGr4nd7Y3E"
+    }
+   ]
+  },
+  {
+   "keyword": "가스 터빈",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 10:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI",
+   "news": [
+    {
+     "title": "(설명) 정부는 미래 전력수급에 대해 국민들의 다양한 의견을 충분히 듣기 위해 공론화를 추진 중입니다.",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976478",
+     "source": "대한민국 정책브리핑",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI"
+    },
+    {
+     "title": "[사설] 원전 공론화 시작부터 파행, 이럴 줄 알고 공론에 부친 건가",
+     "url": "https://www.chosun.com/opinion/editorial/2026/11/26/3TGV34XNIRF7XKDX6UM7YZG26A/",
+     "source": "조선일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2905ZqWPkzZbwljkQhKdy4SVUReRUFhzn1RbsH9kwT9dqUsy9JB7vPMeI4zo"
+    },
+    {
+     "title": "두산에너빌리티, 가스터빈 성장궤도 진입…美 법인 재편",
+     "url": "https://v.daum.net/v/x7u9dPNdW4",
+     "source": "Daum",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1xQfHA455xel2HCe6sqGIdIgDbSjkgPFLCfFHwaernjxMdXQT0LMsUpDacG4"
+    }
+   ]
+  },
+  {
+   "keyword": "경기도",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 10:30:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGrp916ndxqEtCgjg2I8luz1UKCpIyA8Emoc-pN6w9mR5t3Kyxl6bnzXjzk0c",
+   "news": [
+    {
+     "title": "이채명 경기도의회 도교육청 예산결산특별위원장 “내년도 본예산안 심사, 숫자 보다 실효 최우선 원칙”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337862",
+     "source": "인천일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGrp916ndxqEtCgjg2I8luz1UKCpIyA8Emoc-pN6w9mR5t3Kyxl6bnzXjzk0c"
+    },
+    {
+     "title": "이채명 의원 \"재정난이 교육의 질 떨어뜨려선 안 돼\"[인터뷰]",
+     "url": "https://www.newsis.com/view/NISX20261126_0003883589",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl_76KzABBU846PyYSlgJ32TDBfPshJy-XJw2vMOvl5HhESkcnfGX9b_7efck"
+    },
+    {
+     "title": "경기도의회 도교육청예산결산특위 이채명 위원장 인터뷰",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042161",
+     "source": "기호일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPZAFWG7WdslFIQcVXnGuXtsllV8uAk5dM6BhJUYjjE7GP6Sk5uG3yvqtKQEk"
     }
    ]
   }
