@@ -1,159 +1,192 @@
 {
- "updated": "2026-11-26 21:00",
+ "updated": "2026-11-26 22:20",
  "items": [
   {
-   "keyword": "디워",
+   "keyword": "weather tomorrow",
+   "traffic": "5000+",
+   "pubDate": "Thu, 26 Nov 2026 03:50:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmPwaFSGW_KQyeK6pJHlbo3OVWTZaC8_jOTrCdxkRpbFM7NRU1w-wBXEENpHo",
+   "news": [
+    {
+     "title": "Weather Tomorrow November 27, 2026: Rain in Tamil Nadu, dry and sunny conditions in Delhi, Bihar, Odisha;",
+     "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-27-2026-rain-in-tamil-nadu-dry-and-sunny-conditions-in-delhi-bihar-odisha-check-state-wise-forecast/articleshow/136190343.cms",
+     "source": "The Economic Times",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmPwaFSGW_KQyeK6pJHlbo3OVWTZaC8_jOTrCdxkRpbFM7NRU1w-wBXEENpHo"
+    },
+    {
+     "title": "Weather Tomorrow, November 22, 2026: Showers in Bihar and West Bengal, sunny skies in Delhi and Tamil Nadu",
+     "url": "https://m.economictimes.com/news/new-updates/weather-tomorrow-november-22-2026-showers-in-bihar-and-west-bengal-sunny-skies-in-delhi-and-tamil-nadu-check-full-forecast/articleshow/136054580.cms",
+     "source": "The Economic Times",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4I0Ke18GV7_l0Wd9aatBz6txvujTXCp_7WMYIzIArflh8JVFD-7LyjMEARso"
+    },
+    {
+     "title": "Hyderabad Weather Today, November 26: IMD Forecasts Isolated Rain in Telangana",
+     "url": "https://hyderabadmail.com/hyderabad-weather-today-november-26-imd-forecasts-isolated-rain-in-telangana-temperatures-to-fall/",
+     "source": "Hyderabad Mail",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw_D5tazuZECp3wqOO051cdGyzAE_BqkjWrJYRnEX65_F257CMuve9mJ-ylRI"
+    }
+   ]
+  },
+  {
+   "keyword": "погода завтра",
    "traffic": "1000+",
-   "pubDate": "Thu, 26 Nov 2026 00:30:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTHYPkSBb-nKFb7RTej_lfV6G-RyRvWDdoQDeST05WRc7GDrG20org6dNVtjw",
+   "pubDate": "Thu, 26 Nov 2026 03:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwK8M1MkmTX6wAq4_dmZvSQgesb8L7Pb9Itfd827ANhnbyFiDG0AN_kbdVcFA",
    "news": [
     {
-     "title": "단독 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개",
-     "url": "https://www.ytn.co.kr/_sn/0117_202611231130018667",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTHYPkSBb-nKFb7RTej_lfV6G-RyRvWDdoQDeST05WRc7GDrG20org6dNVtjw"
+     "title": "Сильный снег и порывистый ветер ожидаются в Иркутской области 25 ноября",
+     "url": "https://www.irk.ru/news/20261124/weather/",
+     "source": "Твой Иркутск",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwK8M1MkmTX6wAq4_dmZvSQgesb8L7Pb9Itfd827ANhnbyFiDG0AN_kbdVcFA"
     },
     {
-     "title": "심형래, ‘힉스필드’와 협업해 ‘디워’ 새 버전 제작…30분 분량 AI 영상 추가한다",
-     "url": "https://www.sportsseoul.com/news/read/1651994",
-     "source": "스포츠서울",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXEfrmJCRFsqrBSr4AedLMl5T2kIo3xZvEqh9LNexEqIwAHbe8UgUWFvy0NCo"
+     "title": "Прогноз погоды в Ангарске на пятницу, 27 ноября",
+     "url": "https://angarsk-38.ru/news/prognoz-pogody-v-angarske-na-pyatnicu-27-noyabrya/",
+     "source": "angarsk-38.ru",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxPylgKcgfxXsNYXwY1d2JbNhempIoZnlWiDhJbYxOCnR_06v_mj94gMUEkPs"
     },
     {
-     "title": "19년 전 작품인데 갑자기 '역주행' 하더니… 급기야 재개봉 소식 뜬 한국 영화",
-     "url": "https://www.wikitree.co.kr/articles/1176829",
-     "source": "위키트리",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8-QJCoFZ_n94U8yM_GAi-fSaRUKYCMRZCNKWGVsMoGeXnEcFKFedJF8JI59A"
+     "title": "Рабочая неделя завершится метелями и морозами в районах Приангарья",
+     "url": "https://baikal24.ru/text/26-11-2026/029/",
+     "source": "Байкал24",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkSSfBXS5IybsTA3B4aPxXIMvnR6G4VewvDXKuNa-jrFPAI7lM4hqWfmbYe1o"
     }
    ]
   },
   {
-   "keyword": "한국보건의료인국가시험원",
+   "keyword": "두산타워",
    "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 02:10:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHBgMBniEmHxn2I19e7q3LENQeqeCGnC2lJrXRjLyQ7fnr-7rqqFjLEEE1-M",
+   "pubDate": "Thu, 26 Nov 2026 03:00:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsekHIRMdaLMEMahFuhgyyJClFS7nh6dyg_Kg15SVEHMVDOMbcHdc9ZAULQUc",
    "news": [
     {
-     "title": "의사·간호사 국시 일부 과목 만점자 급증···복지부 “AI 부정행위 단정 어려워”",
-     "url": "https://www.khan.co.kr/article/202611261620001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHBgMBniEmHxn2I19e7q3LENQeqeCGnC2lJrXRjLyQ7fnr-7rqqFjLEEE1-M"
+     "title": "사옥 팔던 두산, 8400억 신사옥 마련…다시 부동산에 뭉칫돈",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/26/2026112680192.html",
+     "source": "인베스트조선",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsekHIRMdaLMEMahFuhgyyJClFS7nh6dyg_Kg15SVEHMVDOMbcHdc9ZAULQUc"
     },
     {
-     "title": "\"설마 의사·간호사도 ‘냥이’가?\"…2년 전 만점 82명, 올해는 581명",
-     "url": "https://news.jtbc.co.kr/article/NB12329903",
-     "source": "JTBC",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCQ4cnnf0mupsvRuk-olm4HQJwJw-upjKGDX0hY3wr6HW809xUi-Pt4pdaULM"
-    },
-    {
-     "title": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
-     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573",
-     "source": "대한민국 정책브리핑",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI"
-    }
-   ]
-  },
-  {
-   "keyword": "india a vs sri lanka a",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 01:50:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPXknu8W56fQ9KstYBpvH85glbgRN_pfFK_FdYR8q9XMeYJAjCcxBAwsDv5M",
-   "news": [
-    {
-     "title": "India A vs Sri Lanka A Live Score: IND-A (180/2 in 26 ov), Abhishek departs for 78, Tilak Varma steady",
-     "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-rising-stars-asia-cup-2026-semi-final-ind-a-vs-sl-a-match-3047337-2026-11-26",
-     "source": "India Today",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPXknu8W56fQ9KstYBpvH85glbgRN_pfFK_FdYR8q9XMeYJAjCcxBAwsDv5M"
-    },
-    {
-     "title": "Vaibhav Sooryavanshi dismissed for 40 off 27 balls against Sri Lanka A in Asia Cup Rising Stars 2026 semifinal",
-     "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-score-asia-cup-rising-stars-2026-semifinal-india-a-vs-sri-lanka-a/article71746121.ece",
-     "source": "Sportstar",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQpcqLg5ORcbOx3ggF8Gbh_t9Xo6_l3yXlh65a-TpdyBTuModgnxCB9_DiRU"
-    },
-    {
-     "title": "Abhishek Sharma bounces back with 37-ball fifty in Asia Cup Rising Stars 2026 semi-final against Sri Lanka A",
-     "url": "https://www.livemint.com/sports/cricket-news/abhishek-sharma-bounces-back-with-fifty-india-a-vs-sri-lanka-a-semifinal-asia-cup-rising-stars-2026-ind-a-vs-sl-a-11795688535920.html",
-     "source": "Livemint",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NrQ09lc8Gy6IfaZs0SNzrblq4deugJT0d0_uM6A73r_cAqCHDIod7GcSdhs"
-    }
-   ]
-  },
-  {
-   "keyword": "검찰",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 01:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2emecgmkZJ8Owb_nojUCnMV7SJ9ZNEoRWsV1ay1P6Mvmi-hi9uGoT86b02Y",
-   "news": [
-    {
-     "title": "검찰총장 후보 초유의 ‘추가 천거’…기존 3인 외 새 인물 지명 수순?",
-     "url": "https://www.donga.com/news/Politics/article/all/20261126/135095804/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2emecgmkZJ8Owb_nojUCnMV7SJ9ZNEoRWsV1ay1P6Mvmi-hi9uGoT86b02Y"
-    },
-    {
-     "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
-     "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/",
+     "title": "두산, IMF 때 떠난 을지로로 32년만에 다시 돌아간다",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/26/TCQFAVSANZEHXF4BTHLTJ6IPQQ/",
      "source": "조선일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ82K3SxgdFy5XzlRUOvK4RbFUqndLd1D8zX9_XnAex4Tc8idtSLIzKA87W0s4"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxhkZt3bnpMxNocHJbm2Z-Nzhh08ofvSppUR1IObwOr9kQc-swDwOMqWEJ0lM"
     },
     {
-     "title": "'1년4개월째 공석' 검찰총장…법무부, 후보자 추가 국민천거 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112613494028764",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNN4PPg9rn4qrcWO0j29UtmUZjlB7ZX_2JeYkB1nn11tnyLkj9i552qsgyQZQ"
+     "title": "동대문 두산타워, 현대면세점 나간 자리 현대백화점 인재개발원·SK실트론이 채운다",
+     "url": "https://seoulpi.io/article/00622149544747753472",
+     "source": "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOUJibnSOCxe642l6F7iXiGDAmEVcG1O-SjctT4Zi6V9nY7o_HGmq_Roq8TVw"
     }
    ]
   },
   {
-   "keyword": "구미역",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 01:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWWli-NUdkXmhgaoC_tgtyDs8AsbS8wX4AXssH3hlwMVy2Kw44TT68v6RoIGg",
-   "news": [
-    {
-     "title": "동구미역 밑그림 나왔다…구미역과 연결은 어떻게",
-     "url": "https://www.yeongnam.com/web/view.php?key=20261125028262890",
-     "source": "영남일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWWli-NUdkXmhgaoC_tgtyDs8AsbS8wX4AXssH3hlwMVy2Kw44TT68v6RoIGg"
-    },
-    {
-     "title": "'대구·경북 1시간 생활권' 광역철도·국도 확충에 속도",
-     "url": "https://www.yna.co.kr/view/AKR20261125035000053",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzX2yYRHJEzJgYGkqVaZmAqNb7eUFJ3hbM26LUm5N8zMd8RfcleB-gLVLWwm0"
-    },
-    {
-     "title": "광역교통부터 주거복지·산불재건까지…경북도, 2026년 균형발전 날개",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762557",
-     "source": "국제뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQydqB7tKi95oriB9sHEtb42ZdKGNwNULnZU4ihR3Ob6t93Nz9nVd5FHCKhSSI"
-    }
-   ]
-  },
-  {
-   "keyword": "김희애",
+   "keyword": "설인아",
    "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 00:10:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9-DV1jJTgumv6sRBRe5ZUHDIOG5Rlt_mz5pSb5LNL_HogvRWdgpmPAKionfU",
+   "pubDate": "Thu, 26 Nov 2026 04:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IfmtlHQj3H4Qam3sexl-O8JAGzvklH36KUTbe0ySUNOve9ib6lU65KI4JZo",
    "news": [
     {
-     "title": "김희애, 생애 첫 하프 마라톤 완주 \"한 번도 걷지 않아\"",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882325",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9-DV1jJTgumv6sRBRe5ZUHDIOG5Rlt_mz5pSb5LNL_HogvRWdgpmPAKionfU"
+     "title": "설인아→연우 '무쇠소녀단3', 김동현도 기겁한 첫 훈련…\"이런 악마 같은 걸\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112617007254733",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IfmtlHQj3H4Qam3sexl-O8JAGzvklH36KUTbe0ySUNOve9ib6lU65KI4JZo"
     },
     {
-     "title": "김희애가 서는 곳은 어디든 그의 자리가 된다",
-     "url": "https://www.wkorea.com/2026/11/23/%EA%B9%80%ED%9D%AC%EC%95%A0-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84/",
-     "source": "W Korea",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu08z0wu58aOLstdCjcXp5n9Bn819jMIDDqd_-PDv2Hf6R-yvJ4hTPO92uDgo"
+     "title": "설인아·금새록, 10kg 짊어지고 계단 3000개 뛴다 (무쇠소녀단3)",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135093930/1",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPNKaYSTz4wh9Alb7E2zQdmZPt-83mnmIt_YOPQxRBuqJt8ZbiTUQQjz3WSPE"
     },
     {
-     "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
-     "url": "https://www.koreadaily.com/article/20261124001135923",
-     "source": "미주중앙일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkQl7wQxDbwcz-ShxKrtwD-tGizY4j60xYqeOweBHx74isVyDkwLUx7ph_HgY"
+     "title": "설인아·금새록·한지현·연우 쇼트트랙 도전...최민정·김길리 깜짝 출격",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764269",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhjHnuQczoI7loCRrk7O6VSOQ0QA_NuSx4RLHmRgk6KzhUfFAyWagunJLu90Y"
+    }
+   ]
+  },
+  {
+   "keyword": "계약금",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 03:20:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "acl two",
+   "traffic": "200+",
+   "pubDate": "Thu, 26 Nov 2026 03:20:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCOpprxAH16NpApzB0CLLkXXw8vJvfF5BDnPSM0emInu1z_l0AiWAmr73zIas",
+   "news": [
+    {
+     "title": "Group E: Persib Bandung (IDN) 3-1 FC Seoul (KOR)",
+     "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-persib-bandung-idn-3-1-fc-seoul-kor",
+     "source": "The AFC",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCOpprxAH16NpApzB0CLLkXXw8vJvfF5BDnPSM0emInu1z_l0AiWAmr73zIas"
+    },
+    {
+     "title": "Licensable picture: Soccer 2026: AFC Champions League Two: Group E: Persib Bandung 3:1 FC Seoul",
+     "url": "https://www.reutersconnect.com/item/soccer-2026-afc-champions-league-two-group-e-persib-bandung-31-fc-seoul/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA1WkJCSzE",
+     "source": "Reuters Connect",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfYBZEnB4sRD15M8SP9CBoJcvuyjeIGk_5p7gTqH_ZUTS12i0A3k2S2NLgFEY"
+    },
+    {
+     "title": "Persib Beats FC Seoul 3-1 as Beckham Seals Asian Campaign Win",
+     "url": "https://jakartaglobe.id/news/persib-beats-fc-seoul-31-as-beckham-seals-asian-campaign-win",
+     "source": "Jakarta Globe",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGMz7p_5KPHP8pImHTtU8F7JhJ5-7HxFVtqe4Q8NkXJ_qiHBvarK1QiVwJfzg"
+    }
+   ]
+  },
+  {
+   "keyword": "나인투식스",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 04:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlajehriNNzSLPwCJfyI2f-Jphp5h08B_0ujUrk4-KARkWFjfVCBbmXONTbmE",
+   "news": [
+    {
+     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
+     "url": "https://www.fnnews.com/news/202611252205108656",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlajehriNNzSLPwCJfyI2f-Jphp5h08B_0ujUrk4-KARkWFjfVCBbmXONTbmE"
+    },
+    {
+     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
+     "url": "https://www.joongang.co.kr/article/25481953",
+     "source": "중앙일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1xp8omwkQw3FJLkgxU8vOZrZvUnvqzmyVlArmWekPBuH29GZpzOy0did8GUQ"
+    },
+    {
+     "title": "고수 '고비드의 슈트핏'",
+     "url": "https://www.newspim.com/news/view/20261125000947",
+     "source": "뉴스핌",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1CMlTjz4VBUEBHlgtsevtXz7OYOyv0J0Zdd_GhBSa7bngC8VdcxztdWhYFbY"
+    }
+   ]
+  },
+  {
+   "keyword": "박장범",
+   "traffic": "100+",
+   "pubDate": "Thu, 26 Nov 2026 03:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPRetfzx6Q4SdrT4zae1NObSrqWuoe238QcdJYnQIQhFM3wQLoT1T7U6Uv4E",
+   "news": [
+    {
+     "title": "KBS ‘BBQ 정·관계 티켓 로비’ 보도 막혔다…“초청 명단에 박장범 사장도”",
+     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338727",
+     "source": "미디어오늘",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtPRetfzx6Q4SdrT4zae1NObSrqWuoe238QcdJYnQIQhFM3wQLoT1T7U6Uv4E"
+    },
+    {
+     "title": "국힘 충북도당 \"축구경기 공짜 관람 이강일, 명확히 해명하라\"",
+     "url": "https://www.fnnews.com/news/202611191444474509",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQadwooHHhRfpxfPRmvjhmPau8Xf9ku_yMGA4ww1vksJLnEI66Vz83U-lGzNWc"
+    },
+    {
+     "title": "[사설] SNS로 해명했으니 취재 거부한다는 국회의원의 오만",
+     "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240738",
+     "source": "충청투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNuyb4VC_MMLVXkYUbqnPt_iGyFtgxKWDDYj7HV4mqLx4OjBB294DExtgbaT4"
     }
    ]
   },
@@ -170,16 +203,16 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqr9ljavzE_kWswUZHgabdPB6PRVGQMJWGUDUBhtwQmTtwJScsUp3tjEvtzHo"
     },
     {
-     "title": "근로·자녀장려금 신청 12월 1일까지... 지급일은?",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195317",
-     "source": "금강일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR0riciwFvDYLGRggqVPGYYPzyX9JVK1XAzJERFzdCOiKJgUXf4BMReFEEFQ"
-    },
-    {
      "title": "2026 근로장려금 신청자격·지급액·지급일은? 기한후신청 12월 1일까지...자녀장려금까지 총정리",
      "url": "https://www.christiantoday.co.kr/news/378877",
      "source": "크리스천투데이",
      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS49Ho2oPzFZBXNGlJdpfu4alwwNKnf7xGXSLAVPZaEVjuR_cxDKi2S4MbrTdA"
+    },
+    {
+     "title": "근로·자녀장려금 신청 12월 1일까지... 지급일은?",
+     "url": "http://www.ggilbo.com/news/articleView.html?idxno=1195317",
+     "source": "금강일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR0riciwFvDYLGRggqVPGYYPzyX9JVK1XAzJERFzdCOiKJgUXf4BMReFEEFQ"
     }
    ]
   },
@@ -187,13 +220,13 @@
    "keyword": "슈퍼문",
    "traffic": "100+",
    "pubDate": "Thu, 26 Nov 2026 02:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMB666o5Sn6DSWmR3nUrBEpoP8-SzLt8mJQuQgh9ZgxFjHvW2IUHF-TrU8cYs",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7ggcEjf_5Cq0fKtpP06usG3C67Q_xifUB6GBl2V3pPrcJ5DWLtc9QJKCMRxQ",
    "news": [
     {
      "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251603008783",
+     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611251603008783&s_hcd=",
      "source": "YTN 사이언스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMB666o5Sn6DSWmR3nUrBEpoP8-SzLt8mJQuQgh9ZgxFjHvW2IUHF-TrU8cYs"
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7ggcEjf_5Cq0fKtpP06usG3C67Q_xifUB6GBl2V3pPrcJ5DWLtc9QJKCMRxQ"
     },
     {
      "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
@@ -206,58 +239,6 @@
      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
      "source": "국제신문",
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLOPU45YOCeC6lvVrjA8iZ5r9WGVlhs7ks4hSG7ITf2CwhQlemVJzoCGD_u2o"
-    }
-   ]
-  },
-  {
-   "keyword": "이지훈",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 02:10:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSjoPZMydxfFOmzDO_0s_N_ism8I158AvjPZApOxdnVLjHeLD5h65ACDEcfqE",
-   "news": [
-    {
-     "title": "이지훈·아야네 부부 득녀…두 아이 부모 됐다",
-     "url": "https://www.donga.com/news/Society/article/all/20261126/135094851/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSjoPZMydxfFOmzDO_0s_N_ism8I158AvjPZApOxdnVLjHeLD5h65ACDEcfqE"
-    },
-    {
-     "title": "이지훈 아내 아야네, 둘째 득녀...2주 1500만원 산후조리원 입소",
-     "url": "https://biz.heraldcorp.com/article/10949941",
-     "source": "헤럴드경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3yWuy1wNBZu0-QIJZJM7W7dEmkfIL_-RUANrpGgDB715CJ7S2kM-_g_tfbMw"
-    },
-    {
-     "title": "이지훈·아야네 부부, 일산차병원서 둘째딸 출산…3.03㎏ 건강해",
-     "url": "https://www.news1.kr/bio/welfare-medical/6367022",
-     "source": "뉴스1",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChytJRBDOpMne0WG9Qw2PxMHO1gKhaPT_6OzAmXGRJYXLLtHakH8sNJG5u-w"
-    }
-   ]
-  },
-  {
-   "keyword": "미국 휴장",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 01:20:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-V5GHdVxqQvFaeRdXWNazLGaz8AhHZ3s8kc97rUWyBIhf5FrkzhJeifi_zg",
-   "news": [
-    {
-     "title": "월가도 하루 쉬어간다…뉴욕증시, 추수감사절 맞아 26일 휴장",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848602",
-     "source": "제민일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-V5GHdVxqQvFaeRdXWNazLGaz8AhHZ3s8kc97rUWyBIhf5FrkzhJeifi_zg"
-    },
-    {
-     "title": "美 금융시장, 26일 추수감사절로 휴장",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446614",
-     "source": "연합인포맥스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREROHxlvmGk4kfO3zPfwLQpc7u_hn-_L-m6Jo5JYPOGFV4uRyFJXrQfe09f9Y"
-    },
-    {
-     "title": "추수감사절 NFL 풋볼",
-     "url": "https://www.voakorea.com/a/thanksgiving-football-112426/8227535.html",
-     "source": "VOA 한국어 홈페이지",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8mwY8blrwfXWR8H89rw7LrU0LYTddzqzQtnqkI9QjP0jZoweBi8PedyALGO4"
     }
    ]
   }
