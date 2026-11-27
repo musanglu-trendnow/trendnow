@@ -1,31 +1,149 @@
 {
- "updated": "2026-11-27 18:05",
+ "updated": "2026-11-27 19:12",
  "items": [
   {
-   "keyword": "롯데그룹",
+   "keyword": "홍민기",
    "traffic": "1000+",
-   "pubDate": "Thu, 26 Nov 2026 21:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSso6lrCGh4O70TLfzyoqc0c5WpVAD18V_1bfcVOcNbP2hFN7u4i08HmAuGts8",
+   "pubDate": "Fri, 27 Nov 2026 00:20:00 -0800",
+   "img": "",
+   "news": []
+  },
+  {
+   "keyword": "최민희",
+   "traffic": "1000+",
+   "pubDate": "Fri, 27 Nov 2026 00:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrtaJlLFmlGjE5MhC264s1YD0FLmnFkP7wE4VGw8VHeH4usBJadouB_pCy6SM",
    "news": [
     {
-     "title": "신유열 ‘바이오’ 구본규 ‘전력 인프라’…",
-     "url": "https://www.mk.co.kr/news/economy/12220096",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSso6lrCGh4O70TLfzyoqc0c5WpVAD18V_1bfcVOcNbP2hFN7u4i08HmAuGts8"
+     "title": "[단독] 민주 윤리심판원, 최민희 중징계 의결 '당원권 2년 정지'",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869160_36911.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrtaJlLFmlGjE5MhC264s1YD0FLmnFkP7wE4VGw8VHeH4usBJadouB_pCy6SM"
     },
     {
-     "title": "한화 3형제부터 신유열·허서홍, 오너 3·4세 경영 일선 전진배치",
-     "url": "https://www.hankyung.com/article/2026112754251",
-     "source": "한국경제",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuWgIHrQHqtxZxszO5l3acgeC5dbtto1qwUy3UMzhRzzPZ_3S6wkxZnmrv2o"
+     "title": "[속보] 최민희, ‘당원 자격정지 2년’ 중징계에 “수용 어려워…재심 신청”",
+     "url": "https://www.khan.co.kr/article/202611271819001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjrcbGHKuaAq_ZvsUl5shqN737EQtFILcf3lB6tfEBKRCZtnp_KajaQBUPfMw"
     },
     {
-     "title": "6년만에 단 사장 명패…롯데 예비 '오너' 신유열이 넘어야 할 진짜 벽",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/23/2026112380129.html",
-     "source": "인베스트조선",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ37QOLKqTymND2CPc7Va68yMyQ1KPmnQpjYbpec5oT1FtIEp0xrRMJofUD4HM"
+     "title": "[속보] 민주 윤리심판원 “최민희 중징계 의결”…당직 자격 정지 이상",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1289477.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgOX4A1wifWsvs-L1Yg6zE635KotL_YS6kifGe75JDYvvZsG6NPnBwubQybM"
     }
    ]
+  },
+  {
+   "keyword": "최휘영",
+   "traffic": "1000+",
+   "pubDate": "Thu, 26 Nov 2026 22:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS7T-4HhBT9gnJtqG-uXyhpeEUwyQGEQf0z_qxFtsVt2qCsdwG5_GUHMZc_DM",
+   "news": [
+    {
+     "title": "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869093_36911.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS7T-4HhBT9gnJtqG-uXyhpeEUwyQGEQf0z_qxFtsVt2qCsdwG5_GUHMZc_DM"
+    },
+    {
+     "title": "이 대통령, 최휘영 ‘기습 교체 통보’ 보도에 \"명예훼손 정정해야\"",
+     "url": "https://news.jtbc.co.kr/article/NB12330170",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZhfoDNAbYLdf8bWMysYNnz_8A9Nf8fQ4RgHgmFIXlDqW4WOCWO0LhgraAlsg"
+    },
+    {
+     "title": "李대통령, '문체장관에 교체 기습통보' 언론 보도에 \"정정해야\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127097000001",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6JWR4Dna7tE2RWxNaNck1_voQ8hcEQm0_BR_N-hM-SkifLlAoP_O02kRBu-A"
+    }
+   ]
+  },
+  {
+   "keyword": "박홍근",
+   "traffic": "1000+",
+   "pubDate": "Thu, 26 Nov 2026 22:40:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLPdotgdYRuV1zTXiPzuc92kUeQ29DKqPo66_7HMw_LrdGJwL7eSA6_FvDI20",
+   "news": [
+    {
+     "title": "서영교·박홍근 뜻밖의 충돌‥\"답변 태도에 문제\" \"여기가 상원인가\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869115_36911.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLPdotgdYRuV1zTXiPzuc92kUeQ29DKqPo66_7HMw_LrdGJwL7eSA6_FvDI20"
+    },
+    {
+     "title": "박홍근 \"법사위답게 하라\" 서영교 \"고압적\"…與 법사위원장과 예산처장관 충돌",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886399",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaL-l0vya_OhRlbe73PLw_p4jiz4dMMw_WXdJZQuAavZZiGfiziBUsVuQkou0"
+    },
+    {
+     "title": "의원 질의에 답변하는 형일 부총리 겸 재정경제부 장관",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765399",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKRCTFl3upd2Av-57ExJLTiG4zCDfLRiLtXGMfoIS418eqoV0BjFrjT4-M_tY"
+    }
+   ]
+  },
+  {
+   "keyword": "오세훈",
+   "traffic": "500+",
+   "pubDate": "Fri, 27 Nov 2026 00:40:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5VQ9Eu8Znyo6YgilGu_soggLc2u-lFic_J9bS7OgUEUkBHjX-dkN1OpwEYqw",
+   "news": [
+    {
+     "title": "오세훈, ‘한강버스 허위사실 공표’ 혐의로 경찰 조사받아",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289452.html",
+     "source": "한겨레",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5VQ9Eu8Znyo6YgilGu_soggLc2u-lFic_J9bS7OgUEUkBHjX-dkN1OpwEYqw"
+    },
+    {
+     "title": "경찰, '한강버스 의혹' 오세훈 주말 소환조사‥고발 3주만",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6869118_36918.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgq39HfkwY_J2oc06JATnXrPNxsY6zDPJaqPb5prcZNj7wCtEYH2AK7TCJYCw"
+    },
+    {
+     "title": "국힘 행안위 \"민주당, 오세훈 송치 종용 멈추라…노골적 수사 개입\" - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/politics/2026/11/27/2026112717174621527",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzmPZcSrXShsAHxdBbr1s35zmWIMx6oMWtg6MZ-E5KBJXLYIHGORPEf6JXrFQ"
+    }
+   ]
+  },
+  {
+   "keyword": "북한이탈주민",
+   "traffic": "500+",
+   "pubDate": "Fri, 27 Nov 2026 00:30:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpvnbPahCyEEMDOB0tyZPLGKswyQZJirq0QdGcAiq81sFaMfd3tLk1PKLpWs",
+   "news": [
+    {
+     "title": "술과 과자 든 가방들고···철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 적발 신병 확보",
+     "url": "https://www.khan.co.kr/article/202611271445001",
+     "source": "경향신문",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpvnbPahCyEEMDOB0tyZPLGKswyQZJirq0QdGcAiq81sFaMfd3tLk1PKLpWs"
+    },
+    {
+     "title": "강원 철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 붙잡혀",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869052_36911.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtlhBtwEOIdKax5MBfeDmViU4yFLL-Rpr34sJp47287buo1WxgZWbv9PcN63g"
+    },
+    {
+     "title": "[속보]‘술, 간식 들고’ GOP철책 200m 앞까지…30대 女탈북민 적발",
+     "url": "https://www.munhwa.com/article/11634692",
+     "source": "문화일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAlLCxGG1rTql9tYOU3l9r0Z2HIxdWKX1hoK50FOdyXo0hKcQyTn6hJynhvT0"
+    }
+   ]
+  },
+  {
+   "keyword": "한국노인인력개발원",
+   "traffic": "500+",
+   "pubDate": "Fri, 27 Nov 2026 00:10:00 -0800",
+   "img": "",
+   "news": []
   },
   {
    "keyword": "코레일",
@@ -46,62 +164,36 @@
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbt9RrnEx569pFhKS4yZZ2ZmBYxVM8jslwBLRg6dAsWH9lltwzV6nT2ioJjDg"
     },
     {
-     "title": "코레일, 폐안전모 재활용 '안전우산' 취약계층에 기부",
-     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316377",
-     "source": "스트레이트뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrMBjix1UVsqjcMu5iUwT4FrlJbYXYrsMC1hvkZ_pyYPxDv6kHivWce-Ax5-g"
+     "title": "폐안전모 파쇄해 새 안전모 원료로 활용",
+     "url": "https://www.vegannews.co.kr/news/article.html?no=408989",
+     "source": "비건뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBIJgpettRHeP8abrCatv6sWFfa9aQWDoGG270TC4D0gA_AyJEinuuj2uasQI"
     }
    ]
   },
   {
-   "keyword": "최휘영",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 22:40:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS7T-4HhBT9gnJtqG-uXyhpeEUwyQGEQf0z_qxFtsVt2qCsdwG5_GUHMZc_DM",
+   "keyword": "australia vs england",
+   "traffic": "200+",
+   "pubDate": "Fri, 27 Nov 2026 01:00:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3Tw4HBrcValTdA-fr35CpWWMaaTDJJYVCcldE4rxUzXIgrIDTstjnpRSbNs",
    "news": [
     {
-     "title": "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869093_36911.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS7T-4HhBT9gnJtqG-uXyhpeEUwyQGEQf0z_qxFtsVt2qCsdwG5_GUHMZc_DM"
+     "title": "Australia vs England, third T20 international, The Gabba",
+     "url": "https://www.skysports.com/cricket/live-blog/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
+     "source": "Sky Sports",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw3Tw4HBrcValTdA-fr35CpWWMaaTDJJYVCcldE4rxUzXIgrIDTstjnpRSbNs"
     },
     {
-     "title": "‘최휘영 교체 기습 통보’ TV조선 보도에···이 대통령 “명예 훼손 중대문제, 정정해달라”",
-     "url": "https://www.khan.co.kr/article/202611271430021",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTcT9ZbUpJxBrpzB8cuDSPdntFfyKED6HW56ex00UcG9EdG6S8oeyEfcgSwO0"
+     "title": "England return to the Gabbatoir with onus on Australia to bounce back",
+     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-3rd-t20i-1528708/match-preview",
+     "source": "Cricinfo",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGs1BnioeTZo9muNJuNSfG3dTCfwNce76q3WtIEH6KN45tDUZTPcJ_8AEqZlY"
     },
     {
-     "title": "李대통령, '문체장관에 교체 기습통보' 언론 보도에 \"정정해야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261127097000001",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrXN5L6buYAGxj3fpK4Ie7pWpoMk4C6js0z48cw-SVHAJAb4GGqoQNeQr_krI"
-    }
-   ]
-  },
-  {
-   "keyword": "박홍근",
-   "traffic": "500+",
-   "pubDate": "Thu, 26 Nov 2026 22:40:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLPdotgdYRuV1zTXiPzuc92kUeQ29DKqPo66_7HMw_LrdGJwL7eSA6_FvDI20",
-   "news": [
-    {
-     "title": "서영교·박홍근 뜻밖의 충돌‥\"답변 태도에 문제\" \"여기가 상원인가\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869115_36911.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLPdotgdYRuV1zTXiPzuc92kUeQ29DKqPo66_7HMw_LrdGJwL7eSA6_FvDI20"
-    },
-    {
-     "title": "서영교에 목청 높인 박홍근 “법사위 그동안 제대로 작동 안돼”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261127/135103674/1",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO4_H9vjz6lEZtNfAxTwkXQztT9--gYjIcv4vLPxb-0yEQDvOvA2aFChHK5uA"
-    },
-    {
-     "title": "의원 질의에 답변하는 형일 부총리 겸 재정경제부 장관",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765399",
-     "source": "국제뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKRCTFl3upd2Av-57ExJLTiG4zCDfLRiLtXGMfoIS418eqoV0BjFrjT4-M_tY"
+     "title": "Preview: Australia Seek Gabba Revival As England Flex Batting Muscle",
+     "url": "https://www.telecomasia.net/bd/blog/preview-australia-seek-gabba-revival-as-england-flex-batting-muscle/",
+     "source": "Telecom Asia Sport",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5B5ofzLmJ5rMin6cQnmbiW1IpmlilcLck6L7l_1r_ZoNg34dtaw9hhbJ_VBo"
     }
    ]
   },
@@ -109,8 +201,14 @@
    "keyword": "허은아",
    "traffic": "200+",
    "pubDate": "Thu, 26 Nov 2026 23:50:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR70e7CRaGz2qym_EN2xTGDuZY5EcchhPKZhXtnYJkPggQqDT5Zd04xCiMIwDg",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIGS4r8TnybQNkzL1XeH7QiiO3uEgbKorw4X2YbZrxZaQc08e9UoRUGkPspss",
    "news": [
+    {
+     "title": "허은아 청와대 국민통합비서관 사표 수리…1년1개월 만에 퇴임",
+     "url": "https://www.joongang.co.kr/article/25482584",
+     "source": "중앙일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIGS4r8TnybQNkzL1XeH7QiiO3uEgbKorw4X2YbZrxZaQc08e9UoRUGkPspss"
+    },
     {
      "title": "'보수 출신' 허은아 청와대 국민통합비서관 사직‥1년1개월 만에 퇴임",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6869136_36911.html",
@@ -118,146 +216,10 @@
      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR70e7CRaGz2qym_EN2xTGDuZY5EcchhPKZhXtnYJkPggQqDT5Zd04xCiMIwDg"
     },
     {
-     "title": "허은아 靑국민통합비서관 사표 수리…1년1개월 만에 퇴임",
-     "url": "https://www.joongang.co.kr/article/25482584",
-     "source": "중앙일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIGS4r8TnybQNkzL1XeH7QiiO3uEgbKorw4X2YbZrxZaQc08e9UoRUGkPspss"
-    },
-    {
-     "title": "청와대 2기 참모진 재편 가속…허은아·이동연·이주한 비서관 사표",
-     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1289458.html",
-     "source": "한겨레",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGAaHVE3J0A5EY0j1B_xczNWuhSvzGWAHsRdG25FjtFhFsESZ0QEyppF3z3I"
-    }
-   ]
-  },
-  {
-   "keyword": "히샬리송",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 22:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzW9YPQGWutCC3AYBk0wRF75i2KdumHkJmVMuwY-ulLvTTidEOdJCZw-Zl4IE",
-   "news": [
-    {
-     "title": "토트넘서 밀려난 히샬리송, 친정팀 에버턴 복귀 추진",
-     "url": "https://www.etoday.co.kr/news/view/2654076",
-     "source": "이투데이",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzW9YPQGWutCC3AYBk0wRF75i2KdumHkJmVMuwY-ulLvTTidEOdJCZw-Zl4IE"
-    },
-    {
-     "title": "토트넘 대박 터진다, '최악의 말썽쟁이' 히샬리송 끝내 방출 가능...에이전트 폭탄 발언 \"사우디행 정말 원한다\"→\"150억이면 판매\"",
-     "url": "https://www.sportschosun.com/football/2026-11-27/202611270100172420016017",
-     "source": "스포츠조선",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUbiCspW16Q1fsXRzB7mkW0JHhrIkKMOxFl_-lqMsmxc-vLckl_5VbTIe_xko"
-    },
-    {
-     "title": "‘토트넘 금쪽이’ 히샬리송·‘맨유 87경기 11골’ 지르크제이 에버턴 영입망… 포체티노 구상이 변수",
-     "url": "https://www.besteleven.com/news/articleView.html?idxno=314393",
-     "source": "베스트일레븐",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSve6icAPcnR7wClMiDfgW4Kdl4PEbCyFDUKnJrNNjMhkjmBOs51i72BSpPzx4"
-    }
-   ]
-  },
-  {
-   "keyword": "최민희 징계",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 22:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrtaJlLFmlGjE5MhC264s1YD0FLmnFkP7wE4VGw8VHeH4usBJadouB_pCy6SM",
-   "news": [
-    {
-     "title": "[속보] 민주 윤리심판원 \"최민희, 당 품위 훼손‥중징계 의결\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869160_36911.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrtaJlLFmlGjE5MhC264s1YD0FLmnFkP7wE4VGw8VHeH4usBJadouB_pCy6SM"
-    },
-    {
-     "title": "[속보] 민주당 윤리심판원 “최민희 일부 발언 당 품위 훼손…중징계 의결”",
-     "url": "https://www.khan.co.kr/article/202611271725001",
-     "source": "경향신문",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKOb-Fv1WfQh2Rscj9c5hD04pS2YaHDR69IB5ugi1IFxPEyLsMm1AXMrOjPjE"
-    },
-    {
-     "title": "\"당 꼬라지 하고는\"...여야 데칼코마니 '난장판' [정치ON]",
-     "url": "https://www.ytn.co.kr/_ln/0101_202611271649244939",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs21gKNj-8dhDIUMK6i-OUr7kI1QaxNFAM-JoOVeah7B5Nq_ZSQVFAIZaSIwA"
-    }
-   ]
-  },
-  {
-   "keyword": "경남 fc",
-   "traffic": "200+",
-   "pubDate": "Thu, 26 Nov 2026 22:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdsjK-eSSGUsP0UIsiPQ6UoDJT4GO6vLIfm0KkaNGLs9O2sP3obG-mGgGmZpo",
-   "news": [
-    {
-     "title": "‘경남 채무 1조 1,000억 원’…“재정 우려 지적”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723935",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdsjK-eSSGUsP0UIsiPQ6UoDJT4GO6vLIfm0KkaNGLs9O2sP3obG-mGgGmZpo"
-    },
-    {
-     "title": "박완수 지사 \"의회가 결단하면 경남FC 재정 지원 중단 등 결정\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126105000052",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTI5Hp8_2aYQDtBg3hadzvFZkuJP3tLxGOpSo1aw2tXR3WfCEGAHtcgthCWsHs"
-    },
-    {
-     "title": "박완수 지사 “경남FC 재정 지원 중단, 구단주 사퇴 등 도의회 뜻에 따를 것”",
-     "url": "https://www.idomin.com/news/articleView.html?idxno=2020676",
-     "source": "경남도민일보",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhyx2dQQdSYu-C5B_R4oQkrclEBsZaFmCnwfPKNlzYw3GHGWeTrQsBLJ0MQM0"
-    }
-   ]
-  },
-  {
-   "keyword": "디에이치 반포124",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 22:40:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNraDGZA_V0uTBP0hQ5Ms-GAvkeQB9S_bYLlvMlVnh6Rb_EyWzG3vNIYX-EbI",
-   "news": [
-    {
-     "title": "12월 서울 일반분양 2725가구…'최대어' 디에이치 반포124 주목 - 머니투데이",
-     "url": "https://www.mt.co.kr/estate/2026/11/27/2026112711184216078",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNraDGZA_V0uTBP0hQ5Ms-GAvkeQB9S_bYLlvMlVnh6Rb_EyWzG3vNIYX-EbI"
-    },
-    {
-     "title": "연말 분양시장 -최초·최고·최대- 단지 잇따라 공급",
-     "url": "https://re.mk.co.kr/news/news_detail.php?no=12220203",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgrK7wqIHGWAo6YlaoVcLOVhfgQvyIR2MsszKNFNHliOENd_zV_YJ8FQEY8YI"
-    },
-    {
-     "title": "입지만큼 중요한 브랜드… 연말 분양시장 달군다",
-     "url": "https://www.donga.com/news/Economy/article/all/20261126/135091068/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQABbNlnweBAw3BY0piLj33PH-pX46Sw5QAtyCYUWTS6NhOpKfQTUzOI03cQes"
-    }
-   ]
-  },
-  {
-   "keyword": "조승우",
-   "traffic": "100+",
-   "pubDate": "Thu, 26 Nov 2026 22:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8QQGv-QTcq7Qg0C0k27VgFOT5XS_g4-mLkSKLWDHLVi2Pj1Jkfgo74i77p-U",
-   "news": [
-    {
-     "title": "46세 조승우 \"엄마 때문 결혼 못해…다 부질없고 우울\"",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885401",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8QQGv-QTcq7Qg0C0k27VgFOT5XS_g4-mLkSKLWDHLVi2Pj1Jkfgo74i77p-U"
-    },
-    {
-     "title": "조승우 “엄마 말 때문에 장가 못 가”…46세 미혼, ‘좁쌀영감’ 한마디",
-     "url": "https://www.donga.com/news/Culture/article/all/20261127/135101583/2",
-     "source": "동아일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuB_r_PwLdXSP7xIQ6z0V5XTiWm3NfCJLHMr0amT0gieAK4775f5cF26ir9ZU"
-    },
-    {
-     "title": "'46세' 조승우가 임플란트라니..\"남성호르몬 수치도 떨어졌다\" 깜짝",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MRSGGOLEGFTGCZRUMEZWINDEMQ/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWN4Xa_220mBXJWn_EwgwqTOTu5QUu7cWTqHmv7fTJTN-77ygmw44w5ZUA84U"
+     "title": "이 대통령, 허은아·이동연 등 사표 수리…1기 참모 8명과 오찬",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261127173851RxO",
+     "source": "연합뉴스TV",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5bLtY-jrvRAM_z3062mHLYnfNMS5MqqcdwmhEkj5H8weJGhOaJFVry4Lo0k"
     }
    ]
   }
