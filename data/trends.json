@@ -1,133 +1,237 @@
 {
- "updated": "2026-11-28 12:56",
+ "updated": "2026-11-28 13:59",
  "items": [
   {
-   "keyword": "의사",
-   "traffic": "5000+",
-   "pubDate": "Fri, 27 Nov 2026 17:00:00 -0800",
-   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTsm2qdjh6ffKjJfIQKTtF6h6FHoDb8Wiqe3WhyCDdNANx4veS3ZlBoLLFMHQ",
-   "news": [
-    {
-     "title": "뚝딱 만드는 AI 가짜 의사…광고에 쓰면 영업정지",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724780",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTsm2qdjh6ffKjJfIQKTtF6h6FHoDb8Wiqe3WhyCDdNANx4veS3ZlBoLLFMHQ"
-    },
-    {
-     "title": "“의사가 추천“…AI ’가짜 전문가’ 광고 철퇴",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128103018byE",
-     "source": "연합뉴스TV",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnhpNj3XHtecs_RQH8P-9UwkbusrdBUfdrcv0XUgUIqvyKV6ol7C9vPsJrBS4"
-    },
-    {
-     "title": "2028년부터 알레르기 표시 대상에 참깨·아몬드 등 4종 추가",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6869034_36918.html",
-     "source": "MBC 뉴스",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCVfCbeStheJx-fY3NpeH6yO2XO2_wbTjLDaJYQ-ilMBpEfS0o5oe1j1YW5-8"
-    }
-   ]
-  },
-  {
-   "keyword": "샌안토니오 대 la 레이커스",
+   "keyword": "지하철",
    "traffic": "1000+",
-   "pubDate": "Fri, 27 Nov 2026 18:30:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLgsEqdqNTpB9AcCsNOarp9ELrCnMrEehSTSs7VnMFzGLLDG31iwypKg9pv4",
+   "pubDate": "Fri, 27 Nov 2026 19:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQP9yfs2aR4POrH9lFq1zdzjeQMJ37yaTpsQNeSxz9jUruebRhZVYpgAmIS7U",
    "news": [
     {
-     "title": "Los Angeles Lakers @ San Antonio Spurs Odds",
-     "url": "https://sportsbook.fanduel.com/basketball/nba/los-angeles-lakers-@-san-antonio-spurs-36358261",
-     "source": "FanDuel Sportsbook",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfLgsEqdqNTpB9AcCsNOarp9ELrCnMrEehSTSs7VnMFzGLLDG31iwypKg9pv4"
+     "title": "철도노조 준법투쟁으로 광역전철 445대 지연",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724799",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQP9yfs2aR4POrH9lFq1zdzjeQMJ37yaTpsQNeSxz9jUruebRhZVYpgAmIS7U"
     },
     {
-     "title": "How to watch Lakers vs Spurs: NBA, live stream, TV channel",
-     "url": "https://sports.yahoo.com/nba/articles/watch-lakers-vs-spurs-nba-013000578.html",
-     "source": "Yahoo Sports",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYg49LHrxoovhlB5Qb5lufc_LJEsyk-meod1wlreFH75xp_k-NWCuR8oBjkM"
+     "title": "1부 오늘의 주요뉴스",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6869234_37012.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGfU56pV16R7KdKPoCh2FXUdOy3UENOcXhdxxeR42i2Wx3wWx8MHJQdRXJ7c"
     },
     {
-     "title": "How Wemby vs. Luka became NBA’s Black Friday main event with a lot on the line",
-     "url": "https://www.expressnews.com/sports/spurs/article/spurs-lakers-wemby-luka-doncic-nba-cup-22551594.php",
-     "source": "San Antonio Express-News",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoeic2bXI1_InukmgBlP6jI9p4ium82yqn14MgGZvDCaWJvNEJ-oWbisgKAkE"
+     "title": "[모닝와이드] 오늘의 주요뉴스",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867469",
+     "source": "SBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0-IzpYYDXN1H-78nz5ldfwUJXBmWg8zNqLXjKG7K9jT-74TAO53cM62IFuvY"
     }
    ]
   },
   {
-   "keyword": "브론슨 리드",
+   "keyword": "이정효",
    "traffic": "500+",
-   "pubDate": "Fri, 27 Nov 2026 17:50:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRAZ3N8yg9M7Rg0Rm2CiKpKTd7EQVdUvRb-Bnik_KQDeUE3YagWWJ24MtI98A",
+   "pubDate": "Fri, 27 Nov 2026 19:40:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7Guw_KX6kQNr4dReY1XWepze3IlARIkQr76EhcMsBb8U0lrzge4HsZosC9SE",
    "news": [
     {
-     "title": "WWE 슈퍼스타 브론슨 리드, 합병증으로 사망...38세에 요절",
-     "url": "https://www.mk.co.kr/news/sports/12220672",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRAZ3N8yg9M7Rg0Rm2CiKpKTd7EQVdUvRb-Bnik_KQDeUE3YagWWJ24MtI98A"
+     "title": "기념촬영하는 이정효 감독과 김준홍·고종현",
+     "url": "https://www.news1.kr/photos/8232814",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7Guw_KX6kQNr4dReY1XWepze3IlARIkQr76EhcMsBb8U0lrzge4HsZosC9SE"
     },
     {
-     "title": "WWE 비극…'괴물 레슬러' 브론슨 리드 38세 나이로 사망, 부상 치료 중 비보",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022341",
-     "source": "SPOTV NEWS",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-azEKMIEZinR-u7ldhdmxN1rP80xj9vUE9WbP8edwwjsnjs31IfpaO4lW4LM"
+     "title": "수퍼매치 등 라이벌전 풍년 예고한 2027 K리그1, 그 후보는",
+     "url": "https://www.koreadaily.com/article/20261126160042164",
+     "source": "미주중앙일보",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfkB6f_uNFUD8pom2zVRwL6cTWVJe40mmFdGI1a1wdE6TfGN_9CZ_CO-Xn2Ts"
     },
     {
-     "title": "WWE 브론슨 리드, 부상 후 합병증으로 사망···항년 38세",
-     "url": "https://www.globale.co.kr/news/articleView.html?idxno=41899",
-     "source": "글로벌E",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNeXF8S0M0NkN_4aRTEwzVlvWwYiLSEVIuWgqVFzsvN60jJZrtpV2t8w4jxnQ"
+     "title": "\"대표팀 감독으로 가시면 어떡하죠\" 수원 팬의 걱정 섞인 질문, 이정효 감독의 대답은 단 한 문장 \"저는 수원삼성 감독입니다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/26/202611261508771243O",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdT-T8KZsM9Hlct3QSOnMSo6ehycMHWmjLebCZlePHUGUtRSDEZcVIS9YbIoA"
     }
    ]
   },
   {
-   "keyword": "은평구",
+   "keyword": "이현중",
    "traffic": "500+",
-   "pubDate": "Fri, 27 Nov 2026 17:30:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGjHLy_CFzxIynED28jzvN1cWLnhAo4XI5mYyX4qPxqMxnuU_oWV1y5Ta9rPY",
+   "pubDate": "Fri, 27 Nov 2026 19:30:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXnro8TcDPvy8cK3qRGqt9kZFDmv-DWY7loePbnKPL-IMBs58EzB9K5Nh6bKA",
    "news": [
     {
-     "title": "불·대·갈 그리고 백련산…뜨거운 은평구 [감평사의 부동산 현장진단]",
-     "url": "https://www.mk.co.kr/news/economy/12220167",
-     "source": "매일경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGjHLy_CFzxIynED28jzvN1cWLnhAo4XI5mYyX4qPxqMxnuU_oWV1y5Ta9rPY"
+     "title": "2m 장신 슈터 강점 돋보였다… NBA 투웨이 계약 도전하는 이현중",
+     "url": "https://www.joongang.co.kr/article/25482757",
+     "source": "중앙일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXnro8TcDPvy8cK3qRGqt9kZFDmv-DWY7loePbnKPL-IMBs58EzB9K5Nh6bKA"
     },
     {
-     "title": "[현장] 20년 만에 빛 보는 은평 3대장…9300가구 공급 가시화",
-     "url": "https://www.dailian.co.kr/news/view/1719698/%ED%98%84%EC%9E%A5-20%EB%85%84-%EB%A7%8C%EC%97%90-%EB%B9%9B-%EB%B3%B4%EB%8A%94-%EC%9D%80%ED%8F%89-3%EB%8C%80-2026",
-     "source": "데일리안",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB6KpdAJbGy-JhAOciaWXJ1eUeTzzzIadYgvJxdVLjmoJ7eAV0Rk9EgaljucA"
+     "title": "이현중, G리그 산타크루즈전 4점 5리바운드…팀도 완패",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719334",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSonCEh7uzviDAlSZIdVe5P1x_wBlmq9NPM0NvpFKvHFI_tnMM00zA7RbVXP4c"
     },
     {
-     "title": "녹번동 73-8번지 일원 가로주택정비 조합설립인가",
-     "url": "https://www.arunews.com/news/articleView.html?idxno=70128",
-     "source": "한국주택경제신문",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_UNkQg3z1qJZVYjrnWwPJ7UIIskWgDL8dDZlAnuYN1WtBLFoauz_oIjRTq4"
+     "title": "이현중, 3점슛 성공률 ‘50% 육박’…NBA 꿈 향해 성큼",
+     "url": "https://news.jtbc.co.kr/article/NB12329452",
+     "source": "JTBC",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQozvT_SvcvzRHoHNWGf_Hh1BiRPV9OZKhRyJZ4m-80BjwxDofucf3Z9GCTMDs"
     }
    ]
   },
   {
-   "keyword": "뉴스1",
+   "keyword": "남대문시장",
+   "traffic": "500+",
+   "pubDate": "Fri, 27 Nov 2026 19:10:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UXJvjGAU_HjpRrtC4vTZPBsBiQwX8jaND1AHGXWJ9ULozhmQ7ttb94XWfKs",
+   "news": [
+    {
+     "title": "남대문 커뮤니티",
+     "url": "http://topclass.chosun.com/news/articleView.html?idxno=37132",
+     "source": "톱클래스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UXJvjGAU_HjpRrtC4vTZPBsBiQwX8jaND1AHGXWJ9ULozhmQ7ttb94XWfKs"
+    },
+    {
+     "title": "“사지 마”… ‘스카프 아저씨’ 돌풍에 세대 불문 발길 이어지는 남대문시장",
+     "url": "https://www.donga.com/news/Society/article/all/20261128/135106803/1",
+     "source": "동아일보",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlSQAP_QTNsEkNlL93rXUjJjkugMwbf9uC7N3RYRanzqoSfW6kQXdASh11_rE"
+    },
+    {
+     "title": "[혜윰노트] 돈 쓰지 말고 기운만 받고 가!",
+     "url": "https://www.kmib.co.kr/article/20261126501751",
+     "source": "국민일보",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbHHfQmmp5iY46hAvQ1S9dFpxPA3kwWJtzdT20bBT9Fpclzg2KAM68msNZVk0"
+    }
+   ]
+  },
+  {
+   "keyword": "래미안첼리투스아파트",
    "traffic": "200+",
-   "pubDate": "Fri, 27 Nov 2026 17:00:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIQlmo0jCqdnf62KYitcIvIulMw8f0OV9uItU0V9w55_EVoxDndenNKaC_5aw",
+   "pubDate": "Fri, 27 Nov 2026 19:50:00 -0800",
+   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNtD2EsvaEBn3fgJ9VhGEi2YYAR4W3qb9Yh9y5nySeLJ7zbgHbEZDqhyoCz7w",
    "news": [
     {
-     "title": "4,900선 탈환 코스피, 오를 일만 남았다는데… 이유는?",
-     "url": "https://story.pay.naver.com/content/4087_3_C1",
-     "source": "네이버페이 머니스토리",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIQlmo0jCqdnf62KYitcIvIulMw8f0OV9uItU0V9w55_EVoxDndenNKaC_5aw"
+     "title": "\"100억 찍으면 팔겠다\"던 95년생…SK하닉 팔아 용산 아파트 샀다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNtD2EsvaEBn3fgJ9VhGEi2YYAR4W3qb9Yh9y5nySeLJ7zbgHbEZDqhyoCz7w"
     },
     {
-     "title": "배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611272305034782_005.html",
-     "source": "YTN",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIlVjf_sQjjj4cNK0K1Q4Kp42AWoZ9BhNI45Z6INQpTzMb1Q6K-do9izQ_rwk"
+     "title": "'실화일까'…2000만원→100억 불린 95년생 전업투자자",
+     "url": "https://www.newsis.com/view/NISX20261127_0003885634",
+     "source": "뉴시스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrakBXRpenYOdxFSIktoc9dM7MkRsdoi3ASZzpGu7XMs5AJXiRaMB8u5xIAs8"
     },
     {
-     "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-     "url": "https://www.yna.co.kr/view/AKR20261127144700011",
-     "source": "연합뉴스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6EMcxdpNL5U3wrZ07n4q8duIVU7WnHC9ZIqS8BuuxFWqzrvtehFI5QD60gbU"
+     "title": "하이닉스로 100억 번 95년생…폭락 전 털어낸 '기막힌 타이밍' [머니팁]",
+     "url": "https://www.hankyung.com/article/202611274139v",
+     "source": "한국경제",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7O65vuLfGUyAUzxR4dp0slxIOjcfwON1oG6JFL1WGwAfmgeQpvalvqrkaq28"
+    }
+   ]
+  },
+  {
+   "keyword": "한능검 81회 정답",
+   "traffic": "200+",
+   "pubDate": "Fri, 27 Nov 2026 19:10:00 -0800",
+   "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiK3B92CYKVVCNvWGndI_wjZHRKf0ni6MsxJQkrJdkzG6XYrSgL-bWL8ZFD3I",
+   "news": [
+    {
+     "title": "[속보] 81회 한능검 가답안 정답·답지 공개",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765984",
+     "source": "국제뉴스",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiK3B92CYKVVCNvWGndI_wjZHRKf0ni6MsxJQkrJdkzG6XYrSgL-bWL8ZFD3I"
+    },
+    {
+     "title": "“컴싸로만 풀라고요?”… 시험 코앞 규정 바뀌자 수험생들 ‘부글부글’",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/25/NQVLYNMOU5DQ3EDNOBGUURYB6U/",
+     "source": "Chosunbiz",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF3OzZkarecJJ44kNBeISnGCF20V-rWL_F-cv-8x14rPwudDj6O-0_DckGnBE"
+    },
+    {
+     "title": "\"연필까지 동났다\"…수능 앞두고 다이소 '연필·연필깎이' 품절 사태",
+     "url": "https://www.fnnews.com/news/202611190948296650",
+     "source": "파이낸셜뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkUu_ADlZfUIvxTEv-Gy6F8T0T6lMvX4xWpGKFb9kFvpEYLoMeyaHEAB5D9jA"
+    }
+   ]
+  },
+  {
+   "keyword": "해커",
+   "traffic": "100+",
+   "pubDate": "Fri, 27 Nov 2026 19:50:00 -0800",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-m6BHVWUAdGaVklF_r0DdYt-cgtWvE9mGOeeWry8w68KcRHsdTfwIJz1beM",
+   "news": [
+    {
+     "title": "'방공레이더 지휘통제' 미 공군 핵심 시스템까지 해킹에 뚫렸다",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6869229_36925.html",
+     "source": "MBC 뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-m6BHVWUAdGaVklF_r0DdYt-cgtWvE9mGOeeWry8w68KcRHsdTfwIJz1beM"
+    },
+    {
+     "title": "영국 노동연금부, 사이버 공격 감지…서비스 일부 중단",
+     "url": "https://zdnet.co.kr/view/?no=20261127223323",
+     "source": "지디넷코리아",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYQ9CM6M0r_ygwi5yfr-wuCeMSCxTl2dRKLx8suhKgzNLjLdQHgghZzbUTDmw"
+    },
+    {
+     "title": "미 공군 클라우드까지 해킹…“피해 규모 파악 중”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724982",
+     "source": "KBS 뉴스",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnYXSOMbOv9rco9w-EBTcnUEb8Jej7jYQscKeKL0s7nQhJksPEC0lZMre4Ju4"
+    }
+   ]
+  },
+  {
+   "keyword": "미국 시민권",
+   "traffic": "100+",
+   "pubDate": "Fri, 27 Nov 2026 19:20:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoueqaXnNTGag2MBu9cWoBMdhSIKdwYXSzRMQ_xSmUDADDPL3wUj7DXVVdc20",
+   "news": [
+    {
+     "title": "中 단체관광객에 무비자 1년 더 허용…정작 중국은 '검토 중'",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60112",
+     "source": "주간조선",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoueqaXnNTGag2MBu9cWoBMdhSIKdwYXSzRMQ_xSmUDADDPL3wUj7DXVVdc20"
+    },
+    {
+     "title": "\"한국인 '중국 무비자' 이대로 끝?\"...여행 앞두고 발동동 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/25/2026112510213548178",
+     "source": "머니투데이",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDvEjfL_6kPH2YaUkU0N_PjW0EKIuZ9ypxOsjHf4JQ0wguMOxGYj8e8iklbHs"
+    },
+    {
+     "title": "중국 단체관광객 무비자 1년 연장…한국인 방중 무비자는 '오리무중'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01872886645649656&mediaCodeNo=257",
+     "source": "이데일리",
+     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoZMFn03pdksDnzTzWy4eMsrcB0nGzMCd_3tB0xS679VGt2NL9ifP6pkjbu1Q"
+    }
+   ]
+  },
+  {
+   "keyword": "이찬원",
+   "traffic": "100+",
+   "pubDate": "Fri, 27 Nov 2026 19:10:00 -0800",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSE2m41SDrZRargc1J0E2VTiwhEN2f_7xlqk9kaIq2HL1FPnqs3L7R_LoFnack",
+   "news": [
+    {
+     "title": "황윤성, 알고보니 도련님? 절친 이찬원도 놀랐다 (편스토랑)",
+     "url": "https://sports.donga.com/ent/article/all/20261127/135101062/1",
+     "source": "스포츠동아",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSE2m41SDrZRargc1J0E2VTiwhEN2f_7xlqk9kaIq2HL1FPnqs3L7R_LoFnack"
+    },
+    {
+     "title": "황윤성, 압도적 규모 시골집…\"마을 구경 같아\" [RE:TV]",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6367714",
+     "source": "뉴스1",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA9CdS_1_-LExm5YY5IQyV2EISyVEsWjgOFa1dYcCiF450MUfVBXnmH8HGVPs"
+    },
+    {
+     "title": "이찬원, 일상 벗어나 자연 속으로…‘편스토랑’ 복귀에 기대감",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=848618",
+     "source": "제민일보",
+     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7JbeItUi0V_R6hcfggMyTmzfXGC0Z4_dO3-1LsHLPBFdve0cuV6AexC-y3Fc"
     }
    ]
   },
@@ -135,129 +239,25 @@
    "keyword": "닥터 둠",
    "traffic": "100+",
    "pubDate": "Fri, 27 Nov 2026 18:40:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LsqMtX_zaA4NGsoZAVEN2dUaOywylyQ63OBQy3OvMqELACvAxKvNEbS62Sg",
+   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8XxOnHqxrchLC-AyIq9C0LIX7l7JKiI8NL3AjxtFkXg4lSLLHIABbxENjBY",
    "news": [
     {
-     "title": "대작영화 맞붙는 '듄스데이'…빌뇌브 감독의 한마디",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867724",
-     "source": "SBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LsqMtX_zaA4NGsoZAVEN2dUaOywylyQ63OBQy3OvMqELACvAxKvNEbS62Sg"
+     "title": "대작영화 맞붙는 '듄스데이'…빌뇌브 감독 \"영화의 신에게 기도\"",
+     "url": "https://www.yna.co.kr/view/AKR20261128011300075",
+     "source": "연합뉴스",
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8XxOnHqxrchLC-AyIq9C0LIX7l7JKiI8NL3AjxtFkXg4lSLLHIABbxENjBY"
     },
     {
-     "title": "돌아온 로다주 직접 입열었다..\"닥터 둠, 토니 스타크와 결정적 차이는\"(둠스데이)",
-     "url": "https://www.chosun.com/entertainments/movie/2026/11/27/G5SGEMLEHBRTOMZWMJSDOMRTMI/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1wP0ZM4LNvMcRJV9IinfBONLp2mK2GBc8Jjf8EicAj9KvaBwa1XIqHh473Go"
+     "title": "'어벤져스5' 로버트 다우니 주니어 \"영웅 아이언맨, 빌런 닥터 둠 공통점 있다\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867207",
+     "source": "SBS 뉴스",
+     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB4KM7OTvs3lRjBFbZuRswjzsO7xq-4dZLryRzy0cjK0hMaFHPSF15faVmwT8"
     },
     {
      "title": "연말 극장가는 ‘듄스데이’?… 1조원 흥행 전쟁 막 올랐다",
      "url": "https://www.hankookilbo.com/news/article/A2026112717100002809",
      "source": "한국일보",
      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT6a_kA5sA7oJpIjW5xS2Nuu3oLNnoq60zpv4dXBmIe5ll_z93B72aF3lM9v4"
-    }
-   ]
-  },
-  {
-   "keyword": "tear gas",
-   "traffic": "100+",
-   "pubDate": "Fri, 27 Nov 2026 18:00:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHZMEboufp-F8c5YOmAw61SMY8qAA3VQRH7X8mJB6yF26at4aoBQLQlCPURZQ",
-   "news": [
-    {
-     "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
-     "url": "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas",
-     "source": "The Guardian",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHZMEboufp-F8c5YOmAw61SMY8qAA3VQRH7X8mJB6yF26at4aoBQLQlCPURZQ"
-    },
-    {
-     "title": "French activists demand a tear gas suspension over reported menstrual changes",
-     "url": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm0bUKyOTkuJzofrP0PUXfZKSBv09TBw7m1ie9gqpfLGqZL-9QN7gbKCfgzag"
-    },
-    {
-     "title": "France Tear Gas What to Know",
-     "url": "https://www.bdtonline.com/sports/college_sports/france-tear-gas-what-to-know/image_ad783734-80e9-58c8-ac90-201817dbb70c.html",
-     "source": "Bluefield Daily Telegraph",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh7AyLbzHKYLSz5FePqc8F9xUHHn7bj7MeqPOFiT_bzQoTI5TFgvL1WJLubZM"
-    }
-   ]
-  },
-  {
-   "keyword": "실업급여",
-   "traffic": "100+",
-   "pubDate": "Fri, 27 Nov 2026 18:00:00 -0800",
-   "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhG1yOgv6Bmn92qwtzIDyGZzNmavKfjWxhvEIPgl7MFYOk6V_ph8pjfcRHScw",
-   "news": [
-    {
-     "title": "“월급보다 많으면 누가 일하겠나”…실업급여, 결국 손 본다 [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721737",
-     "source": "KBS 뉴스",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhG1yOgv6Bmn92qwtzIDyGZzNmavKfjWxhvEIPgl7MFYOk6V_ph8pjfcRHScw"
-    },
-    {
-     "title": "조기재취업수당 월 300만원 이상이면 지급 제외",
-     "url": "https://www.jejutwn.com/news/article.html?no=464889",
-     "source": "제주교통복지신문",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5Nu6yyD6YDmwJPA43fcfKt2c5d-kdSn8ZGFb_gWguJDTeblQaPyXWaWHRUSc"
-    },
-    {
-     "title": "[영상] 월급보다 많은 실업급여 없앤다…지급방식 '주 6일'로 변경",
-     "url": "https://www.nbnbiz.co.kr/news/articleView.html?idxno=47431",
-     "source": "nbn 시사경제",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM16SNZSoXISjoDfvx-aRl_2xc67fD12tOmhBkuMtJAylUHzJKqj5bcVzoNFw"
-    }
-   ]
-  },
-  {
-   "keyword": "국제 원자력 기구",
-   "traffic": "100+",
-   "pubDate": "Fri, 27 Nov 2026 17:20:00 -0800",
-   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmDbupvMr8cKThJkQOAqNM1P63NUQuzC_ZkFwBkMpX5OzC8_F66-EmyAdJdjs",
-   "news": [
-    {
-     "title": "미 국무부, 한-IAEA 핵잠수함 협의 딴지 건 중국에 반박",
-     "url": "https://www.newsis.com/view/NISX20261128_0003886959",
-     "source": "뉴시스",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmDbupvMr8cKThJkQOAqNM1P63NUQuzC_ZkFwBkMpX5OzC8_F66-EmyAdJdjs"
-    },
-    {
-     "title": "미 국무부 “‘한국 핵잠 안전조치 협상’ IAEA 권한”…중국 ‘회원국 합의’ 요구 일축",
-     "url": "https://www.voakorea.com/a/us-china-rok-submarine-iaea/8228624.html",
-     "source": "VOA 한국어 홈페이지",
-     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2wgN6ShyJ3XA02eYAzXMfPDNt1E7zNBTqBBlTH14I62ZFjEiuLFJO_FJY7c"
-    },
-    {
-     "title": "“한국의 핵잠 건조는 코미디”-특집 핵추진잠수함②",
-     "url": "https://monthly.chosun.com/news/articleView.html?idxno=72031",
-     "source": "월간조선",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREcrQPceZGXFLc1wk-Cp4lVj5UrxnSQzjuUeoaJ3BlWmFgMcC0ScCWaImJaUM"
-    }
-   ]
-  },
-  {
-   "keyword": "타릭 스쿠발",
-   "traffic": "100+",
-   "pubDate": "Fri, 27 Nov 2026 17:20:00 -0800",
-   "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKasBkIdtJirdJPRwKug0zl4qK4WEFF3O0GSBBms5T50-6g7XlNoewCDaOCu8",
-   "news": [
-    {
-     "title": "“동생아, 우리 참 좋았는데…” 6014억에 떠난 스쿠발, 다저스는 계약 제안조차 안 했다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611280803771727O",
-     "source": "머니투데이",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKasBkIdtJirdJPRwKug0zl4qK4WEFF3O0GSBBms5T50-6g7XlNoewCDaOCu8"
-    },
-    {
-     "title": "[오늘의 MLB] (11/27) 메이저리그에 불어닥친 선발 영입 광풍...남은 FA 중 주목할 선수는?",
-     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261127151641618je",
-     "source": "네이버 프리미엄콘텐츠",
-     "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRro9W-DsUQQ2Z6mzHAUtmNFU0hCekuw_OQHPwnYR9hlo7n4phmsixtz6tivXg"
-    },
-    {
-     "title": "\"우승하고 싶다\" 그런데 다저스 떠나 메츠행이라니…이런 모순을 봤나, 스쿠발 아버지 발언 논란",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/11/27/GAZWCNJXGA2WCMBRHA2WIMRUHA/",
-     "source": "조선일보",
-     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhxICKw5WDODOrlpr0xBguVJmwA1gy_DU6rvKRLnx8ERkngUyRJ8bwKVZqyP0"
     }
    ]
   }
